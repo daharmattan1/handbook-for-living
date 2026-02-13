@@ -211,5 +211,6 @@ All six agents reviewed decisions/definition.md and affirmed it accurately repre
 
 ---
 
-*Full JSON transcript: sessions/00_definition.json*
+*Full verbatim transcript: sessions/00_definition_transcript.md*
+*Structured data: sessions/00_definition.json*
 *Decision document: decisions/definition.md*

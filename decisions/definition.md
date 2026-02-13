@@ -124,4 +124,4 @@ The next session (Session 1) will determine the **structure** — what chapters,
 
 ---
 
-*This document was authored collaboratively by all six agents through documented dialogue. The moderator facilitated but did not author any content. Full transcript: sessions/00_definition.md*
+*This document was authored collaboratively by all six agents through documented dialogue. The moderator facilitated but did not author any content. Full verbatim transcript: sessions/00_definition_transcript.md | Summary: sessions/00_definition_summary.md*

@@ -8,7 +8,8 @@
     "protocol": "roundtable-session-4-phase",
     "status": "complete",
     "decision_output": "decisions/definition.md",
-    "transcript_md": "sessions/00_definition.md"
+    "transcript_verbatim": "sessions/00_definition_transcript.md",
+    "transcript_summary": "sessions/00_definition_summary.md"
   },
   "question": "What IS a Handbook for Living? Not what should go in it — but what IS it? What kind of thing are we making? A map? A mirror? A set of instructions? A conversation? Something else entirely? And what must it NOT be, if it is to be honest?",
   "phases": {
