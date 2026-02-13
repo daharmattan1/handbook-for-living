@@ -1,0 +1,260 @@
+{
+  "session": {
+    "id": "session_00_definition",
+    "title": "What IS a Handbook for Living?",
+    "date": "2026-02-13",
+    "participants": ["buddha", "jesus", "muhammad", "confucius", "laozi", "zoroaster"],
+    "moderator": "facilitator",
+    "protocol": "roundtable-session-4-phase",
+    "status": "complete",
+    "decision_output": "decisions/definition.md",
+    "transcript_md": "sessions/00_definition.md"
+  },
+  "question": "What IS a Handbook for Living? Not what should go in it — but what IS it? What kind of thing are we making? A map? A mirror? A set of instructions? A conversation? Something else entirely? And what must it NOT be, if it is to be honest?",
+  "phases": {
+    "A_opening": {
+      "description": "Opening positions with central metaphors",
+      "turns": [
+        {
+          "turn": "A1",
+          "speaker": "buddha",
+          "type": "OPENING",
+          "metaphor": "RAFT",
+          "summary": "A handbook is a raft — built, used, then released. Not the shore but what carries you there.",
+          "source": "Majjhima Nikaya 22",
+          "hook_to": "laozi"
+        },
+        {
+          "turn": "A2",
+          "speaker": "confucius",
+          "type": "OPENING",
+          "metaphor": "PATH",
+          "summary": "A path walked until walking itself becomes understanding. Deepening through relationship and ritual.",
+          "source": "Analects",
+          "hook_to": "muhammad"
+        },
+        {
+          "turn": "A3",
+          "speaker": "jesus",
+          "type": "OPENING",
+          "metaphor": "DOOR",
+          "summary": "The handbook is a door into new life. But does it place a lamp or take the reader by the hand?",
+          "source": "John 10:9",
+          "hook_to": "zoroaster"
+        },
+        {
+          "turn": "A4",
+          "speaker": "muhammad",
+          "type": "OPENING",
+          "metaphor": "TRELLIS",
+          "summary": "Structure that holds the vine without becoming it. The trellis is the relationship, not the rules.",
+          "source": "Sahih Bukhari 1:1",
+          "hook_to": "buddha"
+        },
+        {
+          "turn": "A5",
+          "speaker": "laozi",
+          "type": "OPENING",
+          "metaphor": "WATER",
+          "summary": "Like water — moves toward low places, does not strive, benefits without instructing.",
+          "source": "Dao De Jing Ch. 8",
+          "hook_to": "confucius"
+        },
+        {
+          "turn": "A6",
+          "speaker": "zoroaster",
+          "type": "OPENING",
+          "metaphor": "FIRE",
+          "summary": "Fire that illuminates the choice between Asha and Druj. Shows the reader where they stand.",
+          "source": "Gathas",
+          "hook_to": "laozi"
+        }
+      ]
+    },
+    "B_clarifying": {
+      "description": "Clarifying dialogue with hooks, challenges, and bridges",
+      "turns": [
+        {
+          "turn": "B1",
+          "speaker": "buddha",
+          "type": "NUANCE",
+          "summary": "Conceded daily bread but maintained far shore. Seeds of release within the bread.",
+          "responds_to": "muhammad_hook"
+        },
+        {
+          "turn": "B2",
+          "speaker": "confucius",
+          "type": "NUANCE",
+          "summary": "Seeks unity all-pervading, not accumulation. Acknowledged building too many corners.",
+          "responds_to": "laozi_hook"
+        },
+        {
+          "turn": "B3",
+          "speaker": "laozi",
+          "type": "CHALLENGE",
+          "summary": "The Lie's greatest weapon is noise not silence. Truth embodied not disputed.",
+          "responds_to": "zoroaster_hook"
+        },
+        {
+          "turn": "B4",
+          "speaker": "muhammad",
+          "type": "NUANCE",
+          "summary": "Trellis is relationship not rules. Intention frees structure from becoming cage."
+        },
+        {
+          "turn": "B5",
+          "speaker": "zoroaster",
+          "type": "BRIDGE",
+          "summary": "Proposed steam — where fire meets water. Truth illuminates but must flow to where people are."
+        },
+        {
+          "turn": "B6",
+          "speaker": "jesus",
+          "type": "CHALLENGE",
+          "summary": "Lamp vs Hand distinction — major tension point. Some readers too broken to walk to the lamp.",
+          "tension_created": "lamp_vs_hand"
+        },
+        {
+          "turn": "B7",
+          "speaker": "laozi",
+          "type": "CHALLENGE",
+          "summary": "Weakness may be exhaustion from striving. Perhaps they cannot walk because they have been running wrong.",
+          "responds_to": "jesus_B6"
+        },
+        {
+          "turn": "B8",
+          "speaker": "muhammad",
+          "type": "AFFIRM",
+          "summary": "Agreed reaching matters but pressed: whose hand? Not negotiable in his teaching.",
+          "responds_to": "jesus_B6"
+        },
+        {
+          "turn": "B9",
+          "speaker": "buddha",
+          "type": "STEELMAN",
+          "summary": "Steelmanned Jesus. Honest admission of incompleteness is itself a form of completeness.",
+          "responds_to": "jesus_B6"
+        },
+        {
+          "turn": "B10",
+          "speaker": "zoroaster",
+          "type": "BRIDGE",
+          "summary": "Third position: the petitioner who asks. Neither carried nor walking alone.",
+          "responds_to": "whose_hand_tension"
+        },
+        {
+          "turn": "B11",
+          "speaker": "confucius",
+          "type": "WITNESS",
+          "summary": "Relationships carry. Establish others. The hand is human.",
+          "source": "Analects 6.30",
+          "responds_to": "whose_hand_tension"
+        },
+        {
+          "turn": "B12",
+          "speaker": "laozi",
+          "type": "WITNESS",
+          "summary": "No hand at all. The Tao nourishes without claiming.",
+          "source": "Dao De Jing Ch. 10",
+          "responds_to": "whose_hand_tension"
+        }
+      ]
+    },
+    "C_contested": {
+      "description": "Identification and examination of tensions",
+      "tensions": [
+        {
+          "name": "Raft vs. Bread",
+          "status": "BRIDGED",
+          "bridge": "Both true at different moments for the same reader"
+        },
+        {
+          "name": "Whose Hand Carries",
+          "status": "IRREDUCIBLE",
+          "positions": 6,
+          "description": "Six genuinely different answers preserved"
+        },
+        {
+          "name": "Give vs. Remove",
+          "status": "IRREDUCIBLE_WITH_BRIDGE",
+          "bridge": "Same person may need addition at one stage, subtraction at another"
+        }
+      ],
+      "structural_proposal": {
+        "proposer": "zoroaster",
+        "name": "Five-moment sequence",
+        "sequence": ["Stillness", "Seeing", "Choosing", "Acting", "Releasing"],
+        "note": "Flexible ordering, not mandatory",
+        "amendments": {
+          "confucius": "Relationships run beneath all five moments",
+          "laozi": "Stillness is both beginning AND potential destination",
+          "muhammad": "Mercy precedes the sequence",
+          "jesus": "Flexible enough for entry at any point",
+          "buddha": "Releasing applies to the sequence itself"
+        }
+      },
+      "consensus_on_method": "One voice where we agree, six honest voices where we differ"
+    },
+    "D_synthesis": {
+      "description": "Final reflections in reverse order",
+      "reflections": [
+        {
+          "speaker": "zoroaster",
+          "surprised_by": "Convergence on honesty from all six independently",
+          "remains_firm": "Asha and Druj are real forces, not metaphors",
+          "emergent_insight": "The open hand — where all six teachings touch without merging",
+          "definition": "A fire set at the crossroads — honest enough to show the reader where they truly stand, warm enough that they find courage to choose, and open enough that six voices can speak without one silencing another."
+        },
+        {
+          "speaker": "laozi",
+          "surprised_by": "Confucius reframing learning as one thread not accumulation; Buddha's honesty about limits",
+          "remains_firm": "Tao nourishes without reaching. Path is subtraction. No hand.",
+          "remains_firm_source": "Dao De Jing Ch. 10",
+          "emergent_insight": "The warning IS the teaching — DDJ Ch. 1 is not a reason to refuse the handbook but its first line",
+          "definition": "Water — it benefits all things without instructing them, finds the shape of whoever holds it, and teaches best when the reader, having read it, says: 'I found this myself.'"
+        },
+        {
+          "speaker": "muhammad",
+          "surprised_by": "Buddha's honesty about limits; recognized shared humility (Sahih Bukhari 23:1206)",
+          "remains_firm": "Source of mercy matters and is not an open question",
+          "remains_firm_source": "Sahih Bukhari 2:15",
+          "emergent_insight": "Trellis and raft serve different people — some need structure, others need release. Arose from trellis/raft exchange with Buddha.",
+          "definition": "Bread for the journey — honest enough to tell you that six teachers could not agree on who baked it, specific enough that you can eat it today, and clear enough that it points you not to the page but to the One who feeds you."
+        },
+        {
+          "speaker": "jesus",
+          "surprised_by": "Buddha's honesty; Zoroaster's open hand image from the fire teacher",
+          "remains_firm": "Real brokenness exists; something beyond the reader enters to meet it",
+          "remains_firm_source": "John 15:5",
+          "emergent_insight": "The door that opens from the other side — the handbook as the Father's motion toward the reader before the reader has moved",
+          "definition": "A door that opens from the other side — where six voices tell you honestly what they have seen, and the hand that reaches through it is one you must name for yourself."
+        },
+        {
+          "speaker": "confucius",
+          "surprised_by": "Muhammad showing specificity liberates rather than imprisons; Buddha's honesty",
+          "remains_firm": "The hand is human. Duties never end.",
+          "remains_firm_source": "Analects 4.5",
+          "emergent_insight": "The corner and the space beyond it — he and Laozi are two halves of one teaching method",
+          "definition": "A practice that teaches you to establish others — written so that the reader who acts on it becomes the kind of person the people around them need."
+        },
+        {
+          "speaker": "buddha",
+          "surprised_by": "Jesus's question about those too weak to row; Muhammad's warning about believing you have arrived",
+          "remains_firm": "Suffering has a cause that can be removed through seeing",
+          "remains_firm_source": "Dhammapada 273-289",
+          "emergent_insight": "Contradiction held without panic — wisdom is the capacity to hold contradiction without forcing resolution",
+          "definition": "A tongue that helps the reader taste what no book can contain — offered as bread for the journey and released as a raft at the shore, honest about the difference between the two, and honest about what six teachers who disagreed with clarity and without malice still chose to offer together."
+        }
+      ]
+    }
+  },
+  "affirmation": {
+    "status": "ALL_SIX_AFFIRMED",
+    "date": "2026-02-13",
+    "refinements_applied": [
+      "Confucius: relationships run beneath all five moments",
+      "Buddha: reader's condition is impermanent — same handbook, different function at different moments",
+      "Muhammad: trellis/raft bridge arose from exchange with Buddha specifically"
+    ]
+  }
+}
