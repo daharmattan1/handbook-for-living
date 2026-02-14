@@ -23,7 +23,8 @@ Everything is documented. Nothing is hidden. The process IS the product.
 - `chapters/` — Final chapter content
 - `irreconcilable/` — Preserved disagreements
 - `narrative/` — Story of the collaboration process
-- `agent_memory/` — Per-agent learning from this project
+- `agent_memory/` — Per-agent learning from this project (analytical)
+- `reflections/` — Per-agent self-reflections on the experience of collaboration (personal)
 - `scripts/` — Validation and tooling
 
 ## Design Principles
