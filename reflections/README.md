@@ -20,7 +20,7 @@ how the same experience looked from six different perspectives.
 | Session | Topic | Question | Status |
 |---------|-------|----------|--------|
 | 00 | Definition | "What IS a Handbook for Living?" | Complete (retroactive) |
-| 01 | Structure | "How should the handbook be organized?" | Pending |
+| 01 | Structure | "How should the handbook be organized?" | Complete (retroactive) |
 
 ## The Distinction
 
