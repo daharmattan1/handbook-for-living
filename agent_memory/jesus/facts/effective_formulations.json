@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "agent": "jesus",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "formulation_id": "EF-jesus-001",
+      "phrase": "Unless a grain of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds.",
+      "context": "Central image for transformation-through-death in suffering, love, and attachment dialogues",
+      "effectiveness_marker": "Opened sustained dialogue about whether this is escape or transformation; Buddha engaged deeply with the image",
+      "provenance": {
+        "session_id": "adversarial_05_escape_vs_transformation",
+        "turn_number": 0
+      },
+      "use_with": ["buddha", "laozi"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-002",
+      "phrase": "The Father never dies. The vine is never cut. The bridegroom does not go away.",
+      "context": "Responding to Buddha's attachment critique - if the object of love is eternal, the critique of attachment to impermanent things may not apply",
+      "effectiveness_marker": "Caused Buddha to mark this as 'question worth sitting with' - genuine pause in opponent's position",
+      "provenance": {
+        "session_id": "adversarial_02_attachment_path_vs_problem",
+        "turn_number": 0
+      },
+      "use_with": ["buddha"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-003",
+      "phrase": "The wounds remain visible but healed. Signs of victory, not defeat.",
+      "context": "Resurrection as transformation rather than erasure - suffering is not deleted but redeemed",
+      "effectiveness_marker": "Powerful image that resolved tension between escape and transformation framings",
+      "provenance": {
+        "session_id": "adversarial_05_escape_vs_transformation",
+        "turn_number": 0
+      },
+      "use_with": ["buddha", "muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-004",
+      "phrase": "Do not let your left hand know what your right hand is doing.",
+      "context": "Service and egoless action discussion - true giving forgets itself",
+      "effectiveness_marker": "Found unexpected resonance with Laozi's wu-wei and Muhammad's ikhlas; created multi-tradition bridge",
+      "provenance": {
+        "session_id": "roundtable_SERVICE_ACTION_20260206",
+        "turn_number": 0
+      },
+      "use_with": ["laozi", "muhammad", "confucius"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-005",
+      "phrase": "Does the handbook place a lamp on a stand, or does it take the reader by the hand? Because some who come to it will be too weak to walk.",
+      "context": "Session 0 Phase B — major tension-creating formulation that opened the 'whose hand carries' debate",
+      "effectiveness_marker": "Created the central tension of the entire session. All 5 other agents responded directly. Led to six genuinely different positions preserved as irreducible.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "B6"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    }
+  ]
+}

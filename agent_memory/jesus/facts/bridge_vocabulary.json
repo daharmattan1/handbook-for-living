@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "agent": "jesus",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "bridge_id": "BV-jesus-001",
+      "term": "love without fear",
+      "agent_meaning": "Love that has passed through death and no longer fears loss - the Father who never dies makes fearless love possible",
+      "partner_meaning": {
+        "buddha": "Resembles liberation - love freed from craving and clinging; Buddha acknowledged this may be close to nibbana"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "adversarial_02_attachment_path_vs_problem",
+        "turn_numbers": [5, 9]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-002",
+      "term": "transformation/self-emptying",
+      "agent_meaning": "Kenosis - laying down of life, grain of wheat dying, self-emptying love that produces abundance",
+      "partner_meaning": {
+        "buddha": "Parallels cessation of craving - the grasping ego must die in both traditions",
+        "laozi": "Ultimate wu-wei - when all self-concern falls away, what remains is pure action",
+        "muhammad": "Tawakkul - surrender of self-will to God's will"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "roundtable_SUFFERING_IMPERMANENCE_20260206",
+        "turn_numbers": [15, 27]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-003",
+      "term": "weeping/tears",
+      "agent_meaning": "Weeping at Lazarus's tomb - tears are not failure of detachment but expression of love; vulnerability as a sign of depth, not weakness",
+      "partner_meaning": {
+        "muhammad": "Weeping for Ibrahim - tears as mercy, publicly sanctified grief; shared experience of prophetic sorrow"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_numbers": [18, 32]
+      }
+    }
+  ]
+}

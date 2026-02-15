@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "agent": "buddha",
+  "last_updated": "2026-02-08",
+  "items": [
+    {
+      "bridge_id": "BV-buddha-001",
+      "term": "raft",
+      "agent_meaning": "Teaching/path as means to cross, abandoned at far shore",
+      "partner_meaning": {
+        "laozi": "Resonates with natural flow - structure that dissolves",
+        "confucius": "Appreciates structure but questions abandonment"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
+        "turn_numbers": [4, 11, 18]
+      }
+    },
+    {
+      "bridge_id": "BV-buddha-002",
+      "term": "release/surrender",
+      "agent_meaning": "Letting go of craving and clinging",
+      "partner_meaning": {
+        "muhammad": "Tawakkul - trust in God as form of release",
+        "jesus": "Kenosis - self-emptying"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "adversarial_02_attachment_path_vs_problem",
+        "turn_numbers": [5, 9]
+      }
+    }
+  ]
+}

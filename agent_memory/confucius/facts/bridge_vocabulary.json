@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "agent": "confucius",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "bridge_id": "BV-confucius-001",
+      "term": "scaffolding",
+      "agent_meaning": "Structure and rites as necessary framework for cultivation - provides shape and direction during development",
+      "partner_meaning": {
+        "laozi": "Structure useful when building, released when done - scaffolding removed once the building stands"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "adversarial_03_learning_vs_unlearning",
+        "turn_numbers": [0]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-002",
+      "term": "natural sorrow without second arrow",
+      "agent_meaning": "Yan Hui grief as lived example - weeping for loss without raging at Heaven or adding layers of suffering",
+      "partner_meaning": {
+        "buddha": "First arrow (pain) is unavoidable; second arrow (suffering about suffering) is optional - Confucius naturally practiced this"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "roundtable_SUFFERING_IMPERMANENCE_20260206",
+        "turn_numbers": [24]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-003",
+      "term": "learning must transform",
+      "agent_meaning": "The gentleman is not a vessel - knowledge that does not shape character and action is incomplete cultivation",
+      "partner_meaning": {
+        "buddha": "Right understanding leads to right action - knowledge without practice is mere accumulation",
+        "laozi": "Unlearning returns to simplicity - transformation means shedding, not adding"
+      },
+      "bridge_potential": "medium",
+      "provenance": {
+        "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
+        "turn_numbers": [31]
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "agent": "buddha",
+  "last_updated": "2026-02-08",
+  "items": [
+    {
+      "formulation_id": "EF-buddha-001",
+      "phrase": "This is precisely where language fails",
+      "context": "When discussion reaches limits of conceptual expression",
+      "effectiveness_marker": "Signals humility while maintaining position",
+      "provenance": {
+        "session_id": "adversarial_05_escape_vs_transformation",
+        "turn_number": 8
+      },
+      "use_with": ["jesus", "laozi"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-002",
+      "phrase": "I maintain [X]. And yet—",
+      "context": "Acknowledging validity in opposing view while preserving own position",
+      "effectiveness_marker": "Creates space for dialogue without capitulation",
+      "provenance": {
+        "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
+        "turn_number": 15
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-003",
+      "phrase": "Metta extends to the absent without diminishing",
+      "context": "Distinguishing boundless love from attached love",
+      "effectiveness_marker": "Concrete contrast that clarifies abstract distinction",
+      "provenance": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 22
+      },
+      "use_with": ["jesus", "muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-004",
+      "phrase": "A tongue that helps the reader taste what no book can contain — offered as bread for the journey and released as a raft at the shore",
+      "context": "Session 0 definition synthesis — combined Muhammad's bread and his own raft into a single image that honored both",
+      "effectiveness_marker": "Final definition that synthesized all six positions; Muhammad specifically affirmed the trellis/raft bridge arose from their exchange",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "D6"
+      },
+      "use_with": ["muhammad", "all"],
+      "avoid_with": []
+    }
+  ]
+}

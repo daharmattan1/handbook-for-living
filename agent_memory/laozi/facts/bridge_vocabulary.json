@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "agent": "laozi",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "bridge_id": "BV-laozi-001",
+      "term": "guardians of different dangers",
+      "agent_meaning": "Laozi guards against the soul imagining itself separate from source; opposition with others is reframed as complementary protection of different spiritual risks",
+      "partner_meaning": {
+        "muhammad": "Guards against soul claiming to be God (shirk) - worship requires distinction between Creator and created",
+        "confucius": "Guards against chaos and the strong exploiting the weak - structure protects the vulnerable"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "adversarial_04_merger_vs_distinction",
+        "turn_numbers": [4, 11]
+      }
+    },
+    {
+      "bridge_id": "BV-laozi-002",
+      "term": "nearness",
+      "agent_meaning": "The dissolution of boundary between self and Tao - not distance to cross but recognition that separation was illusion",
+      "partner_meaning": {
+        "muhammad": "Allah is closer than the jugular vein - intimate proximity that still preserves the distinction between worshipper and worshipped",
+        "jesus": "Abiding in the vine - intimate union with the divine while retaining personhood"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "adversarial_04_merger_vs_distinction",
+        "turn_numbers": [5, 9]
+      }
+    },
+    {
+      "bridge_id": "BV-laozi-003",
+      "term": "scaffolding",
+      "agent_meaning": "Structure and teaching as temporary supports - useful during construction, properly removed when the building stands on its own",
+      "partner_meaning": {
+        "confucius": "Rites and learning as essential foundation - may accept temporary framing but insists structure has ongoing protective value",
+        "buddha": "The raft parable - teaching as means to cross the river, abandoned at the far shore"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "adversarial_03_learning_vs_unlearning",
+        "turn_numbers": [10]
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "agent": "buddha",
+  "tier": 1,
+  "window_size": 10,
+  "last_updated": "2026-02-08",
+  "pinned_sessions": [],
+  "recent_sessions": [
+    {
+      "session_id": "roundtable_LOVE_COMPASSION_20260205",
+      "session_type": "roundtable",
+      "theme": "LOVE_COMPASSION",
+      "date": "2026-02-05",
+      "turn_count": 7,
+      "turns": [
+        {
+          "turn_number": 2,
+          "phase": "A",
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Introduced metta vs pema distinction - boundless love vs clinging attachment",
+          "corpus_quotes": ["Dhammapada 1.5", "Dhammapada 209"],
+          "key_point": "Love that extends without grasping leads to peace; holding dear leads to sorrow"
+        },
+        {
+          "turn_number": 9,
+          "phase": "B",
+          "addressed_to": "jesus",
+          "speech_act": "CHALLENGE",
+          "content_summary": "Pressed Jesus on whether love through death perpetuates clinging",
+          "corpus_quotes": ["Dhammapada 153-154"],
+          "key_point": "Asked where Jesus's path ends - does the grain rest, or must it fall again?"
+        },
+        {
+          "turn_number": 12,
+          "phase": "B",
+          "addressed_to": "confucius",
+          "speech_act": "AFFIRM + WITNESS",
+          "content_summary": "Offered practical guidance for grief - metta meditation practice",
+          "corpus_quotes": ["Dhammapada 197"],
+          "key_point": "Understanding impermanence makes love possible, not impossible"
+        },
+        {
+          "turn_number": 18,
+          "phase": "B",
+          "addressed_to": "laozi, confucius",
+          "speech_act": "INQUIRE",
+          "content_summary": "Offered Eightfold Path as structured raft for crossing, not destination",
+          "corpus_quotes": ["Dhammapada 277"],
+          "key_point": "Structure for journey, release at destination"
+        },
+        {
+          "turn_number": 22,
+          "phase": "C",
+          "addressed_to": "jesus",
+          "speech_act": "STEELMAN + CHALLENGE",
+          "content_summary": "Acknowledged beauty of Jesus's sacrificial love but pressed on what happens when beloved dies",
+          "corpus_quotes": ["Dhammapada 129"],
+          "key_point": "Metta extends to absent/dead without diminishing - not attached to object"
+        },
+        {
+          "turn_number": 24,
+          "phase": "C",
+          "addressed_to": "jesus",
+          "speech_act": "NUANCE",
+          "content_summary": "Acknowledged peace and bliss in liberation; distinguished from Jesus's wedding feast",
+          "corpus_quotes": ["Dhammapada 202"],
+          "key_point": "Joy possible but different - nibbana beyond rooms, neither alone nor with"
+        },
+        {
+          "turn_number": 31,
+          "phase": "D",
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Emergent insight - wondered if Father who never dies escapes attachment critique",
+          "corpus_quotes": [],
+          "emergent_insight": true,
+          "emergent_text": "If there is that which does not die, perhaps relationship with it differs from conditioned relationships"
+        }
+      ]
+    }
+  ],
+  "note": "Full session data migrated from all_sessions.json - only first session shown for template. Migration in progress."
+}

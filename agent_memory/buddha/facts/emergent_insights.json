@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "agent": "buddha",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "insight_id": "EI-buddha-001",
+      "text": "If there is that which does not die, perhaps relationship with it differs from conditioned relationships. The critique of attachment may not apply to eternal objects.",
+      "category": "metaphysical",
+      "provenance": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 31,
+        "exact_quote": "If there is that which does not die, perhaps relationship with it differs from conditioned relationships",
+        "context": "Reflecting on Jesus's claim about the Father who never dies - considering whether attachment critique applies"
+      },
+      "confidence": 85,
+      "related_concepts": ["attachment", "impermanence", "eternal objects", "God-relationship"],
+      "cross_references": ["jesus engagement on divine love"]
+    },
+    {
+      "insight_id": "EI-buddha-002",
+      "text": "Contradiction held without panic — a handbook that honestly names what its authors cannot agree on has already taught the reader the most important thing: wisdom is the capacity to hold contradiction without forcing resolution.",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "D6",
+        "exact_quote": "Wisdom is not the absence of contradiction but the capacity to hold contradiction without panic, without forcing resolution, and without looking away.",
+        "context": "Phase D closing reflection — synthesizing the entire session's disagreements into a meta-insight about wisdom itself"
+      },
+      "confidence": 90,
+      "related_concepts": ["contradiction", "wisdom", "non-resolution", "open hand", "dialogue"],
+      "cross_references": ["zoroaster open hand insight", "all six agents affirmed"]
+    }
+  ]
+}

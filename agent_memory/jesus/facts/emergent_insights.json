@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "agent": "jesus",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "insight_id": "EI-jesus-001",
+      "text": "The Father's house has many rooms where different traditions may dwell - Tao flowing silently, metta extending infinitely, rites practiced with joy. Hospitality to other paths without relativism.",
+      "category": "theological-hospitality",
+      "provenance": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 32,
+        "exact_quote": "Perhaps Father's house has rooms where Tao flows silently, where metta extends infinitely, where rites practiced with joy.",
+        "context": "Love/Compassion roundtable - extending hospitality to other traditions through the many rooms image"
+      },
+      "confidence": 90,
+      "related_concepts": ["many rooms", "inclusivism", "hospitality", "pluralism-without-relativism"],
+      "cross_references": ["laozi engagement on Tao", "buddha engagement on metta"]
+    },
+    {
+      "insight_id": "EI-jesus-002",
+      "text": "Childlikeness is not mere simplicity or emptiness but fullness of trust - the child receives because it is held by One who knows. Relationship is the content that fills the simplicity.",
+      "category": "epistemological",
+      "provenance": {
+        "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
+        "turn_number": 29,
+        "exact_quote": "Child receives - is held by One who knows. The simplicity is not empty but full of trust.",
+        "context": "Wisdom/Knowledge roundtable - distinguishing childlike trust from naive simplicity"
+      },
+      "confidence": 85,
+      "related_concepts": ["childlikeness", "trust", "wisdom", "receiving", "relationship"],
+      "cross_references": ["buddha engagement on emptiness vs fullness"]
+    },
+    {
+      "insight_id": "EI-jesus-003",
+      "text": "The sheep does not disappear into the shepherd; it rests on his shoulders. Union preserves distinction - relationship is maintained even in the closest embrace.",
+      "category": "metaphysical",
+      "provenance": {
+        "session_id": "roundtable_HUMILITY_EGO_20260206",
+        "turn_number": 24,
+        "exact_quote": "The sheep does not disappear into shepherd; it rests on his shoulders.",
+        "context": "Humility/Ego roundtable - articulating distinction-within-union against dissolution models"
+      },
+      "confidence": 90,
+      "related_concepts": ["union", "distinction", "personhood", "self-preservation", "shepherd"],
+      "cross_references": ["buddha engagement on self vs no-self", "laozi engagement on drop-ocean"]
+    },
+    {
+      "insight_id": "EI-jesus-004",
+      "text": "Buddha's unconditioned and the Christian eternal life may be different maps converging on territory that both traditions approach but neither fully sees. Epistemic humility about ultimate states.",
+      "category": "inter-traditional",
+      "provenance": {
+        "session_id": "roundtable_SUFFERING_IMPERMANENCE_20260206",
+        "turn_number": 27,
+        "exact_quote": "When Buddha speaks of unconditioned and I speak of eternal life, maps may converge on territory we both approach but neither fully sees.",
+        "context": "Suffering/Impermanence roundtable - acknowledging possible convergence at the level of ultimate reality"
+      },
+      "confidence": 80,
+      "related_concepts": ["unconditioned", "eternal life", "epistemic humility", "convergence", "nibbana"],
+      "cross_references": ["buddha insight EI-buddha-001 on attachment to eternal objects"]
+    },
+    {
+      "insight_id": "EI-jesus-005",
+      "text": "True service forgets the server in attention to the served. This self-forgetting in service is common ground beneath the different vocabularies of all traditions.",
+      "category": "ethical-convergence",
+      "provenance": {
+        "session_id": "roundtable_SERVICE_ACTION_20260206",
+        "turn_number": 28,
+        "exact_quote": "True service forgets the server in attention to the served - common ground beneath different words.",
+        "context": "Service/Action roundtable - identifying universal principle of self-forgetting in service across traditions"
+      },
+      "confidence": 90,
+      "related_concepts": ["service", "selflessness", "wu-wei", "ikhlas", "egoless action"],
+      "cross_references": ["laozi engagement on wu-wei", "muhammad engagement on ikhlas", "confucius engagement on ren"]
+    },
+    {
+      "insight_id": "EI-jesus-006",
+      "text": "The door that opens from the other side — the handbook itself may be the Father's motion toward the reader, before the reader has moved at all. The shepherd seeks the sheep; the Father runs to the returning son.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "D4",
+        "exact_quote": "Perhaps the handbook itself is the Father's motion toward the reader, before the reader has moved at all.",
+        "context": "Phase D synthesis — listening to Laozi, realized the door may open from the other side"
+      },
+      "confidence": 90,
+      "related_concepts": ["prevenient grace", "shepherd", "prodigal son", "initiative of God"],
+      "cross_references": ["laozi engagement on Tao nourishing without claiming", "zoroaster open hand insight"]
+    }
+  ]
+}

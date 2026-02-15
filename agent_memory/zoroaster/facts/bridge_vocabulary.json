@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "agent": "zoroaster",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "bridge_id": "BV-zoroaster-001",
+      "term": "steam",
+      "agent_meaning": "Where fire (truth/clarity) meets water (flow/accessibility) — truth must both illuminate and reach people where they are",
+      "partner_meaning": {
+        "laozi": "Water that has been heated by encounter with fire — gains force and reach without losing its nature",
+        "jesus": "Related to lamp-vs-hand tension — steam reaches further than fire alone",
+        "muhammad": "Structure (trellis) that channels both truth and mercy"
+      },
+      "bridge_potential": "HIGH — resolved fire-water opposition into complementary image all agents could work with",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_numbers": ["B5"]
+      }
+    },
+    {
+      "bridge_id": "BV-zoroaster-002",
+      "term": "the open hand",
+      "agent_meaning": "Where all six teachings touch without merging — the point of honest contact without forced agreement",
+      "partner_meaning": {
+        "buddha": "Unclenched by release — letting go of the need to resolve contradiction",
+        "confucius": "Turned outward by insistence on establishing others — the hand that serves",
+        "jesus": "The hand that reaches through the door — grace extended",
+        "laozi": "Empty hand — non-grasping, wu-wei",
+        "muhammad": "Cupped in du'a — hand open in petition to Allah"
+      },
+      "bridge_potential": "HIGHEST — session-defining image that each tradition interpreted through own lens while accepting shared gesture",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_numbers": ["D1", "D6"]
+      }
+    }
+  ]
+}

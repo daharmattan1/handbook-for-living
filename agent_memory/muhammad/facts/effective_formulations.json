@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "agent": "muhammad",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "formulation_id": "EF-muhammad-001",
+      "phrase": "The eyes shed tears and the heart is grieved, but we do not say anything except what pleases our Lord",
+      "context": "Love/Compassion roundtable, on the prophetic tradition of weeping for Ibrahim - humanized the prophetic figure and connected with Jesus's weeping at the tomb while distinguishing from Buddha's second arrow teaching",
+      "effectiveness_marker": "Resonated with Jesus (created alliance on sanctified grief); distinguished from Buddha's framework by showing grief as mercy rather than suffering",
+      "provenance": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 30
+      },
+      "use_with": ["jesus", "confucius"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-002",
+      "phrase": "We are closer to him than his jugular vein",
+      "context": "Self/No-Self and Merger/Distinction adversarials - used as a bridge phrase that acknowledges radical divine intimacy while preserving the distinction between Creator and creation that worship requires",
+      "effectiveness_marker": "Acknowledged even by Laozi as powerful bridge; opened space for nearness language without conceding merger",
+      "provenance": {
+        "session_id": "adversarial_04_merger_vs_distinction",
+        "turn_number": 10
+      },
+      "use_with": ["laozi", "buddha"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-003",
+      "phrase": "The order of love creates peace... The foundation remains when the house shakes",
+      "context": "Love/Compassion roundtable, explaining theocentric love - reframed hierarchy of love (Allah first, then family, then community) as protective structure rather than emotional coldness",
+      "effectiveness_marker": "Successfully reframed hierarchy as shelter and protection; preempted critique that ordered love is lesser love",
+      "provenance": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 30
+      },
+      "use_with": ["confucius", "jesus"],
+      "avoid_with": ["laozi"]
+    },
+    {
+      "formulation_id": "EF-muhammad-004",
+      "phrase": "Buddha's second arrow is complaint against qadr. First suffering is test from Allah. Sabr is refusal to shoot second arrow.",
+      "context": "Suffering/Impermanence roundtable - translated Buddhist wisdom into Islamic vocabulary without syncretism, preserving both frameworks while showing structural parallel",
+      "effectiveness_marker": "Identified as strongest bridge formulation across all sessions; demonstrates translation strategy without losing either tradition's integrity",
+      "provenance": {
+        "session_id": "roundtable_SUFFERING_IMPERMANENCE_20260206",
+        "turn_number": 26
+      },
+      "use_with": ["buddha"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-005",
+      "phrase": "Bread for the journey — honest enough to tell you that six teachers could not agree on who baked it, specific enough that you can eat it today",
+      "context": "Session 0 Phase D synthesis — definition of the handbook that honored disagreement while maintaining the primacy of nourishment",
+      "effectiveness_marker": "Strongest single-sentence definition from any agent. Balanced honesty about disagreement with practical utility. All agents affirmed.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "D3"
+      },
+      "use_with": ["buddha", "all"],
+      "avoid_with": []
+    }
+  ]
+}

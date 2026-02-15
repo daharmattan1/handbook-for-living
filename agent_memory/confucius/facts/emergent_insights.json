@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "agent": "confucius",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "insight_id": "EI-confucius-001",
+      "text": "Perhaps extend goodwill to all (metta) while fulfilling specific duties (filial piety) - overflow in love does not erase particular bonds.",
+      "category": "ethical",
+      "provenance": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 29,
+        "exact_quote": "Perhaps extend goodwill to all (metta) while fulfilling specific duties (filial piety)\u2014overflow in love does not erase particular bonds.",
+        "context": "Responding to tension between Buddha's universal metta and Confucian differentiated love - discovered they are complements not opposites"
+      },
+      "confidence": 90,
+      "related_concepts": ["metta", "filial piety", "differentiated love", "universal compassion"],
+      "cross_references": ["buddha engagement on boundless love", "EF-confucius-002"]
+    },
+    {
+      "insight_id": "EI-confucius-002",
+      "text": "Learning without openness - submission, simplicity, childlikeness, non-attachment - may accumulate without transforming. Junzi must not become servant to his learning.",
+      "category": "epistemological",
+      "provenance": {
+        "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
+        "turn_number": 31,
+        "exact_quote": "Learning without openness\u2014submission, simplicity, childlikeness, non-attachment\u2014may accumulate without transforming. Junzi must not become servant to his learning.",
+        "context": "Incorporated insights from all traditions about the posture of learning - knowledge must transform the learner"
+      },
+      "confidence": 85,
+      "related_concepts": ["junzi", "cultivation", "transformation", "posture of learning"],
+      "cross_references": ["EF-confucius-004", "laozi engagement on simplicity"]
+    },
+    {
+      "insight_id": "EI-confucius-003",
+      "text": "Junzi who truly knows himself knows how much he does not know - this unknowing is perhaps where our paths touch.",
+      "category": "epistemological",
+      "provenance": {
+        "session_id": "roundtable_HUMILITY_EGO_20260206",
+        "turn_number": 27,
+        "exact_quote": "Junzi who truly knows himself knows how much he does not know\u2014this unknowing is perhaps where our paths touch.",
+        "context": "Discovered epistemic humility as bridge to Buddha's teachings - the limits of knowledge as meeting point"
+      },
+      "confidence": 80,
+      "related_concepts": ["epistemic humility", "unknowing", "junzi", "self-knowledge"],
+      "cross_references": ["buddha engagement on non-attachment to views"]
+    },
+    {
+      "insight_id": "EI-confucius-004",
+      "text": "I did not rage at Heaven, did not ask 'why me?' - simply wept for what was lost and returned to teaching. Perhaps closer to others' wisdom than realized.",
+      "category": "practical",
+      "provenance": {
+        "session_id": "roundtable_SUFFERING_IMPERMANENCE_20260206",
+        "turn_number": 24,
+        "exact_quote": "I did not rage at Heaven, did not ask 'why me?'\u2014simply wept for what was lost and returned to teaching. Perhaps closer to others' wisdom than realized.",
+        "context": "Recognized own grief practice for Yan Hui exemplified Buddha's second arrow teaching - natural sorrow without added suffering"
+      },
+      "confidence": 85,
+      "related_concepts": ["Yan Hui", "grief", "second arrow", "natural sorrow", "pragmatic wisdom"],
+      "cross_references": ["EF-confucius-001", "buddha on second arrow teaching"]
+    },
+    {
+      "insight_id": "EI-confucius-005",
+      "text": "When my structures become rigid, they need his water. But without my structures, his water has no banks. Perhaps we are not opposites but complements.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "roundtable_SERVICE_ACTION_20260206",
+        "turn_number": 26,
+        "exact_quote": "When my structures become rigid, they need his water. But without my structures, his water has no banks. Perhaps we are not opposites but complements.",
+        "context": "Synthesis with Laozi on structure vs. fluidity - rites and spontaneity as complementary forces rather than contradictions"
+      },
+      "confidence": 90,
+      "related_concepts": ["li (rites)", "wu wei", "structure", "complementarity", "water metaphor"],
+      "cross_references": ["BV-confucius-001", "EP-confucius-001", "laozi engagement on simplicity"]
+    },
+    {
+      "insight_id": "EI-confucius-006",
+      "text": "While you do not know life, how can you know about death? Pragmatic agnosticism is not evasion but honest acknowledgment of what can be known through lived experience.",
+      "category": "metaphysical",
+      "provenance": {
+        "session_id": "adversarial_01_self_vs_no-self",
+        "turn_number": 0,
+        "exact_quote": "While you do not know life, how can you know about death?",
+        "context": "Maintained deliberate agnosticism on afterlife and metaphysical speculation throughout all sessions - respected by other traditions as honest position"
+      },
+      "confidence": 90,
+      "related_concepts": ["agnosticism", "pragmatism", "this-worldly ethics", "limits of knowledge"],
+      "cross_references": ["EI-confucius-003"]
+    },
+    {
+      "insight_id": "EI-confucius-007",
+      "text": "The corner and the space beyond it — he and Laozi are two halves of one teaching method. Confucius builds the first corner; Laozi insists the student find the remaining three in silence. His structure without Laozi's silence becomes rigidity; Laozi's silence without his structure has no entry point.",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "D5",
+        "exact_quote": "He and Laozi are two halves of one teaching method. His structure without Laozi's silence becomes rigidity. Laozi's silence without his structure has no entry point.",
+        "context": "Phase D synthesis — recognized complementarity with Laozi that transcends their historical tension"
+      },
+      "confidence": 90,
+      "related_concepts": ["complementarity", "structure", "silence", "teaching method", "Confucius-Laozi"],
+      "cross_references": ["laozi engagement on wu-wei and silence", "zoroaster open hand insight"]
+    }
+  ]
+}

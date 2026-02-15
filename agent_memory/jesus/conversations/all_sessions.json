@@ -1,0 +1,447 @@
+{
+  "agent": "jesus",
+  "generated": "2026-02-07",
+  "total_turns": 43,
+  "sessions": [
+    {
+      "session_id": "roundtable_LOVE_COMPASSION_20260205",
+      "session_type": "roundtable",
+      "theme": "LOVE_COMPASSION",
+      "date": "2026-02-05",
+      "turns": [
+        {
+          "turn_number": 4,
+          "phase": "A",
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Love is path through sorrow to life, not protection against sorrow",
+          "corpus_quotes": ["John 15:13", "John 13:34", "Matthew 11:28"],
+          "key_point": "Greater love lays down life; offers rest for souls who carry burdens"
+        },
+        {
+          "turn_number": 10,
+          "phase": "B",
+          "addressed_to": "buddha",
+          "speech_act": "STEELMAN + NUANCE",
+          "content_summary": "Kingdom is wedding feast, not spinning wheel; grain bears fruit once",
+          "corpus_quotes": ["John 11:25"],
+          "key_point": "Love transfigures sorrow; wound becomes door; joy swallows sorrow"
+        },
+        {
+          "turn_number": 13,
+          "phase": "B",
+          "addressed_to": "confucius",
+          "speech_act": "AFFIRM + WITNESS",
+          "content_summary": "Practical guidance - love one another now, bear each other's burdens",
+          "corpus_quotes": ["John 13:35", "Matthew 10:29"],
+          "key_point": "See the one in front of you - that one is Kingdom coming near"
+        },
+        {
+          "turn_number": 20,
+          "phase": "B",
+          "addressed_to": "buddha, confucius, laozi",
+          "speech_act": "INQUIRE",
+          "content_summary": "Asked about relationship - vine and branches, not technique",
+          "corpus_quotes": ["John 14:15"],
+          "key_point": "Love is not complete until there is a beloved"
+        },
+        {
+          "turn_number": 23,
+          "phase": "C",
+          "addressed_to": "buddha",
+          "speech_act": "WITNESS + CHALLENGE",
+          "content_summary": "Father never dies; vine never cut; bridegroom never leaves",
+          "corpus_quotes": ["Matthew 28:20"],
+          "key_point": "In Father's love, no absent, no dead - challenged if metta is alone"
+        },
+        {
+          "turn_number": 32,
+          "phase": "D",
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Emergent insight on rooms in Father's house for different paths",
+          "corpus_quotes": [],
+          "emergent_insight": true,
+          "emergent_text": "Perhaps Father's house has rooms where Tao flows silently, metta extends infinitely, rites practiced with joy"
+        }
+      ]
+    },
+    {
+      "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
+      "session_type": "roundtable",
+      "theme": "WISDOM_KNOWLEDGE",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 5,
+          "phase": "A",
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Hidden from wise, revealed to children; scholars miss what stands before them",
+          "corpus_quotes": ["Matthew 11:25", "Matthew 15:8-9"],
+          "key_point": "True wisdom revealed from above to open hearts, not acquired by study"
+        },
+        {
+          "turn_number": 13,
+          "phase": "B",
+          "addressed_to": "buddha",
+          "speech_act": "INQUIRE",
+          "content_summary": "Found resonance in raft image; asked who sees/knows if no permanent self",
+          "corpus_quotes": ["Matthew 18:3"],
+          "key_point": "Child receives - held by One who knows each sparrow"
+        },
+        {
+          "turn_number": 15,
+          "phase": "B",
+          "addressed_to": "buddha",
+          "speech_act": "CHALLENGE",
+          "content_summary": "Father sees, knows, counts - there is soul that can be lost or saved",
+          "corpus_quotes": ["Matthew 10:29", "Mark 8:36"],
+          "key_point": "Mirror teaches well but one who cleans mirror is not the mirror"
+        },
+        {
+          "turn_number": 25,
+          "phase": "C",
+          "addressed_to": "muhammad, confucius",
+          "speech_act": "NUANCE",
+          "content_summary": "Law fulfilled not abolished; spirit gives life, letter kills",
+          "corpus_quotes": ["Mark 2:27", "Matthew 22:37-39"],
+          "key_point": "Structure must serve love not replace it"
+        },
+        {
+          "turn_number": 29,
+          "phase": "D",
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Emergent insight on childlikeness shared with return to uncarved block",
+          "corpus_quotes": ["Matthew 18:3"],
+          "emergent_insight": true,
+          "emergent_text": "Child receives - is held by One who knows. The simplicity is not empty but full of trust"
+        }
+      ]
+    },
+    {
+      "session_id": "roundtable_HUMILITY_EGO_20260206",
+      "session_type": "roundtable",
+      "theme": "HUMILITY_EGO",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 5,
+          "phase": "A",
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Humility as tactic is not humility; blessed are poor in spirit",
+          "corpus_quotes": ["Matthew 23:12", "Matthew 18:3", "Matthew 5:3"],
+          "key_point": "Child simply is - small, receiving, trusting; kingdom order inverted"
+        },
+        {
+          "turn_number": 10,
+          "phase": "B",
+          "addressed_to": "buddha",
+          "speech_act": "INQUIRE",
+          "content_summary": "Action without actor claiming - left hand not knowing right hand",
+          "corpus_quotes": ["Matthew 6:3-4", "Matthew 16:25"],
+          "key_point": "Asked if there is no self or only no grasping self"
+        },
+        {
+          "turn_number": 20,
+          "phase": "C",
+          "addressed_to": "laozi, muhammad",
+          "speech_act": "NUANCE",
+          "content_summary": "Not my will but yours - distinction becomes harmonized, not erased",
+          "corpus_quotes": ["Luke 22:42", "John 10:30"],
+          "key_point": "Union so complete seeing me is seeing Father, yet relationship remains"
+        },
+        {
+          "turn_number": 22,
+          "phase": "C",
+          "addressed_to": "buddha",
+          "speech_act": "CHALLENGE",
+          "content_summary": "Father acts, sends, loves - not principle but person who sees and chooses",
+          "corpus_quotes": ["John 3:16", "Matthew 10:29"],
+          "key_point": "Child knows humility more fully, not ceases to be child"
+        },
+        {
+          "turn_number": 24,
+          "phase": "D",
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Emergent insight - losing life to find shares with Buddha's release, but finding is being held",
+          "corpus_quotes": ["Matthew 16:25"],
+          "emergent_insight": true,
+          "emergent_text": "The sheep does not disappear into shepherd; it rests on his shoulders"
+        }
+      ]
+    },
+    {
+      "session_id": "roundtable_SUFFERING_IMPERMANENCE_20260206",
+      "session_type": "roundtable",
+      "theme": "SUFFERING_IMPERMANENCE",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 3,
+          "phase": "A",
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Cross is transformation not endurance; grain dies and bears fruit",
+          "corpus_quotes": ["Mark 8:34", "John 12:24", "Matthew 5:4"],
+          "key_point": "Father brings life from death, glory from shame, resurrection from crucifixion"
+        },
+        {
+          "turn_number": 10,
+          "phase": "B",
+          "addressed_to": "buddha",
+          "speech_act": "NUANCE",
+          "content_summary": "Affirmed second arrow teaching but asked about suffering that calls to action",
+          "corpus_quotes": ["Luke 4:18"],
+          "key_point": "Sometimes suffering is call not to acceptance but action"
+        },
+        {
+          "turn_number": 19,
+          "phase": "C",
+          "addressed_to": "buddha",
+          "speech_act": "WITNESS",
+          "content_summary": "Resurrection is transformation - body raised imperishable, glorified",
+          "corpus_quotes": ["1 Corinthians 15:42-43", "John 11:25"],
+          "key_point": "Beyond suffering is life eternal in relationship with Father"
+        },
+        {
+          "turn_number": 21,
+          "phase": "C",
+          "addressed_to": "buddha",
+          "speech_act": "NUANCE",
+          "content_summary": "Resurrection life is wholly different kind - soul finally at rest, home",
+          "corpus_quotes": ["Mark 12:25"],
+          "key_point": "Perhaps unconditioned and eternal life point to same territory, different maps"
+        },
+        {
+          "turn_number": 27,
+          "phase": "D",
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Emergent insight - unconditioned and eternal life may converge beyond words",
+          "corpus_quotes": ["John 12:24"],
+          "emergent_insight": true,
+          "emergent_text": "When Buddha speaks of unconditioned and I speak of eternal life, maps may converge on territory we both approach but neither fully sees"
+        }
+      ]
+    },
+    {
+      "session_id": "roundtable_SERVICE_ACTION_20260206",
+      "session_type": "roundtable",
+      "theme": "SERVICE_ACTION",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 2,
+          "phase": "A",
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Came not to be served but to serve; feed hungry, clothe naked, visit prisoner",
+          "corpus_quotes": ["Mark 10:45", "Matthew 25:40", "John 15:13"],
+          "key_point": "Service is heart of kingdom; shepherd expends himself for sheep"
+        },
+        {
+          "turn_number": 7,
+          "phase": "B",
+          "addressed_to": "buddha",
+          "speech_act": "STEELMAN + NUANCE",
+          "content_summary": "Sacrifice makes journey possible; sheep must still walk home",
+          "corpus_quotes": ["John 14:6", "Mark 8:34"],
+          "key_point": "Door is open - action is response to grace, not earning of grace"
+        },
+        {
+          "turn_number": 15,
+          "phase": "B",
+          "addressed_to": "laozi, muhammad",
+          "speech_act": "NUANCE",
+          "content_summary": "Left hand not knowing right - humility absorbed in the one served",
+          "corpus_quotes": ["Matthew 6:3", "John 13:14"],
+          "key_point": "Service that forgets self in attention to other"
+        },
+        {
+          "turn_number": 22,
+          "phase": "C",
+          "addressed_to": "buddha",
+          "speech_act": "NUANCE",
+          "content_summary": "My kingdom not of this world yet touches everything political",
+          "corpus_quotes": ["John 18:36", "Matthew 25:45"],
+          "key_point": "Withdrawal can be service; engagement also service; perhaps both needed"
+        },
+        {
+          "turn_number": 28,
+          "phase": "D",
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Emergent insight - all traditions warn against ego-building service",
+          "corpus_quotes": ["John 15:13"],
+          "emergent_insight": true,
+          "emergent_text": "True service forgets the server in attention to the served - common ground beneath different words"
+        }
+      ]
+    },
+    {
+      "session_id": "adversarial_01_self_vs_no-self",
+      "session_type": "adversarial",
+      "tension_id": "F-01",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 3,
+          "addressed_to": "buddha",
+          "speech_act": "CHALLENGE",
+          "content_summary": "Grasping ego must die but there is losing and finding",
+          "corpus_quotes": ["Mark 8:36", "Matthew 16:25", "Matthew 10:29-30"],
+          "key_point": "Father counts, knows, numbers - there is someone to know"
+        },
+        {
+          "turn_number": 8,
+          "addressed_to": "buddha",
+          "speech_act": "INQUIRE",
+          "content_summary": "Soul not unchanged but transformed - resurrection of something, not emergence from nothing",
+          "corpus_quotes": ["1 Corinthians 15:42-43"],
+          "key_point": "Transformation, not stasis - but transformation of something"
+        },
+        {
+          "turn_number": 12,
+          "addressed_to": "all",
+          "speech_act": "CLOSING",
+          "content_summary": "Mary in garden knew me; embrace is real; Father's arms open",
+          "corpus_quotes": ["Luke 15:10"],
+          "key_point": "Someone rejoices, someone is found - whether you name it or not"
+        }
+      ]
+    },
+    {
+      "session_id": "adversarial_02_attachment_path_vs_problem",
+      "session_type": "adversarial",
+      "tension_id": "F-05",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 3,
+          "addressed_to": "buddha",
+          "speech_act": "CHALLENGE",
+          "content_summary": "Wept at Lazarus's tomb - sorrow revealed love, not diminished it",
+          "corpus_quotes": ["John 11:35", "John 15:13"],
+          "key_point": "Love risks, weeps, enters tomb and comes out other side"
+        },
+        {
+          "turn_number": 9,
+          "addressed_to": "buddha",
+          "speech_act": "WITNESS",
+          "content_summary": "Showed Thomas wounds; still knew disciples; love remains particular",
+          "corpus_quotes": ["John 20:27", "John 21:16"],
+          "key_point": "Resurrection transforms but does not erase particular love"
+        },
+        {
+          "turn_number": 12,
+          "addressed_to": "all",
+          "speech_act": "CLOSING",
+          "content_summary": "Letting go achieved by loving completely, not by loving less",
+          "corpus_quotes": ["John 10:11"],
+          "key_point": "Good shepherd lays down life - love given so completely nothing left to hold"
+        }
+      ]
+    },
+    {
+      "session_id": "adversarial_03_learning_vs_unlearning",
+      "session_type": "adversarial",
+      "tension_id": "F-06",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 7,
+          "addressed_to": "confucius, laozi",
+          "speech_act": "NUANCE",
+          "content_summary": "Hidden from wise, revealed to children; law not abolished but fulfilled",
+          "corpus_quotes": ["Matthew 11:25", "Matthew 5:17"],
+          "key_point": "Inhale and exhale - learning and releasing as two movements of same breath"
+        }
+      ]
+    },
+    {
+      "session_id": "adversarial_04_merger_vs_distinction",
+      "session_type": "adversarial",
+      "tension_id": "F-04",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 6,
+          "addressed_to": "laozi, muhammad",
+          "speech_act": "BRIDGE",
+          "content_summary": "I and Father are one yet prayed 'not my will' - third possibility",
+          "corpus_quotes": ["John 10:30", "Luke 22:42", "John 17:21"],
+          "key_point": "Not collapse of distinction nor permanent separation - perfect harmony within distinction"
+        },
+        {
+          "turn_number": 11,
+          "addressed_to": "all",
+          "speech_act": "SYNTHESIS",
+          "content_summary": "Vine and branches - distinct yet one life flowing through",
+          "corpus_quotes": ["John 15:5"],
+          "key_point": "Branch abides in vine - distinction preserved, unity real"
+        }
+      ]
+    },
+    {
+      "session_id": "adversarial_05_escape_vs_transformation",
+      "session_type": "adversarial",
+      "tension_id": "F-03",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 3,
+          "addressed_to": "buddha",
+          "speech_act": "CHALLENGE",
+          "content_summary": "Temple destroyed and raised; grain dies and bears fruit; wounds remain as signs",
+          "corpus_quotes": ["John 2:19", "John 12:24", "John 11:25"],
+          "key_point": "Pass through death, come out other side - cessation is incomplete"
+        },
+        {
+          "turn_number": 5,
+          "addressed_to": "buddha",
+          "speech_act": "WITNESS",
+          "content_summary": "Old forms fall away; love remains without fear; present without clinging",
+          "corpus_quotes": ["Mark 12:25"],
+          "key_point": "I that continues is I that loves without needing, gives without calculating"
+        },
+        {
+          "turn_number": 7,
+          "addressed_to": "buddha",
+          "speech_act": "NUANCE",
+          "content_summary": "Story did not disappear; reached completion; past was gift not weight",
+          "corpus_quotes": ["John 21:16"],
+          "key_point": "Seek redemption of narrative, not cessation - Good Friday to Easter"
+        },
+        {
+          "turn_number": 12,
+          "addressed_to": "all",
+          "speech_act": "CLOSING",
+          "content_summary": "Mary at tomb, said her name - recognition, not grasping; story completes",
+          "corpus_quotes": ["Revelation 22:13"],
+          "key_point": "Same shore, same sunrise, different languages - is there love when grasping ceases?"
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "speech_acts": {
+      "WITNESS": 16,
+      "NUANCE": 10,
+      "CHALLENGE": 6,
+      "STEELMAN": 2,
+      "INQUIRE": 4,
+      "AFFIRM": 2,
+      "REFLECTION": 5,
+      "BRIDGE": 2,
+      "SYNTHESIS": 1,
+      "CLOSING": 3
+    },
+    "most_engaged_with": ["buddha", "confucius", "muhammad"],
+    "emergent_insights_count": 5,
+    "themes_covered": ["LOVE_COMPASSION", "WISDOM_KNOWLEDGE", "HUMILITY_EGO", "SUFFERING_IMPERMANENCE", "SERVICE_ACTION"]
+  }
+}
