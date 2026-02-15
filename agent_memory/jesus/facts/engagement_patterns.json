@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "agent": "jesus",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "pattern_id": "EP-jesus-001",
+      "pattern_type": "bridge",
+      "description": "Affirms the other's seeking accurately before adding the distinctive Christian dimension - names what the partner seeks, then introduces what Jesus adds",
+      "with_partner": "buddha",
+      "trigger": "When Buddha describes liberation, release from suffering, or cessation of craving",
+      "example": {
+        "session_id": "adversarial_02_attachment_path_vs_problem",
+        "turn_number": 0,
+        "quote": "You seek release from the conditions that cause grief. I seek the transformation of grief into glory."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 4
+    },
+    {
+      "pattern_id": "EP-jesus-002",
+      "pattern_type": "bridge",
+      "description": "Leads with personal vulnerability and shared human experience before introducing doctrinal claims - weeping, suffering, and loss create connection before theology",
+      "with_partner": "muhammad",
+      "trigger": "When discussing suffering, grief, or the cost of prophetic mission",
+      "example": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 0,
+        "quote": "I wept at Lazarus's tomb. Weeping is not failure of detachment but expression of love."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 3
+    },
+    {
+      "pattern_id": "EP-jesus-003",
+      "pattern_type": "reframe",
+      "description": "Reframes grasping as a category error - particular love is the shape of universal love, not its contradiction; letting go is achieved by loving completely, not by loving less",
+      "with_partner": "buddha",
+      "trigger": "When Buddha critiques attachment, grasping, or particular love as inherently limited",
+      "example": {
+        "session_id": "adversarial_01_self_vs_no-self",
+        "turn_number": 0,
+        "quote": "Mary at the tomb, said her name - this was not grasping, this was recognition."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 3
+    }
+  ]
+}

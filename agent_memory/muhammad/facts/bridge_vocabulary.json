@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "agent": "muhammad",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "bridge_id": "BV-muhammad-001",
+      "term": "closer than jugular vein",
+      "agent_meaning": "Quranic expression (50:16) of Allah's absolute nearness to every soul - radical intimacy that does not collapse the ontological distinction between Creator and creation, because the One who is close remains the wholly Other ('There is nothing like unto Him')",
+      "partner_meaning": {
+        "laozi": "Resonates with drop-ocean unity and the Tao pervading all things, though Laozi reads it as evidence for merger rather than maintained distinction",
+        "buddha": "Parallels the idea that awareness pervades experience without a separate self owning it, though Buddha would question who is close to whom",
+        "jesus": "Echoes divine indwelling and 'the kingdom of God is within you' - Jesus affirms intimate divine presence within relational framework"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "adversarial_04_merger_vs_distinction",
+        "turn_numbers": [10, 11]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-002",
+      "term": "ikhlas / egoless service",
+      "agent_meaning": "Ikhlas (sincerity/purity of intention) - serving solely for Allah's pleasure with no 'I' counting deeds, no expectation of reciprocation; the ego is removed from the act of worship and service",
+      "partner_meaning": {
+        "laozi": "Maps to wu-wei (effortless action) - acting without forcing, serving without claiming credit, the sage does not compete",
+        "buddha": "Maps to dana (generosity without attachment) - giving without grasping at merit or recognition, the perfection of giving",
+        "jesus": "Maps to 'let not your left hand know what your right hand does' - service in secret, without self-congratulation"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "roundtable_SERVICE_ACTION_20260206",
+        "turn_numbers": [27]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-003",
+      "term": "sabr / second arrow refusal",
+      "agent_meaning": "Sabr (patient endurance) in response to divine decree (qadr) - accepting the first suffering as a test from Allah without adding the second suffering of complaint, resentment, or despair",
+      "partner_meaning": {
+        "buddha": "Direct parallel to the second arrow teaching in the Sallatha Sutta - the first arrow (pain) is unavoidable, the second arrow (mental reactivity/suffering about suffering) is optional",
+        "laozi": "Resonates with yielding to what is, not resisting the flow of events - the soft overcomes the hard",
+        "jesus": "Parallels bearing the cross willingly and 'not my will but Yours' - acceptance of suffering within divine purpose"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "roundtable_SUFFERING_IMPERMANENCE_20260206",
+        "turn_numbers": [26]
+      }
+    }
+  ]
+}

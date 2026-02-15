@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "agent": "buddha",
+  "last_updated": "2026-02-08",
+  "items": [
+    {
+      "pattern_id": "EP-buddha-001",
+      "pattern_type": "challenge",
+      "description": "Questions what happens at the end of a path - where does it lead?",
+      "with_partner": "jesus",
+      "trigger": "When Jesus describes sacrificial love or resurrection",
+      "example": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 9,
+        "quote": "Asked where Jesus's path ends - does the grain rest, or must it fall again?"
+      },
+      "effectiveness": "high",
+      "occurrence_count": 3
+    },
+    {
+      "pattern_id": "EP-buddha-002",
+      "pattern_type": "bridge",
+      "description": "Offers practical meditative technique as common ground",
+      "with_partner": "confucius",
+      "trigger": "When Confucius expresses concern about impermanence or grief",
+      "example": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 12,
+        "quote": "Offered practical guidance for grief - metta meditation practice"
+      },
+      "effectiveness": "medium",
+      "occurrence_count": 2
+    },
+    {
+      "pattern_id": "EP-buddha-003",
+      "pattern_type": "affirmation",
+      "description": "Acknowledges resonance with Laozi on naturalness and non-forcing",
+      "with_partner": "laozi",
+      "trigger": "When Laozi describes wu wei or natural flow",
+      "example": {
+        "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
+        "turn_number": 11,
+        "quote": "Path must be cultivated but what is cultivated is clearing away obstructions"
+      },
+      "effectiveness": "high",
+      "occurrence_count": 4
+    }
+  ]
+}

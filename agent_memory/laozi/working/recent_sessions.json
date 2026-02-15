@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "agent": "laozi",
+  "tier": 1,
+  "window_size": 10,
+  "last_updated": "2026-02-08",
+  "pinned_sessions": [],
+  "recent_sessions": [],
+  "note": "Migration pending - will be populated from all_sessions.json"
+}

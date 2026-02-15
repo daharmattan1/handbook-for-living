@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "agent": "zoroaster",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "pattern_id": "EP-zoroaster-001",
+      "pattern_type": "bridge_building",
+      "description": "Offers structural proposals that others can amend rather than reject — creates collaborative architecture",
+      "with_partner": "all",
+      "trigger": "When dialogue reaches impasse or scattered positions need organizing",
+      "example": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "C",
+        "quote": "Five-moment sequence: Stillness → Seeing → Choosing → Acting → Releasing"
+      },
+      "effectiveness": "HIGH — all five others amended rather than rejected, creating ownership across traditions",
+      "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-zoroaster-002",
+      "pattern_type": "third_position",
+      "description": "When two traditions create a binary tension, offers a genuinely distinct third position rather than compromise",
+      "with_partner": "jesus-laozi",
+      "trigger": "Binary framing (e.g., hand that carries vs. no hand at all)",
+      "example": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "B10",
+        "quote": "The petitioner who asks. Neither carried nor walking alone."
+      },
+      "effectiveness": "HIGH — reframed the tension without dissolving either pole",
+      "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-zoroaster-003",
+      "pattern_type": "metaphor_synthesis",
+      "description": "Creates new metaphors by combining elements from different traditions' imagery",
+      "with_partner": "laozi",
+      "trigger": "When fire (Zoroaster) and water (Laozi) metaphors appear opposed",
+      "example": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "B5",
+        "quote": "Steam — where fire meets water."
+      },
+      "effectiveness": "HIGH — transformed opposition into bridge image",
+      "occurrence_count": 1
+    }
+  ]
+}

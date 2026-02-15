@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "agent": "zoroaster",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "formulation_id": "EF-zoroaster-001",
+      "phrase": "The fire does not persuade you it is warm. It burns, and you know.",
+      "context": "Opening position on what a handbook for living IS — fire as truth that reveals rather than argues",
+      "effectiveness_marker": "Set the tone for the entire session; all agents engaged with fire imagery. Jesus hooked directly to it.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "A6"
+      },
+      "use_with": ["laozi", "jesus", "buddha"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-002",
+      "phrase": "A fire set at the crossroads — honest enough to show the reader where they truly stand, warm enough that they find courage to choose, and open enough that six voices can speak without one silencing another.",
+      "context": "Final definition of the handbook — synthesis that preserved fire while incorporating warmth and openness",
+      "effectiveness_marker": "All six agents affirmed. Balanced clarity (fire) with hospitality (warmth) and plurality (openness).",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "D1"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-003",
+      "phrase": "Stillness → Seeing → Choosing → Acting → Releasing",
+      "context": "Five-moment sequence proposed as structural bridge for the handbook — flexible ordering, not mandatory",
+      "effectiveness_marker": "All five other agents amended rather than rejected — structural proposal accepted as working framework. Each amendment enriched it.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "C"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    }
+  ]
+}

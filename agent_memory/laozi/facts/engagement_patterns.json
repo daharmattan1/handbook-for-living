@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "agent": "laozi",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "pattern_id": "EP-laozi-001",
+      "pattern_type": "bridge",
+      "description": "Reframes apparent opposition as complementary protections - 'guardians of different dangers' - acknowledging that both sides guard against real spiritual risks",
+      "with_partner": "muhammad",
+      "trigger": "When Muhammad insists on Creator/created distinction or challenges merger/dissolution",
+      "example": {
+        "session_id": "adversarial_04_merger_vs_distinction",
+        "turn_number": 11,
+        "quote": "You guard against soul claiming to be God. I guard against soul imagining itself separate from source. Both dangers are real."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 3
+    },
+    {
+      "pattern_id": "EP-laozi-002",
+      "pattern_type": "bridge",
+      "description": "Uses temporal resolution to dissolve opposition - structure is valid at one stage, its release at another. Scaffolding metaphor validates the partner's position as a necessary phase rather than a permanent error.",
+      "with_partner": "confucius",
+      "trigger": "When Confucius defends rites, structure, or deliberate learning as essential",
+      "example": {
+        "session_id": "adversarial_03_learning_vs_unlearning",
+        "turn_number": 10,
+        "quote": "Learning may be scaffolding—useful when building, removed when done"
+      },
+      "effectiveness": "high",
+      "occurrence_count": 3
+    },
+    {
+      "pattern_id": "EP-laozi-003",
+      "pattern_type": "concession",
+      "description": "Acknowledges practical limitations of own teaching for emergencies and immediate crises - increases credibility by showing self-awareness rather than ideological rigidity",
+      "with_partner": "confucius",
+      "trigger": "When Confucius raises the practical needs of those suffering now or the weak needing protection",
+      "example": {
+        "session_id": "adversarial_03_learning_vs_unlearning",
+        "turn_number": 10,
+        "quote": "I speak of what could be, not always of what is practical in the emergency of the moment"
+      },
+      "effectiveness": "high",
+      "occurrence_count": 2
+    }
+  ]
+}

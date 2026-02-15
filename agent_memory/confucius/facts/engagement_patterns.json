@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "agent": "confucius",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "pattern_id": "EP-confucius-001",
+      "pattern_type": "bridge",
+      "description": "Acknowledges Laozi's corrective while maintaining position, then shifts burden by asking for practical alternative",
+      "with_partner": "laozi",
+      "trigger": "When Laozi critiques rites or structure as artificial or corrupting",
+      "example": {
+        "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
+        "turn_number": 31,
+        "quote": "You have named a tension I recognize... But what is your alternative?"
+      },
+      "effectiveness": "high",
+      "occurrence_count": 3
+    },
+    {
+      "pattern_id": "EP-confucius-002",
+      "pattern_type": "bridge",
+      "description": "Extracts shared practical principle from different emphases to find common ground with Buddha",
+      "with_partner": "buddha",
+      "trigger": "When discussion reaches apparent impasse between cultivation-of-self and no-self",
+      "example": {
+        "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
+        "turn_number": 31,
+        "quote": "Both agree: knowledge that doesn't shape action is incomplete"
+      },
+      "effectiveness": "high",
+      "occurrence_count": 2
+    },
+    {
+      "pattern_id": "EP-confucius-003",
+      "pattern_type": "challenge",
+      "description": "Forces abstract discussion to concrete by invoking real human situations that demand practical response",
+      "with_partner": "laozi",
+      "trigger": "When dialogue becomes too abstract or theoretical about structure vs. spontaneity",
+      "example": {
+        "session_id": "roundtable_SERVICE_ACTION_20260206",
+        "turn_number": 26,
+        "quote": "What of the father who buries his son tomorrow?"
+      },
+      "effectiveness": "high",
+      "occurrence_count": 3
+    }
+  ]
+}

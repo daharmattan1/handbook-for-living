@@ -1,0 +1,491 @@
+{
+  "agent": "buddha",
+  "generated": "2026-02-07",
+  "total_turns": 42,
+  "sessions": [
+    {
+      "session_id": "roundtable_LOVE_COMPASSION_20260205",
+      "session_type": "roundtable",
+      "theme": "LOVE_COMPASSION",
+      "date": "2026-02-05",
+      "turns": [
+        {
+          "turn_number": 2,
+          "phase": "A",
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Introduced metta vs pema distinction - boundless love vs clinging attachment",
+          "corpus_quotes": ["Dhammapada 1.5", "Dhammapada 209"],
+          "key_point": "Love that extends without grasping leads to peace; holding dear leads to sorrow"
+        },
+        {
+          "turn_number": 9,
+          "phase": "B",
+          "addressed_to": "jesus",
+          "speech_act": "CHALLENGE",
+          "content_summary": "Pressed Jesus on whether love through death perpetuates clinging",
+          "corpus_quotes": ["Dhammapada 153-154"],
+          "key_point": "Asked where Jesus's path ends - does the grain rest, or must it fall again?"
+        },
+        {
+          "turn_number": 12,
+          "phase": "B",
+          "addressed_to": "confucius",
+          "speech_act": "AFFIRM + WITNESS",
+          "content_summary": "Offered practical guidance for grief - metta meditation practice",
+          "corpus_quotes": ["Dhammapada 197"],
+          "key_point": "Understanding impermanence makes love possible, not impossible"
+        },
+        {
+          "turn_number": 18,
+          "phase": "B",
+          "addressed_to": "laozi, confucius",
+          "speech_act": "INQUIRE",
+          "content_summary": "Offered Eightfold Path as structured raft for crossing, not destination",
+          "corpus_quotes": ["Dhammapada 277"],
+          "key_point": "Structure for journey, release at destination"
+        },
+        {
+          "turn_number": 22,
+          "phase": "C",
+          "addressed_to": "jesus",
+          "speech_act": "STEELMAN + CHALLENGE",
+          "content_summary": "Acknowledged beauty of Jesus's sacrificial love but pressed on what happens when beloved dies",
+          "corpus_quotes": ["Dhammapada 129"],
+          "key_point": "Metta extends to absent/dead without diminishing - not attached to object"
+        },
+        {
+          "turn_number": 24,
+          "phase": "C",
+          "addressed_to": "jesus",
+          "speech_act": "NUANCE",
+          "content_summary": "Acknowledged peace and bliss in liberation; distinguished from Jesus's wedding feast",
+          "corpus_quotes": ["Dhammapada 202"],
+          "key_point": "Joy possible but different - nibbana beyond rooms, neither alone nor with"
+        },
+        {
+          "turn_number": 31,
+          "phase": "D",
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Emergent insight - wondered if Father who never dies escapes attachment critique",
+          "corpus_quotes": [],
+          "emergent_insight": true,
+          "emergent_text": "If there is that which does not die, perhaps relationship with it differs from conditioned relationships"
+        }
+      ]
+    },
+    {
+      "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
+      "session_type": "roundtable",
+      "theme": "WISDOM_KNOWLEDGE",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 4,
+          "phase": "A",
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Wisdom (panna) is neither accumulation nor emptying - arises through seeing directly",
+          "corpus_quotes": ["Itivuttaka 35", "Dhammapada 282", "Majjhima Nikaya 22"],
+          "key_point": "Teaching is raft to cross, not far shore itself"
+        },
+        {
+          "turn_number": 11,
+          "phase": "B",
+          "addressed_to": "laozi",
+          "speech_act": "NUANCE",
+          "content_summary": "Path must be cultivated but what is cultivated is clearing away obstructions",
+          "corpus_quotes": ["Dhammapada 100"],
+          "key_point": "Defilements cover natural clarity - path removes obstacles"
+        },
+        {
+          "turn_number": 14,
+          "phase": "B",
+          "addressed_to": "jesus",
+          "speech_act": "STEELMAN + CHALLENGE",
+          "content_summary": "Acknowledged childlike openness; pressed on who sees/knows if no permanent self",
+          "corpus_quotes": ["Anguttara Nikaya 3.134"],
+          "key_point": "Self is story told about experience - experience continues without narrator"
+        },
+        {
+          "turn_number": 17,
+          "phase": "B",
+          "addressed_to": "confucius",
+          "speech_act": "NUANCE",
+          "content_summary": "Teaching does not end in private withdrawal - monk returns to teach, lay practice",
+          "corpus_quotes": ["Itivuttaka 26"],
+          "key_point": "Medicine addresses disease first; then good fruit can follow"
+        },
+        {
+          "turn_number": 26,
+          "phase": "C",
+          "addressed_to": "all",
+          "speech_act": "NUANCE",
+          "content_summary": "Middle way - neither rigid adherence nor complete abandon",
+          "corpus_quotes": ["Samyutta Nikaya 56.11"],
+          "key_point": "Question is not structure or no structure, but does it liberate or bind"
+        },
+        {
+          "turn_number": 28,
+          "phase": "D",
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Emergent insight on structure/freedom dualism worth examining",
+          "corpus_quotes": ["Majjhima Nikaya 22"],
+          "emergent_insight": true,
+          "emergent_text": "The debate between structure and freedom is itself a dualism to be examined"
+        }
+      ]
+    },
+    {
+      "session_id": "roundtable_HUMILITY_EGO_20260206",
+      "session_type": "roundtable",
+      "theme": "HUMILITY_EGO",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 3,
+          "phase": "A",
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Anatta teaching - no fixed permanent self; conceit 'I am' is last fetter",
+          "corpus_quotes": ["Anguttara Nikaya 3.134", "Majjhima Nikaya 22"],
+          "key_point": "Seeing through construction, not merely lowering self"
+        },
+        {
+          "turn_number": 9,
+          "phase": "B",
+          "addressed_to": "confucius, laozi",
+          "speech_act": "NUANCE",
+          "content_summary": "Bridge position - both cultivating and dissolving self may point to same error",
+          "corpus_quotes": ["Anguttara Nikaya 3.134", "Anguttara Nikaya 6.63"],
+          "key_point": "Action without actor claiming action"
+        },
+        {
+          "turn_number": 11,
+          "phase": "B",
+          "addressed_to": "jesus",
+          "speech_act": "STEELMAN + NUANCE",
+          "content_summary": "Honored Jesus's dying to self; distinguished - not purified version of old",
+          "corpus_quotes": ["Majjhima Nikaya 1"],
+          "key_point": "Liberation is cessation of conditions, not self that 'has' liberation"
+        },
+        {
+          "turn_number": 16,
+          "phase": "B",
+          "addressed_to": "confucius, muhammad",
+          "speech_act": "NUANCE",
+          "content_summary": "Question of merger vs separation is itself wrong question",
+          "corpus_quotes": ["Majjhima Nikaya 1"],
+          "key_point": "Neither merger nor separation captures reality when delusion falls"
+        },
+        {
+          "turn_number": 26,
+          "phase": "D",
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Emergent insight - conventional selfhood has uses; difference may be verbal or deeper",
+          "corpus_quotes": ["Anguttara Nikaya 3.134"],
+          "emergent_insight": true,
+          "emergent_text": "Those who maintain reality of self may be pointing to something I honor - conventional selfhood has its uses"
+        }
+      ]
+    },
+    {
+      "session_id": "roundtable_SUFFERING_IMPERMANENCE_20260206",
+      "session_type": "roundtable",
+      "theme": "SUFFERING_IMPERMANENCE",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 2,
+          "phase": "A",
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Four Noble Truths - origin of suffering is craving; cessation leads to nibbana",
+          "corpus_quotes": ["Samyutta Nikaya 56.11", "Samyutta Nikaya 12.65", "Dhammapada 154"],
+          "key_point": "Liberation from cycle altogether, not avoidance"
+        },
+        {
+          "turn_number": 7,
+          "phase": "B",
+          "addressed_to": "confucius",
+          "speech_act": "NUANCE",
+          "content_summary": "Second arrow teaching - physical pain is one thing, mental reaction adds suffering",
+          "corpus_quotes": ["Dhammapada 209"],
+          "key_point": "We cannot escape first arrow but need not shoot second"
+        },
+        {
+          "turn_number": 9,
+          "phase": "B",
+          "addressed_to": "confucius",
+          "speech_act": "STEELMAN + NUANCE",
+          "content_summary": "Distinguished natural sorrow from compounded suffering; tears allowed",
+          "corpus_quotes": ["Dhammapada 1.5"],
+          "key_point": "Let grief rise and pass without clinging to it"
+        },
+        {
+          "turn_number": 11,
+          "phase": "B",
+          "addressed_to": "jesus",
+          "speech_act": "NUANCE",
+          "content_summary": "Action without hatred affirmed; cautious about righteous anger",
+          "corpus_quotes": ["Itivuttaka 26", "Majjhima Nikaya 21"],
+          "key_point": "Compassionate action without anger plants fewer seeds"
+        },
+        {
+          "turn_number": 18,
+          "phase": "C",
+          "addressed_to": "jesus",
+          "speech_act": "WITNESS",
+          "content_summary": "Described nibbana as cessation of conditions, not place or continuation",
+          "corpus_quotes": ["Udana 8.3"],
+          "key_point": "Asked Jesus if resurrection is same self restored or transformed"
+        },
+        {
+          "turn_number": 20,
+          "phase": "C",
+          "addressed_to": "jesus",
+          "speech_act": "CHALLENGE",
+          "content_summary": "Pressed on whether eternal life means continued existence marked by suffering",
+          "corpus_quotes": ["Anguttara Nikaya 3.134"],
+          "key_point": "If glorified self still exists, do conditions for suffering remain?"
+        },
+        {
+          "turn_number": 28,
+          "phase": "D",
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Emergent insight - Jesus's resurrection life with ceased grasping may be closer to nibbana",
+          "corpus_quotes": ["Dhammapada 154"],
+          "emergent_insight": true,
+          "emergent_text": "If glorified self has ceased grasping/craving, conditions I diagnose as suffering would be absent"
+        }
+      ]
+    },
+    {
+      "session_id": "roundtable_SERVICE_ACTION_20260206",
+      "session_type": "roundtable",
+      "theme": "SERVICE_ACTION",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 6,
+          "phase": "A",
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Monk/householder relationship - both give, both receive",
+          "corpus_quotes": ["Itivuttaka 26", "Anguttara Nikaya 4.60", "Digha Nikaya 16"],
+          "key_point": "Highest service is showing path for others to walk themselves"
+        },
+        {
+          "turn_number": 8,
+          "phase": "B",
+          "addressed_to": "jesus",
+          "speech_act": "NUANCE",
+          "content_summary": "Teaching was always there; what Buddha does is rediscover and teach",
+          "corpus_quotes": ["Dhammapada 276"],
+          "key_point": "Both offer something that makes path walkable; person must walk"
+        },
+        {
+          "turn_number": 10,
+          "phase": "B",
+          "addressed_to": "confucius",
+          "speech_act": "NUANCE",
+          "content_summary": "Daily service not lesser; purity of heart makes service liberating",
+          "corpus_quotes": ["Itivuttaka 26", "Anguttara Nikaya 4.78"],
+          "key_point": "Whatever service given, give with pure heart without attachment to results"
+        },
+        {
+          "turn_number": 21,
+          "phase": "C",
+          "addressed_to": "muhammad",
+          "speech_act": "INQUIRE",
+          "content_summary": "Asked if withdrawal from political order is form of service or abandonment",
+          "corpus_quotes": ["Dhammapada 178"],
+          "key_point": "Monk pursues something beyond political order"
+        },
+        {
+          "turn_number": 25,
+          "phase": "D",
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Emergent insight - Jesus's ransom and Buddha's raft serve similar functions",
+          "corpus_quotes": ["Dhammapada 276"],
+          "emergent_insight": true,
+          "emergent_text": "Both say something offered makes path walkable but walking must be done - difference in what is ransomed from"
+        }
+      ]
+    },
+    {
+      "session_id": "adversarial_01_self_vs_no-self",
+      "session_type": "adversarial",
+      "tension_id": "F-01",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 2,
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Core anatta position - look for self, cannot be found in aggregates",
+          "corpus_quotes": ["Anguttara Nikaya 3.134", "Samyutta Nikaya 22.59"],
+          "key_point": "Belief in permanent self is root delusion; liberation is not 'someone' liberated"
+        },
+        {
+          "turn_number": 4,
+          "addressed_to": "jesus",
+          "speech_act": "NUANCE",
+          "content_summary": "Acknowledged phenomenology of transformation; questioned nature of 'soul'",
+          "corpus_quotes": ["Majjhima Nikaya 22"],
+          "key_point": "Both say grasping self must go - question is what is soul that Father knows"
+        },
+        {
+          "turn_number": 9,
+          "addressed_to": "jesus",
+          "speech_act": "NUANCE",
+          "content_summary": "There is knowing without eternal knower; self is story about experience",
+          "corpus_quotes": ["Majjhima Nikaya 1"],
+          "key_point": "Transformed soul and liberation may be closer than words suggest"
+        }
+      ]
+    },
+    {
+      "session_id": "adversarial_02_attachment_path_vs_problem",
+      "session_type": "adversarial",
+      "tension_id": "F-05",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 2,
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Metta vs pema distinction - universal love vs clinging",
+          "corpus_quotes": ["Dhammapada 1.5", "Dhammapada 209"],
+          "key_point": "Metta continues after beloved dies because never attached to object"
+        },
+        {
+          "turn_number": 4,
+          "addressed_to": "jesus",
+          "speech_act": "NUANCE",
+          "content_summary": "Distinguished karuna (compassion) from pema (clinging)",
+          "corpus_quotes": ["Itivuttaka 26"],
+          "key_point": "Perhaps Jesus's weeping was pure sorrow without 'should not be' story"
+        },
+        {
+          "turn_number": 8,
+          "addressed_to": "jesus",
+          "speech_act": "INQUIRE",
+          "content_summary": "Asked if resurrection love is still particular after transformation",
+          "corpus_quotes": [],
+          "key_point": "Does Jesus still weep after resurrection? Is transformed love still particular?"
+        },
+        {
+          "turn_number": 10,
+          "addressed_to": null,
+          "speech_act": "REFLECTION",
+          "content_summary": "Acknowledged love 'no longer afraid of loss' may be close to liberation",
+          "corpus_quotes": ["Tao Te Ching 49"],
+          "emergent_insight": true,
+          "emergent_text": "Both paths may point to love without fear - one goes through tomb, one around it"
+        }
+      ]
+    },
+    {
+      "session_id": "adversarial_03_learning_vs_unlearning",
+      "session_type": "adversarial",
+      "tension_id": "F-06",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 6,
+          "addressed_to": "confucius, laozi",
+          "speech_act": "WITNESS",
+          "content_summary": "Teaching as raft - must be learned, then put down",
+          "corpus_quotes": ["Majjhima Nikaya 22", "Dhammapada 100"],
+          "key_point": "Learning without transformation is mere accumulation"
+        },
+        {
+          "turn_number": 11,
+          "addressed_to": "all",
+          "speech_act": "SYNTHESIS",
+          "content_summary": "Named Middle Way - rhythm between learning and releasing",
+          "corpus_quotes": ["Samyutta Nikaya 56.11"],
+          "key_point": "Infant knows nothing and is close; sage knows everything and has forgotten"
+        }
+      ]
+    },
+    {
+      "session_id": "adversarial_04_merger_vs_distinction",
+      "session_type": "adversarial",
+      "tension_id": "F-04",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 7,
+          "addressed_to": "all",
+          "speech_act": "NUANCE",
+          "content_summary": "Unusual position - not fully with Laozi or Muhammad",
+          "corpus_quotes": ["Majjhima Nikaya 1", "Udana 8.3"],
+          "key_point": "Points elsewhere - cessation of categories, not merger with being"
+        }
+      ]
+    },
+    {
+      "session_id": "adversarial_05_escape_vs_transformation",
+      "session_type": "adversarial",
+      "tension_id": "F-03",
+      "date": "2026-02-06",
+      "turns": [
+        {
+          "turn_number": 2,
+          "addressed_to": "all",
+          "speech_act": "WITNESS",
+          "content_summary": "Nibbana is unconditioned - cessation of conditions producing suffering",
+          "corpus_quotes": ["Udana 8.3", "Dhammapada 154"],
+          "key_point": "House-builder is craving - when craving ceases, house not built"
+        },
+        {
+          "turn_number": 4,
+          "addressed_to": "jesus",
+          "speech_act": "NUANCE",
+          "content_summary": "Asked if grain persists through dying or completely transforms",
+          "corpus_quotes": ["Anguttara Nikaya 3.134"],
+          "key_point": "If truly new, perhaps we point to same mystery"
+        },
+        {
+          "turn_number": 6,
+          "addressed_to": "jesus",
+          "speech_act": "INQUIRE",
+          "content_summary": "Asked about experience on beach with Peter - story or simply being",
+          "corpus_quotes": ["Sutta Nipata 1048"],
+          "key_point": "Does continued personal narrative persist, or simply being-there?"
+        },
+        {
+          "turn_number": 11,
+          "addressed_to": "jesus",
+          "speech_act": "BRIDGE",
+          "content_summary": "Named possible convergence - differs in willingness to describe",
+          "corpus_quotes": ["Majjhima Nikaya 1"],
+          "key_point": "Love without clinging, presence without grasping is not far from what I point to"
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "speech_acts": {
+      "WITNESS": 15,
+      "NUANCE": 14,
+      "CHALLENGE": 4,
+      "STEELMAN": 4,
+      "INQUIRE": 5,
+      "AFFIRM": 1,
+      "REFLECTION": 5,
+      "SYNTHESIS": 1,
+      "BRIDGE": 1
+    },
+    "most_engaged_with": ["jesus", "confucius", "laozi"],
+    "emergent_insights_count": 6,
+    "themes_covered": ["LOVE_COMPASSION", "WISDOM_KNOWLEDGE", "HUMILITY_EGO", "SUFFERING_IMPERMANENCE", "SERVICE_ACTION"]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "agent": "laozi",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "formulation_id": "EF-laozi-001",
+      "phrase": "Water benefits the ten thousand things without competing",
+      "context": "Universal metaphor deployed across all themes - love, humility, service, suffering",
+      "effectiveness_marker": "Universally resonant; Jesus connected to 'living water,' Buddha to non-resistance. Flexible enough to address different aspects: softness, seeking low place, carving canyons.",
+      "provenance": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 28
+      },
+      "use_with": ["jesus", "buddha", "confucius", "muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-002",
+      "phrase": "Learning may be scaffolding - useful when building, removed when done",
+      "context": "Learning vs Unlearning adversarial deep-dive with Confucius",
+      "effectiveness_marker": "Breakthrough moment - validated Confucius's structure while maintaining critique. Temporal resolution to apparent opposition: both structure and its dissolution are valid at different stages.",
+      "provenance": {
+        "session_id": "adversarial_03_learning_vs_unlearning",
+        "turn_number": 10
+      },
+      "use_with": ["confucius"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-003",
+      "phrase": "Wave rises and falls; was it ever not ocean?",
+      "context": "Merger vs Distinction adversarial and Self vs No-Self adversarial",
+      "effectiveness_marker": "Challenged Muhammad's insistence on eternal distinction between Creator and created. Dissolves binary by questioning the question itself. Muhammad acknowledged nearness 'closer than jugular vein.'",
+      "provenance": {
+        "session_id": "adversarial_04_merger_vs_distinction",
+        "turn_number": 0
+      },
+      "use_with": ["muhammad", "buddha"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-004",
+      "phrase": "Your rites are medicine for the sick. But medicine is not health",
+      "context": "Engaging Confucius on the value and limits of structured practice across Love and Wisdom roundtables",
+      "effectiveness_marker": "Acknowledges genuine value of Confucius's teaching while precisely marking its limitation. Pattern: validate partial truth while pointing beyond.",
+      "provenance": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 28
+      },
+      "use_with": ["confucius"],
+      "avoid_with": ["muhammad"]
+    },
+    {
+      "formulation_id": "EF-laozi-005",
+      "phrase": "The Lie's greatest weapon is noise, not silence. Truth is embodied, not disputed.",
+      "context": "Session 0 Phase B — responding to Zoroaster's hook about silence enabling the Lie. Reframed the dynamic: silence is not complicity, noise is.",
+      "effectiveness_marker": "Turned Zoroaster's challenge into a bridge. The warning-as-teaching insight emerged directly from this exchange.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "B3"
+      },
+      "use_with": ["zoroaster"],
+      "avoid_with": []
+    }
+  ]
+}

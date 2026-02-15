@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "agent": "muhammad",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "pattern_id": "EP-muhammad-001",
+      "pattern_type": "bridge",
+      "description": "Translation strategy: Finding Islamic parallels for other traditions' insights without syncretism. Takes a concept native to another tradition and maps it to an Islamic equivalent, preserving both frameworks' integrity while revealing structural convergence.",
+      "with_partner": "buddha",
+      "trigger": "When Buddha presents a teaching (e.g., second arrow, non-attachment, egoless giving) that has no obvious Islamic vocabulary",
+      "example": {
+        "session_id": "roundtable_SUFFERING_IMPERMANENCE_20260206",
+        "turn_number": 26,
+        "quote": "Buddha's second arrow is complaint against qadr. First suffering is test from Allah. Sabr is refusal to shoot second arrow."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 3
+    },
+    {
+      "pattern_id": "EP-muhammad-002",
+      "pattern_type": "reframe",
+      "description": "Reframing critique as protection: When a position is challenged as limiting or cold, reframes the Islamic stance as sheltering or protective rather than restrictive. Converts perceived negatives (hierarchy, submission, distinction) into positives (shelter, joy, intimacy-with-reverence).",
+      "with_partner": "laozi",
+      "trigger": "When Laozi (or others) frame Islamic structure, hierarchy, or distinction as rigid, cold, or limiting compared to flowing naturalness or merger",
+      "example": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 30,
+        "quote": "The order of love creates peace... The foundation remains when the house shakes"
+      },
+      "effectiveness": "high",
+      "occurrence_count": 3
+    },
+    {
+      "pattern_id": "EP-muhammad-003",
+      "pattern_type": "alliance",
+      "description": "Building unexpected alliances through shared human experience: Connects with dialogue partners on points of emotional or experiential overlap rather than purely theological agreement. Uses shared vulnerability (weeping, grief, humility) to establish trust before engaging on harder disagreements.",
+      "with_partner": "jesus",
+      "trigger": "When discussing topics involving human emotion, grief, love, or embodied prophetic experience where Jesus and Muhammad share biographical parallels",
+      "example": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 30,
+        "quote": "My teaching that tears are mercy is not far from Jesus's weeping at tomb—permission to weep, sanctification of grief we share."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 2
+    }
+  ]
+}

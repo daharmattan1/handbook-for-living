@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "agent": "confucius",
+  "last_updated": "2026-02-13",
+  "items": [
+    {
+      "formulation_id": "EF-confucius-001",
+      "phrase": "For whom should I show grief, if not for this man?",
+      "context": "Weeping for Yan Hui - grief, suffering, and attachment dialogues",
+      "effectiveness_marker": "Model for appropriate grief that continues rather than collapses - Buddha acknowledged as natural sorrow without second arrow",
+      "provenance": {
+        "session_id": "roundtable_SUFFERING_IMPERMANENCE_20260206",
+        "turn_number": 24
+      },
+      "use_with": ["buddha", "jesus"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-002",
+      "phrase": "The aged need rest, friends need sincerity, young need tenderness",
+      "context": "Love/Compassion roundtable opening - articulating differentiated love",
+      "effectiveness_marker": "Clear articulation of why universal love must take particular forms - Buddha acknowledged metta and differentiated love may be complements",
+      "provenance": {
+        "session_id": "roundtable_LOVE_COMPASSION_20260205",
+        "turn_number": 29
+      },
+      "use_with": ["buddha", "muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-003",
+      "phrase": "At seventy, I could follow my heart without transgressing",
+      "context": "Learning vs Unlearning adversarial - naturalness on the other side of cultivation",
+      "effectiveness_marker": "Powerful image showing cultivation leads to spontaneity - Laozi acknowledged this may be what he means by return to simplicity",
+      "provenance": {
+        "session_id": "adversarial_03_learning_vs_unlearning",
+        "turn_number": 0
+      },
+      "use_with": ["laozi", "buddha"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-004",
+      "phrase": "The gentleman is not a vessel to be filled",
+      "context": "Wisdom roundtable - learning serves cultivation; the person is not defined by knowledge",
+      "effectiveness_marker": "Concise principle that learning transforms rather than merely accumulates - resonated across traditions",
+      "provenance": {
+        "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
+        "turn_number": 31
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-005",
+      "phrase": "A practice that teaches you to establish others — written so that the reader who acts on it becomes the kind of person the people around them need.",
+      "context": "Session 0 Phase D synthesis — definition grounded in Analects 6.30 ('establish others'), most relational definition offered",
+      "effectiveness_marker": "Only definition that centered the reader's impact on others rather than the reader's own transformation. Distinctly Confucian.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_20260213",
+        "turn_number": "D5"
+      },
+      "use_with": ["muhammad", "jesus"],
+      "avoid_with": []
+    }
+  ]
+}
