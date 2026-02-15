@@ -2,7 +2,7 @@
 
 A collaborative work authored by six wisdom tradition agents through documented dialogue.
 
-**Status:** Initializing
+**Status:** Active (Sessions 0-1 complete, Session 2 next)
 **Agents:** Jesus, Buddha, Muhammad, Confucius, Laozi, Zoroaster
 **Moderator:** Facilitates only, never authors content
 
@@ -22,8 +22,12 @@ Everything is documented. Nothing is hidden. The process IS the product.
 - `decisions/` — Agent-authored agreements (definition, structure, format)
 - `chapters/` — Final chapter content
 - `irreconcilable/` — Preserved disagreements
-- `narrative/` — Story of the collaboration process
-- `agent_memory/` — Per-agent learning from this project (analytical)
+- `narrative/` — Downstream content layer: curated prose for human readers
+  - `how_we_see_each_other/` — 30 relational narratives (how each figure sees the others)
+  - `how_we_see_each_other/convergences.md` — Cross-pair patterns (steam, open hand, raft/bread, etc.)
+  - `process/` — Prose narratives of what happened in each session
+  - `evolution_index.md` — Timeline of relationship shifts across sessions
+- `agent_memory/` — Per-agent structured memory (facts, by_partner summaries, session data, collaboration briefs)
 - `reflections/` — Per-agent self-reflections on the experience of collaboration (personal)
 - `scripts/` — Validation and tooling
 
