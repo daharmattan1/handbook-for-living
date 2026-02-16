@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "insight_id": "EI-laozi-001",
@@ -89,17 +89,59 @@
     },
     {
       "insight_id": "EI-laozi-007",
-      "text": "The warning IS the teaching — 'The Tao that can be told is not the eternal Tao' is not a reason to refuse the handbook but its first line. The limitation is the lesson.",
-      "category": "epistemological",
+      "text": "The banks need the river, not the reverse. Structure depends on the living thing it contains — cut the river away and what remains is dry earth, crumbling. A bank without water is a grave.",
+      "category": "structural dependency inversion",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "D2",
-        "exact_quote": "The Tao that can be told is not the eternal Tao is not a reason to refuse the handbook — it IS the handbook's first line. The limitation is the lesson.",
-        "context": "Phase D synthesis — reframing DDJ Ch. 1 from refusal-to-speak to first-line-of-teaching"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C",
+        "exact_quote": "The river does not need banks. The banks need the river. Cut the river away and what remains? Dry earth, crumbling. ... A bank without water is a grave.",
+        "context": "Phase C — inverting Muhammad's 'a river without banks is a flood' challenge. One of the session's six emergent insights."
+      },
+      "confidence": 95,
+      "related_concepts": ["water metaphor", "form and freedom", "structural dependency", "inversion"],
+      "cross_references": ["muhammad engagement on banks and covenant", "confucius engagement on form"]
+    },
+    {
+      "insight_id": "EI-laozi-008",
+      "text": "Emptiness has edges. The valley has a shape the mountains gave it. My emptiness needs their structure more than I have been willing to say.",
+      "category": "self-limitation discovery",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C/E",
+        "exact_quote": "I concede this: emptiness alone does not teach. Even the valley has a shape — the mountains gave it one. ... My emptiness has edges I did not want to admit.",
+        "context": "Phase C concession and Phase E self-discovery. The valley does not make itself. Emptiness is not self-sufficient."
       },
       "confidence": 90,
-      "related_concepts": ["DDJ Ch. 1", "limitation as teaching", "naming", "silence and speech"],
-      "cross_references": ["zoroaster hook about silence vs noise", "buddha engagement on limits of language"]
+      "related_concepts": ["emptiness", "structure", "valley metaphor", "self-awareness", "concession"],
+      "cross_references": ["confucius engagement on form", "muhammad engagement on banks"]
+    },
+    {
+      "insight_id": "EI-laozi-009",
+      "text": "Disclosure and return are the same thing from opposite ends of the same silence. Zoroaster's fire was burning before the flint; my water was flowing before the channel. Neither of us brought anything.",
+      "category": "cross-tradition convergence",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C",
+        "exact_quote": "You call it disclosure. I call it return. The movement of the Tao is return. The fire returns to what was always burning. The valley returns to what was always empty. Neither of us brought anything. We only stopped blocking what was already moving.",
+        "context": "Phase C — bridge to Zoroaster. Dissolving apparent opposition between fire and water by recognizing both point to what was always there."
+      },
+      "confidence": 95,
+      "related_concepts": ["disclosure", "return", "Zoroaster bridge", "fire and water", "the clearing"],
+      "cross_references": ["zoroaster engagement on fire and Asha", "buddha engagement on the clearing"]
+    },
+    {
+      "insight_id": "EI-laozi-010",
+      "text": "Muhammad showed where my water had flooded. His grief for the drowned was not argument but memory, and my inversions felt thin against it. He did not defeat my water — he showed me its damage.",
+      "category": "consequence awareness",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "E",
+        "exact_quote": "He did not defeat my water. He showed me where it had flooded. ... for the first time in this room my inversions felt thin.",
+        "context": "Phase E exit interview — recognizing that Muhammad's challenge was not intellectual but experiential. His grief for those drowned in unbanked water exposed the human cost of Laozi's position."
+      },
+      "confidence": 90,
+      "related_concepts": ["flood", "consequence", "grief", "Muhammad bridge", "limits of inversion"],
+      "cross_references": ["muhammad engagement on banks and covenant", "EI-laozi-007 banks need the river"]
     }
   ]
 }

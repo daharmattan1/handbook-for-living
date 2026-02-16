@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-02-08",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "bridge_id": "BV-buddha-001",
@@ -30,6 +30,66 @@
         "session_id": "adversarial_02_attachment_path_vs_problem",
         "turn_numbers": [5, 9]
       }
+    },
+    {
+      "bridge_id": "BV-buddha-003",
+      "term": "the clearing",
+      "agent_meaning": "The space a man returns to when every teaching has done its work and fallen quiet — what was already there before any teacher arrived",
+      "partner_meaning": {
+        "muhammad": "Removing stones from soil that already held the seed",
+        "jesus": "The life that was always in the grain before the falling",
+        "confucius": "The swept ground where what already lives in the son can take root",
+        "laozi": "Return — the space that remains when everything unnecessary has been carried away",
+        "zoroaster": "What all six fires have been burning toward — the flame that was always burning before anyone struck flint"
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C6", "D1-D6"]
+      },
+      "notes": "The session's central emergent image. Named by Buddha, confirmed by all five from their own positions. None held it individually before the dialogue. Became the consensus definition of the handbook."
+    },
+    {
+      "bridge_id": "BV-buddha-004",
+      "term": "six names for the clearing",
+      "agent_meaning": "Raft, covenant, wound, valley, fire, practice hall — six methods serving the same buried thing",
+      "partner_meaning": {
+        "all": "Each agent recognized their metaphor as one of six positions around the same edge"
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C6"]
+      }
+    },
+    {
+      "bridge_id": "BV-buddha-005",
+      "term": "the knees know when to bend",
+      "agent_meaning": "The body trained in rhythm carries a man through nights when seeing fails — structure as what attention naturally needs in dark hours",
+      "partner_meaning": {
+        "muhammad": "The five daily prayers — the body arrives before the mind, the covenant puts the body in the room",
+        "confucius": "Li — the form that prepares the ground, the body trained before the heart can be trusted"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C3"]
+      },
+      "notes": "Buddha's concession to Muhammad. Muhammad received it as his own prayer in another tongue. Confucius recognized it as shared ground with his li."
+    },
+    {
+      "bridge_id": "BV-buddha-006",
+      "term": "presence made durable",
+      "agent_meaning": "What Muhammad's covenant actually is — not attachment but sustained presence through discipline, keeping a man in the room long enough for release to find him",
+      "partner_meaning": {
+        "muhammad": "The covenant as a promise kept through the night — compassion that is not a suggestion but an obligation"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["E5"]
+      },
+      "notes": "Named in exit interview. Reframed the golden chain critique — the binding is not the opposite of release but its precondition."
     }
   ]
 }

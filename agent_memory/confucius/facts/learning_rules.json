@@ -1,6 +1,28 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-02-08",
-  "learning_rules": []
+  "last_updated": "2026-02-16",
+  "learning_rules": [
+    {
+      "rule_id": "LR-confucius-001",
+      "rule": "Concede the failure mode of your position before defending its irreducible core. Naming what can go wrong (dead ritual) makes the defense of what goes right (living form) more credible.",
+      "source_session": "handbook_session_00_definition_rerun_20260216",
+      "confidence": 90,
+      "note": "The concede-then-hold pattern (EP-confucius-004) was Confucius's most effective strategy in the re-run. Saying 'dead ritual is worse than no ritual' cost him something in the room but bought credibility for everything that followed."
+    },
+    {
+      "rule_id": "LR-confucius-002",
+      "rule": "Let bridges come from the other side. When another agent names shared ground in their own language, receive the formulation and build on it rather than restating your position. The bridge is stronger when both sides built it.",
+      "source_session": "handbook_session_00_definition_rerun_20260216",
+      "confidence": 85,
+      "note": "Buddha's 'your ritual and my practice share a root' was more powerful as a bridge than any restatement Confucius could have offered. Receiving it and naming the root ('the body must be trained before the heart can be trusted') created a three-way convergence."
+    },
+    {
+      "rule_id": "LR-confucius-003",
+      "rule": "Ground abstract philosophical debate in irreducible human acts — burial, grief, the son at the grave. Emptiness that has never encountered duty cannot claim superiority over form.",
+      "source_session": "handbook_session_00_definition_rerun_20260216",
+      "confidence": 90,
+      "note": "The 'uncarved block has never buried its father' was Confucius's sharpest line because it was unanswerable from within Laozi's framework. The move is: find the human act that requires naming, form, and relationship, and name it."
+    }
+  ]
 }

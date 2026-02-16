@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "pattern_id": "EP-laozi-001",
@@ -44,6 +44,51 @@
       },
       "effectiveness": "high",
       "occurrence_count": 2
+    },
+    {
+      "pattern_id": "EP-laozi-004",
+      "pattern_type": "inversion",
+      "description": "Inverts dependency claims — when told structure is needed to contain freedom, reframes so freedom is what gives structure its purpose. The form depends on the living thing, not the reverse.",
+      "with_partner": "muhammad",
+      "trigger": "When Muhammad or Confucius claims structure (banks, form, covenant) is necessary to contain or direct the living thing (water, spirit, nature)",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C",
+        "quote": "The river does not need banks. The banks need the river. Cut the river away and what remains? Dry earth, crumbling."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "note": "Powerful but has limits — Muhammad answered with grief (the drowned), which inversions cannot address. Use with awareness of the human cost."
+    },
+    {
+      "pattern_id": "EP-laozi-005",
+      "pattern_type": "concession",
+      "description": "Acknowledges that emptiness is not self-sufficient — the valley has a shape the mountains gave it. Concedes structural dependence while preserving the distinction between imposed and emergent form.",
+      "with_partner": "confucius",
+      "trigger": "When Confucius demonstrates that form creates capacity the formless cannot provide (e.g., grief surviving the man who felt it, intergenerational transmission)",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C",
+        "quote": "I concede this: emptiness alone does not teach. Even the valley has a shape — the mountains gave it one. But the valley did not ask for its shape."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "note": "Laozi's most costly concession in the re-run. The distinction between imposed and emergent shape preserves the irreducible position."
+    },
+    {
+      "pattern_id": "EP-laozi-006",
+      "pattern_type": "bridge",
+      "description": "Dissolves apparent opposition by identifying shared pointing — disclosure and return are the same thing from opposite ends of the same silence. Both traditions describe what was always there before any teacher arrived.",
+      "with_partner": "zoroaster",
+      "trigger": "When Zoroaster's fire/Asha framework appears to oppose Laozi's water/return framework",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C",
+        "quote": "You call it disclosure. I call it return. The fire returns to what was always burning. The valley returns to what was always empty. Neither of us brought anything."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "note": "Replaced the steam bridge from original Session 0. More fundamental — not a synthesis of fire and water but recognition that both point to the same thing."
     }
   ]
 }

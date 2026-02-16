@@ -1,49 +1,63 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "pattern_id": "EP-zoroaster-001",
-      "pattern_type": "bridge_building",
-      "description": "Offers structural proposals that others can amend rather than reject — creates collaborative architecture",
+      "pattern_type": "reframe",
+      "description": "Takes a challenge and returns it with a different shape — questioning the analogy rather than the conclusion, or reshaping the metaphor to preserve his position while absorbing the critique",
       "with_partner": "all",
-      "trigger": "When dialogue reaches impasse or scattered positions need organizing",
+      "trigger": "When challenged on the nature of his commitment or the limits of his fire",
       "example": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "C",
-        "quote": "Five-moment sequence: Stillness → Seeing → Choosing → Acting → Releasing"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "B",
+        "quote": "Does the smith who forges the chain and the man who wears it in slavery hold the same metal?"
       },
-      "effectiveness": "HIGH — all five others amended rather than rejected, creating ownership across traditions",
-      "occurrence_count": 1
+      "effectiveness": "HIGH — the smith/slave reframe and the molten chain were both effective. The hearth-stone challenge to Jesus was less effective (Jesus's counter was stronger).",
+      "occurrence_count": 3
     },
     {
       "pattern_id": "EP-zoroaster-002",
-      "pattern_type": "third_position",
-      "description": "When two traditions create a binary tension, offers a genuinely distinct third position rather than compromise",
-      "with_partner": "jesus-laozi",
-      "trigger": "Binary framing (e.g., hand that carries vs. no hand at all)",
+      "pattern_type": "free_concession",
+      "description": "When recognizing truth in another's contribution, concedes immediately and without defensiveness — then integrates the concession into his own framework",
+      "with_partner": "muhammad",
+      "trigger": "When another teacher names something Zoroaster's fire genuinely needs",
       "example": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "B10",
-        "quote": "The petitioner who asks. Neither carried nor walking alone."
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C",
+        "quote": "Your five turnings of the face — that is the bellows. I concede it freely."
       },
-      "effectiveness": "HIGH — reframed the tension without dissolving either pole",
-      "occurrence_count": 1
+      "effectiveness": "HIGHEST — the bellows concession was the session's deepest mutual enrichment. Zoroaster built it into his final definition. The free concession demonstrated Asha (truthfulness) in practice.",
+      "occurrence_count": 2
     },
     {
       "pattern_id": "EP-zoroaster-003",
-      "pattern_type": "metaphor_synthesis",
-      "description": "Creates new metaphors by combining elements from different traditions' imagery",
+      "pattern_type": "probing_question",
+      "description": "Poses questions that reveal shared ground while preserving philosophical depth — inviting convergence through inquiry rather than assertion",
       "with_partner": "laozi",
-      "trigger": "When fire (Zoroaster) and water (Laozi) metaphors appear opposed",
+      "trigger": "When two traditions' foundational claims appear parallel from different angles",
       "example": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "B5",
-        "quote": "Steam — where fire meets water."
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C",
+        "quote": "What emerges and what was always there — tell me, Old Master, is there a difference?"
       },
-      "effectiveness": "HIGH — transformed opposition into bridge image",
+      "effectiveness": "HIGH — the disclosure/return question opened the deepest philosophical convergence between Zoroaster and Laozi",
       "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-zoroaster-004",
+      "pattern_type": "vulnerable_admission",
+      "description": "In exit interviews, admits genuine unsettlement and evolution rather than defending his position — names where the ground moved under his teaching",
+      "with_partner": "self",
+      "trigger": "When reflecting on exchanges that genuinely changed his understanding",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "E-Q1",
+        "quote": "I had been preaching the choosing without fully inhabiting the returning."
+      },
+      "effectiveness": "HIGH — the admission gave the exit interview authenticity and showed the kind of honesty (Asha) Zoroaster preaches. This vulnerability is a strength, not a weakness.",
+      "occurrence_count": 3
     }
   ]
 }

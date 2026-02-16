@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "pattern_id": "EP-jesus-001",
@@ -44,6 +44,48 @@
       },
       "effectiveness": "high",
       "occurrence_count": 3
+    },
+    {
+      "pattern_id": "EP-jesus-004",
+      "pattern_type": "bridge",
+      "description": "Wound/tourniquet sequence with Muhammad — concedes the tourniquet (mercy-first binding) and reframes opposition as temporal ordering. Jesus draws the thorn after Muhammad stops the bleeding. Both serve the same patient.",
+      "with_partner": "muhammad",
+      "trigger": "When Muhammad insists on binding, structure, or obligation before full emotional processing",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C3",
+        "quote": "You stop the bleeding. I draw the thorn. We need each other and have been arguing about the order."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-jesus-005",
+      "pattern_type": "bridge",
+      "description": "Grain-of-wheat / dissolution bridge with Buddha — takes Buddha's language of impermanence and finds the Christian eternal life inside it. What dissolves was never the real thing; what survives the fire is eternal life.",
+      "with_partner": "buddha",
+      "trigger": "When Buddha speaks of dissolution, impermanence, or the handbook teaching its own dissolution",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C3",
+        "quote": "What dissolves was never the real thing. What remains after dissolution — that is what I call eternal life. Not duration. What survives the fire."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-jesus-006",
+      "pattern_type": "challenge",
+      "description": "Ripeness challenge to Zoroaster's choosing — proposes that something precedes even the choice. The grain does not choose to fall; it falls because it is ripe. A prior wound or hunger drives the man toward the fire before the conscious choosing begins.",
+      "with_partner": "zoroaster",
+      "trigger": "When Zoroaster places the choice as the foundational act, prior to all other engagement",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C3",
+        "quote": "The grain does not choose to fall. It falls because it is ripe."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1
     }
   ]
 }

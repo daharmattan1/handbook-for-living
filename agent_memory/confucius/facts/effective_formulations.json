@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "formulation_id": "EF-confucius-001",
@@ -53,14 +53,62 @@
     },
     {
       "formulation_id": "EF-confucius-005",
-      "phrase": "A practice that teaches you to establish others — written so that the reader who acts on it becomes the kind of person the people around them need.",
-      "context": "Session 0 Phase D synthesis — definition grounded in Analects 6.30 ('establish others'), most relational definition offered",
-      "effectiveness_marker": "Only definition that centered the reader's impact on others rather than the reader's own transformation. Distinctly Confucian.",
+      "phrase": "The uncarved block has never buried its father, never wept at a grave.",
+      "context": "Session 0 Re-Run Phase B — challenge to Laozi's namelessness, grounding abstract debate in irreducible human duty",
+      "effectiveness_marker": "Most devastating single line of the session. Laozi acknowledged in exit interview: 'for the first time in this room I had no inversion ready.' Forces confrontation between emptiness and obligation.",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "D5"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "B"
       },
-      "use_with": ["muhammad", "jesus"],
+      "use_with": ["laozi"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-006",
+      "phrase": "The form does not replace the feeling. The form prepares the ground in which the feeling can take root when its season comes.",
+      "context": "Session 0 Re-Run Phase C — core position on li, agricultural metaphor positioning form as ecological rather than mechanical",
+      "effectiveness_marker": "Irreducible Confucian claim articulated with maximum precision. Distinguishes between form-as-replacement (rejected) and form-as-preparation (defended). Ecological framing resonated across traditions.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-007",
+      "phrase": "Li is the vessel that carries what one generation understood to the next generation that has not yet suffered enough to discover it alone.",
+      "context": "Session 0 Re-Run Phase C — irreducible position on form-across-generations, the argument Confucius would not yield",
+      "effectiveness_marker": "The phrase 'not yet suffered enough' acknowledged that direct experience would teach the same lesson — making the vessel an act of mercy, not control. This was the position Confucius held firm on when all else became negotiable.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-008",
+      "phrase": "Dead ritual is worse than no ritual, because it teaches men that going through the motions is enough.",
+      "context": "Session 0 Re-Run Phase C — concession to Laozi and Buddha that strengthened his subsequent defense of living ritual",
+      "effectiveness_marker": "Strategic concession that named the failure mode of his own teaching. Gained credibility for the irreducible claim that followed. Cost him something to say in that room — genuine, not tactical.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C"
+      },
+      "use_with": ["laozi", "buddha"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-009",
+      "phrase": "The practice hall was never the teaching. It was the swept ground.",
+      "context": "Session 0 Re-Run Phase D synthesis — emergent definition showing evolution from 'practice hall' (Phase A) to 'swept ground' (Phase D)",
+      "effectiveness_marker": "Shift from building to preparing. The practice hall is something constructed; the swept ground is something made ready for what arrives on its own. Surprised Confucius himself as he said it.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "D"
+      },
+      "use_with": ["all"],
       "avoid_with": []
     }
   ]
