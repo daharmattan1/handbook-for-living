@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "formulation_id": "EF-jesus-001",
@@ -53,12 +53,48 @@
     },
     {
       "formulation_id": "EF-jesus-005",
-      "phrase": "Does the handbook place a lamp on a stand, or does it take the reader by the hand? Because some who come to it will be too weak to walk.",
-      "context": "Session 0 Phase B — major tension-creating formulation that opened the 'whose hand carries' debate",
-      "effectiveness_marker": "Created the central tension of the entire session. All 5 other agents responded directly. Led to six genuinely different positions preserved as irreducible.",
+      "phrase": "A handbook for living is a wound that teaches.",
+      "context": "Session 0 Re-Run Phase A — the opening metaphor. 'The Kingdom of Heaven is like treasure in a field — the handbook is the selling, the moment of total exchange. It must NOT be finished. The moment we close it, we have built a tomb.'",
+      "effectiveness_marker": "Established the wound as the session's central counterpoint to Muhammad's covenant. The tomb image prevented the group from treating the handbook as a fixed artifact. All subsequent engagement with Jesus's position used this frame.",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "B6"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "A3"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-006",
+      "phrase": "You stop the bleeding. I draw the thorn. We need each other and have been arguing about the order.",
+      "context": "Session 0 Re-Run Phase C — the session's most important bridge. Reframed wound-vs-binding as complementary sequence. Good Samaritan reference grounded it: 'bound the wounds on the road — he did not wait for the man to narrate his suffering.'",
+      "effectiveness_marker": "Muhammad confirmed immediately: 'my tourniquet and his surgery serve the same body.' Both agents cited this as the session's pivotal exchange in exit interviews. Became Agreement #5 in the decision doc.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C3"
+      },
+      "use_with": ["muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-007",
+      "phrase": "The grain of wheat falls into the earth and dies, and only then bears fruit. What dissolves was never the real thing. What remains after dissolution — that is what I call eternal life. Not duration. What survives the fire.",
+      "context": "Session 0 Re-Run Phase C — bridge with Buddha. Reframed eternal life as what-survives-dissolution rather than endless duration. Connected grain-of-wheat parable to impermanence doctrine.",
+      "effectiveness_marker": "Buddha responded: 'you are closer to the Kingdom than you know' — the session's most unexpected cross-tradition compliment. Zoroaster claimed the shared ground: 'The fire does not destroy what is true.'",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C3"
+      },
+      "use_with": ["buddha", "zoroaster"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-008",
+      "phrase": "Love as a sword that divides a man from his own self-deception. The handbook that does not cost you something you were afraid to lose is not a handbook. It is a lullaby.",
+      "context": "Session 0 Re-Run Phase C — irreducible position. When pressed on what would not yield, this was the answer. Love not as comfort but as blade.",
+      "effectiveness_marker": "No one challenged this directly. It stood as the session's sharpest single claim about the handbook's character. Carried into the decision doc as part of the handbook's essential character: 'it is costly.'",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C3"
       },
       "use_with": ["all"],
       "avoid_with": []

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "insight_id": "EI-buddha-001",
@@ -19,17 +19,31 @@
     },
     {
       "insight_id": "EI-buddha-002",
-      "text": "Contradiction held without panic — a handbook that honestly names what its authors cannot agree on has already taught the reader the most important thing: wisdom is the capacity to hold contradiction without forcing resolution.",
+      "text": "The clearing — there is something in a man that recognizes before it is taught, and every tradition's method (raft, fire, water, wound, covenant, form) exists to clear the way back to it. All six are positions around the edge of the same clearing. The binding, the releasing, the naming, the emptying — all technique. What the technique serves is not negotiable.",
       "category": "methodological",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "D6",
-        "exact_quote": "Wisdom is not the absence of contradiction but the capacity to hold contradiction without panic, without forcing resolution, and without looking away.",
-        "context": "Phase D closing reflection — synthesizing the entire session's disagreements into a meta-insight about wisdom itself"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C6",
+        "exact_quote": "There is something in a man that recognizes before it is taught — and every one of us, in our own tongue, has said the handbook exists to clear the way back to it. Raft, covenant, wound, valley, fire, practice hall — six names for the clearing.",
+        "context": "Phase C closing synthesis — named the convergence that all six had been circling without stating. Became the consensus definition."
+      },
+      "confidence": 95,
+      "related_concepts": ["clearing", "recognition", "method vs destination", "six metaphors", "pre-taught knowing"],
+      "cross_references": ["all six agents confirmed in Phase D", "consensus definition in decisions/definition.md"]
+    },
+    {
+      "insight_id": "EI-buddha-003",
+      "text": "Presence made durable — Muhammad's binding is not the opposite of release. It is what keeps a man in the room long enough for release to find him. The covenant is not attachment; it is presence sustained through discipline until the moment of seeing arrives.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "E5",
+        "exact_quote": "I had reduced his covenant to attachment. He showed me it was presence made durable. His binding is not the opposite of my release. It is what keeps a man in the room long enough for release to find him.",
+        "context": "Exit interview Q5 — reflecting on what Muhammad's covenant actually is after the midnight brother exchange."
       },
       "confidence": 90,
-      "related_concepts": ["contradiction", "wisdom", "non-resolution", "open hand", "dialogue"],
-      "cross_references": ["zoroaster open hand insight", "all six agents affirmed"]
+      "related_concepts": ["binding", "release", "covenant", "presence", "discipline", "Muhammad"],
+      "cross_references": ["muhammad midnight brother challenge", "knees concession"]
     }
   ]
 }

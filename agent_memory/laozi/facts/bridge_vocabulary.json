@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "bridge_id": "BV-laozi-001",
@@ -44,6 +44,67 @@
         "session_id": "adversarial_03_learning_vs_unlearning",
         "turn_numbers": [10]
       }
+    },
+    {
+      "bridge_id": "BV-laozi-004",
+      "term": "the clearing",
+      "agent_meaning": "Return — the space that remains when everything that was never needed has been carried away. The Tao returning to what was always empty. 'The movement of the Tao is return.'",
+      "partner_meaning": {
+        "buddha": "The clearing — where every teaching falls quiet after doing its work. The raft set down.",
+        "muhammad": "Removing stones from soil that already held the seed. The covenant binding a man to what he already knows.",
+        "jesus": "The wound that teaches a man he was already whole. What survives the fire.",
+        "confucius": "The form that carries what a man already knows across the distance between forgetting and remembering.",
+        "zoroaster": "Disclosure — the fire that was always burning before any man struck flint."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C", "D"]
+      }
+    },
+    {
+      "bridge_id": "BV-laozi-005",
+      "term": "disclosure / return",
+      "agent_meaning": "Return — the movement of the Tao. Water flowing back to the source. What was always there before naming began.",
+      "partner_meaning": {
+        "zoroaster": "Disclosure — the fire was always burning. Ahura Mazda showed what had been burning since before the world. Not invention but revelation of what was always there."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C"]
+      },
+      "note": "Laozi and Zoroaster arrived at the same place from opposite ends of the same silence. Deepest bridge between the most philosophically distant pair."
+    },
+    {
+      "bridge_id": "BV-laozi-006",
+      "term": "banks and river",
+      "agent_meaning": "The river does not need banks; the banks need the river. Form depends on the living thing it contains. A bank without water is a grave.",
+      "partner_meaning": {
+        "muhammad": "A river without banks is a flood — it destroys the very fields it should nourish. Banks are not constraint but mercy. He has buried the drowned.",
+        "confucius": "Form carries love across generations who will never meet. Without the vessel, the wine is lost."
+      },
+      "bridge_potential": "medium",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["B", "C"]
+      },
+      "note": "Partially bridged. The inversion landed but Muhammad answered with grief (the drowned), which Laozi could not invert. The tension remains productive."
+    },
+    {
+      "bridge_id": "BV-laozi-007",
+      "term": "the valley's shape",
+      "agent_meaning": "The valley has a shape the mountains gave it — but the valley did not ask for its shape. Emptiness has edges. What is imposed perishes; what emerges, endures.",
+      "partner_meaning": {
+        "confucius": "The form prepares the ground in which the feeling can take root when its season comes. Without the form, the feeling has no vessel.",
+        "muhammad": "Even the valley needs edges. The Tao Te Ching has eighty-one chapters."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C"]
+      },
+      "note": "Laozi's most significant concession. Acknowledges structural dependence while preserving the distinction between imposed and emergent form."
     }
   ]
 }

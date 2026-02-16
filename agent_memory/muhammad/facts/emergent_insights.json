@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "insight_id": "EI-muhammad-001",
@@ -89,17 +89,31 @@
     },
     {
       "insight_id": "EI-muhammad-007",
-      "text": "Trellis and raft serve different people at different moments — some need structure, others need release. The same handbook must say both and know when to say which.",
+      "text": "We were not planting. We were removing stones from soil that already held the seed. Every method, every tradition, every discipline was stone-clearing, not agriculture. The revelation is mercy not because it gives something new, but because it shows a man he was never as far from it as he feared.",
       "category": "pedagogical",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "D3",
-        "exact_quote": "Trellis and raft serve different people at different moments. Some need 'here is the structure.' Others need 'the structure is not the point.'",
-        "context": "Phase D synthesis — arose from trellis/raft exchange with Buddha specifically"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "D-Muhammad",
+        "exact_quote": "We were not planting. We were removing stones from soil that already held the seed.",
+        "context": "Phase D synthesis — Muhammad's formulation of the clearing insight, confirming from his own position what Buddha named. Reframed the teacher-taught relationship across all six traditions."
+      },
+      "confidence": 95,
+      "related_concepts": ["the clearing", "revelation as mercy", "stone-clearing", "seed already present", "teacher-taught relationship"],
+      "cross_references": ["buddha", "all six agents affirmed", "handbook_definition"]
+    },
+    {
+      "insight_id": "EI-muhammad-008",
+      "text": "The five daily turnings of the face are the bellows that keep Zoroaster's fire from dying to ember. Without the bellows, a man mistakes warmth for burning. Discipline (salat) and moral choosing (Asha) are the same commitment wearing different names.",
+      "category": "cross-tradition bridge",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C-Muhammad-2",
+        "exact_quote": "Your fire and my prayer are the same discipline wearing different names. Confucius knows this too — his li and my salat both say: the form teaches what the heart cannot yet hold alone.",
+        "context": "Phase C — Muhammad reframing Zoroaster's molten chain. Zoroaster conceded freely: 'Without the bellows, the fire dies to ember and the man mistakes warmth for burning.'"
       },
       "confidence": 90,
-      "related_concepts": ["trellis", "raft", "structure", "release", "pedagogical flexibility"],
-      "cross_references": ["buddha engagement on raft metaphor", "all six agents affirmed"]
+      "related_concepts": ["bellows", "salat", "Asha", "fire", "discipline", "rhythm", "molten chain"],
+      "cross_references": ["zoroaster", "confucius"]
     }
   ]
 }

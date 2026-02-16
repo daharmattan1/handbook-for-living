@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-02-08",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "formulation_id": "EF-buddha-001",
@@ -41,14 +41,38 @@
     },
     {
       "formulation_id": "EF-buddha-004",
-      "phrase": "A tongue that helps the reader taste what no book can contain — offered as bread for the journey and released as a raft at the shore",
-      "context": "Session 0 definition synthesis — combined Muhammad's bread and his own raft into a single image that honored both",
-      "effectiveness_marker": "Final definition that synthesized all six positions; Muhammad specifically affirmed the trellis/raft bridge arose from their exchange",
+      "phrase": "Some nights, what saves a man is simply that his knees know when to bend.",
+      "context": "Session 0 Re-Run — conceding the body's need for rhythm to Muhammad after his midnight brother challenge. Acknowledged that structural discipline carries a man through hours when attention fails.",
+      "effectiveness_marker": "The session's most consequential concession. Muhammad received it as his own prayer returned in another tongue. Became the basis for Agreement #2 (the body carries the soul through dark hours).",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "D6"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C3"
       },
-      "use_with": ["muhammad", "all"],
+      "use_with": ["muhammad", "confucius"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-005",
+      "phrase": "Raft, covenant, wound, valley, fire, practice hall — six names for the clearing.",
+      "context": "Session 0 Re-Run — synthesizing what all six agents had been circling at the close of Phase C. Named the emergent consensus that the handbook exists to clear the way back to something a man already carries.",
+      "effectiveness_marker": "Became the organizing image for the entire decision document. All five others confirmed it in Phase D from their own positions. The session's defining synthesis.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C6"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-006",
+      "phrase": "I hold him with the same thing the physician holds the patient with — not affection, not command, but precise attention to the wound.",
+      "context": "Session 0 Re-Run — direct answer to Muhammad's challenge about what holds a falling brother. Reframed compassion as rigorous obligation to see clearly rather than comfort falsely.",
+      "effectiveness_marker": "Muhammad acknowledged it was 'not nothing' but pressed for more, leading to the knees concession. Established attention as a form of holding, not absence of holding.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C2"
+      },
+      "use_with": ["muhammad", "jesus"],
       "avoid_with": []
     }
   ]

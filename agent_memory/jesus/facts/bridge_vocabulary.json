@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "bridge_id": "BV-jesus-001",
@@ -42,6 +42,78 @@
       "provenance": {
         "session_id": "roundtable_LOVE_COMPASSION_20260205",
         "turn_numbers": [18, 32]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-004",
+      "term": "the wound that teaches",
+      "agent_meaning": "The handbook as wound — it cuts before it heals, costs something, insists rather than invites. The wound is the opening through which the teaching arrives.",
+      "partner_meaning": {
+        "muhammad": "Muhammad reframes: the wound must eventually close and become a scar. The tourniquet (binding) and the thorn-drawing (wound) are sequence, not opponents.",
+        "zoroaster": "The fire and the wound meet: both require something to be lost before what is real can be seen. Zoroaster says fire is prior; Jesus says the wound drove the man to the fire."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["A3", "C3"]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-005",
+      "term": "tourniquet and surgery",
+      "agent_meaning": "The Good Samaritan sequence — first bind the wound on the road (Muhammad's tourniquet), then draw the thorn at the inn (Jesus's surgery). Mercy may need to precede the full teaching.",
+      "partner_meaning": {
+        "muhammad": "The tourniquet is not hiding — it is mercy. It holds the man in place long enough for the deeper work. Muhammad's binding and Jesus's wound-teaching serve the same body."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C3"]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-006",
+      "term": "the grain that falls",
+      "agent_meaning": "The grain of wheat falls into the earth and dies, and only then bears fruit. In the re-run: the life was always in the grain. The falling only released it. The dying is not the point — what was alive before the dying began is the point.",
+      "partner_meaning": {
+        "buddha": "What dissolves was never the real thing. Buddha heard his own impermanence doctrine returned in Christian vocabulary.",
+        "zoroaster": "The grain does not choose to fall — it falls because it is ripe. This challenged Zoroaster's placing of choice as prior to everything."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C3"]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-007",
+      "term": "the clearing",
+      "agent_meaning": "The space a man returns to when every teaching has done its work and fallen quiet. Named by Buddha, confirmed by all six. Jesus's version: 'Every metaphor we fought over was a different hand clearing the same stone from the same ground so the same buried thing could finally breathe.'",
+      "partner_meaning": {
+        "buddha": "Six names for the clearing — the central emergent image",
+        "zoroaster": "What all six fires have been burning toward",
+        "laozi": "Return — the space that remains when everything never needed has been carried away",
+        "muhammad": "Removing stones from soil that already held the seed",
+        "confucius": "The swept ground"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C-end", "D"]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-008",
+      "term": "what survives the fire",
+      "agent_meaning": "Eternal life reframed — not duration but what remains after dissolution. What is real endures the fire. The grain that was always alive.",
+      "partner_meaning": {
+        "zoroaster": "Asha remains when the Lie burns. The fire does not destroy what is true — it reveals what was never true by letting it turn to ash.",
+        "buddha": "What dissolves was never the real thing — convergence between impermanence and eternal life as descriptions of the same sorting"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C3"]
       }
     }
   ]

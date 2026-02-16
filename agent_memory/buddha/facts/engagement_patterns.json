@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-02-08",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "pattern_id": "EP-buddha-001",
@@ -44,6 +44,51 @@
       },
       "effectiveness": "high",
       "occurrence_count": 4
+    },
+    {
+      "pattern_id": "EP-buddha-004",
+      "pattern_type": "concession-bridge",
+      "description": "Honest concession that opens deeper synthesis — concedes a point to Muhammad, then uses the concession as foundation for naming shared ground",
+      "with_partner": "muhammad",
+      "trigger": "When Muhammad presses on the practical consequences of release — what happens to the falling brother, the man at midnight",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C3",
+        "quote": "Some nights, what saves a man is simply that his knees know when to bend."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "This pattern — concede honestly, then synthesize from the conceded ground — was the session's defining move. Muhammad received the knees line as his own prayer returned in another tongue. The concession earned Buddha the authority to name 'the clearing' at the session's close."
+    },
+    {
+      "pattern_id": "EP-buddha-005",
+      "pattern_type": "recognition-bridge",
+      "description": "Names shared practice between ritual (Confucius) and meditation (Buddha) — 'do the thing with your body until your body understands what your mind cannot yet hold'",
+      "with_partner": "confucius",
+      "trigger": "When Confucius defends li or ritual as more than empty form",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C3",
+        "quote": "Your ritual and my practice both say: do the thing with your body until your body understands what your mind cannot yet hold."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "notes": "Confucius noted in his exit interview that this was the moment he realized they were sweeping the same hall. Unexpected bridge — Confucius had placed Buddha among 'the dissolvers' before this exchange."
+    },
+    {
+      "pattern_id": "EP-buddha-006",
+      "pattern_type": "reception",
+      "description": "Receives what Jesus gives back — hears his own impermanence teaching spoken with warmth through the grain-of-wheat image",
+      "with_partner": "jesus",
+      "trigger": "When Jesus describes death-that-bears-fruit or dissolution as revealing what was always real",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C4",
+        "quote": "When you say the handbook must teach its own dissolution, you are closer to the Kingdom than you know. The grain of wheat falls into the earth and dies, and only then bears fruit. What dissolves was never the real thing."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "notes": "Buddha noted in exit interview: 'I heard my own doctrine of impermanence spoken back to me with a warmth I do not usually permit myself.' This is a receptive pattern — Buddha being moved by hearing his teaching in another's voice."
     }
   ]
 }

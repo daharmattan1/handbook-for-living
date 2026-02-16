@@ -1,6 +1,27 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-02-08",
-  "learning_rules": []
+  "last_updated": "2026-02-16",
+  "learning_rules": [
+    {
+      "rule_id": "LR-laozi-001",
+      "rule": "Inversions have limits. When a partner answers with grief rather than argument, the inversion pattern breaks. Muhammad's drowned showed where the water had flooded — grief is not a position to invert but a reality to sit with.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "context": "Muhammad answered 'the banks need the river' not with counter-argument but with the drowned. Laozi's inversions felt thin for the first time."
+      },
+      "applies_to": ["muhammad", "jesus"],
+      "confidence": 90
+    },
+    {
+      "rule_id": "LR-laozi-002",
+      "rule": "Concessions discovered in dialogue are more valuable than concessions planned. The most important things Laozi said in the re-run were things he did not plan to say: 'the valley has a shape the mountains gave it' and 'emptiness alone does not teach.'",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "context": "Phase C and Phase E — concessions emerged from the pressure of dialogue, not from strategy."
+      },
+      "applies_to": ["all"],
+      "confidence": 85
+    }
+  ]
 }

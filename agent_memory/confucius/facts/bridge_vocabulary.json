@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "bridge_id": "BV-confucius-001",
@@ -41,6 +41,50 @@
       "provenance": {
         "session_id": "roundtable_WISDOM_KNOWLEDGE_20260206",
         "turn_numbers": [31]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-004",
+      "term": "the body trained before the heart trusted",
+      "agent_meaning": "Li teaches through physical practice — bowing, mourning rites, the son standing at the grave — until the body understands what the mind cannot yet hold. Form precedes and prepares feeling.",
+      "partner_meaning": {
+        "buddha": "Practice as bodily training — 'do the thing with your body until your body understands what your mind cannot yet hold.' Meditation posture, walking practice, mindful action.",
+        "muhammad": "Salat as bodily discipline — knees that bend at midnight carry the soul through hours the mind cannot navigate. Five daily prayers as body-memory that arrives before intention."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C"]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-005",
+      "term": "the swept ground / the clearing",
+      "agent_meaning": "The practice hall was never the teaching — it was the swept ground. Form prepares space for what arrives on its own. Every bow, every mourning rite exists not to install recognition but to keep the path open.",
+      "partner_meaning": {
+        "buddha": "The clearing — what a man returns to when every teaching has done its work and fallen quiet. Six methods serving the same buried thing.",
+        "laozi": "The valley — the space that remains when everything that was never needed has been carried away. Removal, not addition.",
+        "muhammad": "Removing stones from soil that already held the seed. The covenant binds a man to what he already knows.",
+        "jesus": "The wound teaches a man he was already whole. The grain's life was always in it before the dying.",
+        "zoroaster": "The fire was burning before the flint. The bellows keep burning what was always fire."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C", "D"]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-006",
+      "term": "guarding the same child",
+      "agent_meaning": "Confucius guards the moment after the form arrives — ensuring grief, love, and reverence can survive across generations through named vessels (li).",
+      "partner_meaning": {
+        "laozi": "Guards the moment before the form arrives — ensuring the raw weeping, the unnamed feeling, is not replaced or distorted by premature naming. 'The child weeps before anyone teaches him the word for father.'"
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["E"]
       }
     }
   ]

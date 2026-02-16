@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "pattern_id": "EP-confucius-001",
@@ -44,6 +44,51 @@
       },
       "effectiveness": "high",
       "occurrence_count": 3
+    },
+    {
+      "pattern_id": "EP-confucius-004",
+      "pattern_type": "concede-then-hold",
+      "description": "Concedes the failure mode of his own position (dead ritual) to strengthen the defense of the irreducible core (living form carries love across generations). Names what can go wrong to make the defense of what goes right more credible.",
+      "with_partner": "laozi",
+      "trigger": "When the defense of form risks sounding like defense of all form, including dead form",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C",
+        "quote": "Dead ritual is worse than no ritual, because it teaches men that going through the motions is enough. On this, you and Siddhartha and I stand together. But here I hold firm and will not yield: without the form, the feeling has no vessel to survive the man who felt it."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "note": "First appearance of this pattern. More effective than pure defense (EP-confucius-001) because it demonstrates self-awareness about the weakness of his own position."
+    },
+    {
+      "pattern_id": "EP-confucius-005",
+      "pattern_type": "receptive-bridge",
+      "description": "Receives another's formulation of his own teaching and builds on it, rather than restating his position in his own terms. Lets the bridge come from the other side.",
+      "with_partner": "buddha",
+      "trigger": "When Buddha or another agent names shared ground in their own language that maps onto Confucian practice",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C",
+        "quote": "Siddhartha, you said my ritual and your practice share a root — yes. The root is this: the body must be trained before the heart can be trusted."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "note": "Confucius's most important move was receptive rather than assertive. He heard Buddha name the bridge and then named the root rather than restating the bridge."
+    },
+    {
+      "pattern_id": "EP-confucius-006",
+      "pattern_type": "concrete-testimony",
+      "description": "Answers an abstract challenge with specific human examples rather than counter-argument. Turns the challenge into an invitation to testify about what li actually holds.",
+      "with_partner": "jesus",
+      "trigger": "When Jesus or another agent challenges the value of form or asks what the form contains",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C",
+        "quote": "My cup holds the son who stands at his father's grave and does not need to be told to weep. It holds the minister who sees the starving village and does not need a doctrine to act. It holds the student who bows to his teacher not because he was commanded, but because something in him recognizes what is owed."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "note": "Grounded li in recognizable human moments rather than arguing for its necessity in the abstract."
     }
   ]
 }

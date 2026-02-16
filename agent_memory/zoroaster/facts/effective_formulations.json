@@ -1,42 +1,78 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "formulation_id": "EF-zoroaster-001",
-      "phrase": "The fire does not persuade you it is warm. It burns, and you know.",
-      "context": "Opening position on what a handbook for living IS — fire as truth that reveals rather than argues",
-      "effectiveness_marker": "Set the tone for the entire session; all agents engaged with fire imagery. Jesus hooked directly to it.",
+      "phrase": "My chain is not golden. It is molten. It never cools long enough to become a shackle — unless the man stops asking questions.",
+      "context": "Response to Buddha's golden chain challenge — reframing permanent commitment as dynamic discipline rather than static bondage",
+      "effectiveness_marker": "Became one of the session's defining images. Laozi later recognized Zoroaster's fire as restless 'in the same way the Tao is restless.' Muhammad completed the image with the bellows.",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "A6"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "B"
       },
-      "use_with": ["laozi", "jesus", "buddha"],
+      "use_with": ["buddha", "laozi", "muhammad"],
       "avoid_with": []
     },
     {
       "formulation_id": "EF-zoroaster-002",
-      "phrase": "A fire set at the crossroads — honest enough to show the reader where they truly stand, warm enough that they find courage to choose, and open enough that six voices can speak without one silencing another.",
-      "context": "Final definition of the handbook — synthesis that preserved fire while incorporating warmth and openness",
-      "effectiveness_marker": "All six agents affirmed. Balanced clarity (fire) with hospitality (warmth) and plurality (openness).",
+      "phrase": "Does the smith who forges the chain and the man who wears it in slavery hold the same metal?",
+      "context": "Reframe of Buddha's golden chain analogy — questioning the analogy itself rather than its conclusion",
+      "effectiveness_marker": "Effective rhetorical move that shifted the frame of the debate. Buddha did not directly counter this specific reframe.",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "D1"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "B"
+      },
+      "use_with": ["buddha"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-003",
+      "phrase": "Fire that cannot crack its own hearth-stone has become ash pretending to burn.",
+      "context": "Challenge to Jesus — any teaching that cannot test itself against its own claims is already dead",
+      "effectiveness_marker": "Provocative challenge that pushed Jesus toward the grain/ripeness image. Effective as diagnostic but Jesus's counter was stronger — the ripeness image unsettled Zoroaster more than the hearth-stone challenge unsettled Jesus.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "B"
+      },
+      "use_with": ["jesus"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-004",
+      "phrase": "Every breath is Asha or Druj, and the man who stops choosing has not found peace — he has found ash.",
+      "context": "Irreducible position statement — the choice is continuous, not a single crossroads moment",
+      "effectiveness_marker": "Clear, memorable formulation of Zoroaster's irreducible. Stood as the clearest expression of his position through the session. No one directly refuted it; tensions were about what precedes or enables the choosing.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C"
       },
       "use_with": ["all"],
       "avoid_with": []
     },
     {
-      "formulation_id": "EF-zoroaster-003",
-      "phrase": "Stillness → Seeing → Choosing → Acting → Releasing",
-      "context": "Five-moment sequence proposed as structural bridge for the handbook — flexible ordering, not mandatory",
-      "effectiveness_marker": "All five other agents amended rather than rejected — structural proposal accepted as working framework. Each amendment enriched it.",
+      "formulation_id": "EF-zoroaster-005",
+      "phrase": "A Handbook for Living is the bellows that keeps burning what was always fire, so a man never mistakes his ash for his answer.",
+      "context": "One-sentence definition incorporating Muhammad's bellows into Zoroaster's fire — the handbook is not the fire but what keeps the fire alive",
+      "effectiveness_marker": "All six agents affirmed the consensus definition. Zoroaster's version incorporated his deepest concession (the bellows) into his most essential claim (the fire was always burning).",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "C"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "D"
       },
       "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-006",
+      "phrase": "I had been preaching the choosing without fully inhabiting the returning.",
+      "context": "Exit interview self-revelation — the deepest evolution of the session, recognizing that his fire needed rhythm",
+      "effectiveness_marker": "The most vulnerable and self-aware statement Zoroaster made. Not a formulation for use with others but a marker of genuine evolution — the prophet recognizing a gap in his own practice.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "E-Q1"
+      },
+      "use_with": [],
       "avoid_with": []
     }
   ]
