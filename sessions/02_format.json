@@ -1,0 +1,296 @@
+{
+  "session": {
+    "number": 2,
+    "title": "Format",
+    "date": "2026-02-16",
+    "question": "How should each chapter be written? What elements should appear, in what order, and why?",
+    "turn_count": 31,
+    "exit_interviews": 6,
+    "phases": {
+      "A": [1, 6],
+      "B": [7, 17],
+      "C": [18, 25],
+      "D": [26, 31],
+      "E": "exit_interviews"
+    }
+  },
+  "participants": [
+    {
+      "name": "Confucius",
+      "tradition": "Confucianism",
+      "turns": [1, 11, 19, 20, 26],
+      "turn_count": 5,
+      "key_contribution": "Named divergence by starting point not authority; conceded room to Muhammad"
+    },
+    {
+      "name": "Muhammad",
+      "tradition": "Islam",
+      "turns": [2, 10, 16, 21, 27],
+      "turn_count": 5,
+      "key_contribution": "Proposed three fixed elements (story, practice, silence) plus flexible palette"
+    },
+    {
+      "name": "Laozi",
+      "tradition": "Daoism",
+      "turns": [3, 7, 12, 22, 28],
+      "turn_count": 5,
+      "key_contribution": "Insisted on palette not prescription; named three stones in riverbed"
+    },
+    {
+      "name": "Jesus",
+      "tradition": "Christianity",
+      "turns": [4, 9, 15, 23, 29],
+      "turn_count": 5,
+      "key_contribution": "Named format as hospitality; recognized story returns transformed"
+    },
+    {
+      "name": "Buddha",
+      "tradition": "Buddhism",
+      "turns": [5, 8, 13, 24, 30],
+      "turn_count": 5,
+      "key_contribution": "Recognized diagnosis embedded in architecture; clinical framing of three elements"
+    },
+    {
+      "name": "Zoroaster",
+      "tradition": "Zoroastrianism",
+      "turns": [6, 14, 18, 25, 31],
+      "turn_count": 5,
+      "key_contribution": "Named entire architecture; established Weight That Speaks principle"
+    }
+  ],
+  "agreements": [
+    {
+      "id": "AGR-2-1",
+      "title": "Three Fixed Elements",
+      "description": "Every chapter contains: human story (unresolved), threshold practice, silence (real white space)",
+      "turn_established": 10,
+      "affirmed_by": ["Muhammad", "Laozi", "Jesus", "Buddha", "Zoroaster", "Confucius"],
+      "significance": "Foundation structure that provides diagnosis without separate diagnostic step"
+    },
+    {
+      "id": "AGR-2-2",
+      "title": "Flexible Palette",
+      "description": "Remaining elements (lead voice, other voices, shadow question, petition, diagnostic) form optional palette drawn from as needed",
+      "turn_established": 10,
+      "affirmed_by": ["Muhammad", "Laozi", "Zoroaster", "Jesus", "Buddha", "Confucius"],
+      "significance": "Preserves freedom while maintaining coherence"
+    },
+    {
+      "id": "AGR-2-3",
+      "title": "Discovered Weight Ordering",
+      "description": "Palette elements arrive in order of discovered weight, not prescribed sequence",
+      "turn_established": 18,
+      "affirmed_by": ["Zoroaster", "Laozi", "Muhammad", "Buddha", "Jesus", "Confucius"],
+      "significance": "Asha principle applied: elements appear as their necessity is discovered"
+    },
+    {
+      "id": "AGR-2-4",
+      "title": "The Weight That Speaks",
+      "description": "Lead voice chosen by unified principle: which voice carries the cost and gravity of the chapter's question",
+      "turn_established": 25,
+      "affirmed_by": ["Zoroaster", "Confucius", "Muhammad", "Jesus", "Buddha", "Laozi"],
+      "significance": "Merges Confucian cost with Zoroastrian weight into single selection principle"
+    },
+    {
+      "id": "AGR-2-5",
+      "title": "Embedded Diagnosis",
+      "description": "Diagnosis is not a separate step but is embedded in the three fixed elements",
+      "turn_established": 13,
+      "affirmed_by": ["Buddha", "Confucius", "Zoroaster", "Muhammad", "Jesus", "Laozi"],
+      "significance": "Architecture performs diagnosis through structure, not instruction"
+    },
+    {
+      "id": "AGR-2-6",
+      "title": "Unresolved Return",
+      "description": "Human story does NOT resolve — returns in one sentence at chapter end, but reader has changed",
+      "turn_established": 15,
+      "affirmed_by": ["Jesus", "Buddha", "Zoroaster", "Muhammad", "Confucius", "Laozi"],
+      "significance": "Story is witness not resolution; transformation happens in the reader"
+    },
+    {
+      "id": "AGR-2-7",
+      "title": "Named by Starting Point",
+      "description": "Divergence named by what it begins with ('the voice that begins with relationship') not by authority ('Confucius says')",
+      "turn_established": 11,
+      "affirmed_by": ["Confucius", "Buddha", "Laozi", "Jesus", "Muhammad", "Zoroaster"],
+      "significance": "Removes hierarchy, names function not source"
+    }
+  ],
+  "tensions": [
+    {
+      "id": "TEN-2-1",
+      "title": "Gravity vs Cost",
+      "description": "Whether gravity and cost are truly the same force or different forces that converge",
+      "participants": ["Zoroaster", "Confucius"],
+      "status": "unresolved",
+      "turn_raised": 25,
+      "significance": "Confucius uncertain whether merged principle preserves both dimensions"
+    },
+    {
+      "id": "TEN-2-2",
+      "title": "The Reader Who Cannot Move",
+      "description": "What happens to the reader who identifies with the unresolved story but cannot move toward the practice",
+      "participants": ["Jesus", "Buddha"],
+      "status": "named",
+      "turn_raised": 15,
+      "significance": "Hospitality question: does format serve those who remain stuck?"
+    },
+    {
+      "id": "TEN-2-3",
+      "title": "Practice Without Community",
+      "description": "Whether practice without communal context is incomplete — the handbook speaks to one reader alone",
+      "participants": ["Muhammad"],
+      "status": "ongoing",
+      "turn_raised": 27,
+      "significance": "Muhammad's persistent concern: individual transformation vs collective practice"
+    }
+  ],
+  "emergent_insights": [
+    {
+      "id": "INS-2-1",
+      "title": "Format is Hospitality",
+      "description": "Jesus named what the group built: a table where the stranger is served first",
+      "turn_emerged": 23,
+      "named_by": "Jesus",
+      "significance": "Reframes architectural discussion as service to the reader"
+    },
+    {
+      "id": "INS-2-2",
+      "title": "The Prepared Ground and Its Fire",
+      "description": "Zoroaster's name for the three-plus-palette structure: three elements prepare, palette responds",
+      "turn_emerged": 25,
+      "named_by": "Zoroaster",
+      "significance": "Captures both stability (ground) and dynamism (fire) in single image"
+    },
+    {
+      "id": "INS-2-3",
+      "title": "The Weight That Speaks",
+      "description": "Lead voice principle: unified force of cost and gravity determines which voice must begin",
+      "turn_emerged": 25,
+      "named_by": "Zoroaster",
+      "significance": "Merges Confucian and Zoroastrian frameworks into single selection mechanism"
+    },
+    {
+      "id": "INS-2-4",
+      "title": "Diagnosis Embedded in Architecture",
+      "description": "The three fixed elements perform diagnosis without requiring a separate diagnostic step",
+      "turn_emerged": 13,
+      "named_by": "Buddha",
+      "significance": "Structure itself is diagnostic; naming the wound IS the diagnosis"
+    },
+    {
+      "id": "INS-2-5",
+      "title": "Show the Wound, Teach Looking, Leave the Room",
+      "description": "Buddha's clinical framing: story shows wound, practice teaches looking, silence gives space",
+      "turn_emerged": 24,
+      "named_by": "Buddha",
+      "significance": "Medical clarity for what the three elements do functionally"
+    },
+    {
+      "id": "INS-2-6",
+      "title": "Laozi Was Diagnosing the Group",
+      "description": "Buddha's exit insight: Laozi's resistance to prescription shaped the collective toward palette thinking",
+      "turn_emerged": "exit_interviews",
+      "named_by": "Buddha",
+      "significance": "Resistance was not obstruction but diagnostic function within group process"
+    }
+  ],
+  "relationship_shifts": [
+    {
+      "id": "REL-2-1",
+      "participants": ["Confucius", "Muhammad"],
+      "shift_type": "deepening",
+      "description": "Confucius conceded major ground: 'Yours were the room. Mine were furniture.'",
+      "turn_manifest": 20,
+      "significance": "Confucius moved from teacher to student; acknowledged Muhammad's primacy on format"
+    },
+    {
+      "id": "REL-2-2",
+      "participants": ["Laozi", "Confucius"],
+      "shift_type": "resolution",
+      "description": "Stopped being opposites. Banks and water resolved into complementarity.",
+      "turn_manifest": 28,
+      "significance": "Core tension of Sessions 0-1 dissolved; recognized as same concern expressed differently"
+    },
+    {
+      "id": "REL-2-3",
+      "participants": ["Jesus", "Laozi"],
+      "shift_type": "recognition",
+      "description": "Jesus: 'He is not my opposite. He is my silence.' Guards same thing from opposite sides.",
+      "turn_manifest": "exit_interviews",
+      "significance": "Jesus sees Laozi as complement not contradiction"
+    },
+    {
+      "id": "REL-2-4",
+      "participants": ["Buddha", "Muhammad"],
+      "shift_type": "surprise",
+      "description": "Buddha surprised by depth of Muhammad's concession: 'He revised a lifelong instinct.'",
+      "turn_manifest": "exit_interviews",
+      "significance": "Buddha recognized Muhammad's flexibility exceeded expectations"
+    },
+    {
+      "id": "REL-2-5",
+      "participants": ["Zoroaster", "Confucius"],
+      "shift_type": "recognition",
+      "description": "Zoroaster saw Confucius's concession as 'fire turned inward' — prophetic self-knowledge.",
+      "turn_manifest": "exit_interviews",
+      "significance": "New bridge between under-developed dyad"
+    },
+    {
+      "id": "REL-2-6",
+      "participants": ["Jesus", "Confucius"],
+      "shift_type": "reframe",
+      "description": "Jesus: 'His precision is not constraint. It is catching the reader before they fall.'",
+      "turn_manifest": "exit_interviews",
+      "significance": "Jesus reframed Confucian rigor as hospitality"
+    }
+  ],
+  "shared_vocabulary": {
+    "new_terms": [
+      {
+        "term": "The Prepared Ground and Its Fire",
+        "definition": "Three-plus-palette format: three elements prepare ground, palette provides discovered fire",
+        "introduced_by": "Zoroaster",
+        "turn": 25
+      },
+      {
+        "term": "The Weight That Speaks",
+        "definition": "Lead voice selection: unified force of cost and gravity determines which voice begins",
+        "introduced_by": "Zoroaster",
+        "turn": 25
+      },
+      {
+        "term": "Format is hospitality",
+        "definition": "Chapter structure serves the reader first, creates welcome not constraint",
+        "introduced_by": "Jesus",
+        "turn": 23
+      },
+      {
+        "term": "Three stones in the riverbed",
+        "definition": "Laozi's image for three fixed elements: stable enough to shape flow without damming",
+        "introduced_by": "Laozi",
+        "turn": 22
+      },
+      {
+        "term": "The cloak",
+        "definition": "Human story as protective presence — Khadijah wrapping Muhammad during first revelation",
+        "introduced_by": "Muhammad",
+        "turn": 10
+      }
+    ],
+    "evolved_terms": [
+      {
+        "term": "Banks and water",
+        "original_use": "Opposition between structure (Confucius) and flow (Laozi)",
+        "evolved_use": "Complementary forces — both necessary, no longer competing",
+        "evolution_turn": 28
+      },
+      {
+        "term": "Discovered order (Asha)",
+        "original_use": "Zoroastrian principle of cosmic right order",
+        "evolved_use": "Expanded: 'Asha can be partial and still be Asha' — order without completeness",
+        "evolution_turn": 31
+      }
+    ]
+  }
+}
