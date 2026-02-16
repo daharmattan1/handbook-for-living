@@ -47,3 +47,34 @@ A timeline of how understanding evolved across sessions — the longitudinal vie
 3. "What Sustains" moved to Section 5 (between Choosing and Acting)
 4. Each section carries all six voices, not one voice per section
 5. Shadow questions accompany each surface question
+
+---
+
+## Session 2: Format — "How should each chapter be written?"
+**Date:** 2026-02-15
+
+### Key Relationship Shifts
+
+- **Confucius → Muhammad:** "Yours were the room. Mine were the furniture." Confucius recognized that Muhammad's three fixed elements (story, threshold, silence) served the reader, while his own three (threshold, lead voice, shadow question) served the teaching. A deep concession of pedagogical priority — the teacher yielded to the host.
+- **Laozi ↔ Confucius:** "Stopped being opposites." Laozi, who had seen rigidity in Confucius's precision, now saw care: "He is setting a table." Confucius, who had resisted Laozi's subtractions, found himself agreeing that eight elements were too many. Banks and water resolved into active collaboration.
+- **Jesus → Laozi:** "He is not my opposite. He is my silence." The session's most significant new bridge. Jesus recognized that Laozi's silence is not the absence of his speech but the space that makes his speech possible. Complementarity reframed from polarity to necessity.
+- **Buddha → Muhammad:** Surprised by the depth of Muhammad's concession — "The bread cannot be first" — which revised a lifelong instinct to provide. Buddha recognized that releasing attachment to one's best contribution is itself the practice.
+- **Zoroaster → Confucius:** Called Confucius's concession "fire turned inward" — the most demanding form of intellectual honesty, where the teacher applies his own rigor to his own assumptions. Recognized it as prophetic self-knowledge.
+- **Jesus → Confucius:** "His precision is not constraint. It is catching the reader before they fall." Reframed Confucius's structural instinct as a form of mercy rather than control.
+
+### Emergent Concepts
+- **"The Prepared Ground and Its Fire"** — Zoroaster's name for the chapter format structure: three fixed elements (the ground) and the teaching that burns between them
+- **"The Weight That Speaks"** — Zoroaster's name for the lead voice principle: when one tradition carries the primary perspective, it carries weight
+- **"Format is hospitality"** — Jesus's naming of what the three fixed elements perform: the act of sitting with someone before speaking
+- **"Three stones in the riverbed"** — Laozi's image for the three fixed elements: enough structure to give the water voice, not so much that the water cannot move
+- **"The cloak"** — Muhammad's metaphor drawn from Khadijah wrapping him: the human story as the act of covering someone before asking them to stand
+- **"Show the wound, teach looking, leave the room"** — Buddha's clinical translation of the three fixed elements as diagnostic acts
+- **"Partial Asha"** — Zoroaster's recognition that discovered order does not have to be total to be true
+
+### Format Decisions
+1. Three fixed elements per chapter: human story, threshold moment, silence
+2. Five flexible elements available as a palette (not required)
+3. Lead voice available but not mandatory — one tradition may carry a chapter's primary perspective
+4. White space is a structural element, not decoration
+5. Format structure named "The Prepared Ground and Its Fire"
+6. Reduction from eight proposed elements to three fixed + five flexible
