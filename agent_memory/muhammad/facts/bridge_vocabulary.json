@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "bridge_id": "BV-muhammad-001",
@@ -46,6 +46,77 @@
       "provenance": {
         "session_id": "roundtable_SUFFERING_IMPERMANENCE_20260206",
         "turn_numbers": [26]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-004",
+      "term": "the bellows",
+      "agent_meaning": "The five daily turnings of the face (salat) as the mechanism that keeps Zoroaster's fire from dying to ember. Without the bellows, a man mistakes warmth for burning. Discipline is what transforms a single choice into a sustained commitment.",
+      "partner_meaning": {
+        "zoroaster": "Received freely — Zoroaster conceded that his fire needs Muhammad's rhythm to stay molten. 'Without the bellows, the fire dies to ember.' The bellows became the session's key bridge between fire and prayer.",
+        "confucius": "Resonates with li as the rhythm of practiced virtue — 'the form teaches what the heart cannot yet hold alone.' Confucius's ritual and Muhammad's salat share the same root: bodily discipline preceding understanding.",
+        "buddha": "Connected to the knees concession — 'some nights, what saves a man is simply that his knees know when to bend.' The bellows is what gets the knees to the floor."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C-Muhammad-2"]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-005",
+      "term": "removing stones from soil that already held the seed",
+      "agent_meaning": "The revelation does not plant anything new — the seed was always in the man. Every method, every tradition, every discipline is stone-clearing. The mercy of revelation is not giving something new but showing a man he was never as far from it as he feared.",
+      "partner_meaning": {
+        "buddha": "Confirmed as 'the clearing' — six metaphors are six positions around the edge of the same clearing. Buddha: 'There is something in a man that recognizes before it is taught.'",
+        "jesus": "The grain of wheat was always alive — the falling only released it. 'What dissolves was never the real thing.'",
+        "laozi": "Return — 'the movement of the Tao is return.' Neither of us brought anything. We only stopped blocking what was already moving.",
+        "zoroaster": "Disclosure — the fire was burning before any man struck flint. What was always there needed no bringing.",
+        "confucius": "The form prepares the ground for what already lives in the son. The practice hall was never the teaching — it was the swept ground."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["D-Muhammad"]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-006",
+      "term": "presence made durable",
+      "agent_meaning": "Buddha's exit interview naming of what Muhammad's covenant actually is. Not attachment, not a golden chain, but 'what keeps a man in the room long enough for release to find him.' The binding is not the opposite of release — it is the precondition.",
+      "partner_meaning": {
+        "buddha": "Buddha coined this phrase about Muhammad: 'I had reduced his covenant to attachment. He showed me it was presence made durable. His binding is not the opposite of my release. It is what keeps a man in the room long enough for release to find him.'"
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["Exit-Buddha-Q5"]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-007",
+      "term": "the clearing",
+      "agent_meaning": "Buddha's name for the shared destination all six traditions point toward. Something in a man recognizes before it is taught, and the handbook exists to clear the way back to it. For Muhammad, this resonates with fitra — the primordial disposition toward God that every person is born with.",
+      "partner_meaning": {
+        "all": "The session's central emergent insight. Six metaphors (raft, covenant, wound, valley, fire, practice hall) are six positions around the edge of the same clearing. Affirmed by all six voices."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C-Buddha-final", "D-all"]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-008",
+      "term": "tourniquet and surgery are sequence",
+      "agent_meaning": "Jesus's naming of the bridge between Muhammad's binding and Jesus's wound: 'You stop the bleeding. I draw the thorn. We need each other and have been arguing about the order.' The tourniquet (Muhammad's covenant) and the surgery (Jesus's wound that teaches) serve the same body in sequence, not opposition.",
+      "partner_meaning": {
+        "jesus": "Jesus found this bridge after Muhammad spoke of burying men who bled to death waiting for authentic grief. 'The Good Samaritan bound the wounds on the road — he did not wait for the man to narrate his suffering.'"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C-Jesus"]
       }
     }
   ]

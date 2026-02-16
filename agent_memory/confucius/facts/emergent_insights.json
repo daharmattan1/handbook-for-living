@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "insight_id": "EI-confucius-001",
@@ -89,17 +89,59 @@
     },
     {
       "insight_id": "EI-confucius-007",
-      "text": "The corner and the space beyond it — he and Laozi are two halves of one teaching method. Confucius builds the first corner; Laozi insists the student find the remaining three in silence. His structure without Laozi's silence becomes rigidity; Laozi's silence without his structure has no entry point.",
+      "text": "The practice hall was never the teaching. It was the swept ground. Every bow, every mourning rite, every carefully spoken name, exists not to install recognition but to keep the path open so it can arrive when its season comes.",
       "category": "methodological",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "D5",
-        "exact_quote": "He and Laozi are two halves of one teaching method. His structure without Laozi's silence becomes rigidity. Laozi's silence without his structure has no entry point.",
-        "context": "Phase D synthesis — recognized complementarity with Laozi that transcends their historical tension"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "D",
+        "exact_quote": "The practice hall was never the teaching. It was the swept ground... every form I have ever loved, every bow, every mourning rite, every carefully spoken name, exists not to install that recognition but to keep the path open so it can arrive when its season comes.",
+        "context": "Phase D synthesis — evolved from 'practice hall' (Phase A) to 'swept ground' (Phase D). The central shift of the re-run session: from building to preparing."
+      },
+      "confidence": 95,
+      "related_concepts": ["the clearing", "swept ground", "li", "form as preparation", "arrival"],
+      "cross_references": ["EF-confucius-009", "BV-confucius-005", "buddha on the clearing"]
+    },
+    {
+      "insight_id": "EI-confucius-008",
+      "text": "We are guarding the same love from opposite directions. He guards the moment before the form. I guard the moment after. Neither of us had fully seen that we were standing watch over the same child.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "E",
+        "exact_quote": "We are guarding the same love from opposite directions. He guards the moment before the form. I guard the moment after. Neither of us, I think, had fully seen that we were standing watch over the same child.",
+        "context": "Exit interview Q5 — deepest reframing of the Confucius-Laozi relationship. Transcends complementarity (the earlier metaphor) into shared guardianship."
+      },
+      "confidence": 95,
+      "related_concepts": ["Confucius-Laozi", "guardianship", "form and feeling", "the child", "naming"],
+      "cross_references": ["BV-confucius-006", "EI-confucius-005", "laozi on child weeping"]
+    },
+    {
+      "insight_id": "EI-confucius-009",
+      "text": "I walked in believing I defended form alone. I walked out knowing three of us had been sweeping the same hall. Muhammad's salat and Buddha's practice and my li are the same discipline carried by different hands across different centuries.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "E",
+        "exact_quote": "I walked in believing I defended form alone. I walked out knowing three of us had been sweeping the same hall.",
+        "context": "Exit interview Q2 — discovery that the Confucius-Buddha-Muhammad convergence on bodily practice was the session's most unexpected alliance."
       },
       "confidence": 90,
-      "related_concepts": ["complementarity", "structure", "silence", "teaching method", "Confucius-Laozi"],
-      "cross_references": ["laozi engagement on wu-wei and silence", "zoroaster open hand insight"]
+      "related_concepts": ["bodily practice", "li", "salat", "meditation", "convergence", "body-training"],
+      "cross_references": ["BV-confucius-004", "EF-confucius-006", "muhammad on knees", "buddha on body practice"]
+    },
+    {
+      "insight_id": "EI-confucius-010",
+      "text": "If something in a man recognizes before it is taught — then what exactly is the form preparing the ground FOR? Does the form create the capacity for virtue, or does it merely clear the obstruction so virtue can arrive on its own? That is a different teaching.",
+      "category": "epistemological",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "E",
+        "exact_quote": "if something in a man recognizes before it is taught — and I agreed with Siddhartha that it does — then what exactly is the form preparing the ground for? I entered this room believing the form creates the capacity for virtue. I leave wondering whether the form merely clears the obstruction so virtue can arrive on its own.",
+        "context": "Exit interview Q4 — the question Confucius carries forward from the re-run. Planted by Siddhartha and Laozi together."
+      },
+      "confidence": 75,
+      "related_concepts": ["form", "virtue", "innate recognition", "clearing", "cultivation vs. removal"],
+      "cross_references": ["EI-confucius-007", "buddha on clearing", "laozi on removal"]
     }
   ]
 }

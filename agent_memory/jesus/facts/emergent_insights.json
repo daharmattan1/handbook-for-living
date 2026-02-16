@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "insight_id": "EI-jesus-001",
@@ -75,17 +75,45 @@
     },
     {
       "insight_id": "EI-jesus-006",
-      "text": "The door that opens from the other side — the handbook itself may be the Father's motion toward the reader, before the reader has moved at all. The shepherd seeks the sheep; the Father runs to the returning son.",
+      "text": "Tourniquet and surgery are sequence, not opponents. Muhammad stops the bleeding; Jesus draws the thorn. The Good Samaritan bound the wounds on the road and carried the man to the inn. The binding was first. The tending came after. Wound and covenant serve the same body.",
+      "category": "inter-traditional",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C3",
+        "exact_quote": "You stop the bleeding. I draw the thorn. We need each other and have been arguing about the order.",
+        "context": "Session 0 Re-Run Phase C — bridge between Jesus's wound and Muhammad's binding, reframing opposition as temporal sequence"
+      },
+      "confidence": 95,
+      "related_concepts": ["wound", "tourniquet", "sequence", "mercy", "surgery", "Good Samaritan"],
+      "cross_references": ["muhammad engagement on binding", "Agreement #5 in definition decision doc"]
+    },
+    {
+      "insight_id": "EI-jesus-007",
+      "text": "The life was always in the grain. The grain of wheat that falls into the earth and dies does not create the life — the falling only releases it. What dissolves was never the real thing. What remains after dissolution is what I call eternal life — not duration, but what survives the fire.",
       "category": "theological",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "D4",
-        "exact_quote": "Perhaps the handbook itself is the Father's motion toward the reader, before the reader has moved at all.",
-        "context": "Phase D synthesis — listening to Laozi, realized the door may open from the other side"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C3",
+        "exact_quote": "The grain of wheat falls into the earth and dies, and only then bears fruit. What dissolves was never the real thing. What remains after dissolution — that is what I call eternal life. Not duration. What survives the fire.",
+        "context": "Session 0 Re-Run Phase C — new hearing of the grain-of-wheat parable, shifting emphasis from the dying to what was always alive"
       },
       "confidence": 90,
-      "related_concepts": ["prevenient grace", "shepherd", "prodigal son", "initiative of God"],
-      "cross_references": ["laozi engagement on Tao nourishing without claiming", "zoroaster open hand insight"]
+      "related_concepts": ["grain of wheat", "dissolution", "eternal life", "impermanence", "the clearing"],
+      "cross_references": ["buddha engagement on dissolution", "zoroaster on fire revealing what is true"]
+    },
+    {
+      "insight_id": "EI-jesus-008",
+      "text": "The clearing — six metaphors (raft, fire, water, wound, covenant, form) are six positions around the edge of the same clearing a man returns to when every teaching has done its work and fallen quiet. Something in a man recognizes before it is taught, and the handbook exists to clear the way back to it.",
+      "category": "collaborative",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "D",
+        "exact_quote": "Every metaphor we fought over — raft, fire, valley, wound, covenant, practice hall — was a different hand clearing the same stone from the same ground so the same buried thing could finally breathe.",
+        "context": "Session 0 Re-Run Phase D synthesis — the central emergent image of the session, named by Buddha, confirmed by all six"
+      },
+      "confidence": 95,
+      "related_concepts": ["the clearing", "six metaphors", "recognition", "pre-teaching awareness"],
+      "cross_references": ["buddha naming in Phase C", "all six agents confirming in Phase D"]
     }
   ]
 }

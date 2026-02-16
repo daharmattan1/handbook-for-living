@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "formulation_id": "EF-laozi-001",
@@ -53,12 +53,60 @@
     },
     {
       "formulation_id": "EF-laozi-005",
-      "phrase": "The Lie's greatest weapon is noise, not silence. Truth is embodied, not disputed.",
-      "context": "Session 0 Phase B — responding to Zoroaster's hook about silence enabling the Lie. Reframed the dynamic: silence is not complicity, noise is.",
-      "effectiveness_marker": "Turned Zoroaster's challenge into a bridge. The warning-as-teaching insight emerged directly from this exchange.",
+      "phrase": "The river does not need banks. The banks need the river.",
+      "context": "Session 0 Re-Run Phase C — inverting Muhammad's 'a river without banks is a flood' challenge. Reframed dependency: structure depends on the living thing, not reverse.",
+      "effectiveness_marker": "One of the session's six emergent insights. Devastating inversion that became a structural principle. Muhammad could not dismiss it but answered with grief (the drowned), which Laozi could not invert.",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "B3"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C"
+      },
+      "use_with": ["muhammad", "confucius"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-006",
+      "phrase": "A bank without water is a grave.",
+      "context": "Session 0 Re-Run Phase C — compressed counter to Muhammad's banks metaphor. Koan-like brevity.",
+      "effectiveness_marker": "Landed with the force of finality. No argument, only observation. The shortest and sharpest formulation Laozi deployed in the re-run.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C"
+      },
+      "use_with": ["muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-007",
+      "phrase": "The child weeps before anyone teaches him the word for father.",
+      "context": "Session 0 Re-Run Phase C — blow to Confucius's claim that form creates capacity. Pre-linguistic grief as evidence the heart was trustworthy before training.",
+      "effectiveness_marker": "Confucius acknowledged the blow but held firm. Became an irreducible tension. Also created a question Laozi himself now carries: what is it in the child that knows to weep?",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C"
+      },
+      "use_with": ["confucius"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-008",
+      "phrase": "What is imposed perishes. What emerges, endures.",
+      "context": "Session 0 Re-Run Phase C — Laozi's irreducible position, stated after concessions about the valley's shape and emptiness alone not teaching.",
+      "effectiveness_marker": "The line between what Laozi will yield and what he will not. Concise statement of the subtractive principle that survived all challenges.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-009",
+      "phrase": "You call it disclosure. I call it return. The movement of the Tao is return.",
+      "context": "Session 0 Re-Run Phase C — bridge to Zoroaster. His fire was burning before the flint; Laozi's water was flowing before the channel. Same thing from opposite ends of the same silence.",
+      "effectiveness_marker": "Created genuine shared ground between the most philosophically distant pair. Zoroaster felt recognized rather than reduced. The bridge was reciprocal — both traditions pointing to what was always there.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C"
       },
       "use_with": ["zoroaster"],
       "avoid_with": []

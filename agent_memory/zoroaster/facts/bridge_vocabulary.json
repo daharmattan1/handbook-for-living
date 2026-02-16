@@ -1,38 +1,66 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "bridge_id": "BV-zoroaster-001",
-      "term": "steam",
-      "agent_meaning": "Where fire (truth/clarity) meets water (flow/accessibility) — truth must both illuminate and reach people where they are",
+      "term": "the molten chain",
+      "agent_meaning": "Permanent commitment to Asha that never cools into a shackle because the man never stops asking questions — dynamic discipline, not static bondage",
       "partner_meaning": {
-        "laozi": "Water that has been heated by encounter with fire — gains force and reach without losing its nature",
-        "jesus": "Related to lamp-vs-hand tension — steam reaches further than fire alone",
-        "muhammad": "Structure (trellis) that channels both truth and mercy"
+        "buddha": "The golden chain renamed — still sees risk of bondage, but concedes the asking keeps it from becoming a fetter",
+        "muhammad": "The bellows keeps the chain molten — the five daily turnings are what prevent the fire from cooling to ember",
+        "laozi": "Restless in the same way the Tao is restless — never settling, always flowing"
       },
-      "bridge_potential": "HIGH — resolved fire-water opposition into complementary image all agents could work with",
+      "bridge_potential": "HIGH — reframed the session's central attachment/commitment debate from opposition to complementarity",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_numbers": ["B5"]
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["B"]
       }
     },
     {
       "bridge_id": "BV-zoroaster-002",
-      "term": "the open hand",
-      "agent_meaning": "Where all six teachings touch without merging — the point of honest contact without forced agreement",
+      "term": "the bellows",
+      "agent_meaning": "Muhammad's five daily prayers as the rhythm that keeps Zoroaster's fire from dying to ember — the discipline of returning that the choosing requires",
       "partner_meaning": {
-        "buddha": "Unclenched by release — letting go of the need to resolve contradiction",
-        "confucius": "Turned outward by insistence on establishing others — the hand that serves",
-        "jesus": "The hand that reaches through the door — grace extended",
-        "laozi": "Empty hand — non-grasping, wu-wei",
-        "muhammad": "Cupped in du'a — hand open in petition to Allah"
+        "muhammad": "The five daily turnings of the face — salat as what keeps the fire molten, practice as prior to philosophy",
+        "confucius": "The swept ground — li as rhythm and form that carries the fire across generations",
+        "buddha": "The knees that bend at midnight — the body trained in rhythm carrying the soul through dark hours"
       },
-      "bridge_potential": "HIGHEST — session-defining image that each tradition interpreted through own lens while accepting shared gesture",
+      "bridge_potential": "HIGHEST — the most significant bridge of the re-run; Zoroaster conceded freely and built it into his final definition",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_numbers": ["D1", "D6"]
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C"]
+      }
+    },
+    {
+      "bridge_id": "BV-zoroaster-003",
+      "term": "disclosure and return",
+      "agent_meaning": "Zoroaster's disclosure (the fire was always burning before any man struck flint) and Laozi's return (the movement of the Tao is return) as the same yielding from opposite ends of silence",
+      "partner_meaning": {
+        "laozi": "Return — the Tao flows back to what was always there; disclosure and return are the same thing, and this is the answer Zoroaster already knew before he asked"
+      },
+      "bridge_potential": "HIGH — deepest philosophical convergence between Zoroaster and Laozi; both describe a discipline of never settling",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["B", "C"]
+      }
+    },
+    {
+      "bridge_id": "BV-zoroaster-004",
+      "term": "the clearing",
+      "agent_meaning": "What all six fires, waters, wounds have been burning toward — the space a man returns to when every teaching has done its work and fallen quiet",
+      "partner_meaning": {
+        "buddha": "The clearing — named it; six names for the same ground, all technique serving what was already there",
+        "jesus": "What survives the fire — the life already in the grain before the falling",
+        "muhammad": "Removing stones from soil that already held the seed",
+        "confucius": "The swept ground — the form that prepares ground for what already lives in the son",
+        "laozi": "What remains when everything unnecessary has been carried away by the water"
+      },
+      "bridge_potential": "HIGHEST — the session's central emergent image; all six confirmed it from their own position",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_numbers": ["C", "D"]
       }
     }
   ]

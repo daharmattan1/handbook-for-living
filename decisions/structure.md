@@ -1,5 +1,7 @@
 # Structure: How Should the Handbook Be Organized?
 
+> **RE-RUN NEEDED:** Session 0 (Definition) was replaced on 2026-02-16 with a multi-agent re-run. This session's structure (eight sections built around the five-moment sequence) was designed on the original Session 0 foundation, which no longer exists. The new Session 0 converges on "the clearing" rather than the five-moment sequence. This session should be re-run with multi-agent dialogue. See `sessions/00_definition_rerun_comparison.md`.
+
 **Session:** 1 — Structure
 **Date:** 2026-02-14
 **Participants:** Buddha, Jesus, Muhammad, Confucius, Laozi, Zoroaster

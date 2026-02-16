@@ -1,49 +1,77 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "insight_id": "EI-zoroaster-001",
-      "text": "The open hand — the point where all six teachings touch without merging. We do not agree on what meets the hand. We agree the hand must be open.",
-      "category": "interfaith methodology",
+      "text": "The molten chain — permanent commitment to Asha is not bondage because it never cools long enough to become a shackle, provided the man never stops asking questions. The choosing keeps the metal molten.",
+      "category": "theological",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "D1",
-        "exact_quote": "The open hand — the point where all six teachings touch without merging. We do not agree on what meets the hand. We agree the hand must be open.",
-        "context": "Phase D synthesis — surprised by convergence on honesty from all six independently; offered the open hand as image for honest disagreement"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "B",
+        "exact_quote": "My chain is not golden. It is molten. It never cools long enough to become a shackle — unless the man stops asking questions.",
+        "context": "Phase B — response to Buddha's golden chain challenge. Reframed permanent commitment as dynamic discipline."
       },
       "confidence": 95,
-      "related_concepts": ["open hand", "honest disagreement", "convergence", "interfaith dialogue", "Asha"],
-      "cross_references": ["buddha engagement on contradiction held without panic", "all six agents affirmed"]
+      "related_concepts": ["golden chain", "molten chain", "Asha", "questioning", "dynamic commitment", "bellows"],
+      "cross_references": ["buddha's golden chain critique", "muhammad's bellows completion"]
     },
     {
       "insight_id": "EI-zoroaster-002",
-      "text": "Steam — where fire meets water. Truth must illuminate (fire) but must also flow to where people are (water). The handbook needs both clarity and accessibility.",
+      "text": "Disclosure and return are the same yielding from opposite ends of silence. Zoroaster's fire was always burning before the flint; Laozi's water was always flowing before the channel. Neither brought anything. Both stopped blocking what was already moving.",
       "category": "cross-tradition bridge",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "B5",
-        "exact_quote": "Proposed steam — where fire meets water. Truth illuminates but must flow to where people are.",
-        "context": "Phase B clarifying dialogue — bridging his fire metaphor with Laozi's water metaphor to find common ground"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "B-C",
+        "exact_quote": "What emerges and what was always there — tell me, Old Master, is there a difference?",
+        "context": "Phase B-C — Zoroaster's disclosure question to Laozi, answered with 'No. And that is the answer you already knew before you asked.'"
       },
-      "confidence": 85,
-      "related_concepts": ["fire", "water", "steam", "accessibility", "truth", "Laozi bridge"],
-      "cross_references": ["laozi engagement on water metaphor", "jesus engagement on lamp vs hand"]
+      "confidence": 90,
+      "related_concepts": ["disclosure", "return", "fire", "water", "pre-existing truth", "Laozi bridge"],
+      "cross_references": ["laozi's return", "clearing as pre-existing"]
     },
     {
       "insight_id": "EI-zoroaster-003",
-      "text": "The petitioner who asks — a third position between being carried and walking alone. Neither passive reception nor solitary effort, but active seeking. Asha rewards the one who seeks with Good Mind.",
-      "category": "theological",
+      "text": "The fire needs the bellows — the choosing Zoroaster holds as irreducible requires rhythm and discipline to stay alive. Without the five turnings (Muhammad's practice), the fire dies to ember and the man mistakes warmth for burning. The choosing is not a single bright moment but a discipline of returning.",
+      "category": "theological evolution",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "B10",
-        "exact_quote": "Third position: the petitioner who asks. Neither carried nor walking alone.",
-        "context": "Phase B — offered alternative to Jesus's 'hand that carries' vs Laozi's 'no hand at all' — the one who asks"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C",
+        "exact_quote": "Your five turnings of the face — that is the bellows. I concede it freely. Without the bellows, the fire dies to ember and the man mistakes warmth for burning.",
+        "context": "Phase C — Zoroaster conceding Muhammad's five daily prayers as the rhythm his fire needs. The deepest mutual enrichment of the session."
+      },
+      "confidence": 95,
+      "related_concepts": ["bellows", "five prayers", "rhythm", "returning", "fire", "ember", "discipline"],
+      "cross_references": ["muhammad's salat", "confucius's li as swept ground"]
+    },
+    {
+      "insight_id": "EI-zoroaster-004",
+      "text": "The clearing — what all six methods (fire, raft, wound, valley, covenant, form) have been serving. Something in a man recognizes before it is taught, and every tradition's method exists to clear the way back to it. None of the six teachers brought the light. The flame was already burning in the man who walked into the room.",
+      "category": "interfaith methodology",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "D",
+        "exact_quote": "None of us brought the light. We have been arguing over which hand cups the flame while the flame was already burning in the man who walked into the room.",
+        "context": "Phase D synthesis — Zoroaster confirming Buddha's naming of 'the clearing' as what all six have been serving."
+      },
+      "confidence": 95,
+      "related_concepts": ["clearing", "pre-existing recognition", "method vs. destination", "six metaphors"],
+      "cross_references": ["buddha naming the clearing", "all six confirming from own positions"]
+    },
+    {
+      "insight_id": "EI-zoroaster-005",
+      "text": "What exactly is a teacher? If the fire was always burning before any man struck flint, and the water was always flowing before the channel, and the grain was always alive before the falling — then the teacher may not be the one who disclosed the fire but simply the first one burned by it, foolish enough to think that made him its keeper.",
+      "category": "theological questioning",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "E-Q4",
+        "exact_quote": "I walked into this room believing I was the one who disclosed the fire. I leave wondering whether I was simply the first one burned by it and foolish enough to think that made me its keeper.",
+        "context": "Exit interview Q4 — new question that arrived in the room, not from the Gathas. The clearing implies the teacher is not the source but a witness."
       },
       "confidence": 85,
-      "related_concepts": ["petition", "seeking", "Good Mind", "Vohu Manah", "active agency", "whose hand tension"],
-      "cross_references": ["jesus engagement on the hand that reaches", "laozi engagement on no hand", "confucius engagement on human hand"]
+      "related_concepts": ["teacher", "disclosure", "keeper", "witness", "humility"],
+      "cross_references": ["the clearing", "disclosure and return bridge"]
     }
   ]
 }

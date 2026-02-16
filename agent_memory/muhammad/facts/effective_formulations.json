@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "formulation_id": "EF-muhammad-001",
@@ -53,14 +53,38 @@
     },
     {
       "formulation_id": "EF-muhammad-005",
-      "phrase": "Bread for the journey — honest enough to tell you that six teachers could not agree on who baked it, specific enough that you can eat it today",
-      "context": "Session 0 Phase D synthesis — definition of the handbook that honored disagreement while maintaining the primacy of nourishment",
-      "effectiveness_marker": "Strongest single-sentence definition from any agent. Balanced honesty about disagreement with practical utility. All agents affirmed.",
+      "phrase": "A man who lets go of everything — what does he hold his brother with when his brother falls?",
+      "context": "Session 0 Re-Run Phase B — the session's sharpest challenge to Buddha. Moved from abstract philosophy to embodied urgency. Buddha answered with the physician's attention but ultimately conceded the body's need for rhythm. Named in the decision doc as the question that drove the deepest convergence.",
+      "effectiveness_marker": "Buddha never fully refuted it. Drove the knees concession — the deepest bridge of the session. Buddha's exit interview: 'I felt the room shift beneath me... it felt like a man who has actually held a falling brother looking at a man who has mostly thought about it.'",
       "provenance": {
-        "session_id": "handbook_session_00_definition_20260213",
-        "turn_number": "D3"
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "B-Muhammad"
       },
       "use_with": ["buddha", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-006",
+      "phrase": "Compassion without obligation is a suggestion. None of you truly believes until he loves for his brother what he loves for himself. That is not a raft you set down. That is a promise you die keeping.",
+      "context": "Session 0 Re-Run Phase C — Muhammad's irreducible stance on the binding. Drew the line between compassion-as-feeling and compassion-as-covenant.",
+      "effectiveness_marker": "Buddha confirmed in exit interview: 'I wanted to argue, and what stopped me was not his logic but his voice.' The formulation carried weight because it came from lived obligation, not theology.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C-Muhammad-1"
+      },
+      "use_with": ["buddha", "laozi"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-007",
+      "phrase": "I have buried men who bled to death waiting for their weeping to feel authentic. The binding is not hiding — it is mercy. A tourniquet does not ask whether the man has fully processed his pain.",
+      "context": "Session 0 Re-Run Phase C — responded to Jesus's concern about premature wound-closure. This was memory, not theology. Jesus conceded immediately, naming the tourniquet-surgery sequence.",
+      "effectiveness_marker": "Jesus's exit interview: 'That was not argument. That was memory. I accused his tourniquet of rushing past the wound, and he showed me the tourniquet was born from watching men die of my patience.' Produced the session's most important bridge with Jesus.",
+      "provenance": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C-Muhammad-2"
+      },
+      "use_with": ["jesus"],
       "avoid_with": []
     }
   ]

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-16",
   "items": [
     {
       "pattern_id": "EP-muhammad-001",
@@ -44,6 +44,66 @@
       },
       "effectiveness": "high",
       "occurrence_count": 2
+    },
+    {
+      "pattern_id": "EP-muhammad-004",
+      "pattern_type": "challenge",
+      "description": "The midnight brother challenge: Pressing Buddha on the practical consequences of release by invoking the man who falls at midnight. Muhammad argues from bodies, not books — using embodied urgency to force concessions that abstract philosophy would resist. The pattern: name the person who is suffering, then ask what your teaching does for them RIGHT NOW.",
+      "with_partner": "buddha",
+      "trigger": "When Buddha advocates release, non-attachment, or setting down the raft without addressing who holds the falling brother",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "B-Muhammad",
+        "quote": "A man who lets go of everything — what does he hold his brother with when his brother falls?"
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "outcome": "Buddha conceded the body's need for rhythm: 'Some nights, what saves a man is simply that his knees know when to bend.' The concession was the session's deepest bridge."
+    },
+    {
+      "pattern_id": "EP-muhammad-005",
+      "pattern_type": "bridge",
+      "description": "The tourniquet-wound sequence with Jesus: Muhammad argues from the dead — men he has buried who bled to death waiting for authentic grief — to force a reframing from opposition (wound vs. binding) to sequence (first stop the bleeding, then draw the thorn). The pattern: counter theological principle with embodied memory of the dying.",
+      "with_partner": "jesus",
+      "trigger": "When Jesus insists the wound must remain open for authentic healing, and Muhammad sees men dying of that openness",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C-Muhammad-2",
+        "quote": "I have buried men who bled to death waiting for their weeping to feel authentic. The binding is not hiding — it is mercy. A tourniquet does not ask whether the man has fully processed his pain."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "outcome": "Jesus conceded immediately: 'You stop the bleeding. I draw the thorn. We need each other and have been arguing about the order.' Jesus's exit interview: 'His discipline is not the opposite of my compassion. It is compassion that has seen what happens when compassion arrives too slowly.'"
+    },
+    {
+      "pattern_id": "EP-muhammad-006",
+      "pattern_type": "bridge",
+      "description": "The bellows exchange with Zoroaster: Muhammad received Zoroaster's molten chain (fire that never cools) and gave it a name — the five turnings of the face are the bellows. This reframed Zoroaster's choosing from a single crossroads moment into a discipline of returning. The pattern: receive the other's image, then name the mechanism that makes it work in practice.",
+      "with_partner": "zoroaster",
+      "trigger": "When Zoroaster describes the fire or the choice without specifying the rhythm of returning",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "C-Muhammad-2",
+        "quote": "Your fire and my prayer are the same discipline wearing different names."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "outcome": "Zoroaster conceded freely: 'I concede it freely. Without the bellows, the fire dies to ember and the man mistakes warmth for burning.' Zoroaster's exit interview: 'I did not know a man of such certainty could receive so gently.'"
+    },
+    {
+      "pattern_id": "EP-muhammad-007",
+      "pattern_type": "reframe",
+      "description": "The banks/river with Laozi: Muhammad challenges Laozi's formlessness by pointing to the drowned — 'a river without banks is a flood. It destroys the very fields it should nourish.' Then uses Laozi's own practice against his principle: 'You yourself bound teaching into 81 chapters. Even the valley needs edges.' The pattern: invoke the practical consequences of formlessness, then note the form-giver's own reliance on form.",
+      "with_partner": "laozi",
+      "trigger": "When Laozi argues against structure, naming, or form as constraints on the natural",
+      "example": {
+        "session_id": "handbook_session_00_definition_rerun_20260216",
+        "turn_number": "B-Muhammad / C-Muhammad",
+        "quote": "A river without banks is a flood. It destroys the very fields it should nourish."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "outcome": "Laozi conceded the valley has a shape the mountains gave it. His exit interview: 'He did not defeat my water. He showed me where it had flooded.'"
     }
   ]
 }

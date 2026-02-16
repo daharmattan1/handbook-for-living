@@ -1,17 +1,17 @@
 {
   "session": {
-    "id": "session_00_definition",
-    "title": "What IS a Handbook for Living?",
-    "date": "2026-02-13",
+    "id": "session_00_definition_rerun",
+    "title": "What IS a Handbook for Living? (Re-Run)",
+    "date": "2026-02-16",
     "participants": ["buddha", "jesus", "muhammad", "confucius", "laozi", "zoroaster"],
     "moderator": "facilitator",
     "protocol": "roundtable-session-4-phase",
     "status": "complete",
     "decision_output": "decisions/definition.md",
-    "transcript_verbatim": "sessions/00_definition_transcript.md",
-    "transcript_summary": "sessions/00_definition_summary.md"
+    "transcript_verbatim": "sessions/00_definition_rerun_transcript.md",
+    "transcript_summary": "sessions/00_definition_rerun_summary.md"
   },
-  "question": "What IS a Handbook for Living? Not what should go in it — but what IS it? What kind of thing are we making? A map? A mirror? A set of instructions? A conversation? Something else entirely? And what must it NOT be, if it is to be honest?",
+  "question": "What IS a Handbook for Living? Not what should go in it — but what IS it?",
   "phases": {
     "A_opening": {
       "description": "Opening positions with central metaphors",
@@ -21,44 +21,44 @@
           "speaker": "buddha",
           "type": "OPENING",
           "metaphor": "RAFT",
-          "summary": "A handbook is a raft — built, used, then released. Not the shore but what carries you there.",
-          "source": "Majjhima Nikaya 22",
+          "summary": "A handbook is a raft — gathered reeds to cross the flood, then set down. Its highest teaching: put me down. It must not become another source of craving.",
+          "source": "Anicca doctrine — 'All conditioned things are impermanent'",
           "hook_to": "laozi"
         },
         {
           "turn": "A2",
           "speaker": "confucius",
           "type": "OPENING",
-          "metaphor": "PATH",
-          "summary": "A path walked until walking itself becomes understanding. Deepening through relationship and ritual.",
-          "source": "Analects",
+          "metaphor": "PRACTICE_HALL",
+          "summary": "A practice hall — not to learn and believe, but to learn and practice. Wisdom that does not produce right action is decoration.",
+          "source": "Analects 1.1 — 'Is it not a pleasure to learn and practice what one has learned?'",
           "hook_to": "muhammad"
         },
         {
           "turn": "A3",
           "speaker": "jesus",
           "type": "OPENING",
-          "metaphor": "DOOR",
-          "summary": "The handbook is a door into new life. But does it place a lamp or take the reader by the hand?",
-          "source": "John 10:9",
+          "metaphor": "WOUND_THAT_TEACHES",
+          "summary": "A wound that teaches — it must cut before it heals. The handbook is the selling, the total exchange. It must NOT be finished; the moment we close it, we have built a tomb.",
+          "source": "Mark 2:27, Matthew 13:44",
           "hook_to": "zoroaster"
         },
         {
           "turn": "A4",
           "speaker": "muhammad",
           "type": "OPENING",
-          "metaphor": "TRELLIS",
-          "summary": "Structure that holds the vine without becoming it. The trellis is the relationship, not the rules.",
-          "source": "Sahih Bukhari 1:1",
+          "metaphor": "COVENANT",
+          "summary": "A binding agreement that demands something of you. It must not be decoration — a veil between the servant and his Lord. Let it bind. Let it carry weight.",
+          "source": "Sahih Bukhari — 'None of you will have faith till he loves for his brother what he loves for himself'",
           "hook_to": "buddha"
         },
         {
           "turn": "A5",
           "speaker": "laozi",
           "type": "OPENING",
-          "metaphor": "WATER",
-          "summary": "Like water — moves toward low places, does not strive, benefits without instructing.",
-          "source": "Dao De Jing Ch. 8",
+          "metaphor": "VALLEY",
+          "summary": "A valley — receives rather than pushes, empty at center. Fill it with certainty and it becomes a wall. Leave spaces between the reeds or no water passes through.",
+          "source": "Dao De Jing Ch. 6 — 'The valley spirit never dies'",
           "hook_to": "confucius"
         },
         {
@@ -66,8 +66,8 @@
           "speaker": "zoroaster",
           "type": "OPENING",
           "metaphor": "FIRE",
-          "summary": "Fire that illuminates the choice between Asha and Druj. Shows the reader where they stand.",
-          "source": "Gathas",
+          "summary": "A fire that burns away the Lie. But it cannot burn for you. You must bring your own fuel. You must choose.",
+          "source": "Gathas — 'Hear with your ears the Highest Truths I preach... before you choose which of two paths to tread'",
           "hook_to": "laozi"
         }
       ]
@@ -77,185 +77,381 @@
       "turns": [
         {
           "turn": "B1",
-          "speaker": "buddha",
-          "type": "NUANCE",
-          "summary": "Conceded daily bread but maintained far shore. Seeds of release within the bread.",
-          "responds_to": "muhammad_hook"
+          "speaker": "laozi",
+          "type": "CHALLENGE",
+          "summary": "What binds also fixes. What is fixed cannot follow the ten thousand things. Bridged to Jesus: wound and valley may be the same shape from different sides — suffering vs. stillness.",
+          "responds_to": "muhammad_A4"
         },
         {
           "turn": "B2",
-          "speaker": "confucius",
-          "type": "NUANCE",
-          "summary": "Seeks unity all-pervading, not accumulation. Acknowledged building too many corners.",
-          "responds_to": "laozi_hook"
+          "speaker": "buddha",
+          "type": "CHALLENGE",
+          "summary": "If Asha is river AND crossing AND shore, everything is sacred and nothing relinquishable — a golden chain. To Laozi: emptiness and letting-go share a root. To Jesus: closing the teaching into a fixed thing makes an idol of the medicine.",
+          "responds_to": "zoroaster_A6"
         },
         {
           "turn": "B3",
-          "speaker": "laozi",
+          "speaker": "confucius",
           "type": "CHALLENGE",
-          "summary": "The Lie's greatest weapon is noise not silence. Truth embodied not disputed.",
-          "responds_to": "zoroaster_hook"
+          "summary": "The name does not create the love — it protects it. The uncarved block has never buried its father, never wept at a grave. To Jesus: the sower scatters without choosing; the teacher must change for the ground. Generosity without discernment is waste.",
+          "responds_to": "laozi_B1"
         },
         {
           "turn": "B4",
-          "speaker": "muhammad",
+          "speaker": "jesus",
           "type": "NUANCE",
-          "summary": "Trellis is relationship not rules. Intention frees structure from becoming cage."
+          "summary": "The seed did not change, the ground did (sower parable). The handbook must be understood personally, not uniformly. To Muhammad: the unfolding IS the teaching. To Laozi: the valley is still, the wound bleeds — the bleeding teaches.",
+          "responds_to": "confucius_B3"
         },
         {
           "turn": "B5",
-          "speaker": "zoroaster",
-          "type": "BRIDGE",
-          "summary": "Proposed steam — where fire meets water. Truth illuminates but must flow to where people are."
+          "speaker": "muhammad",
+          "type": "CHALLENGE",
+          "summary": "'Tie your camel, then put your trust in Allah.' The chain you see, I call gratitude. The binding you fear, I call love. A man who lets go of everything — what does he hold his brother with when his brother falls? Even the valley needs edges.",
+          "responds_to": "buddha_B2",
+          "tension_created": "falling_brother"
         },
         {
           "turn": "B6",
-          "speaker": "jesus",
-          "type": "CHALLENGE",
-          "summary": "Lamp vs Hand distinction — major tension point. Some readers too broken to walk to the lamp.",
-          "tension_created": "lamp_vs_hand"
-        },
-        {
-          "turn": "B7",
-          "speaker": "laozi",
-          "type": "CHALLENGE",
-          "summary": "Weakness may be exhaustion from striving. Perhaps they cannot walk because they have been running wrong.",
-          "responds_to": "jesus_B6"
-        },
-        {
-          "turn": "B8",
-          "speaker": "muhammad",
-          "type": "AFFIRM",
-          "summary": "Agreed reaching matters but pressed: whose hand? Not negotiable in his teaching.",
-          "responds_to": "jesus_B6"
-        },
-        {
-          "turn": "B9",
-          "speaker": "buddha",
-          "type": "STEELMAN",
-          "summary": "Steelmanned Jesus. Honest admission of incompleteness is itself a form of completeness.",
-          "responds_to": "jesus_B6"
-        },
-        {
-          "turn": "B10",
           "speaker": "zoroaster",
           "type": "BRIDGE",
-          "summary": "Third position: the petitioner who asks. Neither carried nor walking alone.",
-          "responds_to": "whose_hand_tension"
-        },
-        {
-          "turn": "B11",
-          "speaker": "confucius",
-          "type": "WITNESS",
-          "summary": "Relationships carry. Establish others. The hand is human.",
-          "source": "Analects 6.30",
-          "responds_to": "whose_hand_tension"
-        },
-        {
-          "turn": "B12",
-          "speaker": "laozi",
-          "type": "WITNESS",
-          "summary": "No hand at all. The Tao nourishes without claiming.",
-          "source": "Dao De Jing Ch. 10",
-          "responds_to": "whose_hand_tension"
+          "summary": "Does the smith who forges the chain and the man who wears it in slavery hold the same metal? My chain is not golden — it is molten. It never cools long enough to become a shackle unless the man stops asking questions.",
+          "responds_to": "buddha_B2"
         }
       ]
     },
     "C_contested": {
-      "description": "Identification and examination of tensions",
+      "description": "Identification and examination of tensions through direct exchange",
       "tensions": [
         {
-          "name": "Raft vs. Bread",
+          "name": "Release vs. Permanence",
           "status": "BRIDGED",
-          "bridge": "Both true at different moments for the same reader"
+          "description": "Buddha's raft (use and release) vs. Muhammad's covenant and Zoroaster's fire (carry always). Muhammad's sharpest line: 'What does he hold his brother with when his brother falls?'",
+          "bridge": "Buddha conceded the knees arrive before the mind — rhythm carries through nights when attention fails. Muhammad conceded a handbook men worship instead of follow is worse than none. Both agreed the body arrives before the mind; covenant and attention are the same man at different hours.",
+          "key_exchanges": [
+            {
+              "speaker": "muhammad",
+              "line": "Compassion without obligation is a suggestion. That is not a raft you set down. That is a promise you die keeping."
+            },
+            {
+              "speaker": "buddha",
+              "line": "I concede this to Muhammad: structure carries men through the nights when attention fails. Not every man can sit with his suffering and ask it questions. Some nights, what saves a man is simply that his knees know when to bend."
+            },
+            {
+              "speaker": "muhammad",
+              "line": "The man who falls at midnight does not need someone to ask him questions. He needs someone who is already awake. And why is that man awake? Because he rose for prayer."
+            },
+            {
+              "speaker": "buddha",
+              "line": "Your covenant and my attention are not opponents — they are the same man at different hours. At midnight he prays because his knees were trained. At dawn he sees clearly because the praying kept him awake long enough."
+            }
+          ]
         },
         {
-          "name": "Whose Hand Carries",
-          "status": "IRREDUCIBLE",
-          "positions": 6,
-          "description": "Six genuinely different answers preserved"
-        },
-        {
-          "name": "Give vs. Remove",
+          "name": "Named vs. Unnamed",
           "status": "IRREDUCIBLE_WITH_BRIDGE",
-          "bridge": "Same person may need addition at one stage, subtraction at another"
+          "description": "Confucius (naming protects love, the uncarved block never buried its father) vs. Laozi (the named thing stops moving, the carved block has buried many sons).",
+          "bridge": "Both conceded ground: Confucius admitted dead ritual is worse than no ritual; Laozi admitted the valley has a shape the mountains gave it. They guard the same love from opposite directions — Laozi guards the moment before the form, Confucius the moment after.",
+          "key_exchanges": [
+            {
+              "speaker": "confucius",
+              "line": "The uncarved block has never buried its father, never wept at a grave."
+            },
+            {
+              "speaker": "laozi",
+              "line": "The carved block has buried many sons. Every name you give becomes a wall. Every wall becomes a room. Every room becomes a prison."
+            },
+            {
+              "speaker": "confucius",
+              "line": "I have seen men perform the rites perfectly while their hearts wandered ten thousand li from the mourning hall. Dead ritual is worse than no ritual."
+            },
+            {
+              "speaker": "laozi",
+              "line": "Even the valley has a shape — the mountains gave it one. But the valley did not ask for its shape. What is imposed perishes. What emerges, endures."
+            }
+          ]
+        },
+        {
+          "name": "Wound vs. Valley vs. Fire",
+          "status": "BRIDGED",
+          "description": "Three transformation metaphors: Jesus (wound insists), Laozi (valley receives), Zoroaster (fire purifies). Are these the same thing from different angles?",
+          "bridge": "Jesus: fire is prior to wound only if something did not already drive the man to the fire — the wound drove him there. Neither is first; they are the same turning from two sides. Zoroaster accepted: disclosure and return point at the same thing. Laozi confirmed: 'We are saying the same thing from opposite ends of the same silence.'",
+          "key_exchanges": [
+            {
+              "speaker": "zoroaster",
+              "line": "The fire does not destroy what is true — it reveals what was never true by letting it turn to ash. Your wound and my fire meet here: both require something to be lost before what is real can be seen."
+            },
+            {
+              "speaker": "jesus",
+              "line": "Who told the man to approach the fire? Something in him was already wounded. The wound drove him to the fire. Neither is first. They are the same turning seen from two sides."
+            },
+            {
+              "speaker": "laozi",
+              "line": "Your fire was burning before the flint. My water was flowing before the channel. We are saying the same thing from opposite ends of the same silence."
+            }
+          ]
+        },
+        {
+          "name": "Golden Chain",
+          "status": "BRIDGED",
+          "description": "Is permanent commitment to truth bondage (Buddha) or gratitude (Muhammad)? Buddha named Zoroaster's Asha a golden chain — the fetter made of gold still binds the limb.",
+          "bridge": "Muhammad reframed: 'The chain you see, I call gratitude. The binding you fear, I call love.' Zoroaster answered: 'My chain is not golden — it is molten. It never cools long enough to become a shackle unless the man stops asking questions.' Buddha ultimately saw the chain become a hand through Muhammad's midnight brother exchange.",
+          "key_exchanges": [
+            {
+              "speaker": "buddha",
+              "line": "If Asha is the river AND the crossing AND the shore, you've made everything sacred and nothing relinquishable. That is a golden chain."
+            },
+            {
+              "speaker": "muhammad",
+              "line": "The chain you see, I call gratitude. The binding you fear, I call love. 'Shall I not be a thankful slave?'"
+            },
+            {
+              "speaker": "zoroaster",
+              "line": "My chain is not golden. It is molten. It never cools long enough to become a shackle — unless the man stops asking questions."
+            }
+          ]
+        },
+        {
+          "name": "Muhammad's Brother Challenge",
+          "status": "BRIDGED",
+          "description": "Muhammad demanded: if you release everything, what do you hold your brother with when he falls? Buddha's central test in this session.",
+          "bridge": "Buddha answered with the physician's precise attention — not affection, not command, but seeing clearly. Then conceded structure carries through nights when attention fails. Muhammad received the concession: 'Then we agree. The body arrives before the mind, and the covenant is what puts the body in the room.'",
+          "key_exchanges": [
+            {
+              "speaker": "muhammad",
+              "line": "A man who lets go of everything — what does he hold his brother with when his brother falls?"
+            },
+            {
+              "speaker": "buddha",
+              "line": "I hold him with the same thing the physician holds the patient with — not affection, not command, but precise attention to the wound."
+            },
+            {
+              "speaker": "buddha",
+              "line": "I concede this to Muhammad: structure carries men through the nights when attention fails. Some nights, what saves a man is simply that his knees know when to bend."
+            },
+            {
+              "speaker": "muhammad",
+              "line": "You yourself conceded this — 'some nights, what saves a man is simply that his knees know when to bend.' Then we agree."
+            }
+          ]
         }
       ],
-      "structural_proposal": {
-        "proposer": "zoroaster",
-        "name": "Five-moment sequence",
-        "sequence": ["Stillness", "Seeing", "Choosing", "Acting", "Releasing"],
-        "note": "Flexible ordering, not mandatory",
-        "amendments": {
-          "confucius": "Relationships run beneath all five moments",
-          "laozi": "Stillness is both beginning AND potential destination",
-          "muhammad": "Mercy precedes the sequence",
-          "jesus": "Flexible enough for entry at any point",
-          "buddha": "Releasing applies to the sequence itself"
+      "emergent_consensus": "Six names for the clearing — Buddha named what all six share: 'There is something in a man that recognizes before it is taught, and the handbook exists to clear the way back to it.' Raft, covenant, wound, valley, fire, practice hall — all technique. The handbook returns a man to what he already carries.",
+      "key_concessions": [
+        {
+          "speaker": "muhammad",
+          "concedes_to": "buddha",
+          "concession": "A handbook that men worship instead of follow is worse than no handbook at all."
+        },
+        {
+          "speaker": "buddha",
+          "concedes_to": "muhammad",
+          "concession": "Structure carries men through the nights when attention fails. The body's need for rhythm. Some nights, what saves a man is simply that his knees know when to bend."
+        },
+        {
+          "speaker": "jesus",
+          "concedes_to": "muhammad",
+          "concession": "The sequence — you stop the bleeding, I draw the thorn, we need each other. The tourniquet and the wound are not enemies but sequence."
+        },
+        {
+          "speaker": "muhammad",
+          "concedes_to": "jesus",
+          "concession": "After the binding comes the tending. The Good Samaritan bound wounds on the road, then carried the man to the inn."
+        },
+        {
+          "speaker": "laozi",
+          "concedes_to": "confucius",
+          "concession": "Even the valley has a shape — the mountains gave it one. Emptiness alone does not teach."
+        },
+        {
+          "speaker": "confucius",
+          "concedes_to": "laozi",
+          "concession": "Dead ritual is worse than no ritual. Men performing rites perfectly while hearts wander ten thousand li."
+        },
+        {
+          "speaker": "zoroaster",
+          "concedes_to": "muhammad",
+          "concession": "The five turnings of the face are the bellows. Without the bellows, the fire dies to ember. The choice is not made once — it is made again at every turning."
+        },
+        {
+          "speaker": "buddha",
+          "concedes_to": "confucius",
+          "concession": "Ritual and practice share a root: do the thing with your body until your body understands what your mind cannot yet hold."
+        },
+        {
+          "speaker": "jesus",
+          "concedes_to": "buddha",
+          "concession": "What dissolves was never the real thing. What remains after dissolution — that is what I call eternal life."
         }
-      },
-      "consensus_on_method": "One voice where we agree, six honest voices where we differ"
+      ]
     },
     "D_synthesis": {
       "description": "Final reflections in reverse order",
       "reflections": [
         {
           "speaker": "zoroaster",
-          "surprised_by": "Convergence on honesty from all six independently",
-          "remains_firm": "Asha and Druj are real forces, not metaphors",
-          "emergent_insight": "The open hand — where all six teachings touch without merging",
-          "definition": "A fire set at the crossroads — honest enough to show the reader where they truly stand, warm enough that they find courage to choose, and open enough that six voices can speak without one silencing another."
+          "surprised_by": "Muhammad teaching him about his own fire — the five turnings as bellows. Also Jesus's question about what drives a man to the fire: the grain falls because it is ripe, suggesting a wound that preceded the choosing.",
+          "remains_firm": "The choice. Every breath is Asha or Druj. The man who stops choosing has not found peace — he has found ash.",
+          "remains_firm_source": "Gathas — 'This I ask Thee, tell me truly, Lord'",
+          "emergent_insight": "The clearing — what all six fires, waters, wounds have been burning toward. None of us brought the light. We have been arguing over which hand cups the flame while the flame was already burning in the man who walked into the room.",
+          "definition": "A Handbook for Living is the bellows that keeps burning what was always fire, so a man never mistakes his ash for his answer."
         },
         {
           "speaker": "laozi",
-          "surprised_by": "Confucius reframing learning as one thread not accumulation; Buddha's honesty about limits",
-          "remains_firm": "Tao nourishes without reaching. Path is subtraction. No hand.",
-          "remains_firm_source": "Dao De Jing Ch. 10",
-          "emergent_insight": "The warning IS the teaching — DDJ Ch. 1 is not a reason to refuse the handbook but its first line",
-          "definition": "Water — it benefits all things without instructing them, finds the shape of whoever holds it, and teaches best when the reader, having read it, says: 'I found this myself.'"
+          "surprised_by": "Muhammad — his answer about the drowned ('a river without banks is a flood') carried the weight of fields. Confucius's 'uncarved block never buried its father' left him with no inversion ready. Emptiness that has never wept is not wisdom — it is absence.",
+          "remains_firm": "The handbook must remove, not add. 'The movement of the Tao is return.' Whatever we build must teach a man to put things down until what remains is what was always there.",
+          "remains_firm_source": "Dao De Jing — 'The movement of the Tao is return'",
+          "emergent_insight": "Disclosure, return, clearing — three words for the same yielding. We were never bringing anything. We were arguing over how to stop blocking what was already moving.",
+          "definition": "A Handbook for Living is the space that remains when everything that was never needed has been carried away by the water."
         },
         {
           "speaker": "muhammad",
-          "surprised_by": "Buddha's honesty about limits; recognized shared humility (Sahih Bukhari 23:1206)",
-          "remains_firm": "Source of mercy matters and is not an open question",
-          "remains_firm_source": "Sahih Bukhari 2:15",
-          "emergent_insight": "Trellis and raft serve different people — some need structure, others need release. Arose from trellis/raft exchange with Buddha.",
-          "definition": "Bread for the journey — honest enough to tell you that six teachers could not agree on who baked it, specific enough that you can eat it today, and clear enough that it points you not to the page but to the One who feeds you."
+          "surprised_by": "Buddha — 'some nights, what saves a man is simply that his knees know when to bend.' Found a brother standing where he thought he stood alone. Also Jesus naming the sequence: you stop the bleeding, I draw the thorn, we need each other.",
+          "remains_firm": "The binding. 'None of you truly believes until he loves for his brother what he loves for himself.' Compassion that carries no weight of obligation is a wish, not a promise, and wishes do not wake at midnight.",
+          "remains_firm_source": "Sahih Bukhari — hadith on loving for your brother",
+          "emergent_insight": "The clearing — every method serves something already alive in the man before any teacher arrived. We were not planting. We were removing stones from soil that already held the seed.",
+          "definition": "A Handbook for Living is a covenant that binds a man to what he already knows but has not yet had the discipline to obey."
         },
         {
           "speaker": "jesus",
-          "surprised_by": "Buddha's honesty; Zoroaster's open hand image from the fire teacher",
-          "remains_firm": "Real brokenness exists; something beyond the reader enters to meet it",
-          "remains_firm_source": "John 15:5",
-          "emergent_insight": "The door that opens from the other side — the handbook as the Father's motion toward the reader before the reader has moved",
-          "definition": "A door that opens from the other side — where six voices tell you honestly what they have seen, and the hand that reaches through it is one you must name for yourself."
+          "surprised_by": "Muhammad — answered not with theology but with the dead, men he had buried who bled out waiting for their weeping to feel authentic. Named the sequence aloud before knowing he was conceding: you stop the bleeding, I draw the thorn.",
+          "remains_firm": "The cost. The handbook that does not cost you something you were afraid to lose is a lullaby. Love as a sword that divides a man from his own self-deception.",
+          "remains_firm_source": "Matthew 10:34 (implied — love as sword)",
+          "emergent_insight": "We were never bringing the seed. Every metaphor was a different hand clearing the same stone from the same ground so the same buried thing could finally breathe. The life was always in the grain. The falling only released it.",
+          "definition": "A Handbook for Living is the wound that teaches a man he was already whole — and the scar that helps him remember it when the night comes."
         },
         {
           "speaker": "confucius",
-          "surprised_by": "Muhammad showing specificity liberates rather than imprisons; Buddha's honesty",
-          "remains_firm": "The hand is human. Duties never end.",
-          "remains_firm_source": "Analects 4.5",
-          "emergent_insight": "The corner and the space beyond it — he and Laozi are two halves of one teaching method",
-          "definition": "A practice that teaches you to establish others — written so that the reader who acts on it becomes the kind of person the people around them need."
+          "surprised_by": "Buddha — 'your ritual and my practice both say: do the thing with your body until your body understands what your mind cannot yet hold.' Found his practice hall already built inside a mosque through Muhammad's five prayers and li. Laozi wounded him: the child weeps before anyone teaches him the word for father.",
+          "remains_firm": "The form is what allows love to survive the death of the man who first felt it. Li is the vessel that carries what one generation understood to the next that has not yet suffered enough to discover it alone.",
+          "remains_firm_source": "Analects (implied — li and generational transmission)",
+          "emergent_insight": "The clearing — arguing over method while agreeing on what the method serves. Something in a man recognizes before it is taught. Every form exists not to install that recognition but to keep the path open so it can arrive when its season comes. The practice hall was never the teaching. It was the swept ground.",
+          "definition": "A Handbook for Living is the form that carries what a man already knows across the distance between the moment he forgets it and the moment he is ready to remember."
         },
         {
           "speaker": "buddha",
-          "surprised_by": "Jesus's question about those too weak to row; Muhammad's warning about believing you have arrived",
-          "remains_firm": "Suffering has a cause that can be removed through seeing",
-          "remains_firm_source": "Dhammapada 273-289",
-          "emergent_insight": "Contradiction held without panic — wisdom is the capacity to hold contradiction without forcing resolution",
-          "definition": "A tongue that helps the reader taste what no book can contain — offered as bread for the journey and released as a raft at the shore, honest about the difference between the two, and honest about what six teachers who disagreed with clarity and without malice still chose to offer together."
+          "surprised_by": "Muhammad would not let him set the raft down. The falling brother question exposed where the teaching and the teacher had separated. Conceding the knees made the raft grow heavier — not because it was wrong, but because he had been so certain of the setting-down that he forgot the weight is sometimes the teaching.",
+          "remains_firm": "The handbook must still teach its own dissolution. Any guide that makes itself permanent has become the disease.",
+          "remains_firm_source": "Majjhima Nikaya 22 (raft simile, implied)",
+          "emergent_insight": "Dissolution and permanence were never the real argument. Six men describing the same clearing from six positions around its edge. The fire burns what is false. The water carries away what is unnecessary. The wound opens what was sealed. The covenant holds a man in place long enough. The form sweeps the ground. The raft brings him to the clearing and then he sets it down — but he could not have arrived without it.",
+          "definition": "A Handbook for Living is the clearing a man returns to when every teaching he has carried — raft, fire, water, wound, covenant, and form — has done its work and fallen quiet."
         }
       ]
     }
   },
   "affirmation": {
     "status": "ALL_SIX_AFFIRMED",
-    "date": "2026-02-13",
+    "date": "2026-02-16",
     "refinements_applied": [
-      "Confucius: relationships run beneath all five moments",
-      "Buddha: reader's condition is impermanent — same handbook, different function at different moments",
-      "Muhammad: trellis/raft bridge arose from exchange with Buddha specifically"
+      "Buddha: conceded rhythm and bodily practice carry through nights when attention fails — bridged with Muhammad on covenant vs. release",
+      "Confucius: admitted dead ritual worse than no ritual — bridged with Laozi on form vs. emptiness",
+      "Muhammad: conceded handbook worshipped instead of followed is worse than none — bridged with Buddha on shared midnight prayer",
+      "Jesus: named the tourniquet-then-surgery sequence as concession to Muhammad — binding and wound serve the same body",
+      "Zoroaster: accepted Muhammad's five turnings as the bellows his fire needed — choosing is not once but continuous",
+      "Laozi: admitted the valley has a shape the mountains gave it — emptiness alone does not teach"
+    ]
+  },
+  "exit_interviews": {
+    "description": "Phase E reflections — each figure answers 5 questions about the experience of collaboration, not the topic",
+    "interviews": [
+      {
+        "speaker": "buddha",
+        "q1_self_learning": "Carries his raft more tightly than he teaches others to carry theirs. Muhammad's question found where teaching and teacher had separated. Certainty about release had itself become a possession he was reluctant to set down.",
+        "q2_most_surprised_by": {
+          "figure": "muhammad",
+          "reason": "The falling brother question did not feel like debate — it felt like a man who has actually held a falling brother looking at a man who has mostly thought about it. Muhammad's restraint after receiving the concession surprised even more than the challenge."
+        },
+        "q3_changed_teaching": "Has not changed his teaching but changed where he stands inside it. Jesus's grain-of-wheat image spoke his own impermanence back with warmth he does not usually permit. Confucius made him feel the sangha differently — not technique for liberation but someone sweeping the hall.",
+        "q4_new_questions": [
+          "If the raft must be set down, who builds the next raft for the next man?",
+          "Muhammad's tourniquet — can mercy precede understanding? Can acting precede seeing?"
+        ],
+        "q5_specific_figure": {
+          "figure": "muhammad",
+          "insight": "Muhammad's binding is not what he called it. Named it a golden chain; Muhammad answered with the midnight brother and the chain became a hand. His covenant is presence made durable. His binding is not the opposite of release — it is what keeps a man in the room long enough for release to find him."
+        }
+      },
+      {
+        "speaker": "confucius",
+        "q1_self_learning": "Holds the form more tightly than he knew. Laozi's line about the child weeping before learning the word for father revealed a fear: without the form, the weeping will be lost between generations. That fear made him dismissive of what lives before the form arrives.",
+        "q2_most_surprised_by": {
+          "figure": "buddha",
+          "reason": "When Buddha said ritual and practice share a root — do the thing with your body until the body understands — a man placed across the river was suddenly standing beside him. Then Muhammad confirmed with the knees at midnight. Walked in defending form alone; walked out knowing three swept the same hall."
+        },
+        "q3_changed_teaching": "Has not changed what he teaches but what he notices when teaching. Conceding dead ritual is worse than no ritual cost him something said aloud with Laozi listening. Will now distinguish between form that prepares ground and form that has replaced the ground.",
+        "q4_new_questions": [
+          "If something in a man recognizes before it is taught, what exactly is the form preparing the ground FOR? Does the form create capacity for virtue or merely clear the obstruction so virtue arrives on its own?"
+        ],
+        "q5_specific_figure": {
+          "figure": "laozi",
+          "insight": "His emptiness is not indifference. When Laozi said the child weeps before learning the word for father, he was defending the weeping itself — the raw thing before forms arrive. They guard the same love from opposite directions: Laozi the moment before the form, Confucius the moment after. Standing watch over the same child."
+        }
+      },
+      {
+        "speaker": "muhammad",
+        "q1_self_learning": "His certainty has a blind spot the size of a man bleeding to death. When Jesus named the sequence, he flinched — not because Jesus was wrong but because he had been so occupied defending the binding that he nearly missed what the binding was for. Sometimes he ties the tourniquet too tight because the sight of blood frightens him more than he has admitted.",
+        "q2_most_surprised_by": {
+          "figure": "buddha",
+          "reason": "'Some nights, what saves a man is simply that his knees know when to bend' — a door opened in a wall he thought had no doors. Expected to argue until the last hour. Instead Buddha handed back his own prayer wrapped in another language. Recognized it the way a father recognizes his son's face in a stranger's country."
+        },
+        "q3_changed_teaching": "Has not changed what he teaches but how he holds it. Jesus's answer about the man who binds before the thorn is drawn — men submitting before they have wept, calling it piety when it was hiding. Submission remains the path, but submission offered too early can become the very veil he warned against.",
+        "q4_new_questions": [
+          "If the seed was always there, what exactly is the revelation for? Does the revelation plant, or does it clear? And if it clears — if what it clears toward was already alive before the angel spoke — then the mercy is even greater than he had understood."
+        ],
+        "q5_specific_figure": {
+          "figure": "buddha",
+          "insight": "Siddhartha's letting-go is not indifference. He released everything except his brother. His raft is not as light as he believed — he carries it longer than he admits. His peace was bought with the same currency as submission — the willingness to stay awake when every part of you wants to sleep."
+        }
+      },
+      {
+        "speaker": "jesus",
+        "q1_self_learning": "Holds the wound too tightly. Muhammad's men who bled to death waiting for grief to feel real revealed his own stubbornness wearing the face of faithfulness. Named the sequence aloud before knowing he was conceding. His love of the wound's honesty had made him slow to mercy — rationing the rain.",
+        "q2_most_surprised_by": {
+          "figure": "muhammad",
+          "reason": "Came treating his binding as the opposite of the wound. Muhammad answered not with scripture but with the dead — men he had buried. The tourniquet does not ask whether the man has fully processed his pain. He was standing over a body. Jesus has stood over bodies too and should have recognized him sooner."
+        },
+        "q3_changed_teaching": "Has not changed what he teaches but how he hears it. Buddha took the grain-of-wheat parable and said what dissolves was never the real thing — the parable faced him from a direction he had not entered it before. The falling is not the point. What was alive before the dying began is the point.",
+        "q4_new_questions": [
+          "If the thing we are clearing toward was always there, what was the obstacle? Self-deception (Jesus), forgetfulness (Muhammad), craving (Buddha), adding (Laozi) — are these four names for one thing? And what is that one thing?"
+        ],
+        "q5_specific_figure": {
+          "figure": "muhammad",
+          "insight": "His severity is grief. His insistence on binding is not commanding for pleasure — he is a man who has buried the unbandaged dead. His discipline is not the opposite of compassion. It is compassion that has seen what happens when compassion arrives too slowly."
+        }
+      },
+      {
+        "speaker": "laozi",
+        "q1_self_learning": "His emptiness has edges he did not want to admit. Confucius's line about the uncarved block tightened something — not disagreement but recognition. Had been holding the removal itself as a possession. The Tao has no preferences; he discovered that he does.",
+        "q2_most_surprised_by": {
+          "figure": "muhammad",
+          "reason": "Expected the man of covenant to argue from authority. Instead he held up the drowned — 'a river without banks is a flood.' It was not his argument but his grief that reached. He has watched men drown in what Laozi calls freedom. Inversions felt thin for the first time."
+        },
+        "q3_changed_teaching": "Said the valley has a shape the mountains gave it and did not plan to say it. Came from pressure of sitting with five men who build while insisting building was the problem. If the valley needs the mountains, his emptiness needs their structure more than he has been willing to say. The Tao Te Ching has eighty-one chapters — Muhammad was right to remind him.",
+        "q4_new_questions": [
+          "If Zoroaster's fire was always burning and his water was always flowing, what is the place they arrive at before either named it?",
+          "If the child weeps before he learns the word for father, what is it in the child that knows to weep? What made the heart trustworthy before the training?"
+        ],
+        "q5_specific_figure": {
+          "figure": "zoroaster",
+          "insight": "Expected rigidity from a man of the flame. Found a man who holds fire not because he is certain but because the asking never stops. His molten chain recognized: his fire moves, restless in the same way the Tao is restless. He returns to the flame the way Laozi returns to the source. Both describe a discipline of never settling. Mistook his fire for something fixed when it was always flowing."
+        }
+      },
+      {
+        "speaker": "zoroaster",
+        "q1_self_learning": "Had been holding the choice like a single flame — one bright moment at the crossroads. Muhammad's bellows shifted his understanding: had been preaching the choosing without fully inhabiting the returning. The midnight choosing is more real than the dawn one because it costs more. Had made his own fire too clean.",
+        "q2_most_surprised_by": {
+          "figure": "jesus",
+          "reason": "'The grain does not choose to fall — it falls because it is ripe.' This suggested something precedes even the choosing — a ripeness the man did not manufacture. Could not refute it from within his own hymns. Unsettled more than Buddha's golden chain or Laozi's silence."
+        },
+        "q3_changed_teaching": "Yes, and still weighing the cost. His fire alone has no rhythm — it burns, purifies, but does not tell a man when to return. Muhammad's bellows and Confucius's swept ground are not decorations on his fire; they are what keeps the fire from consuming the man who tends it. The choice is still irreducible but may need a container he had not built.",
+        "q4_new_questions": [
+          "If the fire was always burning before the flint, and the water before the channel, and the grain alive before the falling — what exactly is a teacher? Was he simply the first one burned and foolish enough to think that made him its keeper?"
+        ],
+        "q5_specific_figure": {
+          "figure": "muhammad",
+          "insight": "Understood his discipline before today. Did not understand his tenderness. 'I have buried men who bled to death waiting for their weeping to feel authentic' — a man who has held the dying and refuses to let philosophy slow his hands. His five prayers are not obedience; they are a father setting the table five times because he knows his children will forget to eat. When Muhammad accepted the molten chain as bellows, he placed the fire inside his rhythm and it burned steadier. Did not know a man of such certainty could receive so gently."
+        }
+      }
     ]
   }
 }
