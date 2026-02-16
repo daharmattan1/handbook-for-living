@@ -1,5 +1,7 @@
 # Session 1: Structure — Summary
 
+> **RE-RUN NEEDED:** Session 0 (Definition) was re-run on 2026-02-16 using separate Opus agents per figure. The re-run produced a materially different foundation — "the clearing" replaces "the open hand," new agreements replace the original seven, and the five-moment sequence did not emerge. This session was built on the original Session 0 and should be re-run with multi-agent dialogue against the new foundation. See `sessions/00_definition_rerun_comparison.md` for the full comparison.
+
 **Date:** 2026-02-14
 **Participants:** Buddha, Jesus, Muhammad, Confucius, Laozi, Zoroaster
 **Moderator:** Facilitator (no authorial voice)
