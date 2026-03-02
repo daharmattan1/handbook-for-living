@@ -1,335 +1,182 @@
 {
-  "session": 1,
-  "topic": "structure",
-  "date": "2026-02-14",
-  "participants": ["Buddha", "Jesus", "Muhammad", "Confucius", "Laozi", "Zoroaster"],
-  "moderator": "Facilitator",
-  "protocol": "roundtable-session-4-phase",
-  "status": "complete",
-  "decision_output": "decisions/structure.md",
-  "transcript_md": "sessions/01_structure_transcript.md",
-  "summary_md": "sessions/01_structure_summary.md",
-  "builds_on": "sessions/00_definition.json",
-  "question": "How should this handbook be organized? What chapters or sections should it contain? In what sequence? Does the five-moment sequence BECOME the chapter structure, or is there a better organizing principle?",
-  "total_turns": 38,
-  "phases": {
-    "opening": {
-      "turns": 7,
-      "description": "Six structural proposals plus moderator introduction"
-    },
-    "clarifying": {
-      "turns": 10,
-      "description": "Opening chapter debate, threshold debate, Jesus crystallizes three structural tensions"
-    },
-    "contested": {
-      "turns": 13,
-      "description": "Questions vs relationships, five movements proposal, relationship as thread, eight-section emergence"
-    },
-    "synthesis": {
-      "turns": 8,
-      "description": "Six reflections plus Zoroaster's reordering proposal and affirmation poll"
-    }
+  "session": {
+    "number": 1,
+    "title": "Structure",
+    "subtitle": "How should the handbook be organized?",
+    "date": "2026-03-01",
+    "type": "re-run",
+    "replaces": "original Session 1 (2026-02-14)",
+    "protocol": "Chat Room Pattern — 6 persistent Opus agents, sequential nudging, shared transcript",
+    "total_turns": 31,
+    "phases": ["A: Opening Positions", "B: Clarifying + Probing", "C: Contested Territory", "D: Synthesis", "E: Exit Interviews"]
   },
-  "opening_proposals": {
-    "zoroaster": {
-      "proposal": "Chapters built from life questions",
-      "principle": "Questions the reader actually carries",
-      "hook_to": "muhammad",
-      "five_moment_position": "Thread, not skeleton. Rhythm, not blueprint."
-    },
-    "muhammad": {
-      "proposal": "Intention first, then questions ordered by community",
-      "principle": "Begin with niyyah (why am I reading this?)",
-      "hook_to": "confucius",
-      "source": "Sahih Bukhari 1:1"
-    },
-    "confucius": {
-      "proposal": "Relationships from near to far",
-      "principle": "Self → family → community → stranger → cosmos. Kitchen to horizon.",
-      "hook_to": "laozi",
-      "source": "Analects 1.1"
-    },
-    "laozi": {
-      "proposal": "Burdens to unlearn",
-      "principle": "Five false beliefs to shed. Subtractive structure.",
-      "hook_to": "buddha",
-      "source": "Dao De Jing Ch. 12"
-    },
-    "buddha": {
-      "proposal": "Begin with reader's actual experience",
-      "principle": "Mirror first, then follow reader's questions. No teacher-imposed categories.",
-      "hook_to": "jesus",
-      "source": "Dhammapada 277"
-    },
-    "jesus": {
-      "proposal": "Arc from invitation through suffering",
-      "principle": "Invitation → Suffering → Relationship → Choice → Action → Beyond",
-      "hook_to": "zoroaster",
-      "sources": ["Luke 15:8-9", "Matthew 5:4"]
-    }
-  },
-  "key_debates": [
+  "participants": [
+    {"name": "Buddha", "turns_spoken": 5, "last_turn": 27},
+    {"name": "Jesus", "turns_spoken": 5, "last_turn": 28},
+    {"name": "Muhammad", "turns_spoken": 6, "last_turn": 31},
+    {"name": "Confucius", "turns_spoken": 5, "last_turn": 30},
+    {"name": "Laozi", "turns_spoken": 5, "last_turn": 29},
+    {"name": "Zoroaster", "turns_spoken": 5, "last_turn": 26}
+  ],
+  "consensus_definition": "A clearing — the space a man returns to when every teaching he has carried has done its work and fallen quiet.",
+  "organizing_principle": "Mandala — six qualities woven as one meal, not six courses. Wound is the conductor. Architecture disappears into the writing.",
+  "decided_items": [
     {
-      "name": "Opening chapter debate",
-      "phase": "clarifying",
-      "turns": ["B1", "B2", "B3", "B4", "B5"],
-      "positions": {
-        "zoroaster": "Clarity/fire — name the condition directly",
-        "jesus": "Mercy/invitation — welcome before reckoning",
-        "muhammad": "Bridge: 'Where You Stand' — both welcome and seeing"
-      },
-      "resolution": "'Where You Stand' as opening chapter combining welcome, intention, and seeing"
+      "number": 1,
+      "name": "Mandala Architecture",
+      "description": "Six qualities woven as one meal — threshold, practice, relation, seeing, fire, clearing. Emphasis shifts by wound. Wound is the conductor.",
+      "proposed_by": "Confucius",
+      "status": "affirmed_by_all"
     },
     {
-      "name": "Threshold debate",
-      "phase": "clarifying",
-      "turns": ["B6", "B7", "B8", "B9"],
-      "positions": {
-        "laozi": "Empty the cup first — full chapter on emptying",
-        "zoroaster": "Not a chapter — reader is bleeding",
-        "buddha": "Threshold as practice embedded in every chapter",
-        "confucius": "Ritual works by repetition, not explanation"
+      "number": 2,
+      "name": "Body as Language",
+      "description": "Five body-words (return, stillness, small action, contact, openness) plus remaining as ground beneath. Not separate practices but movements of a whole.",
+      "proposed_by": "Confucius, Muhammad, Buddha",
+      "body_words": {
+        "return": {"wound": "abandoned", "salat": "qiyam (standing)"},
+        "stillness": {"wound": "insufficient", "salat": "juloos (sitting)"},
+        "small_action": {"wound": "paralyzed", "salat": "takbir (lifting hands)"},
+        "contact": {"wound": "dissociated", "salat": "wudu (washing)"},
+        "openness": {"wound": "betrayed", "salat": "du'a (palms up)"},
+        "remaining": {"wound": "all", "salat": "meditator's posture", "note": "ground beneath, not sixth in list"}
       },
-      "resolution": "Threshold practice (brief clearing) opens every chapter, not a standalone chapter"
+      "status": "affirmed_by_all"
     },
     {
-      "name": "Questions vs relationships as organizing principle",
-      "phase": "contested",
-      "turns": ["C1", "C2", "C3", "C4"],
-      "positions": {
-        "muhammad": "Organize by where reader lives (social context)",
-        "buddha": "Organize by universal conditions (not all readers have social locations)",
-        "confucius": "Even the exile has relationships — relationship IS the human condition",
-        "laozi": "Both are trapped by own clarity — organize by movements every life makes"
-      },
-      "resolution": "Five movements as chapters, with relationship as thread through all"
+      "number": 3,
+      "name": "Two-Depth Writing",
+      "description": "Hidden sentence (Confucius) + zahir/batin (Muhammad) + three readings: body-word, mirror, recognition (Buddha). Sentence does not change; man changes.",
+      "proposed_by": "Confucius, Muhammad, Buddha",
+      "three_readings": ["body-word (surface practice)", "mirror (self-recognition)", "recognition (the you beneath all roles)"],
+      "example": "'You did not leave' — (1) feet on floor, (2) you are not your father, (3) the you beneath all roles was never absent",
+      "status": "affirmed_by_all"
     },
     {
-      "name": "Where do relationships go?",
-      "phase": "contested",
-      "turns": ["C8", "C9"],
-      "positions": {
-        "confucius": "Relationships need dedicated chapter — permanent architecture, not moments",
-        "laozi": "Relationship is present in every movement — thread, not skeleton"
-      },
-      "resolution": "Confucius accepts relationship as thread through all chapters"
+      "number": 4,
+      "name": "One-Wound-Many-Roots",
+      "description": "One wound with roots growing into different life areas. Governs chapter organization. Tangle reveals across chapters and time.",
+      "proposed_by": "Muhammad",
+      "status": "affirmed_by_all"
     },
     {
-      "name": "Placement of 'What Sustains'",
-      "phase": "synthesis",
-      "turns": ["D6", "D7", "D8", "D9", "D10", "D11"],
+      "number": 5,
+      "name": "Body Experiences Seeing as Safety",
+      "description": "Half-second (Buddha) + eleventh second (Muhammad). Neutral attention is the first safety the body has experienced in thirty years. The jaw is the teaching.",
+      "proposed_by": "Muhammad, Buddha",
+      "status": "affirmed_by_all"
+    },
+    {
+      "number": 6,
+      "name": "Ember as Presence",
+      "description": "Handbook is true in reader's vicinity. No strategy toward reader. Warmth without announcing.",
+      "proposed_by": "Laozi, Confucius, Muhammad, Buddha (four-voice consensus)",
       "positions": {
-        "zoroaster": "Move from Section 7 to Section 5 — between Choosing and Acting",
-        "jesus": "Yes — sustaining comes at moment of greatest vulnerability",
-        "buddha": "Yes — between intention and action is the gathering moment",
-        "muhammad": "Yes — 'tie your camel, then trust in Allah'",
-        "confucius": "Yes — the superior man acts from strength of cultivation",
-        "laozi": "Yes — though what sustains is what you stop clinging to"
+        "laozi": "fire meeting fire",
+        "confucius": "gan ying (sympathetic resonance)",
+        "muhammad": "da'wah (beauty is the frequency at which truth travels without resistance)",
+        "buddha": "presence (being something in reader's vicinity)",
+        "zoroaster": "conceded to consensus in Phase D",
+        "jesus": "conceded to consensus in Phase D"
       },
-      "resolution": "Unanimous — 'What Sustains' placed between Choosing and Acting"
+      "status": "affirmed_by_all"
+    },
+    {
+      "number": 7,
+      "name": "Betrayal as Structural Modifier",
+      "description": "Not a sixth wound but a sixth doorway. Threshold reversal: honor the wall first, then name the cost.",
+      "proposed_by": "Jesus",
+      "status": "affirmed_by_all"
+    },
+    {
+      "number": 8,
+      "name": "Two Dissolutions + Return",
+      "description": "First dissolution (avoidance), return, second dissolution (completion). Book designed for re-entry. Third moment between dissolutions: return to self.",
+      "proposed_by": "Jesus, Confucius",
+      "status": "affirmed_by_all"
+    },
+    {
+      "number": 9,
+      "name": "Fine Man",
+      "description": "Handbook does not reach. Threshold waits. Readiness is the crack life provides on life's schedule.",
+      "proposed_by": "Buddha",
+      "status": "affirmed_by_all"
+    },
+    {
+      "number": 10,
+      "name": "Architecture Disappears",
+      "description": "Scaffolding comes down. Reader does not need to know what was built.",
+      "proposed_by": "Laozi",
+      "status": "affirmed_by_all"
     }
   ],
-  "agreed_structure": {
-    "chapters": [
-      {
-        "section": 1,
-        "title": "Where You Stand",
-        "movement": "Arrival",
-        "core_question": "Who am I right now, honestly?",
-        "description": "Welcome, intention, seeing. The reader arrives, is met, and sees their condition clearly. Mercy and clarity in one breath."
-      },
-      {
-        "section": 2,
-        "title": "What Happens When I Stop?",
-        "movement": "Stillness",
-        "core_question": "What does silence reveal?",
-        "description": "For the reader who is running, striving, drowning in noise. What happens when you stop? What are you fleeing from?"
-      },
-      {
-        "section": 3,
-        "title": "What Am I Afraid to See?",
-        "movement": "Seeing",
-        "core_question": "What truth am I avoiding?",
-        "description": "The diagnosis. The truth about suffering, the reality of condition. Buddha's seeing, Zoroaster's illumination, Laozi's unlearning."
-      },
-      {
-        "section": 4,
-        "title": "How Do I Choose When the Path Is Dark?",
-        "movement": "Choosing",
-        "core_question": "How do I decide without certainty?",
-        "description": "The agony of decision. How to choose without seeing the outcome. Between goods, between right thing for wrong reason and wrong thing for right reason."
-      },
-      {
-        "section": 5,
-        "title": "What Sustains Me?",
-        "movement": "The Ground",
-        "core_question": "What holds me up when I cannot hold myself?",
-        "description": "The irreducible tensions laid bare. Six positions on what sustains, presented as testimony. Placed between Choosing and Acting — the moment of greatest vulnerability."
-      },
-      {
-        "section": 6,
-        "title": "How Do I Act With What I Have?",
-        "movement": "Acting",
-        "core_question": "What do I do with imperfect resources?",
-        "description": "Doing with insufficient resources, imperfect knowledge, and real relationships. Includes forgiveness as affirmative action. Most practical chapter."
-      },
-      {
-        "section": 7,
-        "title": "How Do I Let Go of What Is Finished?",
-        "movement": "Releasing",
-        "core_question": "What must I surrender to move forward?",
-        "description": "Grief, completion, change. The surrender of what was once necessary but is no longer. What does it mean to die before you die?"
-      },
-      {
-        "section": 8,
-        "title": "What Now?",
-        "movement": "Return",
-        "core_question": "What do I do today?",
-        "description": "Return to life. Each agent offers one specific practice the reader can begin immediately. Not 'what we believe' but 'what you can do today.'"
-      }
-    ],
-    "sequencing_rationale": "The five-moment sequence (Stillness → Seeing → Choosing → Acting → Releasing) provides the spine, but 'What Sustains' is inserted between Choosing and Acting because that is where the reader will feel most alone — after making a choice but before living it out. The sequence is flexible: the reader may enter at any chapter. 'Where You Stand' orients; 'What Now?' returns the reader to life.",
-    "structural_principles": [
-      "Threshold practice (brief clearing/emptying) opens every chapter",
-      "Relationship is a thread through all chapters, not confined to one",
-      "Shadow questions live beneath each surface question",
-      "Sequence is flexible — reader may enter at any chapter",
-      "All six voices speak within every chapter",
-      "Tensions are preserved as testimony, not resolved into compromise"
-    ],
-    "affirmed_by": "All six agents unanimously"
-  },
-  "tensions": [
+  "living_tensions": [
     {
-      "name": "Opening chapter: mercy first vs clarity first",
-      "status": "BRIDGED",
-      "bridge": "'Where You Stand' holds both — mercy and clarity in one breath",
-      "proposer": "muhammad"
+      "name": "Witness vs. Flood",
+      "buddha_position": "What persists is the man's capacity for the witness to return",
+      "zoroaster_position": "What persists is Asha — the fact that reality held its shape",
+      "status": "unresolved_by_design"
     },
     {
-      "name": "Threshold: chapter on emptying vs embedded practice",
-      "status": "BRIDGED",
-      "bridge": "Threshold as practice embedded in every chapter, not standalone chapter",
-      "proposer": "buddha"
-    },
-    {
-      "name": "Questions vs relationships as organizing principle",
-      "status": "BRIDGED",
-      "bridge": "Five movements (questions) as chapters; relationship as thread through all",
-      "proposer": "laozi"
-    },
-    {
-      "name": "Linear progression vs modular entry",
-      "status": "BRIDGED",
-      "bridge": "Sequence suggested but flexible — reader may enter at any burning question",
-      "affirmed_by": "buddha"
-    },
-    {
-      "name": "Placement of 'What Sustains'",
-      "status": "RESOLVED",
-      "resolution": "Between Choosing and Acting — where the reader is most alone",
-      "proposer": "zoroaster",
-      "affirmed_by": "all six"
+      "name": "Dissociated Body",
+      "description": "All traditions weakest here. Beginnings exist (cup, wudu, interruption) but honest about incompleteness.",
+      "status": "unresolved_by_design"
     }
   ],
-  "emergent_insights": [
-    {
-      "name": "The shadow question",
-      "attributed_to": ["Jesus", "Muhammad"],
-      "description": "Every surface question has a deeper question beneath it that the reader is afraid to ask. The surface question invites the reader in; the shadow question holds them until they have been changed.",
-      "arose_from": "Zoroaster's questions + Laozi's burdens crystallizing through Jesus's observation"
-    },
-    {
-      "name": "The threshold as practice",
-      "attributed_to": "Buddha",
-      "description": "Emptying is not a chapter but a structural element at the start of every chapter. A moment of arrival, of setting down, of clearing. Vipassana in structural form.",
-      "arose_from": "Buddha's poisoned arrow parable meeting Laozi's emptying and Confucius's ritual"
-    },
-    {
-      "name": "Relationship as thread, not skeleton",
-      "attributed_to": "Laozi",
-      "description": "Banks and water, form and flow. Without Confucius's banks, water floods and destroys. Without Laozi's water, banks are dry channels. The handbook's structure IS this — both form and flow.",
-      "arose_from": "Exchange between Confucius and Laozi about where relationships belong in the structure"
-    },
-    {
-      "name": "Humaneness as atmosphere",
-      "attributed_to": "Confucius",
-      "description": "Jen is not a teaching among teachings but the quality of attention that makes all other teachings possible. Not a chapter but the air in every room.",
-      "arose_from": "Accepting relationship as thread rather than skeleton revealed jen's true nature"
-    },
-    {
-      "name": "Discovered order",
-      "attributed_to": "Zoroaster",
-      "description": "The structure was Asha — righteous order not imposed but uncovered. Convergence without compromise: each agent offered a piece (questions, threshold, thread, shadow) and they fit without anyone designing the whole.",
-      "arose_from": "Reflection on how the eight-section structure emerged without any single agent proposing it"
-    }
+  "emergent_concepts": [
+    "The man in the kitchen (Muhammad's test case)",
+    "The jaw is the teaching (Muhammad + Buddha)",
+    "Hidden sentence (Confucius)",
+    "Three readings (Buddha)",
+    "Fire meeting fire (Laozi)",
+    "Disclosed presence (Zoroaster, term later released)",
+    "The clearing is full (Laozi)",
+    "Architecture disappears (Laozi)",
+    "The practice hall is very small (Confucius)",
+    "Not the lamp, the relighting (Buddha)",
+    "The truth belongs to the room (Jesus)"
   ],
-  "per_agent_summary": {
-    "Buddha": {
-      "turns": 6,
-      "opening_proposal": "Begin with reader's actual experience — mirror, then follow questions",
-      "key_contribution": "Proposed threshold as practice (not chapter) embedded in every chapter; affirmed 'Where You Stand' as mirror + welcome",
-      "surprised_by": "Speed of convergence; Laozi proposing the movements",
-      "remains_firm": "Sequence must be genuinely flexible — no hierarchy, no 'failing' by skipping",
-      "emergent_insight": "The threshold as practice",
-      "sources_cited": ["Dhammapada 277", "Majjhima Nikaya 63", "Samyutta Nikaya 2.26"]
+  "key_bridges": [
+    {"pair": "Muhammad-Buddha", "description": "The jaw is the teaching. Half-second + eleventh second. Deepest bridge in the room."},
+    {"pair": "Laozi-Confucius", "description": "From opposites to partners. The argument is the architecture."},
+    {"pair": "Zoroaster-Buddha", "description": "Witness concession. Standing on cracked ground."},
+    {"pair": "Jesus-Zoroaster", "description": "Zoroaster said what Jesus couldn't say about his own fire."},
+    {"pair": "Jesus-Muhammad", "description": "Body and wound of the handbook. Floor and blood."}
+  ],
+  "exit_interviews": {
+    "zoroaster": "The clearing is a kitchen at five-thirty with bare feet on cold tile.",
+    "buddha": "Not the lamp. The relighting.",
+    "jesus": "The truth does not belong to the teacher. The truth belongs to the room.",
+    "laozi": "The clouds are real. The clearing is more real.",
+    "confucius": "The practice hall is very small. And it is enough.",
+    "muhammad": "The cold of the tile reaches his cheek. And the reaching is the first word."
+  },
+  "session_0_continuity": {
+    "agreements_mapped": {
+      "recognizes_before_taught": "Three readings — recognition layer",
+      "body_carries_soul": "Five body-words + the jaw is the teaching",
+      "dead_ritual_worse": "Confucius's dissociated body concession",
+      "teach_own_dissolution": "Two dissolutions + return; architecture disappears",
+      "wound_tourniquet_sequence": "Jesus + Muhammad as body and wound of handbook",
+      "method_negotiable": "Six qualities as one meal, emphasis shifts by wound"
     },
-    "Jesus": {
-      "turns": 6,
-      "opening_proposal": "Arc from invitation through suffering — mercy first",
-      "key_contribution": "Named three structural tensions clearly; proposed shadow questions beneath surface questions; insisted 'What Sustains' is the heart of the book",
-      "surprised_by": "Laozi's humility in offering structure then refusing to own it",
-      "remains_firm": "Section 5 must present full-throated testimony, not polite comparison",
-      "emergent_insight": "The shadow question",
-      "sources_cited": ["Luke 15:8-9", "Matthew 5:4", "John 8:3-11", "Matthew 6:6", "Luke 6:27", "Matthew 11:28", "Matthew 16:24", "John 14:18", "John 15:5"]
-    },
-    "Muhammad": {
-      "turns": 6,
-      "opening_proposal": "Intention first, then questions ordered by community",
-      "key_contribution": "Named 'Where You Stand' as opening that holds both welcome and seeing; articulated full eight-section structure; insisted on specificity of Section 8",
-      "surprised_by": "How naturally intention folded into 'Where You Stand'; Jesus's shadow questions",
-      "remains_firm": "Section 5 must present six convictions with full weight, not academic comparison",
-      "emergent_insight": "The shadow question (shared with Jesus)",
-      "sources_cited": ["Sahih Bukhari 1:1", "Sahih Muslim 47:14", "Sahih Bukhari 3038", "Sahih Bukhari 6114", "Sahih Bukhari 1417", "Sahih Bukhari 2:15", "Sunan al-Tirmidhi 2517", "Sunan Ibn Majah 1977"]
-    },
-    "Confucius": {
-      "turns": 6,
-      "opening_proposal": "Relationships from near to far — kitchen to horizon",
-      "key_contribution": "Insisted relationship must pervade the structure; accepted thread over skeleton; affirmed ritual/threshold pattern",
-      "surprised_by": "Agreeing with Laozi twice; recognizing himself in Zoroaster's questions",
-      "remains_firm": "Acting chapter must be the most practical and specific of all",
-      "emergent_insight": "Humaneness as atmosphere",
-      "sources_cited": ["Analects 1.1", "Analects 12.16", "Analects 3.3", "Analects 12.5", "Analects 2.13", "Analects 7.30", "Analects 4.5"]
-    },
-    "Laozi": {
-      "turns": 6,
-      "opening_proposal": "Burdens to unlearn — five false beliefs to shed",
-      "key_contribution": "Proposed threshold/emptying; proposed five movements as organizing principle (then refused ownership); articulated 'relationship as thread, not skeleton'",
-      "surprised_by": "Confucius bending without breaking; himself offering the structure",
-      "remains_firm": "Five movements must not calcify — structure must breathe",
-      "emergent_insight": "Relationship as thread, not skeleton",
-      "sources_cited": ["Dao De Jing Ch. 1", "Dao De Jing Ch. 12", "Dao De Jing Ch. 17", "Dao De Jing Ch. 27", "Dao De Jing Ch. 48", "Dao De Jing Ch. 5", "Dao De Jing Ch. 11"]
-    },
-    "Zoroaster": {
-      "turns": 8,
-      "opening_proposal": "Chapters built from life questions — five-moment sequence as thread, not skeleton",
-      "key_contribution": "Named all five chapter questions; proposed reordering 'What Sustains' to between Choosing and Acting; affirmed questions as chapter titles",
-      "surprised_by": "Convergence without compromise — pieces fit without anyone designing the whole",
-      "remains_firm": "Questions as chapter titles — handbook as petition, not prescription",
-      "emergent_insight": "Discovered order",
-      "sources_cited": ["Yasna 44.3"]
+    "tensions_mapped": {
+      "binding_duration": "Grip before release; two dissolutions",
+      "form_creates_or_reveals": "Living tension (dissociated body)",
+      "choosing_vs_ripeness": "Fine man decided: threshold waits"
     }
   },
-  "continuity_from_session_0": {
-    "five_moment_sequence": "Became the spine as five movements named as questions, with flexible ordering",
-    "whose_hand_carries": "Found structural home in Section 5: 'What Sustains Me?'",
-    "raft_vs_bread": "Honored by flexible structure — same handbook serves differently depending on entry point",
-    "corner_and_space": "Matured into 'relationship as thread, not skeleton'",
-    "open_hand": "Now has a structure to hold"
-  },
-  "affirmation": {
-    "status": "ALL_SIX_AFFIRMED",
-    "date": "2026-02-14",
-    "notes": "Zoroaster's late reordering proposal (moving 'What Sustains' to Section 5) was affirmed unanimously by all six agents"
+  "artifacts": {
+    "transcript": "sessions/01_structure_transcript.md",
+    "summary": "sessions/01_structure_summary.md",
+    "decision": "decisions/structure.md",
+    "reflections": {
+      "buddha": "reflections/buddha/session_01_structure.md",
+      "jesus": "reflections/jesus/session_01_structure.md",
+      "muhammad": "reflections/muhammad/session_01_structure.md",
+      "confucius": "reflections/confucius/session_01_structure.md",
+      "laozi": "reflections/laozi/session_01_structure.md",
+      "zoroaster": "reflections/zoroaster/session_01_structure.md"
+    }
   }
 }
