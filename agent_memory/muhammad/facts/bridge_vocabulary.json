@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "bridge_id": "BV-muhammad-001",
@@ -117,6 +117,47 @@
       "provenance": {
         "session_id": "handbook_session_00_definition_rerun_20260216",
         "turn_numbers": ["C-Jesus"]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-009",
+      "term": "the eleventh second",
+      "agent_meaning": "The moment the shoulders drop a quarter-inch — the body's signal that it has decided to stay. Not the mind's decision to practice, but the body's consent. The eleventh second is when discipline becomes invitation accepted, not command obeyed.",
+      "partner_meaning": {
+        "buddha": "Partners with 'the half-second of noticing' — Buddha's micro-moment of awareness before reactivity. Muhammad's eleventh second is the body arriving; Buddha's half-second is the mind arriving. Together they bracket the threshold of practice."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": ["S1-Muhammad"]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-010",
+      "term": "the kitchen",
+      "agent_meaning": "The 41-year-old man, dead mother, two children. The kitchen is where every abstraction must land or be discarded. Muhammad kept returning the session to this man, this room, this morning — grounding every voice's formulation in whether it helps this specific person stand and not leave.",
+      "partner_meaning": {
+        "all": "Became the session's shared gravity. Every tradition's offering was tested against the kitchen: does this sentence help him stand in his kitchen tomorrow morning and not leave? The kitchen is not a metaphor — it is the editorial standard."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": ["S1-Muhammad"]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-011",
+      "term": "the vine that pauses",
+      "agent_meaning": "Practice as invitation the body can decline. The vine climbs when it is ready; some mornings the answer is 'not yet.' This reframes missed practice from failure into the body's honest prayer. 'Not yet' is not refusal — it is the body saying it is not ready, and that honesty is itself a form of worship.",
+      "partner_meaning": {
+        "buddha": "Resonates with non-forcing and the middle way — the vine that is forced to climb is dead ritual. Buddha's practice also requires willingness, not compulsion.",
+        "laozi": "Deep alignment with wu-wei — the vine that pauses is the practice that does not force. Laozi would recognize 'not yet' as the Tao's own timing.",
+        "jesus": "Connects to the wound that must be ready before it can be touched. Some mornings the man is not ready, and the compassionate response is to wait."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": ["S1-Muhammad"]
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "formulation_id": "EF-zoroaster-001",
@@ -73,6 +73,42 @@
         "turn_number": "E-Q1"
       },
       "use_with": [],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-007",
+      "phrase": "The clearing is a kitchen at five-thirty with bare feet on cold tile.",
+      "context": "Session 1 Re-Run — grounding the abstract 'clearing' from Session 0 in the most concrete possible image. The dissociated man standing in his kitchen is where Asha lives or does not live.",
+      "effectiveness_marker": "Translated the theological into the domestic. The clearing is not a metaphysical space but a specific moment in a specific man's morning. Made the abstract immediate.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-008",
+      "phrase": "Salvation without consent is violence in the name of love.",
+      "context": "Session 1 Re-Run — the consent principle. Fire that is aimed at a man who has not asked for it is not Asha but Druj wearing Asha's face.",
+      "effectiveness_marker": "Devastating ethical principle. Reframes the fire-bringer's temptation: the desire to save is itself a form of violence when the man has not opened his door. Resonated deeply with Jesus's tradition.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["jesus", "muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-009",
+      "phrase": "Asha does not break seals. Asha meets what has already been opened.",
+      "context": "Session 1 Re-Run — Asha as discovered order that arrives at the threshold, not through the door. The fire does not force entry; it waits for the opening.",
+      "effectiveness_marker": "Redefined Zoroaster's role from fire-bringer to threshold-waiter. Asha as disclosed presence rather than imposed truth.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["all"],
       "avoid_with": []
     }
   ]

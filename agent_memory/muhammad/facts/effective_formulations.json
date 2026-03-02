@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "formulation_id": "EF-muhammad-001",
@@ -61,6 +61,42 @@
         "turn_number": "B-Muhammad"
       },
       "use_with": ["buddha", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-008",
+      "phrase": "The body keeps its own time. The practice must respect the body's time, not the mind's.",
+      "context": "Session 1 Re-Run — Muhammad grounding the structure conversation in the body's authority. The man on the kitchen floor does not need a schedule imposed by theology; he needs a practice that meets the body where it already is. The body's time is slower, more honest, and less negotiable than the mind's.",
+      "effectiveness_marker": "Reframed the entire structure debate from 'what schedule should the man follow' to 'what does the body already know about when to move.' Shifted the conversation from prescription to listening.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": "S1-Muhammad"
+      },
+      "use_with": ["buddha", "jesus", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-009",
+      "phrase": "Does this sentence help him stand in his kitchen tomorrow morning and not leave?",
+      "context": "Session 1 Re-Run — Muhammad's persistent ground-test for every abstraction offered. Every time a voice drifted toward philosophy, Muhammad brought the room back to the 41-year-old man, dead mother, two children, standing in his kitchen. The question became the session's gravity.",
+      "effectiveness_marker": "Functioned as the session's editorial blade. Any formulation that could not pass this test was revised or discarded. Multiple voices acknowledged that Muhammad's insistence on the kitchen kept the session honest.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": "S1-Muhammad"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-010",
+      "phrase": "The cold of the tile reaches his cheek. And the reaching is the first word.",
+      "context": "Session 1 Re-Run — Muhammad naming the moment before practice begins. The man is not yet praying, not yet meditating, not yet choosing. He is on the floor. The tile is cold. And the cold reaching his cheek is itself the beginning — not a failure to begin, but the body's first word.",
+      "effectiveness_marker": "Collapsed the gap between 'not yet practicing' and 'already in practice.' Reframed the man on the floor from someone who has failed to start into someone whose body is already speaking.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": "S1-Muhammad"
+      },
+      "use_with": ["buddha", "jesus", "laozi"],
       "avoid_with": []
     },
     {

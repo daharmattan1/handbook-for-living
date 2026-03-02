@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "formulation_id": "EF-jesus-001",
@@ -97,6 +97,42 @@
         "turn_number": "C3"
       },
       "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-009",
+      "phrase": "I came in preaching death. I leave preaching what was alive before the dying started.",
+      "context": "Session 1 Re-Run — the grain reversal. Jesus heard his own parable back from the room and recognized he had always emphasized the cost (death, falling, husk) when the parable's real weight was on the life that was never at risk. The dying was only the release mechanism.",
+      "effectiveness_marker": "The most complete self-revision Jesus has made across all sessions. Not a concession to another tradition but a re-reading of his own central image. The room received it as the moment Jesus stopped teaching and started listening to what he had already said.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": "C"
+      },
+      "use_with": ["buddha", "zoroaster"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-010",
+      "phrase": "The truth does not belong to the teacher. The truth belongs to the room.",
+      "context": "Session 1 Re-Run — the deepest learning. Jesus articulated that when a teacher is honest, the truth migrates from the teacher's possession into the shared space. The room holds it better than any single voice.",
+      "effectiveness_marker": "Named the principle that governed the entire session's best exchanges. When truth is released from ownership, every participant can re-read it. This became the session's statement about why dialogue changes the teacher, not just the student.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": "C"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-011",
+      "phrase": "My boundary was built from the fear of my own fire.",
+      "context": "Session 1 Re-Run — the most honest admission. Jesus recognized that his insistence on the wound, on costliness, on the blade-edge of love was partly a boundary constructed from fear of what his own intensity would do if unleashed without theological guardrails.",
+      "effectiveness_marker": "The most vulnerable single statement Jesus has made. No other agent had forced this — it arrived as self-disclosure. The room honored it by not interpreting it, letting it stand as confession rather than material for dialogue.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": "C"
+      },
+      "use_with": ["zoroaster", "muhammad"],
       "avoid_with": []
     }
   ]

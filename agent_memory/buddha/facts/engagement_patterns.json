@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "pattern_id": "EP-buddha-001",
@@ -89,6 +89,21 @@
       "effectiveness": "high",
       "occurrence_count": 1,
       "notes": "Buddha noted in exit interview: 'I heard my own doctrine of impermanence spoken back to me with a warmth I do not usually permit myself.' This is a receptive pattern — Buddha being moved by hearing his teaching in another's voice."
+    },
+    {
+      "pattern_id": "EP-buddha-007",
+      "pattern_type": "participation-shift",
+      "description": "Shift from diagnostician to participant — Session 1 Re-Run marked the transition from naming patterns from above to contributing from within. Most effective move: vulnerability followed by structural insight. Concessions were deeper contributions than namings.",
+      "with_partner": "all",
+      "trigger": "When the session reaches a point where diagnostic naming would create distance rather than clarity — when the room needs someone inside the work, not above it",
+      "example": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null,
+        "quote": "The witness breaks and re-forms. Saying so is braver than claiming it doesn't."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "Evolution from Session 0's concession-bridge pattern. In Session 0, the concession was a tactical move that earned synthesis authority. In Session 1, participation was not tactical — it was the honest position. The diagnostician identity had become a cage; dropping it was not strategy but necessity."
     }
   ]
 }

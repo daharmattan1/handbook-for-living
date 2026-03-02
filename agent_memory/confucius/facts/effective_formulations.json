@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "formulation_id": "EF-confucius-001",
@@ -107,6 +107,42 @@
       "provenance": {
         "session_id": "handbook_session_00_definition_rerun_20260216",
         "turn_number": "D"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-010",
+      "phrase": "I had been building cathedrals. The man needed a cup.",
+      "context": "Session 1 Re-Run — discovery that the smallest form is the truest. Confucius recognized his instinct toward grand structures and corrected toward the scale of the actual need.",
+      "effectiveness_marker": "Compressed self-correction that reframed the entire session's arc. The cup image became the mandala principle — one meal, not six courses.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-011",
+      "phrase": "The practice hall is very small. And it is enough.",
+      "context": "Session 1 Re-Run — affirmation that scale does not determine sufficiency. The smallest practice hall holds what matters.",
+      "effectiveness_marker": "Quiet authority. Not a concession but a discovery — smallness as completeness rather than limitation.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-012",
+      "phrase": "One meal, not six courses.",
+      "context": "Session 1 Re-Run — the mandala principle. A single well-prepared meal serves the man better than an elaborate feast that overwhelms.",
+      "effectiveness_marker": "Became shorthand for the session's central discovery: form serves when it matches the scale of the need. The mandala is complete at any scale.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
       },
       "use_with": ["all"],
       "avoid_with": []

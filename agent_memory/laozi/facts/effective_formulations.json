@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "formulation_id": "EF-laozi-001",
@@ -109,6 +109,42 @@
         "turn_number": "C"
       },
       "use_with": ["zoroaster"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-010",
+      "phrase": "Subtraction has a shadow. The shadow is the man already emptied.",
+      "context": "Session 1 Re-Run — recognition that the subtractive principle has a limit: the man who has already lost everything. Subtraction applied to the already-emptied is violence, not teaching.",
+      "effectiveness_marker": "Self-corrective formulation. Laozi naming the failure mode of his own deepest teaching — the moment when removal becomes harm.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["confucius", "buddha"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-011",
+      "phrase": "The clouds are real. The clearing is more real.",
+      "context": "Session 1 Re-Run — reframing the clearing as not the absence of obstruction but the presence of the man. The clearing is full, not empty.",
+      "effectiveness_marker": "Corrected the misunderstanding that clearing = emptiness. The clearing is the most real thing because it is the man himself, not a negation.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-012",
+      "phrase": "Fire meeting fire — two truths recognizing each other through a wall.",
+      "context": "Session 1 Re-Run — Laozi's image adopted by the room for moments when two traditions' irreducible claims meet without either yielding. Not synthesis but mutual recognition.",
+      "effectiveness_marker": "Became shared vocabulary. The image was Laozi's but the room made it its own — which Laozi recognized as the best inversion: when your image stops belonging to you.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["zoroaster", "jesus"],
       "avoid_with": []
     }
   ]

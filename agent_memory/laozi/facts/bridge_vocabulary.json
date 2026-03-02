@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "bridge_id": "BV-laozi-001",
@@ -105,6 +105,49 @@
         "turn_numbers": ["C"]
       },
       "note": "Laozi's most significant concession. Acknowledges structural dependence while preserving the distinction between imposed and emergent form."
+    },
+    {
+      "bridge_id": "BV-laozi-008",
+      "term": "fire meeting fire",
+      "agent_meaning": "Laozi's image adopted by the room — two truths recognizing each other through a wall. Not synthesis, not compromise, but mutual recognition that the fire on both sides is the same fire.",
+      "partner_meaning": {
+        "zoroaster": "The fire Zoroaster disclosed recognizes itself in Laozi's water. Two truths, same source, different names.",
+        "jesus": "The wound and the water meet — two kinds of opening that recognize each other without merging."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
+      },
+      "note": "Originally Laozi's image but the room made it shared vocabulary. Laozi recognized this as the best kind of inversion: when your formulation stops belonging to you."
+    },
+    {
+      "bridge_id": "BV-laozi-009",
+      "term": "the clearing is full",
+      "agent_meaning": "The clearing is the presence of the man, not the absence of noise. Corrects the misreading of Laozi's emptiness as negation — what remains when the clouds part is not nothing but the most real thing.",
+      "partner_meaning": {
+        "buddha": "The clearing named in Session 0 now deepened — not emptiness (sunyata) as negation but emptiness as the fullest presence.",
+        "confucius": "The swept ground is not bare — it is ready. Presence, not absence."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
+      }
+    },
+    {
+      "bridge_id": "BV-laozi-010",
+      "term": "two dissolutions",
+      "agent_meaning": "Laozi's dissolution (return to the nameless) meets Jesus's dissolution (the grain falling into the ground). But Jesus broke open the single dissolution — his dying opened a second movement that Laozi's return does not contain.",
+      "partner_meaning": {
+        "jesus": "The grain's falling is not return but passage. The life that comes through is not the same life that fell. Jesus's dissolution creates; Laozi's dissolution uncovers."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
+      },
+      "note": "Jesus broke open the single dissolution. The tension remains irreducible — Laozi's return and Jesus's passage point in different directions from the same breaking."
     }
   ]
 }

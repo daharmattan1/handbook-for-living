@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "bridge_id": "BV-buddha-001",
@@ -90,6 +90,49 @@
         "turn_numbers": ["E5"]
       },
       "notes": "Named in exit interview. Reframed the golden chain critique — the binding is not the opposite of release but its precondition."
+    },
+    {
+      "bridge_id": "BV-buddha-007",
+      "term": "the jaw",
+      "agent_meaning": "Where Buddha and Muhammad found each other — half a second of noticing plus a quarter-inch of softening. The smallest unit of practice that is still real.",
+      "partner_meaning": {
+        "muhammad": "The eleventh second, the body's first honest word"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
+      },
+      "notes": "A somatic bridge — neither concept nor metaphor but a shared location in the body where attention and discipline meet."
+    },
+    {
+      "bridge_id": "BV-buddha-008",
+      "term": "mandala",
+      "agent_meaning": "Six qualities woven as one meal — emphasis shifts by wound. Not a sequence but a pattern where every quality is always present and the wound determines which one the man needs most.",
+      "partner_meaning": {
+        "all": "Discovered order (Asha), not designed"
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
+      },
+      "notes": "Structural image for Session 1. The mandala is not a curriculum but a map of emphasis — all six qualities present in every moment, foregrounded by need."
+    },
+    {
+      "bridge_id": "BV-buddha-009",
+      "term": "body-words",
+      "agent_meaning": "Five vocabulary of the body: return, stillness, small action, contact, openness. The body speaks in these before the mind can name them.",
+      "partner_meaning": {
+        "confucius": "Li as vocabulary, not rules",
+        "muhammad": "Five postures of salat"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
+      },
+      "notes": "Cross-tradition somatic vocabulary. Confucius hears ritual as language; Muhammad hears prayer as body-speech. Buddha names the five words the body already knows."
     }
   ]
 }

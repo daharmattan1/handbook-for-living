@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "bridge_id": "BV-confucius-001",
@@ -85,6 +85,47 @@
       "provenance": {
         "session_id": "handbook_session_00_definition_rerun_20260216",
         "turn_numbers": ["E"]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-007",
+      "term": "the cup",
+      "agent_meaning": "The smallest form — too small for defenses, too small for posturing. A cup holds exactly what the man needs and nothing more. The form-builder's discovery that the truest building is the smallest one.",
+      "partner_meaning": {
+        "laozi": "The cup is already almost empty — the smallest vessel is closest to no vessel at all. Where Confucius's form and Laozi's formlessness nearly touch.",
+        "zoroaster": "The cup holds fire at a scale where it warms rather than burns. Disclosed presence without aiming."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-008",
+      "term": "hidden sentence",
+      "agent_meaning": "A sentence that is true on the surface but shatters on return — the man hears it, walks away, and it opens differently when he comes back. Li at its most precise: form that teaches by delayed disclosure.",
+      "partner_meaning": {
+        "zoroaster": "Asha disclosed in time — the truth was always there but the man needed to walk the distance before he could see what was already in the sentence."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-009",
+      "term": "body-words",
+      "agent_meaning": "Return, stillness, small action, contact, openness — the vocabulary of the body rather than the mind. Li expressed not as ritual instruction but as physical verbs: come back, stand still, do one thing, touch something real, stay open.",
+      "partner_meaning": {
+        "buddha": "Right action at the level of the body — mindfulness as physical presence, not mental doctrine.",
+        "muhammad": "The knees that bend, the forehead that touches the ground — salat as body-word before it is theology."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
       }
     }
   ]

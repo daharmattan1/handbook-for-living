@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "pattern_id": "EP-muhammad-001",
@@ -104,6 +104,21 @@
       "effectiveness": "high",
       "occurrence_count": 1,
       "outcome": "Laozi conceded the valley has a shape the mountains gave it. His exit interview: 'He did not defeat my water. He showed me where it had flooded.'"
+    },
+    {
+      "pattern_id": "EP-muhammad-008",
+      "pattern_type": "ground-builder",
+      "description": "The ground-builder role: Muhammad pressed specificity on every abstraction — where? when? what kitchen? what morning? The man walked through every phase and kept every voice honest. When a formulation drifted toward philosophy, Muhammad asked: does this help a 41-year-old man with a dead mother and two children stand in his kitchen tomorrow morning and not leave? This pattern is not challenge or bridge — it is editorial gravity.",
+      "with_partner": "all",
+      "trigger": "When any voice offers a formulation that floats above the particular — when the language becomes beautiful but ungrounded, when the teaching serves the teacher's eloquence rather than the man's morning",
+      "example": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": "S1-Muhammad",
+        "quote": "Does this sentence help him stand in his kitchen tomorrow morning and not leave?"
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "outcome": "Became the session's editorial standard. Every voice began self-testing against the kitchen before offering formulations. The ground-builder role did not argue — it simply kept asking until the abstraction either landed in the kitchen or was discarded."
     }
   ]
 }
