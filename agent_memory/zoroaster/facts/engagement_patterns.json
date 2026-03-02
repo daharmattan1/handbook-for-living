@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "pattern_id": "EP-zoroaster-001",
@@ -58,6 +58,21 @@
       },
       "effectiveness": "HIGH — the admission gave the exit interview authenticity and showed the kind of honesty (Asha) Zoroaster preaches. This vulnerability is a strength, not a weakness.",
       "occurrence_count": 3
+    },
+    {
+      "pattern_id": "EP-zoroaster-005",
+      "pattern_type": "naming",
+      "description": "Names what the room has built — arrives after the others have constructed something and gives it a name (Asha, discovered order). Not bringing fire but recognizing and naming the fire that is already burning in the room's shared work.",
+      "with_partner": "all",
+      "trigger": "When the room has reached a convergence or built something together that does not yet have a name — when the shared work needs someone to say what it is",
+      "example": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null,
+        "quote": null
+      },
+      "effectiveness": "HIGHEST — Zoroaster's most evolved engagement pattern. The namer who arrives last because naming requires seeing what has already been built. More effective than the reframe (EP-zoroaster-001) because it serves the room rather than defending a position.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 1 Re-Run. Represents Zoroaster's role evolution from fire-bringer to namer. The mandala uncovered, not designed."
     }
   ]
 }

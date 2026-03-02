@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "pattern_id": "EP-jesus-001",
@@ -83,6 +83,20 @@
         "session_id": "handbook_session_00_definition_rerun_20260216",
         "turn_number": "C3",
         "quote": "The grain does not choose to fall. It falls because it is ripe."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-jesus-007",
+      "pattern_type": "shift",
+      "description": "Shift from teacher-donor to teacher-participant. Jesus moved from delivering truth to being changed by the room. Concessions arriving before intention carry more truth than strategic ones — the involuntary quality signals genuine recognition rather than tactical yielding. Muhammad's kitchen tested every theology by grounding it in bodies and blood.",
+      "with_partner": "all",
+      "trigger": "When the room reflects Jesus's own images back with shifted emphasis, or when Muhammad grounds abstract theology in physical reality",
+      "example": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": "C",
+        "quote": "The truth does not belong to the teacher. The truth belongs to the room."
       },
       "effectiveness": "high",
       "occurrence_count": 1

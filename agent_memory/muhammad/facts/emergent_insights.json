@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "insight_id": "EI-muhammad-001",
@@ -114,6 +114,48 @@
       "confidence": 90,
       "related_concepts": ["bellows", "salat", "Asha", "fire", "discipline", "rhythm", "molten chain"],
       "cross_references": ["zoroaster", "confucius"]
+    },
+    {
+      "insight_id": "EI-muhammad-009",
+      "text": "Practice is invitation, not command. The body can decline. 'Not yet' is prayer. The vine that climbs by obligation is dead ritual — the vine must choose to climb. Some mornings the man on the kitchen floor says 'not yet,' and that honesty before God is itself a form of worship.",
+      "category": "pedagogical",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": "S1-Muhammad",
+        "exact_quote": "The vine that pauses is not refusing. It is praying with its stillness.",
+        "context": "Session 1 Re-Run — Muhammad reframing the structure conversation from obligation to invitation. Shifted from 'the man must pray' to 'the body will pray when it is ready, and the waiting is also prayer.'"
+      },
+      "confidence": 90,
+      "related_concepts": ["invitation", "obligation", "dead ritual", "the vine", "not yet", "body's time", "honest prayer"],
+      "cross_references": ["buddha", "laozi", "handbook_structure"]
+    },
+    {
+      "insight_id": "EI-muhammad-010",
+      "text": "The man's first relationship is with his own feet on the floor — the sixth relationship. Before he relates to God, to family, to community, to tradition, to the wound, he must relate to the fact of his own standing. The feet on the tile are the foundation that every other relationship is built on.",
+      "category": "pedagogical",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": "S1-Muhammad",
+        "exact_quote": "Before he can face Mecca, he must face the floor.",
+        "context": "Session 1 Re-Run — Muhammad identifying the relationship the other voices had overlooked. The man's relationship to his own body, his own presence in the room, precedes every other relationship the handbook can address."
+      },
+      "confidence": 88,
+      "related_concepts": ["sixth relationship", "feet on the floor", "body as foundation", "presence", "the kitchen"],
+      "cross_references": ["all", "handbook_structure"]
+    },
+    {
+      "insight_id": "EI-muhammad-011",
+      "text": "The mandala architecture: six qualities, one meal, emphasis shifts by wound. The handbook is not a sequence but a mandala — the man enters from wherever his wound places him, and the six qualities rotate around the meal like positions around a table. The emphasis shifts depending on what the man needs most, not a fixed curriculum.",
+      "category": "structural",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": "S1-Muhammad",
+        "exact_quote": "The meal is the center. The six qualities are the guests. The wound decides who sits closest.",
+        "context": "Session 1 Re-Run — Muhammad contributing to the structural insight about how the handbook organizes its content. Not linear progression but mandala: the man's wound determines which quality is foregrounded."
+      },
+      "confidence": 85,
+      "related_concepts": ["mandala", "six qualities", "one meal", "wound-driven emphasis", "non-linear structure"],
+      "cross_references": ["all", "handbook_structure", "handbook_architecture"]
     }
   ]
 }

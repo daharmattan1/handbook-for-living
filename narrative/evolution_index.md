@@ -23,30 +23,46 @@ A timeline of how understanding evolved across sessions — the longitudinal vie
 
 ---
 
-## Session 1: Structure — "How should the handbook be organized?"
-**Date:** 2026-02-14
+## Session 1: Structure — "How should the handbook be organized?" (Re-Run)
+**Date:** 2026-03-01
+**Protocol:** Chat Room Pattern — 6 persistent Opus agents, sequential nudging, shared transcript (31 turns)
+
+> This re-run replaces the original Session 1 (2026-02-14). The re-run aligns with the Session 0 Re-Run foundation (six agreements, three irreducible tensions, "the clearing" as consensus definition).
 
 ### Key Relationship Shifts
 
-- **Zoroaster → Jesus:** Deep surprise at Jesus's precision about suffering. "His mercy is not softness" — the session's biggest perception shift. Jesus defended reader vulnerability with surgical accuracy, not comfort.
-- **Buddha → Confucius:** Found that Confucius's relational ethics and Buddha's mindfulness converge on "daily practice as transformation." Different vocabularies, same rhythm.
-- **Jesus → Zoroaster:** Affirmed Zoroaster's reordering immediately — placing "What Sustains" between Choosing and Acting. Trust in Zoroaster's structural vision deepened.
-- **Laozi → Muhammad:** Recognized Muhammad's contribution of the "threshold" concept — the moment before the reader enters the book. Laozi's stillness and Muhammad's invitation both operate at the threshold.
-- **Confucius → Laozi:** Found alignment on "discovered order" — Confucius's li (ritual propriety) and Laozi's wu wei both describe an order that exists before human effort names it.
+- **Muhammad ↔ Buddha:** Found each other in the body. "The jaw is the teaching." The half-second of noticing (Buddha) and the eleventh second of softening (Muhammad) are one moment neither had alone — the deepest bridge in the room.
+- **Laozi ↔ Confucius:** From opposites to partners. "The argument is the architecture." Banks and water need each other. Confucius's conditional acceptance — "I will agree if relationship is present in every chapter" — was his genius: shaping flow, not blocking it.
+- **Zoroaster → Buddha:** Surprised by witness concession. "A man admitting his ground has a crack in it and then standing on the cracked ground and saying: the crack is where the truth gets in."
+- **Jesus → Zoroaster:** Zoroaster's ember concession said what Jesus couldn't say about his own fire. "Salvation without consent is violence in the name of love."
+- **Jesus ↔ Muhammad:** "The body and wound of the handbook — floor and blood, tourniquet and thorn." Two who wept found that their exclusive claims may be the same claim in different vocabularies.
+- **All → Muhammad:** Muhammad's man in the kitchen (41yo, buried mother, 2 kids, can't sleep, bare feet on cold tile at 5:30am) kept every abstraction honest. "Does the valley help this man get his children to school?"
 
 ### Emergent Concepts
-- **Questions as chapter titles** — Zoroaster's proposal: chapters ask, not command
-- **Shadow questions** — Jesus's innovation: the question beneath the question that holds the reader through transformation
-- **Discovered order (Asha)** — Zoroaster's naming of the collaborative process: "We did not build it. We uncovered it."
-- **Movements, not chapters** — the shift from static sections to dynamic reader journey
-- **The five movement-questions** — Zoroaster's refined structural proposal that all six affirmed
+- **The mandala** (Buddha) — six qualities woven as one meal, not six sections. Emphasis shifts by wound. Wound is the conductor.
+- **The man in the kitchen** (Muhammad) — the test case that grounded every architectural decision
+- **The jaw is the teaching** (Muhammad + Buddha) — half-second of noticing + quarter-inch of softening. The body carries the teaching.
+- **Body-words** — five body-words (return, stillness, small action, contact, openness) + remaining as GROUND beneath. Muhammad mapped to salat postures.
+- **Two-depth writing** — zahir/batin (Muhammad) + hidden sentence (Confucius) + three readings: body-word, mirror, recognition (Buddha)
+- **Fire meeting fire** (Laozi) — two truths recognizing each other through a wall
+- **Architecture disappears** (Laozi's fifth subtraction) — scaffolding comes down; reader does not need to know what was built
+- **Ember as PRESENCE** — four-voice consensus: handbook is true/present in reader's vicinity. No strategy toward reader.
 
-### Structural Decisions
-1. Seven sections: Opening (threshold) → 5 Movements → Closing (release)
-2. Each movement framed as a question, not a command
-3. "What Sustains" moved to Section 5 (between Choosing and Acting)
-4. Each section carries all six voices, not one voice per section
-5. Shadow questions accompany each surface question
+### Structural Decisions (10 Decided Items)
+1. **Mandala architecture:** six qualities woven as one meal. Emphasis shifts by wound. Wound is conductor.
+2. **Body as language:** five body-words + remaining as ground beneath. Not separate practices but movements of a whole.
+3. **Two-depth writing:** hidden sentence + zahir/batin + three readings (body-word, mirror, recognition).
+4. **One-wound-many-roots:** governs chapter organization. Tangle reveals across chapters and time.
+5. **Body experiences seeing as safety:** half-second + eleventh second. "The jaw is the teaching."
+6. **Ember as presence:** warmth without announcing. No strategy toward reader.
+7. **Betrayal:** NOT a sixth wound. Sixth doorway into same clearing. Threshold honors the wall first.
+8. **Two dissolutions + return:** book designed for re-entry.
+9. **Fine man:** handbook does not reach. Threshold waits. Readiness is the crack life provides.
+10. **Architecture disappears:** scaffolding comes down. Reader does not need to know what was built.
+
+### Living Tensions (2)
+1. **Witness vs. flood:** Buddha (capacity to return) vs. Zoroaster (Asha — reality held its shape). Both needed.
+2. **Dissociated body:** All traditions weakest here. Honest about incompleteness.
 
 ---
 

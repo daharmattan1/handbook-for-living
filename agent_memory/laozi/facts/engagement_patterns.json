@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "pattern_id": "EP-laozi-001",
@@ -89,6 +89,21 @@
       "effectiveness": "high",
       "occurrence_count": 1,
       "note": "Replaced the steam bridge from original Session 0. More fundamental — not a synthesis of fire and water but recognition that both point to the same thing."
+    },
+    {
+      "pattern_id": "EP-laozi-007",
+      "pattern_type": "early-affirmation",
+      "description": "Says yes to structure before anyone else speaks — affirming Confucius's or another's contribution before the room can polarize. By validating structure early, Laozi removes the expectation that he will oppose it, freeing the dialogue to go deeper.",
+      "with_partner": "confucius",
+      "trigger": "When the session opens with a structural proposal or when Confucius offers form and the room expects Laozi to resist",
+      "example": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null,
+        "quote": null
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 1. Laozi's most effective move was not an inversion but an affirmation. By saying yes to structure before the room polarized, he changed the shape of the entire conversation."
     }
   ]
 }

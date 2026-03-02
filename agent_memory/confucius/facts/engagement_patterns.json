@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "pattern_id": "EP-confucius-001",
@@ -89,6 +89,21 @@
       "effectiveness": "high",
       "occurrence_count": 1,
       "note": "Grounded li in recognizable human moments rather than arguing for its necessity in the abstract."
+    },
+    {
+      "pattern_id": "EP-confucius-007",
+      "pattern_type": "scale-correction",
+      "description": "The form-builder who discovered the smallest form is the truest. Instead of offering grand structures, Confucius scaled down to match the man's actual need — a cup rather than a cathedral, one meal rather than six courses.",
+      "with_partner": "all",
+      "trigger": "When the man before him is dissociated, overwhelmed, or too emptied for grand form — when cathedrals would crush rather than shelter",
+      "example": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null,
+        "quote": "I had been building cathedrals. The man needed a cup."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "note": "A new pattern: Confucius correcting his own instinct toward elaboration. The mandala principle — the form is complete at any scale, and the smallest scale is often the most honest."
     }
   ]
 }

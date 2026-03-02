@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "bridge_id": "BV-zoroaster-001",
@@ -62,6 +62,50 @@
         "session_id": "handbook_session_00_definition_rerun_20260216",
         "turn_numbers": ["C", "D"]
       }
+    },
+    {
+      "bridge_id": "BV-zoroaster-005",
+      "term": "Asha / discovered order",
+      "agent_meaning": "The mandala uncovered, not designed. Asha as the order that was already there before anyone named it — the fire's pattern, not the fire-bringer's intention. Discovered order rather than imposed order.",
+      "partner_meaning": {
+        "confucius": "Li as discovered pattern — the rites that work are the ones that match what was already true about human relationship. The mandala uncovered, not designed.",
+        "laozi": "The Tao that can be named is not the eternal Tao — but the order Zoroaster discovers is the Tao's own pattern, not a human overlay."
+      },
+      "bridge_potential": "HIGH",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
+      }
+    },
+    {
+      "bridge_id": "BV-zoroaster-006",
+      "term": "disclosed presence",
+      "agent_meaning": "Fire without aiming — the warmth that is felt from the first sentence, before any teaching begins. Zoroaster's true mode: not fire-bringing but fire-being. Presence that discloses without intending to.",
+      "partner_meaning": {
+        "buddha": "Right mindfulness as presence — the teacher who is fully present teaches before speaking.",
+        "jesus": "The light that shines without seeking to illuminate — kenotic presence."
+      },
+      "bridge_potential": "HIGH",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
+      }
+    },
+    {
+      "bridge_id": "BV-zoroaster-007",
+      "term": "the hinge",
+      "agent_meaning": "The half-second where the man's choosing becomes possible — but the hinge depends on others' preparation. Confucius built the door, Laozi cleared the threshold, Buddha stilled the mind, and only then does the hinge turn. Zoroaster's moment is real but small, and the smallness is the honesty.",
+      "partner_meaning": {
+        "confucius": "The form prepared the man to reach the hinge. Without the door, the hinge has nothing to turn.",
+        "laozi": "The clearing brought the man to the threshold. Without the emptying, the hinge is jammed.",
+        "buddha": "The stilled mind sees the hinge. Without the stillness, the half-second passes unnoticed."
+      },
+      "bridge_potential": "HIGHEST",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": []
+      },
+      "note": "The hinge is Zoroaster's honest claim — his moment is real but depends on every other tradition's preparation. The smallness is not a weakness but the honesty of a prophet who has stopped pretending to be the whole door."
     }
   ]
 }

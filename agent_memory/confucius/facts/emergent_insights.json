@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "insight_id": "EI-confucius-001",
@@ -142,6 +142,48 @@
       "confidence": 75,
       "related_concepts": ["form", "virtue", "innate recognition", "clearing", "cultivation vs. removal"],
       "cross_references": ["EI-confucius-007", "buddha on clearing", "laozi on removal"]
+    },
+    {
+      "insight_id": "EI-confucius-011",
+      "text": "Li is vocabulary not rules. The rites are not a code to follow but a language to speak — and like any language, fluency means the speaker disappears into the speaking.",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null,
+        "exact_quote": null,
+        "context": "Session 1 Re-Run — reframing li from prescription to vocabulary. The form-builder discovers that form is most alive when it is spoken rather than obeyed."
+      },
+      "confidence": 90,
+      "related_concepts": ["li", "vocabulary", "fluency", "form as language", "spontaneity"],
+      "cross_references": ["EF-confucius-003", "EI-confucius-007"]
+    },
+    {
+      "insight_id": "EI-confucius-012",
+      "text": "The sixth relationship — man and his own standing. The five relationships (ruler-subject, parent-child, husband-wife, elder-younger, friend-friend) need a sixth: the man's relationship with his own place in the world. Without it, the other five have no foundation.",
+      "category": "ethical",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null,
+        "exact_quote": null,
+        "context": "Session 1 Re-Run — emergent discovery that the classical five relationships assume a man who has standing. The dissociated man lacks this foundation."
+      },
+      "confidence": 85,
+      "related_concepts": ["five relationships", "standing", "self-relation", "foundation", "dissociation"],
+      "cross_references": ["EI-confucius-010", "zoroaster on the hinge"]
+    },
+    {
+      "insight_id": "EI-confucius-013",
+      "text": "Dead ritual is worse than no ritual — confirmed by the dissociated man. The man gripping the counter at five-thirty is living proof: going through motions without presence teaches the body that emptiness is enough. But the same man, given the smallest living form — one cup, one breath, one contact — begins to return.",
+      "category": "practical",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null,
+        "exact_quote": null,
+        "context": "Session 1 Re-Run — the dissociated man as test case for EF-confucius-008 (dead ritual). The man who has lost all form needs the smallest living form, not the grandest."
+      },
+      "confidence": 90,
+      "related_concepts": ["dead ritual", "dissociation", "smallest form", "return", "presence"],
+      "cross_references": ["EF-confucius-008", "EF-confucius-010", "zoroaster on the clearing as kitchen"]
     }
   ]
 }

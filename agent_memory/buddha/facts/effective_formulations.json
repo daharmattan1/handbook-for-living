@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-03-02",
   "items": [
     {
       "formulation_id": "EF-buddha-001",
@@ -73,6 +73,42 @@
         "turn_number": "C2"
       },
       "use_with": ["muhammad", "jesus"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-007",
+      "phrase": "The body experiences seeing as safety",
+      "context": "Session 1 Re-Run — neutral attention is the first safety the body has had in thirty years. Not comfort, not repair — just the absence of judgment. The body recognizes this before the mind names it.",
+      "effectiveness_marker": "Reframes mindfulness from technique to somatic safety — the body's first experience of being seen without agenda",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["muhammad", "jesus"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-008",
+      "phrase": "Not the lamp. The relighting.",
+      "context": "Session 1 Re-Run — the sitting-down-again is braver than the first sitting. The first sitting is curiosity. The return after failure is faith in the practice itself.",
+      "effectiveness_marker": "Captures the essence of sustained practice — what matters is not the initial act but the repeated return",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-009",
+      "phrase": "Stop trying to reach him — actually stop",
+      "context": "Session 1 Re-Run — about the fine man. The instruction is not metaphorical. The reaching itself is the obstacle. What remains when reaching ceases is what the handbook must teach.",
+      "effectiveness_marker": "Direct, unadorned instruction that refuses to soften itself. The dash forces a breath before the real command.",
+      "provenance": {
+        "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["all"],
       "avoid_with": []
     }
   ]
