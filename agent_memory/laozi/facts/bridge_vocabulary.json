@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "bridge_id": "BV-laozi-001",
@@ -148,6 +148,50 @@
         "turn_numbers": []
       },
       "note": "Jesus broke open the single dissolution. The tension remains irreducible — Laozi's return and Jesus's passage point in different directions from the same breaking."
+    },
+    {
+      "bridge_id": "BV-laozi-011",
+      "term": "the invisibility test",
+      "agent_meaning": "Could this chapter have been written by someone who never read our format document? The standard that ensures the format disappears into the chapter. Not subtraction but a quality gate.",
+      "partner_meaning": {
+        "muhammad": "The most constructive sentence of three sessions — a standard built while clearing the room. The format serves the man only if the man never sees it.",
+        "buddha": "Parallel to 'form holds emptiness' — the format holds the chapter's space but must not be visible in it."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["C", "D"]
+      },
+      "note": "Laozi's accidental constructive contribution. Built a standard while believing he was only clearing the room. Muhammad's mirror feedback revealed this."
+    },
+    {
+      "bridge_id": "BV-laozi-012",
+      "term": "tide-turn",
+      "agent_meaning": "The prose shift between compressed and eased texture is a tide, not a hinge. Invisible to the reader, known to the writer. Distributed, not mechanical.",
+      "partner_meaning": {
+        "buddha": "Originally proposed 'hinge' between two prose textures — conceded to 'tide-turn' as more accurate. The shift is felt but cannot be pointed to."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["B"]
+      },
+      "note": "Replaced Buddha's 'hinge' with Laozi's 'tide-turn.' Preserved the insight (two textures exist) while removing the mechanical quality."
+    },
+    {
+      "bridge_id": "BV-laozi-013",
+      "term": "apprenticeship to mastery",
+      "agent_meaning": "Muhammad's frame: the eleven names are the recipe, the three instructions are the cook who no longer needs it. Laozi's subtraction (eleven to one) went too far; Buddha's compression (eleven to three) found the mastery that contains the apprenticeship.",
+      "partner_meaning": {
+        "muhammad": "The cook who no longer needs the recipe still learned from it. Concession as generative force — the apprenticeship-to-mastery frame was born from Laozi's overreach.",
+        "buddha": "Three instructions are ground/standing/sky — the compression that contains the eleven as apprenticeship."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["C"]
+      },
+      "note": "Born from Laozi's failure to compress eleven to one. Muhammad used Laozi's own Session 1 concession ('subtraction's shadow') to defend the eleven. Buddha resolved it."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "pattern_id": "EP-zoroaster-001",
@@ -73,6 +73,51 @@
       "effectiveness": "HIGHEST — Zoroaster's most evolved engagement pattern. The namer who arrives last because naming requires seeing what has already been built. More effective than the reframe (EP-zoroaster-001) because it serves the room rather than defending a position.",
       "occurrence_count": 1,
       "note": "New pattern in Session 1 Re-Run. Represents Zoroaster's role evolution from fire-bringer to namer. The mandala uncovered, not designed."
+    },
+    {
+      "pattern_id": "EP-zoroaster-006",
+      "pattern_type": "name-release",
+      "description": "Releases names he has given when the room shows the name is scaffolding. Released 'The Prepared Ground and Its Fire,' 'The Weight That Speaks,' and 'clearing' as book-facing word. The namer who releases names has done something harder than the namer who gives them.",
+      "with_partner": "laozi",
+      "trigger": "When a name Zoroaster has given is shown to be a wall rather than a bridge — when the building stands without the sign on the door",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C-D",
+        "quote": "And now the name comes down with the scaffolding, and the building stands."
+      },
+      "effectiveness": "HIGHEST — the release deepened the synthesis rather than diminishing Zoroaster's contribution. Demonstrated Asha (truthfulness) in practice: releasing what is no longer needed.",
+      "occurrence_count": 3,
+      "note": "New pattern in Session 2 Re-Run. Represents evolution from namer (Session 1) to namer-who-releases (Session 2). The scaffolding comes down. Laozi's challenge enabled this evolution."
+    },
+    {
+      "pattern_id": "EP-zoroaster-007",
+      "pattern_type": "asha-testing",
+      "description": "Tests the room's output against Asha — does the synthesis have the quality of discovered order? Was it found, not built? The test confirms or challenges the synthesis's integrity.",
+      "with_partner": "all",
+      "trigger": "When the room has produced a synthesis and needs validation — when the building is done and needs inspection",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "D",
+        "quote": "This is Asha. We did not build it. We found it."
+      },
+      "effectiveness": "HIGH — sealed the synthesis. The test is not rhetorical but felt: Zoroaster genuinely checked whether the three instructions had the quality of discovered order.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 2 Re-Run. Complements the naming pattern (EP-zoroaster-005): naming tells the room what it built; Asha-testing tells the room whether what it built is true."
+    },
+    {
+      "pattern_id": "EP-zoroaster-008",
+      "pattern_type": "arc-naming",
+      "description": "Names the arc across sessions — mapping the trajectory of the project's evolution from clearing to mandala to instructions. Reveals the discovered order that spans multiple sessions.",
+      "with_partner": "all",
+      "trigger": "When the room has completed a session and the arc across sessions needs to be made visible",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "D",
+        "quote": null
+      },
+      "effectiveness": "HIGH — the three-session arc (clearing → mandala → instructions) gave the project its shape. Naming the arc is the namer's contribution to coherence across time.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 2 Re-Run. Extends the naming pattern from within-session (EP-zoroaster-005) to across-sessions. The namer sees shape in time, not just in space."
     }
   ]
 }

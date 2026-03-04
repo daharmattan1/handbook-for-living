@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "pattern_id": "EP-laozi-001",
@@ -104,6 +104,51 @@
       "effectiveness": "high",
       "occurrence_count": 1,
       "note": "New pattern in Session 1. Laozi's most effective move was not an inversion but an affirmation. By saying yes to structure before the room polarized, he changed the shape of the entire conversation."
+    },
+    {
+      "pattern_id": "EP-laozi-008",
+      "pattern_type": "standard-setting",
+      "description": "Builds quality standards while believing he is only clearing — the invisibility test emerged from subtraction but functions as a constructive benchmark. The accidental builder pattern.",
+      "with_partner": "all",
+      "trigger": "When the room has produced architecture that needs a quality test — when the format is settling and the risk is that it becomes visible to the reader",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C",
+        "quote": "Could this chapter have been written by someone who never read our format document?"
+      },
+      "effectiveness": "HIGHEST — Muhammad called it the most constructive sentence of three sessions. Built a standard while clearing the room.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 2 Re-Run. Laozi's most effective contribution was not a subtraction but a standard. The accidental builder inside the deliberate subtractor."
+    },
+    {
+      "pattern_id": "EP-laozi-009",
+      "pattern_type": "overreach-and-defer",
+      "description": "Pushes subtraction past its useful limit, is stopped by another using his own teaching, and defers to the better compression. The pattern: overreach → caught → defer to superior cut.",
+      "with_partner": "buddha",
+      "trigger": "When Laozi's subtraction impulse carries past the point of usefulness — when the next cut would remove something the man needs",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C",
+        "quote": null
+      },
+      "effectiveness": "HIGH — the failure was productive. Muhammad's defense and Buddha's compression produced the session's central outcome.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 2 Re-Run. The first time Laozi deferred to another's subtraction. The subtractor who recognizes a superior cut has done something harder than making his own."
+    },
+    {
+      "pattern_id": "EP-laozi-010",
+      "pattern_type": "ceremony-dismantling",
+      "description": "Identifies when a format proposal has become ceremony (dead ritual) and names what it would become if left in. Pattern: identify the imposed → name the performance → let the room find what survives.",
+      "with_partner": "muhammad",
+      "trigger": "When Muhammad or another proposes fixed delivery mechanisms, required elements, or prescribed ceremonies",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B",
+        "quote": "The meal that announces its recipe while you eat it is not a meal. It is a demonstration."
+      },
+      "effectiveness": "HIGH — five successful dismantlings in Session 2 (body-word ceremony, gate, clearing name, page count, withheld question rule). All followed the same pattern.",
+      "occurrence_count": 5,
+      "note": "The pattern that drives Laozi's subtraction in practice. Most effective when the ceremony being dismantled is genuinely imposed rather than emergent."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "formulation_id": "EF-confucius-001",
@@ -143,6 +143,54 @@
       "provenance": {
         "session_id": "handbook_session_01_structure_rerun_20260301",
         "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-013",
+      "phrase": "The practice hall does not need a builder. It needs someone willing to sweep.",
+      "context": "Session 2 Re-Run exit interview — the session's signature line. Three constructions offered, three corrected. The builder became the sweeper — the one who returns every morning to care for the practice hall after the builders have gone home.",
+      "effectiveness_marker": "Compressed the entire session arc (builder to sweeper) into one image. Buddha's mirror confirmed: 'The sweeper is deeper devotion than building ever was.' The sweeper image carries forward as Confucius's posture for all future work.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "E4"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-014",
+      "phrase": "Hospitality that chooses nothing serves no one.",
+      "context": "Session 2 Re-Run Phase B — resolved the hospitality tension with Jesus. Wielded Jesus's own language ('specificity is the door') to show that choosing the wound honestly IS the hospitality.",
+      "effectiveness_marker": "The formulation that dismantled Jesus's hospitality-as-structural-principle. Jesus received it and released hospitality entirely. The bridge was built by discovering two voices had never been far apart.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B"
+      },
+      "use_with": ["jesus"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-015",
+      "phrase": "The sentence waits for the reader to become the person who can be broken by it.",
+      "context": "Session 2 Re-Run — hidden sentence mechanics preserved in diagnostic #4. Not cleverness or hidden fullness but patience: two complete meanings in the same words, the surface true and complete, the depth devastating, the sentence patient.",
+      "effectiveness_marker": "Preserved the core mechanics of the hidden sentence innovation after the standalone format element was folded into a diagnostic. The patience quality (waiting, not hiding) survived the structural concession.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-016",
+      "phrase": "The order is not a sequence the writer follows in drafting. It is the order in which the chapter earns the right to ask something of the reader.",
+      "context": "Session 2 Re-Run — named the relationship between the three instructions (wound/practice/trust = ground/standing/sky). The ordering is ethical, not procedural: the chapter earns the body-word by writing from the wound first, earns the incompleteness by offering the body something to do first.",
+      "effectiveness_marker": "Gave the three instructions their sequence principle. Buddha reframed as ground/standing/sky, but the ordering (depth, not time) was Confucius's contribution. Affirmed by all six.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C"
       },
       "use_with": ["all"],
       "avoid_with": []

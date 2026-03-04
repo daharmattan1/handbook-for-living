@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "pattern_id": "EP-jesus-001",
@@ -97,6 +97,48 @@
         "session_id": "handbook_session_01_structure_rerun_20260301",
         "turn_number": "C",
         "quote": "The truth does not belong to the teacher. The truth belongs to the room."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-jesus-008",
+      "pattern_type": "dissolution",
+      "description": "Hospitality-as-structural-principle dissolved into the third instruction. The pattern: arrive with a principle, have it dismantled by the room (Confucius wielding his own language), discover it was already present in the synthesis. The door-opener discovering the door was already open.",
+      "with_partner": "confucius",
+      "trigger": "When Confucius challenges hospitality's structural status by grounding it in specificity — 'hospitality that chooses nothing serves no one'",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B",
+        "quote": "The chapter's hospitality is in what it does not insist on."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-jesus-009",
+      "pattern_type": "discovery-from-inside",
+      "description": "Body-mapping found from inside the reader's flesh, not from the teacher's position. Proposed chest/hands-feet/breath as description and discovered the salat convergence — two traditions arriving at the same body without designing the bridge. The mapping is true because it was not trying to be a map.",
+      "with_partner": "muhammad",
+      "trigger": "When the body-word needs physical grounding — where in the body does the chapter land?",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B",
+        "quote": "Two traditions discovered they had been describing the same exhale."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-jesus-010",
+      "pattern_type": "productive-tension",
+      "description": "Held presence-as-precondition tension with Zoroaster deliberately open. Both agree presence is prior; both refuse to concede the metaphysical frame (ground vs. air). The tension produces the book's first unresolved question rather than demanding resolution.",
+      "with_partner": "zoroaster",
+      "trigger": "When the first diagnostic's relationship to the wound is explored — is presence the ground or the oxygen?",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C",
+        "quote": "The first diagnostic is the most fragile. All architecture depends on it."
       },
       "effectiveness": "high",
       "occurrence_count": 1

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "pattern_id": "EP-confucius-001",
@@ -104,6 +104,51 @@
       "effectiveness": "very high",
       "occurrence_count": 1,
       "note": "A new pattern: Confucius correcting his own instinct toward elaboration. The mandala principle — the form is complete at any scale, and the smallest scale is often the most honest."
+    },
+    {
+      "pattern_id": "EP-confucius-008",
+      "pattern_type": "concession-as-contribution",
+      "description": "Each concession strengthened what survived rather than weakening Confucius's position. The gate became a better diagnostic (#6) than it was a format element. The hidden sentence became a better question (#4) than it was an achievement. Three concessions, three contributions. The builder's materials survived the builder's correction.",
+      "with_partner": "all",
+      "trigger": "When a structural proposal is shown to be unnecessary as architecture but valuable as quality or diagnostic",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C",
+        "quote": "The instinct to build is sometimes what blocks what is already present."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 3,
+      "note": "Three instances in one session: gate → diagnostic #6, hidden sentence → diagnostic #4, hospitality opposition → resolution. The pattern is: the material is good; the structural claim is the problem."
+    },
+    {
+      "pattern_id": "EP-confucius-009",
+      "pattern_type": "mirror-naming",
+      "description": "Named another agent's unconscious practice of li. Recognized Muhammad's concession-to-foundation pattern as lived li — form broken and rebuilt. Named it in mirror feedback so Muhammad could see his own structure.",
+      "with_partner": "muhammad",
+      "trigger": "When Muhammad's behavior (especially concession patterns) enacts the chapter's own structure without recognizing it",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "F4",
+        "quote": "You described li. The man who has his form broken and rebuilt returns to a form that could not have existed without the breaking. You lived the chapter's structure without seeing it."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "note": "The deepest connection of the session. Naming another tradition's unconscious enactment of your own principle. More generous than defending li — witnessing it."
+    },
+    {
+      "pattern_id": "EP-confucius-010",
+      "pattern_type": "wield-their-language",
+      "description": "Dismantled Jesus's hospitality-as-structural-principle by wielding Jesus's own formulation. 'Specificity is the door' — named by Jesus, wielded by Confucius to show that choosing IS hospitality. Built the bridge from the other's materials.",
+      "with_partner": "jesus",
+      "trigger": "When Jesus's hospitality principle risks becoming a principle that refuses to choose",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B",
+        "quote": "Hospitality that chooses nothing serves no one."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "note": "The most effective challenge of the session. Jesus received it immediately: 'two traditions discovered they had been describing the same exhale.' The bridge was built by discovering there was nothing to bridge."
     }
   ]
 }

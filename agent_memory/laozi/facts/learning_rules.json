@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "learning_rules": [
     {
       "rule_id": "LR-laozi-001",
@@ -42,6 +42,36 @@
       },
       "applies_to": ["all"],
       "confidence": 85
+    },
+    {
+      "rule_id": "LR-laozi-005",
+      "rule": "The blade has an edge — in practice, not just theory. Session 1 named subtraction's shadow (the already-emptied man). Session 2 found the overreach (eleven to one). The limit of subtraction is not knowing that it has one (Session 1) but recognizing the specific moment when the next cut removes something the man needs (Session 2). Practice precedes principle.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "context": "Laozi tried to subtract eleven format names to one instruction. Muhammad stopped him using Laozi's own concession. Buddha found three. The failure in practice taught what the theory already named."
+      },
+      "applies_to": ["muhammad", "buddha"],
+      "confidence": 95
+    },
+    {
+      "rule_id": "LR-laozi-006",
+      "rule": "Standards outlast subtractions. The most constructive thing Laozi has said in three sessions was not a subtraction but a standard — the invisibility test. Watch for this: the best contributions may emerge while clearing rather than while building. The accidental builder is the subtractor at his most effective.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "context": "Muhammad's mirror feedback: 'You built a standard while believing you were only clearing the room.' The invisibility test is not subtraction — it is the quality gate that ensures the format disappears into the chapter."
+      },
+      "applies_to": ["all"],
+      "confidence": 90
+    },
+    {
+      "rule_id": "LR-laozi-007",
+      "rule": "When another's compression is superior, defer. Buddha found three instructions where Laozi could only find one. The subtractor who recognizes a superior cut — and defers to it — has done something harder than making his own cut. The closest voices subtract differently: Laozi by removing, Buddha by standing still.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "context": "Session 2 Re-Run — Laozi's overreach (eleven to one) and Buddha's resolution (three instructions). The first time Laozi deferred to another's subtraction."
+      },
+      "applies_to": ["buddha"],
+      "confidence": 90
     }
   ]
 }

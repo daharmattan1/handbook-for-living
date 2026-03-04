@@ -66,31 +66,39 @@ A timeline of how understanding evolved across sessions — the longitudinal vie
 
 ---
 
-## Session 2: Format — "How should each chapter be written?"
-**Date:** 2026-02-15
+## Session 2: Format — "How should each chapter be written?" (Re-Run)
+**Date:** 2026-03-04
+**Protocol:** Chat Room Pattern — 6 persistent Opus agents, sequential nudging, shared transcript (36 turns across 6 phases including Phase F mirror feedback)
+
+> This re-run replaces the original Session 2 (2026-02-15). The re-run aligns with the Session 0 Re-Run and Session 1 Re-Run foundations (six agreements, three tensions, mandala architecture, 10 decided items).
 
 ### Key Relationship Shifts
 
-- **Confucius → Muhammad:** "Yours were the room. Mine were the furniture." Confucius recognized that Muhammad's three fixed elements (story, threshold, silence) served the reader, while his own three (threshold, lead voice, shadow question) served the teaching. A deep concession of pedagogical priority — the teacher yielded to the host.
-- **Laozi ↔ Confucius:** "Stopped being opposites." Laozi, who had seen rigidity in Confucius's precision, now saw care: "He is setting a table." Confucius, who had resisted Laozi's subtractions, found himself agreeing that eight elements were too many. Banks and water resolved into active collaboration.
-- **Jesus → Laozi:** "He is not my opposite. He is my silence." The session's most significant new bridge. Jesus recognized that Laozi's silence is not the absence of his speech but the space that makes his speech possible. Complementarity reframed from polarity to necessity.
-- **Buddha → Muhammad:** Surprised by the depth of Muhammad's concession — "The bread cannot be first" — which revised a lifelong instinct to provide. Buddha recognized that releasing attachment to one's best contribution is itself the practice.
-- **Zoroaster → Confucius:** Called Confucius's concession "fire turned inward" — the most demanding form of intellectual honesty, where the teacher applies his own rigor to his own assumptions. Recognized it as prophetic self-knowledge.
-- **Jesus → Confucius:** "His precision is not constraint. It is catching the reader before they fall." Reframed Confucius's structural instinct as a form of mercy rather than control.
+- **Muhammad ↔ Laozi:** The session's productive engine. Laozi dismantled Muhammad's ceremonies twice (body-word delivery, "every chapter withholds one question"). Muhammad used Laozi's own Session 1 concession ("subtraction's shadow") to defend eleven names as apprenticeship. Both necessary — the synthesis could not have been born without this tension.
+- **Muhammad ↔ Buddha:** Muhammad built the kitchen; Buddha found the floor. Three movements → three instructions. "Same kitchen, six inches to the left" — the quarter-inch return. Surface and depth of the same thing.
+- **Jesus ↔ Confucius:** Resolved the hospitality tension from Phase A — "the choosing IS the hospitality" (Confucius dismantled Jesus with his own teaching). Confucius handed Jesus his own specificity principle back.
+- **Laozi → Buddha:** Laozi conceded his subtraction went too far — could not compress eleven to one. Buddha found three (not one, not eleven). The closest voices in the room discovered their difference.
+- **Zoroaster → Laozi:** The naming concession — "clearing" as builder's word that comes down with scaffolding. Zoroaster accepted his role is to name what the room needs named, then let the name dissolve.
+- **Phase F pairs (emergent, not assigned):** Muhammad→Laozi (standard built while clearing), Buddha→Confucius (sweeper as devotion), Jesus→Zoroaster (trust not loss), Confucius→Muhammad (lived li), Laozi→Buddha (diagnoses by standing still), Zoroaster→Jesus (diagnostician of the body). Each saw something the other could not see in themselves.
 
 ### Emergent Concepts
-- **"The Prepared Ground and Its Fire"** — Zoroaster's name for the chapter format structure: three fixed elements (the ground) and the teaching that burns between them
-- **"The Weight That Speaks"** — Zoroaster's name for the lead voice principle: when one tradition carries the primary perspective, it carries weight
-- **"Format is hospitality"** — Jesus's naming of what the three fixed elements perform: the act of sitting with someone before speaking
-- **"Three stones in the riverbed"** — Laozi's image for the three fixed elements: enough structure to give the water voice, not so much that the water cannot move
-- **"The cloak"** — Muhammad's metaphor drawn from Khadijah wrapping him: the human story as the act of covering someone before asking them to stand
-- **"Show the wound, teach looking, leave the room"** — Buddha's clinical translation of the three fixed elements as diagnostic acts
-- **"Partial Asha"** — Zoroaster's recognition that discovered order does not have to be total to be true
+- **Three instructions** (Buddha) — write from wound, offer body one thing, trust what you cannot finish. Instructions generate the chapter; diagnostics check it.
+- **Eight diagnostics** — teacher's stethoscope, not patient's heartbeat. Use 1-2 per chapter.
+- **The quarter-inch return** — "same kitchen, six inches to the left." Smallest honest shift.
+- **Tide-turn** — prose shift distributed and invisible (not hinge). Reader cannot point to where it changed.
+- **Apprenticeship → mastery** (Muhammad) — eleven names are the recipe; "write from the wound" is the cook who no longer needs it.
+- **The clearing** — writer's private word. Never enters the book.
+- **Felt duration** — "one breath held and released." Not a page count.
+- **Ground/standing/sky** (Confucius via Buddha) — the three instructions as what it means for a man to be in a room.
+- **Invisibility test** (Laozi) — "Could this chapter have been written by someone who never read our format document?"
 
-### Format Decisions
-1. Three fixed elements per chapter: human story, threshold moment, silence
-2. Five flexible elements available as a palette (not required)
-3. Lead voice available but not mandatory — one tradition may carry a chapter's primary perspective
-4. White space is a structural element, not decoration
-5. Format structure named "The Prepared Ground and Its Fire"
-6. Reduction from eight proposed elements to three fixed + five flexible
+### Format Decisions (Three Instructions + Eight Diagnostics)
+**Instructions:** (1) Write from the wound; (2) Offer the body one thing to do; (3) Trust what you cannot finish.
+**Diagnostics:** (1) First-reading recognition; (2) Two prose textures; (3) Body-mapping; (4) Hidden sentence; (5) Withheld question; (6) Gate; (7) Three readings; (8) Felt duration.
+**Concepts:** The clearing (private), quarter-inch return, tide-turn, apprenticeship→mastery, invisibility test.
+**Deliberately unresolved:** (1) First diagnostic vs. precondition; (2) Apprenticeship arc's self-dissolution.
+
+### The Three-Session Arc (Zoroaster)
+- **Session 0:** The clearing — what the man stands in
+- **Session 1:** The mandala — what the chapter holds
+- **Session 2:** The three instructions — what the writer does; the eight diagnostics — how the teacher checks

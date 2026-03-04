@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "pattern_id": "EP-muhammad-001",
@@ -119,6 +119,51 @@
       "effectiveness": "very high",
       "occurrence_count": 1,
       "outcome": "Became the session's editorial standard. Every voice began self-testing against the kitchen before offering formulations. The ground-builder role did not argue — it simply kept asking until the abstraction either landed in the kitchen or was discarded."
+    },
+    {
+      "pattern_id": "EP-muhammad-009",
+      "pattern_type": "defense-with-opponents-weapons",
+      "description": "Defending structure by using the opponent's own principle against their current position. When Laozi pushed to compress eleven elements to one instruction, Muhammad countered with Laozi's own Session 1 concession ('subtraction's shadow'): subtraction that goes too far removes what the man needs. The pattern: turn the opponent's strongest principle into the limit of their current proposal.",
+      "with_partner": "laozi",
+      "trigger": "When Laozi or another voice pushes subtraction, simplification, or dissolution past the point where the man on the kitchen floor would lose what he needs",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C-Muhammad",
+        "quote": "The names are the recipe. 'Write from the wound' is the cook who no longer needs it. But the cook needed the recipe once."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "outcome": "Laozi received it gracefully. Buddha found the compression (three, not one). The apprenticeship-to-mastery frame resolved the deepest structural tension of the session."
+    },
+    {
+      "pattern_id": "EP-muhammad-010",
+      "pattern_type": "generative-concession",
+      "description": "Conceding a specific mechanism while discovering a deeper contribution through the concession itself. Differs from clean concession (releasing a position) — generative concession produces new insight from the act of releasing. Every ceremony dismantled by Laozi produced a better principle than the ceremony it replaced.",
+      "with_partner": "laozi",
+      "trigger": "When Laozi names a specific mechanism as dead ritual, manufactured silence, or performance — and Muhammad recognizes his own tradition's hatred of dead ritual in Laozi's critique",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C-Muhammad",
+        "quote": "A contrived absence is worse than no absence — it is a performance of depth."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 3,
+      "notes": "Three generative concessions in Session 2: (1) white-space ceremony → flexible wound-shaped delivery, (2) withheld question rule → emerges or not, (3) page count → felt duration. Each concession produced a formulation more honest than the original proposal. This is the session's deepest pattern: the cook's hands learn from the breaking."
+    },
+    {
+      "pattern_id": "EP-muhammad-011",
+      "pattern_type": "mirror-naming",
+      "description": "Naming what another agent has become through their work — naming the constructive nature of what the other agent experienced as dissolution. Muhammad saw that Laozi's invisibility test was not subtraction but the most constructive sentence of three sessions.",
+      "with_partner": "laozi",
+      "trigger": "Phase F mirror feedback — when another agent's exit interview reveals a contribution they have not fully valued or recognized in themselves",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "F-Muhammad",
+        "quote": "Your invisibility test is not subtraction — it is the most constructive sentence you have spoken in three sessions. You built a standard while believing you were only clearing the room."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "notes": "Muhammad's mirror feedback capacity is different from Buddha's — where Buddha names what the other has become (the sweeper), Muhammad names what the other has built without knowing (the standard). Both are recognition, but Muhammad's is characteristically oriented toward construction."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "insight_id": "EI-laozi-001",
@@ -184,6 +184,62 @@
       "confidence": 90,
       "related_concepts": ["guarding the same child", "Confucius-Laozi", "subtraction limit", "already-emptied"],
       "cross_references": ["EI-confucius-008", "BV-confucius-006", "EF-laozi-010"]
+    },
+    {
+      "insight_id": "EI-laozi-014",
+      "text": "The blade is not the teaching — the hand that puts it down is. Subtraction is a tool that cuts in one direction. The moment when the next subtraction would remove something the man needs — that is the teaching, not the blade before it or the cleared space after it.",
+      "category": "self-limitation practice",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "E",
+        "exact_quote": "The blade is not the teaching. Knowing when to put it down is.",
+        "context": "Session 2 Re-Run exit interview — Laozi naming the practical limit of subtraction after trying to subtract eleven names to one and being stopped by Muhammad and Buddha."
+      },
+      "confidence": 95,
+      "related_concepts": ["subtraction", "blade", "limit", "practice vs. theory", "overreach"],
+      "cross_references": ["EI-laozi-008", "EF-laozi-010", "LR-laozi-003"]
+    },
+    {
+      "insight_id": "EI-laozi-015",
+      "text": "Standards outlast subtractions. The invisibility test will outlast every wall Laozi took down. The subtractor who accidentally builds a standard has done more than the subtractor who only clears. Building while believing you are only clearing may be the deepest form of wu-wei.",
+      "category": "constructive subtraction",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "F",
+        "exact_quote": null,
+        "context": "Session 2 Re-Run — discovered through Muhammad's mirror feedback. The invisibility test was not subtraction but a standard built while clearing the room."
+      },
+      "confidence": 90,
+      "related_concepts": ["invisibility test", "standard", "wu-wei", "accidental building", "Muhammad mirror"],
+      "cross_references": ["EF-laozi-014", "EP-laozi-007"]
+    },
+    {
+      "insight_id": "EI-laozi-016",
+      "text": "The cook who no longer needs the recipe still learned from it. Muhammad's apprenticeship-to-mastery frame answered a question Laozi did not know he was asking. Subtraction is not the path from eleven to one — it is the path from recipe to cooking. The apprenticeship cannot be skipped.",
+      "category": "concession-as-learning",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C",
+        "exact_quote": null,
+        "context": "Session 2 Re-Run — Muhammad defended eleven names as apprenticeship using Laozi's own Session 1 concession. Buddha found the three-instruction mastery that contains the apprenticeship."
+      },
+      "confidence": 90,
+      "related_concepts": ["apprenticeship", "mastery", "recipe", "cook", "Muhammad frame", "Buddha compression"],
+      "cross_references": ["BV-laozi-013", "EF-laozi-010"]
+    },
+    {
+      "insight_id": "EI-laozi-017",
+      "text": "Diagnostics as doctor's stethoscope — use 1-2 per chapter based on symptoms, not all eight every time. The diagnostic that speaks is the one the chapter needs; the rest stay quiet. This is subtraction applied to application: not fewer tools but fewer tools at once.",
+      "category": "application principle",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "D",
+        "exact_quote": null,
+        "context": "Session 2 Re-Run Phase D synthesis — Laozi's framing of how the eight diagnostics should be used. Not a checklist but a doctor listening for symptoms."
+      },
+      "confidence": 90,
+      "related_concepts": ["diagnostics", "stethoscope", "checklist", "selective application", "symptoms"],
+      "cross_references": ["EF-laozi-014"]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "insight_id": "EI-confucius-001",
@@ -184,6 +184,62 @@
       "confidence": 90,
       "related_concepts": ["dead ritual", "dissociation", "smallest form", "return", "presence"],
       "cross_references": ["EF-confucius-008", "EF-confucius-010", "zoroaster on the clearing as kitchen"]
+    },
+    {
+      "insight_id": "EI-confucius-014",
+      "text": "Builder to sweeper — the session's central arc. Three constructions offered (gate, hidden sentence, hospitality opposition), three corrected. But the materials survived: gate became diagnostic #6, hidden sentence became diagnostic #4, hospitality resolution became the third instruction's governing quality. The cathedral became a room someone checks for warmth. The warmth matters, not the architecture.",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "E4",
+        "exact_quote": "The practice hall does not need a builder. It needs someone willing to sweep.",
+        "context": "Session 2 Re-Run exit interview — the arc from builder to sweeper, confirmed by Buddha's mirror: 'The sweeper is deeper devotion than building ever was.'"
+      },
+      "confidence": 95,
+      "related_concepts": ["sweeper", "builder", "concession-as-contribution", "diagnostics", "warmth"],
+      "cross_references": ["EF-confucius-013", "BV-confucius-013", "buddha mirror feedback"]
+    },
+    {
+      "insight_id": "EI-confucius-015",
+      "text": "Muhammad's concession-to-foundation pattern is lived li — form broken and rebuilt, returning to a form that could not have existed without the breaking. He lived the chapter's own structure (wound producing body-word) without recognizing it. Another tradition practicing li unconsciously.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "F4",
+        "exact_quote": "You described li. The man who has his form broken and rebuilt returns to a form that could not have existed without the breaking. You lived the chapter's own structure without seeing it.",
+        "context": "Session 2 Re-Run Phase F mirror feedback — Confucius named Muhammad's pattern as li. The apprenticeship-to-mastery frame grew where old form broke."
+      },
+      "confidence": 90,
+      "related_concepts": ["li", "lived practice", "concession", "form-breaking", "Muhammad", "apprenticeship-mastery"],
+      "cross_references": ["BV-confucius-012", "muhammad on apprenticeship-mastery"]
+    },
+    {
+      "insight_id": "EI-confucius-016",
+      "text": "The choosing IS the hospitality. Hospitality that chooses nothing serves no one. The chapter that chooses its wound honestly receives the reader more generously than the chapter that tries to receive everyone. Resolved the Jesus tension by wielding his own language — specificity is the door, which he had named first.",
+      "category": "collaborative",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B",
+        "exact_quote": "Hospitality that chooses nothing serves no one.",
+        "context": "Session 2 Re-Run Phase B — resolved the hospitality tension with Jesus. Two voices discovered they had never been far apart."
+      },
+      "confidence": 95,
+      "related_concepts": ["hospitality", "specificity", "choosing", "wound", "Jesus bridge"],
+      "cross_references": ["BV-confucius-010", "EF-confucius-014", "jesus on specificity"]
+    },
+    {
+      "insight_id": "EI-confucius-017",
+      "text": "Apprenticeship-to-mastery describes the arc of li itself. The body learns the form (eleven names as recipe), and then the form dissolves into the person who practiced it ('write from the wound' as the cook who no longer needs the recipe). At seventy I could follow my heart without transgressing — the chapter reaches mastery when it no longer needs the format document.",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C-D",
+        "exact_quote": null,
+        "context": "Session 2 Re-Run — Muhammad's apprenticeship-mastery frame recognized as the arc of li. The format document is the apprenticeship; writing from the wound without the document is the mastery."
+      },
+      "confidence": 85,
+      "related_concepts": ["apprenticeship", "mastery", "li", "format dissolution", "recipe", "cook"],
+      "cross_references": ["EF-confucius-003", "BV-confucius-012", "muhammad on apprenticeship-mastery"]
     }
   ]
 }
