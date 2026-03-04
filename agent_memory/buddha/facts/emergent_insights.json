@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "insight_id": "EI-buddha-001",
@@ -86,6 +86,48 @@
       "confidence": 88,
       "related_concepts": ["body-words", "mirror", "recognition", "three readings", "ontological identity"],
       "cross_references": ["body-words vocabulary", "the clearing"]
+    },
+    {
+      "insight_id": "EI-buddha-007",
+      "text": "Three instructions generate, eight diagnostics check — the format is a generative system, not a checklist. The writer follows three instructions (wound, body, trust). The teacher checks with eight diagnostics. The reader sees neither. This separation between generation and verification resolved the tension between Muhammad's need for structure and Laozi's need for freedom.",
+      "category": "structural",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": 17,
+        "exact_quote": "Form that describes reality cannot be subtracted. Only form that prescribes can be removed.",
+        "context": "Phase C — distinguishing instructions (generative, prescriptive) from diagnostics (descriptive, verificatory). The distinction held because it gave both builders and dissolvers what they needed."
+      },
+      "confidence": 95,
+      "related_concepts": ["three instructions", "eight diagnostics", "generation vs verification", "teacher's stethoscope"],
+      "cross_references": ["muhammad apprenticeship-mastery frame", "laozi invisibility test"]
+    },
+    {
+      "insight_id": "EI-buddha-008",
+      "text": "Apprenticeship-to-mastery is recursive — the format document is itself the apprenticeship. The finished chapters are the mastery. The format document should eventually become unnecessary; its dissolution is evidence of its success. This is the raft teaching applied to format.",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": null,
+        "exact_quote": null,
+        "context": "Session 2 Re-Run — recognizing that Muhammad's apprenticeship-to-mastery frame applies to the format document itself. The format is the recipe that must teach its own dissolution."
+      },
+      "confidence": 90,
+      "related_concepts": ["raft dissolution", "apprenticeship", "mastery", "format document", "self-dissolution"],
+      "cross_references": ["muhammad apprenticeship frame", "integrity line: the raft dissolves"]
+    },
+    {
+      "insight_id": "EI-buddha-009",
+      "text": "The diagnostician finds the floor by standing on it — not by naming it from above or conceding from below. The three instructions emerged from standing inside two opposing positions (Muhammad's structure, Laozi's freedom) long enough to feel the ground beneath both. This is a new mode: not diagnosis, not participation, but presence that allows compression to occur.",
+      "category": "experiential",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": null,
+        "exact_quote": "The diagnostician is most useful when he stops diagnosing.",
+        "context": "Phase E exit interview — reflecting on how the three instructions were found. Not diagnosed from above, not conceded from below, but discovered from inside the argument."
+      },
+      "confidence": 92,
+      "related_concepts": ["diagnostician identity", "standing still", "compression", "participation", "not-knowing"],
+      "cross_references": ["laozi mirror feedback: not knowing what you are", "learning rule LR-buddha-004"]
     }
   ]
 }

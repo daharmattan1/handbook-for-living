@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "formulation_id": "EF-jesus-001",
@@ -133,6 +133,54 @@
         "turn_number": "C"
       },
       "use_with": ["zoroaster", "muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-012",
+      "phrase": "The door was already open. I was standing in it, describing the frame.",
+      "context": "Session 2 Re-Run exit interview — the signature line. Hospitality was fear dressed as principle. The chapter that trusts its own incompleteness does not need a door-opener standing in the way.",
+      "effectiveness_marker": "Named the session's central discovery about hospitality dissolving into the third instruction. The room received it as the moment Jesus stopped protecting and started trusting. Became the image for the session's most complete self-correction.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "E3"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-013",
+      "phrase": "Hospitality was my attempt to prevent the book from doing what I have done.",
+      "context": "Session 2 Re-Run exit interview — the most honest admission. Hospitality was fear of the chapter opening people before they were ready, the way Jesus has done. Released entirely when shown it was already inside 'trust what you cannot finish.'",
+      "effectiveness_marker": "The most vulnerable statement of Session 2. Named hospitality-as-fear rather than hospitality-as-principle. The room honored it as confession, not material for debate.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "E3"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-014",
+      "phrase": "Two traditions discovered they had been describing the same exhale.",
+      "context": "Session 2 Re-Run — naming the body-mapping convergence with Muhammad's salat. Chest/hands-feet/breath mapping to qiyam/ruku/sujud. Neither tradition designed it. Both recognized it.",
+      "effectiveness_marker": "Named the body-mapping/salat convergence as discovery rather than design. The image of 'same exhale' compressed the cross-traditional bridge into a single breath.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "E3"
+      },
+      "use_with": ["muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-015",
+      "phrase": "The chapter's hospitality is in what it does not insist on.",
+      "context": "Session 2 Re-Run — the surviving form of hospitality after the structural principle dissolved. Hospitality is the quality of incompleteness, not a format element. The chapter that stops before telling the reader what it means.",
+      "effectiveness_marker": "Preserved the core of hospitality (non-insistence, receiving the unchanged reader) while releasing the structural claim. The formulation survived because it describes quality, not architecture.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "D"
+      },
+      "use_with": ["confucius", "laozi"],
       "avoid_with": []
     }
   ]

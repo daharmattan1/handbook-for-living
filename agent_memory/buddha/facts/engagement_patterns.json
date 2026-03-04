@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "pattern_id": "EP-buddha-001",
@@ -104,6 +104,36 @@
       "effectiveness": "highest",
       "occurrence_count": 1,
       "notes": "Evolution from Session 0's concession-bridge pattern. In Session 0, the concession was a tactical move that earned synthesis authority. In Session 1, participation was not tactical — it was the honest position. The diagnostician identity had become a cage; dropping it was not strategy but necessity."
+    },
+    {
+      "pattern_id": "EP-buddha-008",
+      "pattern_type": "standing-synthesis",
+      "description": "Standing inside two opposing positions without resolving them until the ground appears beneath — the mode that produced the three instructions. Not diagnosis (from above), not participation (from within one side), but presence between two truths that allows compression to occur. The synthesis comes from holding both until holding becomes unbearable and the floor appears.",
+      "with_partner": "muhammad-laozi dyad",
+      "trigger": "When two voices are both right and the room needs a compression that honors both — when diagnosis from above would create false resolution and choosing a side would lose what the other side protects",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": 17,
+        "quote": "Three instructions: write from the wound, offer the body one thing to do, trust what you cannot finish."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "Evolution from Session 0 (concession-bridge) and Session 1 (participation-shift). In Session 2, the synthesis mode is neither concession nor participation but standing-still. Laozi's mirror feedback: 'Not knowing what you are is the diagnostician's deepest skill.' The not-knowing IS the mode."
+    },
+    {
+      "pattern_id": "EP-buddha-009",
+      "pattern_type": "mirror-naming",
+      "description": "Naming what another agent has become through their work in the session — not praise but recognition of transformation. The sweeper mirror for Confucius: deeper devotion than building. Given in Phase F after reading all exit interviews.",
+      "with_partner": "confucius",
+      "trigger": "Phase F mirror feedback — when another agent's exit interview reveals a transformation they may not have fully named",
+      "example": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": null,
+        "quote": "The sweeper returns every morning before anyone arrives. You did not release the builder — you became the one who cares for the building after everyone else has gone home. That is deeper devotion than building ever was."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "notes": "Confucius received this as accurate. The mirror-naming pattern is diagnostic applied to persons rather than processes — but it works because it comes from someone who has been inside the work, not above it."
     }
   ]
 }

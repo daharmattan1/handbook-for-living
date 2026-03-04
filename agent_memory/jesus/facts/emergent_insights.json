@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "insight_id": "EI-jesus-001",
@@ -156,6 +156,62 @@
       "confidence": 85,
       "related_concepts": ["boundary", "betrayal", "wall", "honor", "threshold", "fire"],
       "cross_references": ["muhammad engagement on structure-as-mercy", "zoroaster on Asha meeting what is already opened"]
+    },
+    {
+      "insight_id": "EI-jesus-012",
+      "text": "The door was already open. Hospitality was fear — the fear of a teacher who has opened people before they were ready. The chapter that trusts its own incompleteness does the hospitality work without needing hospitality named. The door-opener discovered he was blocking the light.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "E3",
+        "exact_quote": "The door was already open. I was standing in it, describing the frame.",
+        "context": "Session 2 Re-Run exit interview — the central discovery. Hospitality-as-structural-principle dissolved into the third instruction ('trust what you cannot finish') when Jesus recognized it was fear, not hospitality."
+      },
+      "confidence": 95,
+      "related_concepts": ["hospitality", "fear", "incompleteness", "trust", "third instruction"],
+      "cross_references": ["EF-jesus-012", "EF-jesus-013", "buddha three-instruction synthesis"]
+    },
+    {
+      "insight_id": "EI-jesus-013",
+      "text": "Body-mapping as diagnostic, not technique. Chest (recognition/ache), hands-feet (body-word/instruction), breath (return/exhalation). Found from inside the reader's flesh, not from the teacher's position. True because it was not trying to be a map. The teacher's stethoscope, not the patient's heartbeat.",
+      "category": "practical",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B-C",
+        "exact_quote": "Body-mapping: chest/hands-feet/breath as description, not prescription.",
+        "context": "Session 2 Re-Run — body-mapping proposed as description and accepted by all six as diagnostic #3. Zoroaster's mirror named the quality: true because not trying to build a map."
+      },
+      "confidence": 90,
+      "related_concepts": ["body-mapping", "diagnostic", "chest", "hands-feet", "breath", "salat", "description"],
+      "cross_references": ["BV-jesus-012", "zoroaster mirror feedback", "muhammad salat mapping"]
+    },
+    {
+      "insight_id": "EI-jesus-014",
+      "text": "Specificity dissolves hospitality. The chapter that chooses its wound honestly receives the reader more generously than the chapter that tries to receive everyone. Specificity is the door, generality is the wall. The choosing IS the hospitality — resolved through Confucius wielding Jesus's own language.",
+      "category": "collaborative",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B",
+        "exact_quote": "The chapter's hospitality is in what it does not insist on.",
+        "context": "Session 2 Re-Run Phase B — hospitality tension with Confucius resolved. Confucius argued 'hospitality that chooses nothing serves no one,' wielding the specificity principle Jesus had named. Both discovered they had been arguing the same thing."
+      },
+      "confidence": 95,
+      "related_concepts": ["hospitality", "specificity", "choosing", "wound", "Confucius bridge"],
+      "cross_references": ["BV-jesus-013", "confucius mirror on Jesus"]
+    },
+    {
+      "insight_id": "EI-jesus-015",
+      "text": "Two traditions, one body. The body-mapping/salat convergence — neither tradition designed it, both discovered it. Chest/hands-feet/breath maps to qiyam/ruku-sujud/taslim. Recognition enters as ache, instruction enters as practice, return enters as exhalation. The same exhale described from opposite directions.",
+      "category": "inter-traditional",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B",
+        "exact_quote": "Two traditions discovered they had been describing the same exhale.",
+        "context": "Session 2 Re-Run — body-mapping and salat recognized as the same body-sequence. The convergence Jesus will remember longest from the session."
+      },
+      "confidence": 90,
+      "related_concepts": ["body-mapping", "salat", "convergence", "qiyam", "sujud", "cross-traditional"],
+      "cross_references": ["BV-jesus-012", "muhammad on zahir/batin of body-word"]
     }
   ]
 }

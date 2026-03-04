@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "bridge_id": "BV-muhammad-001",
@@ -159,6 +159,65 @@
         "session_id": "handbook_session_01_structure_rerun_20260301",
         "turn_numbers": ["S1-Muhammad"]
       }
+    },
+    {
+      "bridge_id": "BV-muhammad-012",
+      "term": "apprenticeship-to-mastery",
+      "agent_meaning": "Eleven names are the recipe. Three instructions are the cook who no longer needs it. The apprentice needs the format document with all its names and diagnostics. The master needs only 'write from the wound.' Both are true at different stages. The format document is the apprenticeship; the chapters are the mastery.",
+      "partner_meaning": {
+        "buddha": "The raft teaching applied to format — the format must teach its own dissolution. Three instructions for the apprentice, one for the master.",
+        "laozi": "Resolved Laozi's push to compress to one instruction by honoring his principle (subtraction is valid) while naming its limit (the apprentice still needs the recipe)"
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["C-Muhammad"]
+      },
+      "notes": "Muhammad's most significant contribution to Session 2. Used Laozi's own concession ('subtraction's shadow') to defend the eleven names. The frame held because it honored both structure and dissolution."
+    },
+    {
+      "bridge_id": "BV-muhammad-013",
+      "term": "the quarter-inch",
+      "agent_meaning": "Same kitchen, six inches to the left. The return that is neither silence (which risks abandonment) nor transformation (which claims too much). The smallest honest shift — the chapter stops when the quarter-inch arrives.",
+      "partner_meaning": {
+        "buddha": "Converged from opposite directions — Buddha proposed silence, Muhammad proposed shift. The quarter-inch is between: the smallest proof the wound changed something."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["C-Muhammad-Buddha"]
+      },
+      "notes": "Became diagnostic #8: felt duration. One breath held and released. Not a page count."
+    },
+    {
+      "bridge_id": "BV-muhammad-014",
+      "term": "the cook who no longer needs the recipe",
+      "agent_meaning": "The writer who has internalized all eleven format elements to the point where the three instructions generate the chapter without conscious reference to the format document. The cook's hands know what to do. The recipe exists on the shelf for the next apprentice.",
+      "partner_meaning": {
+        "laozi": "The ultimate invisibility — the format disappears into the writing itself",
+        "confucius": "Li lived, not performed — the form has entered the body"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["C-Muhammad"]
+      },
+      "notes": "Confucius named this as lived li in mirror feedback: 'You lived the chapter's structure without recognizing it.'"
+    },
+    {
+      "bridge_id": "BV-muhammad-015",
+      "term": "teacher's stethoscope",
+      "agent_meaning": "The eight diagnostics are the teacher's tool, not the writer's checklist. The teacher reads the chapter and feels where it falters, the way a doctor feels a pulse. Use 1-2 per chapter based on symptoms. Muhammad reframed Jesus's body-mapping as diagnostic (teacher checks where it lands in the body) rather than technique (writer tells reader what to feel).",
+      "partner_meaning": {
+        "jesus": "Body-mapping preserved because it was given a diagnostic role — teacher reads the chapter and checks chest/hands/breath",
+        "laozi": "Satisfied Laozi's objection to checklist by framing diagnostics as descriptive, not prescriptive"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["C-Muhammad"]
+      },
+      "notes": "The salat analogy: the master watches the student's posture, not his theology. The teacher's stethoscope listens to the chapter's body."
     }
   ]
 }

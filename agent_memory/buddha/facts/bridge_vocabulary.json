@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "bridge_id": "BV-buddha-001",
@@ -133,6 +133,84 @@
         "turn_numbers": []
       },
       "notes": "Cross-tradition somatic vocabulary. Confucius hears ritual as language; Muhammad hears prayer as body-speech. Buddha names the five words the body already knows."
+    },
+    {
+      "bridge_id": "BV-buddha-010",
+      "term": "three instructions",
+      "agent_meaning": "Write from the wound, offer the body one thing to do, trust what you cannot finish. The writer's generative instructions — ground/standing/sky. The wound is the foundation; the body's one word is what stands on it; trust in incompleteness is the sky above.",
+      "partner_meaning": {
+        "muhammad": "Three movements (recognition, body-word, return) compressed into mastery form — the cook who no longer needs the recipe",
+        "laozi": "The compression he could not find — three, not one, not eleven. Passes his invisibility test.",
+        "confucius": "Order of depth — wound beneath practice beneath trust",
+        "jesus": "Hospitality dissolved into the third instruction — trust what you cannot finish",
+        "zoroaster": "Asha — 'we did not build it, we found it'"
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": [17]
+      },
+      "notes": "The session's central synthesis. Resolved the tension between Muhammad's structure and Laozi's freedom. All six voices affirmed."
+    },
+    {
+      "bridge_id": "BV-buddha-011",
+      "term": "tide-turn",
+      "agent_meaning": "The prose shift near the body-word is a tide, not a hinge — distributed, invisible, felt but unlocatable. The reader cannot point to where the chapter changed. Known to the writer, invisible to the reader.",
+      "partner_meaning": {
+        "laozi": "Laozi proposed this correction — the hinge was too mechanical, too visible. The tide is what water does: it shifts without announcing.",
+        "muhammad": "The shift from compressed to eased prose maps to the shift from recognition to return — the body-word is the tide's turning point."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": []
+      },
+      "notes": "Buddha conceded 'hinge' to Laozi's 'tide-turn.' The substance (two prose textures) survived; the mechanism (visible pivot) dissolved."
+    },
+    {
+      "bridge_id": "BV-buddha-012",
+      "term": "the quarter-inch",
+      "agent_meaning": "The return shows the same kitchen from six inches to the left — the smallest honest shift. Not silence (which risks abandonment) and not a new view (which claims too much). The chapter stops when the quarter-inch arrives.",
+      "partner_meaning": {
+        "muhammad": "Muhammad proposed 'same kitchen, six inches to the left.' Converged with Buddha's silence-return to produce the quarter-inch — the smallest proof that the wound changed something."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": []
+      },
+      "notes": "Became diagnostic #8: felt duration. The chapter stops when the quarter-inch arrives. Not a page count."
+    },
+    {
+      "bridge_id": "BV-buddha-013",
+      "term": "ground/standing/sky",
+      "agent_meaning": "The three instructions as spatial metaphor. Write from the wound = ground (the foundation). Offer the body one thing to do = standing (what stands on the ground). Trust what you cannot finish = sky (the openness above). What it means for a man to be in a room.",
+      "partner_meaning": {
+        "confucius": "Translated Confucius's order of depth (wound beneath practice beneath trust) into spatial terms that honor his need for order",
+        "laozi": "The sky — trust in incompleteness — resonates with wu-wei and the uncarved block"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": []
+      },
+      "notes": "Bridged Confucius's need for order with Laozi's need for spaciousness via spatial metaphor."
+    },
+    {
+      "bridge_id": "BV-buddha-014",
+      "term": "form holds emptiness",
+      "agent_meaning": "Every form element exists to hold a specific emptiness in place. The diagnostic is the form; the space the diagnostic protects is the emptiness. The withheld question is a form that holds silence. The hidden sentence is a form that holds delayed meaning. Form and emptiness are not opposites but partners.",
+      "partner_meaning": {
+        "muhammad": "Resonates with the cup that has a shape — form creates the vessel, emptiness is what fills it",
+        "laozi": "The uncarved block — but here the carving is deliberate, not arbitrary. The form is carved to hold specific emptiness.",
+        "confucius": "Li as form that holds the sacred — the ritual creates the space where reverence can occur"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": []
+      },
+      "notes": "Resolved the tension between form-builders (Muhammad, Confucius) and form-dissolvers (Laozi). Both are right: form and emptiness need each other."
     }
   ]
 }

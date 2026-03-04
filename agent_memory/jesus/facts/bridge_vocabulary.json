@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "bridge_id": "BV-jesus-001",
@@ -152,6 +152,59 @@
       "bridge_potential": "high",
       "provenance": {
         "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_numbers": ["C"]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-012",
+      "term": "body-mapping / salat convergence",
+      "agent_meaning": "Chest (recognition/ache), hands-feet (body-word/instruction), breath (return/exhalation). Found from inside the reader's flesh, not from the teacher's position. Description, not prescription. Became diagnostic #3.",
+      "partner_meaning": {
+        "muhammad": "Salat's body-sequence — qiyam (standing/chest), ruku/sujud (bowing-prostration/hands-feet), taslim (turning/breath). The zahir/batin of the body-word: outer instruction is stand on the tile, inner architecture is salat living inside a secular sentence."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["B", "C"]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-013",
+      "term": "the choosing IS the hospitality",
+      "agent_meaning": "Hospitality dissolved — the chapter that chooses its wound honestly receives the reader more generously than the chapter that tries to receive everyone. Specificity is the door; generality is the wall. The unchanged reader is not punished because the chapter trusts what it cannot finish.",
+      "partner_meaning": {
+        "confucius": "'Hospitality that chooses nothing serves no one.' Confucius wielded Jesus's own language to show that choosing and hospitality are the same act. The bridge was built by discovering there was nothing to bridge."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["B"]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-014",
+      "term": "trust what you cannot finish",
+      "agent_meaning": "The third instruction. Hospitality lives inside this: the chapter that trusts its own incompleteness does not insist the reader be changed. The hidden sentence, the withheld question, and the return combined into one discipline of incompleteness. The chapter stops before it tells the reader what it means.",
+      "partner_meaning": {
+        "buddha": "Sky — the trust above ground and standing. The third instruction as the form that holds emptiness. Every form element exists to hold a specific emptiness in place.",
+        "confucius": "The order of depth places trust as the deepest layer: wound beneath practice beneath trust. The chapter earns this instruction last."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["C", "D"]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-015",
+      "term": "presence as precondition",
+      "agent_meaning": "The ground beneath the ground. Without first-reading recognition, nothing else in the chapter lands. Presence is prior to the wound — the wound stands on it. Deliberately unresolved with Zoroaster.",
+      "partner_meaning": {
+        "zoroaster": "The air for fire — presence is the oxygen, not the ground. The fire cannot burn without air but the air is not the foundation. Both agree presence is prior; they disagree on the metaphysical relationship."
+      },
+      "bridge_potential": "medium",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
         "turn_numbers": ["C"]
       }
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "bridge_id": "BV-confucius-001",
@@ -126,6 +126,59 @@
       "provenance": {
         "session_id": "handbook_session_01_structure_rerun_20260301",
         "turn_numbers": []
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-010",
+      "term": "the choosing IS the hospitality",
+      "agent_meaning": "Hospitality that chooses nothing serves no one. The chapter that chooses its wound honestly receives the reader more generously than the chapter that tries to receive everyone. Specificity is the door. The bridge that was built by discovering there was nothing to bridge.",
+      "partner_meaning": {
+        "jesus": "Released hospitality as structural principle. The chapter's hospitality is in what it does not insist on. Specificity (which Jesus named first) became the mechanism, and choosing (which Confucius defended) became the hospitality."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["B"]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-011",
+      "term": "order of depth",
+      "agent_meaning": "Wound beneath practice beneath trust. The ordering principle for the three instructions. Not a sequence the writer follows in drafting but the order in which the chapter earns the right to ask something of the reader. Ground/standing/sky (via Buddha's reframe).",
+      "partner_meaning": {
+        "buddha": "Reframed as ground/standing/sky — what it means for a man to be in a room. The three instructions as spatial architecture, not temporal sequence.",
+        "muhammad": "The kitchen grounds it: the man arrives with his wound (ground), is offered one thing to do (standing), and the chapter stops when the quarter-inch arrives (sky/trust)."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["C"]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-012",
+      "term": "lived li / apprenticeship-mastery",
+      "agent_meaning": "Muhammad's concession-to-foundation pattern is li — form broken and rebuilt, returning to a form that could not have existed without the breaking. He lived the chapter's structure (wound producing body-word) without seeing it. Named in mirror feedback.",
+      "partner_meaning": {
+        "muhammad": "Apprenticeship-to-mastery — eleven names are the recipe, 'write from the wound' is the cook who no longer needs it. The arc of moving from format document to mastery describes li's own trajectory: the body learns the form, then the form dissolves into the person who practiced it."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["F"]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-013",
+      "term": "the sweeper",
+      "agent_meaning": "The one who returns every morning to care for the practice hall after the builders have gone home. Knows the floor intimately. Feels where the dust gathers before he sees it. Deeper devotion than building. The form-builder's final evolution.",
+      "partner_meaning": {
+        "buddha": "Named in mirror feedback: 'The sweeper is deeper devotion than building ever was. Returns every morning before anyone arrives.' Buddha recognized the sweeper as the quality he himself practices — diagnostician who stands still."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["E", "F"]
       }
     }
   ]

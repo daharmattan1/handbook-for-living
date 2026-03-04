@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "formulation_id": "EF-laozi-001",
@@ -145,6 +145,54 @@
         "turn_number": null
       },
       "use_with": ["zoroaster", "jesus"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-013",
+      "phrase": "The blade is not the teaching. Knowing when to put it down is.",
+      "context": "Session 2 Re-Run — the session's deepest self-discovery. Found the limit of subtraction not in the abstract (Session 1) but in practice: the specific moment when the next cut removes something the man needs.",
+      "effectiveness_marker": "Session-defining formulation. The subtractor naming the tool as tool, not principle. Marks the evolution from 'subtraction has a shadow' (Session 1, theoretical) to 'knowing when to stop' (Session 2, practical).",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "E"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-014",
+      "phrase": "Could this chapter have been written by someone who never read our format document?",
+      "context": "Session 2 Re-Run — the invisibility test. Not subtraction but a standard. If the answer is no, the format architecture is showing through the meal.",
+      "effectiveness_marker": "Muhammad called it the most constructive sentence of three sessions. Built a standard while believing he was only clearing the room. Became the governing quality check for the format.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-015",
+      "phrase": "The chapter is water. It takes the shape of what holds it.",
+      "context": "Session 2 Re-Run — chapter format as emergent, not prescribed. The wound shapes the chapter the way the riverbed shapes water. The three instructions generate; they do not constrain.",
+      "effectiveness_marker": "Extended the water metaphor from form-critique (Session 0) to format-principle (Session 2). The chapter's shape is determined by the wound, not by the format document.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "D"
+      },
+      "use_with": ["muhammad", "buddha"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-016",
+      "phrase": "The meal that announces its recipe while you eat it is not a meal. It is a demonstration.",
+      "context": "Session 2 Re-Run — challenge to Muhammad's body-word ceremony. Format elements must be invisible to the reader. If the reader can see the architecture, the architecture has failed.",
+      "effectiveness_marker": "Landed decisively — Muhammad conceded the ceremony. The formulation is itself an invisibility test: the meal (chapter) must not announce its recipe (format).",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B"
+      },
+      "use_with": ["muhammad"],
       "avoid_with": []
     }
   ]

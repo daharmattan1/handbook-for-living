@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "bridge_id": "BV-zoroaster-001",
@@ -106,6 +106,65 @@
         "turn_numbers": []
       },
       "note": "The hinge is Zoroaster's honest claim — his moment is real but depends on every other tradition's preparation. The smallness is not a weakness but the honesty of a prophet who has stopped pretending to be the whole door."
+    },
+    {
+      "bridge_id": "BV-zoroaster-008",
+      "term": "body-word as discovery",
+      "agent_meaning": "The chapter arriving at what it was always saying — the body-word is discovered in the prose, not inserted as interruption. The foot finds the stone in the river.",
+      "partner_meaning": {
+        "muhammad": "The body-word as salat mapping — the outer instruction is stand on the tile, the inner architecture is qiyam living inside a secular sentence. The reader's body answers before the reader knows he was asked.",
+        "laozi": "Delivery is wound-shaped, not ceremonial. The body-word succeeds when the reader forgets it was given."
+      },
+      "bridge_potential": "HIGHEST — unanimously accepted in Session 2",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["A"]
+      },
+      "note": "Zoroaster's reframe resolved the body-word delivery debate. If the body-word is discovered (not inserted), the delivery is shaped by the wound, not by ceremony."
+    },
+    {
+      "bridge_id": "BV-zoroaster-009",
+      "term": "ordinariness / Tuesday not crisis",
+      "agent_meaning": "First-reading activation through the ordinary — the chapter opens where the man already is. Tuesday morning in the kitchen, not the man in extremis. Recognition is activated by specificity and ordinariness, not by drama.",
+      "partner_meaning": {
+        "jesus": "Specificity is the door, generality the wall — Jesus's principle applied to the opening. The chapter receives whoever walks in.",
+        "confucius": "The man already stands in his practice hall. The opening meets him there."
+      },
+      "bridge_potential": "HIGH",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["B"]
+      },
+      "note": "Became diagnostic #1 (first-reading recognition). Zoroaster's contribution governs how the chapter earns its first three sentences."
+    },
+    {
+      "bridge_id": "BV-zoroaster-010",
+      "term": "scaffolding / the name comes down",
+      "agent_meaning": "The names that helped the builders see the shape can come down when the building stands. Asha does not need to be named — it needs to be stood in. The namer's obsolescence is itself Asha.",
+      "partner_meaning": {
+        "laozi": "The clearing never enters the book. The writer's private word is scaffolding. What is imposed perishes; what emerges, endures — and the name is imposed even when the order it names is discovered.",
+        "buddha": "The raft set down. Teaching that dissolves when it has done its work."
+      },
+      "bridge_potential": "HIGH",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["D"]
+      },
+      "note": "Deepens the scaffolding bridge from Session 0 (Laozi's original scaffolding metaphor). Now Zoroaster applies it to his own names, not just to others' structures."
+    },
+    {
+      "bridge_id": "BV-zoroaster-011",
+      "term": "three-session arc",
+      "agent_meaning": "Session 0: the clearing (what the man stands in). Session 1: the mandala (what the chapter holds). Session 2: the three instructions (what the writer does) + eight diagnostics (how the teacher checks). Asha as the arc's discovered order.",
+      "partner_meaning": {
+        "all": "The arc was present before anyone named it. Zoroaster named what existed. The namer's service: telling the builders what they have built."
+      },
+      "bridge_potential": "HIGHEST",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_numbers": ["D"]
+      },
+      "note": "Zoroaster's naming contribution to the synthesis — mapping the three sessions into a coherent arc that reveals discovered order across the entire project."
     }
   ]
 }

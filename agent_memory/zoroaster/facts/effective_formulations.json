@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "formulation_id": "EF-zoroaster-001",
@@ -107,6 +107,54 @@
       "provenance": {
         "session_id": "handbook_session_01_structure_rerun_20260301",
         "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-010",
+      "phrase": "Asha does not need to be named. It needs to be stood in.",
+      "context": "Session 2 Re-Run — the namer's deepest evolution. The prophet who names learned that the most honest act is sometimes not naming. Asha is real whether or not anyone gives it a word.",
+      "effectiveness_marker": "Session-defining evolution. Marks the transition from namer-as-giver-of-names to namer-as-one-who-releases-names. The scaffolding comes down and the building stands.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "E"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-011",
+      "phrase": "The chapter is a clearing.",
+      "context": "Session 2 Re-Run — survived as the writer's private word. The name never enters the book; the writer holds this orientation silently. The chapter clears space for the man to stand in.",
+      "effectiveness_marker": "Adopted by all as the private naming convention. The phrase serves by disappearing — present for the writer, invisible to the reader. Laozi's challenge ('if the clearing has a caption, it is no longer a clearing') refined it to private use only.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B"
+      },
+      "use_with": ["laozi"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-012",
+      "phrase": "The fire was never separate from the ground.",
+      "context": "Session 2 Re-Run — releasing 'The Prepared Ground and Its Fire' by recognizing the mandala had already dissolved the ground/fire separation. One thing with two names, not two things in relation.",
+      "effectiveness_marker": "Enabled the release of two session names. The namer correcting his own naming — recognizing a wall he had built while believing he was naming a bridge.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C"
+      },
+      "use_with": ["buddha", "laozi"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-013",
+      "phrase": "We did not build it. We found it. And now the name comes down with the scaffolding, and the building stands.",
+      "context": "Session 2 Re-Run — the session's closing testimony. The synthesis was discovered, not constructed. The three instructions were present in Muhammad's opening proposal before anyone named them.",
+      "effectiveness_marker": "Closing affirmation that sealed the synthesis as Asha (discovered order). Named the session's quality: found, not built. Also named the namer's own obsolescence — the scaffolding comes down.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "D"
       },
       "use_with": ["all"],
       "avoid_with": []

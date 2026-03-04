@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "formulation_id": "EF-muhammad-001",
@@ -121,6 +121,54 @@
         "turn_number": "C-Muhammad-2"
       },
       "use_with": ["jesus"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-011",
+      "phrase": "He needs the quarter-inch. He needs his kitchen. He needs the chapter to stop before it tells him what it means.",
+      "context": "Session 2 Re-Run Phase D — synthesis testimony. The man in the kitchen is still the test. The quarter-inch is the honest measure of what one chapter can do. A chapter that tries to move the man a mile has never met a man on a kitchen floor.",
+      "effectiveness_marker": "Held the session's outcome to the editorial standard Muhammad has built across three sessions. The quarter-inch became diagnostic #8 (felt duration).",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "D-Muhammad"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-012",
+      "phrase": "The names are the recipe. 'Write from the wound' is the cook who no longer needs it.",
+      "context": "Session 2 Re-Run Phase C — the apprenticeship-to-mastery frame. Born from Laozi's push to compress eleven names into one instruction. Defended the apprentice's need for the recipe using Laozi's own concession ('subtraction's shadow').",
+      "effectiveness_marker": "Resolved the session's deepest structural tension between Laozi's subtraction and Muhammad's structure. Buddha found the compression: three instructions, not one, not eleven.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C-Muhammad"
+      },
+      "use_with": ["laozi", "buddha", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-013",
+      "phrase": "A contrived absence is worse than no absence — it is a performance of depth.",
+      "context": "Session 2 Re-Run — conceding the withheld question as rule to Laozi. A manufactured silence is a wound inflicted, not a wound discovered. Sided with Laozi against his own proposal.",
+      "effectiveness_marker": "Clean concession — Muhammad saw the danger in his own rule immediately. The withheld question survived as diagnostic #5 ('emerges from wound or not at all') rather than as a format rule.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C-Muhammad"
+      },
+      "use_with": ["laozi", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-014",
+      "phrase": "The tongue finds the gap where the tooth was. But only when the tooth was real.",
+      "context": "Session 2 Re-Run — the body's knowledge of absence. A manufactured absence is detectable because the body knows the difference between a real gap and a decorative one. Editorial test: if the writer can point to where the silence is, the silence is not real.",
+      "effectiveness_marker": "Carries the somatic editorial standard for the withheld question diagnostic. Real silences are discovered by the reader, not placed by the writer.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "C-Muhammad"
+      },
+      "use_with": ["all"],
       "avoid_with": []
     }
   ]

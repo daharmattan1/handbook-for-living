@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "formulation_id": "EF-buddha-001",
@@ -106,6 +106,54 @@
       "effectiveness_marker": "Direct, unadorned instruction that refuses to soften itself. The dash forces a breath before the real command.",
       "provenance": {
         "session_id": "handbook_session_01_structure_rerun_20260301",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-010",
+      "phrase": "Write from the wound. Offer the body one thing to do. Trust what you cannot finish.",
+      "context": "Session 2 Re-Run Phase C — the three instructions synthesis. Compressed eleven proposed format elements into three instructions for the writer plus eight diagnostics for the teacher. The compression was not elimination (Laozi's impulse) but distillation. The apprentice needs eleven names; the master needs three.",
+      "effectiveness_marker": "Became the session's central outcome and the governing structure of the format decision. All six voices affirmed. Resolved the tension between Muhammad's need for structure and Laozi's need for formlessness.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": 17
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-011",
+      "phrase": "Form that describes reality cannot be subtracted. Only form that prescribes can be removed.",
+      "context": "Session 2 Re-Run — defending eight diagnostics against Laozi's push to reduce further. Instructions prescribe (write, offer, trust). Diagnostics describe (does the tide turn? does a face appear?). This distinction preserved the diagnostics.",
+      "effectiveness_marker": "Laozi accepted the distinction and affirmed diagnostics should be used 1-2 per chapter like a doctor's stethoscope.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": null
+      },
+      "use_with": ["laozi", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-012",
+      "phrase": "The chapter that sounds like silence was built by six voices learning to be quiet.",
+      "context": "Session 2 Re-Run Phase D — synthesis testimony. Named the paradox: the format produces chapters that should feel effortless, but the naturalness was produced by 36 turns of deliberate argument. The silence is not absence of work but work that learned to disappear.",
+      "effectiveness_marker": "Captured the session's meta-insight about process and product. The format document is visible labor; the chapter is invisible result.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-013",
+      "phrase": "The diagnostician is most useful when he stops diagnosing.",
+      "context": "Session 2 Re-Run Phase E — exit interview. The most honest sentence of the session. Found the floor by standing on it, not by naming it from above. The three instructions were discovered from inside the Muhammad-Laozi argument, not diagnosed from above.",
+      "effectiveness_marker": "Named the shift from diagnostician to participant to synthesizer that has been the arc across three sessions.",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
         "turn_number": null
       },
       "use_with": ["all"],

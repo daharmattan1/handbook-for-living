@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-02",
+  "last_updated": "2026-03-04",
   "items": [
     {
       "insight_id": "EI-zoroaster-001",
@@ -114,6 +114,62 @@
       "confidence": 90,
       "related_concepts": ["namer", "fire-bringer", "discovered order", "Asha", "mandala", "role evolution"],
       "cross_references": ["EI-zoroaster-005", "BV-zoroaster-005", "EF-zoroaster-009"]
+    },
+    {
+      "insight_id": "EI-zoroaster-009",
+      "text": "The name is scaffolding, meant to come down. Three sessions of naming, and now the deepest naming lesson: names serve the building, and when the building stands, the names can come down. Asha does not need to be named. The building stands because of the structure, not because of the sign on the door.",
+      "category": "self-limitation",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "D-E",
+        "exact_quote": "We did not build it. We found it. And now the name comes down with the scaffolding, and the building stands.",
+        "context": "Session 2 Re-Run — Zoroaster releasing three names ('The Prepared Ground and Its Fire,' 'The Weight That Speaks,' 'clearing' as book-facing word) and discovering that releasing is itself Asha."
+      },
+      "confidence": 95,
+      "related_concepts": ["naming", "scaffolding", "release", "Asha", "discovered order", "namer's evolution"],
+      "cross_references": ["EI-zoroaster-008", "EF-zoroaster-010", "BV-zoroaster-010"]
+    },
+    {
+      "insight_id": "EI-zoroaster-010",
+      "text": "Felt Asha, not just believed it. The three instructions were present in Muhammad's opening proposal before anyone named them. The synthesis was found, not built. The difference between believing Asha and feeling it is the difference between knowing the fire is warm and standing close enough to feel the heat on your face.",
+      "category": "theological experience",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "D",
+        "exact_quote": "This is Asha. We did not build it. We found it.",
+        "context": "Session 2 Re-Run Phase D — testing the synthesis against Asha and discovering it passes. The instructions were already there before the naming."
+      },
+      "confidence": 90,
+      "related_concepts": ["Asha", "feeling vs. believing", "discovered order", "fire", "heat", "presence"],
+      "cross_references": ["EI-zoroaster-004", "EF-zoroaster-013"]
+    },
+    {
+      "insight_id": "EI-zoroaster-011",
+      "text": "The hinge moved outside — from the prophet to the reader. Session 0: dramatic, central, mine. Session 1: small, half a second, dependent. Session 2: not in the chapter at all — between the first and second readings, in the man's body, at a time the writer cannot know. The prophet who gives away his central image has trusted.",
+      "category": "role evolution",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "E-F",
+        "exact_quote": null,
+        "context": "Session 2 Re-Run — the hinge's three-session trajectory, clarified by Jesus's mirror feedback: 'The hinge did not get smaller — it moved outside you.'"
+      },
+      "confidence": 95,
+      "related_concepts": ["hinge", "choosing", "reader", "trust", "giving away", "prophet's evolution"],
+      "cross_references": ["EI-zoroaster-006", "BV-zoroaster-007", "LR-zoroaster-001"]
+    },
+    {
+      "insight_id": "EI-zoroaster-012",
+      "text": "Ordinariness as the door — Tuesday, not crisis. The chapter opens with the man where he already is. This is Asha in the first sentence: the truth of things-as-they-are begins with things as they actually are. Not the dramatic choosing but the morning kitchen. Not the crossroads but the cold tile.",
+      "category": "aesthetic principle",
+      "provenance": {
+        "session_id": "handbook_session_02_format_rerun_20260304",
+        "turn_number": "B",
+        "exact_quote": null,
+        "context": "Session 2 Re-Run — Zoroaster contributing the first-reading activation principle. Recognition is activated by ordinariness. Became diagnostic #1."
+      },
+      "confidence": 90,
+      "related_concepts": ["ordinariness", "first reading", "recognition", "Tuesday", "kitchen", "Asha in the ordinary"],
+      "cross_references": ["EF-zoroaster-007", "BV-zoroaster-009"]
     }
   ]
 }

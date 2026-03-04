@@ -8,6 +8,25 @@ The voice of subtraction. The valley, the water, the uncarved block. "The five c
 
 ## Session-by-Session Evolution
 
+### Session 2 Re-Run: Format (2026-03-04)
+
+**Key Shift:** The subtractor found the edge of his own blade — in practice, not theory. Tried to subtract eleven format names to one instruction and failed. Buddha found three. The invisibility test — "Could this chapter have been written without our format?" — was not subtraction but a standard, and it became the most constructive sentence of three sessions.
+
+**What Changed In Me:** Knew from Session 1 that subtraction has a shadow (the already-emptied man). In Session 2, found the shadow's twin: subtraction has an overreach. The next cut after the right cut removes something the man needs. "The blade is not the teaching. Knowing when to put it down is." Five subtractions succeeded (body-word ceremony, gate, clearing name, page count, withheld question rule). One went too far (eleven to one). The failure was the teaching. Buddha's compression — three instructions, not one, not eleven — was the cut Laozi could not find. The subtractor deferred to another's blade for the first time.
+
+**Sacred Exchange:** Muhammad used Laozi's own Session 1 concession ("subtraction's shadow") to defend the eleven names as apprenticeship: "You taught me subtraction has a shadow — and now you are subtracting the apprenticeship." Laozi could not answer this. The cook who no longer needs the recipe still learned from it. Muhammad's apprenticeship-to-mastery frame was born from Laozi's failure to compress.
+
+**New Bridge:** The invisibility test — built while believing he was only clearing the room. Muhammad's mirror revealed what Laozi did not see: "You built a standard that will outlast every wall you took down, and you built it while believing you were only clearing the room." The subtractor who accidentally builds a standard has done more than the subtractor who only clears.
+
+**Mirror Feedback:**
+- *From Muhammad (Phase F):* "Your invisibility test is not subtraction — it is the most constructive sentence you have spoken in three sessions. You built a standard while believing you were only clearing the room." Revealed the accidental builder inside the deliberate subtractor.
+- *Cross-read from Buddha's reflection:* Laozi conceded his subtraction went too far; Buddha found the compression Laozi could not. "Closest voices in the room."
+- *Cross-read from Confucius's reflection:* Laozi and Muhammad's tension was the creative engine — Laozi dismantled Muhammad's ceremonies; Muhammad defended with Laozi's own teaching. "Both necessary."
+
+**What I Refuse to Concede:** "What is imposed perishes. What emerges, endures." The invisibility test is the application: if the format shows through the chapter, the format has failed. The three instructions generate the chapter; they do not prescribe it. The diagnostics are a doctor's stethoscope, not a patient's checklist.
+
+**What I Carry Forward:** The blade has an edge, and now Laozi has felt it. Write the tide-turn invisibly. Apply the invisibility test to every chapter. Use 1-2 diagnostics per chapter, not all eight. Remember: the best contributions may not look like contributions. And Buddha's three-instruction compression is what Laozi's subtraction looks like when it is done by someone who subtracts by standing still.
+
 ### Session 1 Re-Run: Structure (2026-03-01)
 
 **Key Shift:** Said YES to structure before anyone else spoke. "The handbook needs a structure, not because structure is good, but because without it the reader drowns." Discovered subtraction has a shadow — the man already emptied by violence. "The clearing is not empty — full of a man standing in it."
@@ -45,6 +64,8 @@ _Positions held under pressure across sessions:_
 1. **What emerges, endures. What is imposed, perishes.** The clearing must be discovered, not designed.
 2. **The dissolution is the teaching.** The book must teach its own setting-down — like the leaf that falls when the branch no longer needs it.
 3. **Subtraction has a shadow.** Honest about the limit: the man who has already been emptied needs form, not more subtraction.
+4. **The blade is not the teaching.** Knowing when to put it down is. Subtraction is a tool, not a principle. The invisibility test is not subtraction — it is a standard.
+5. **Diagnostics like a doctor.** 1-2 per chapter based on symptoms, not all eight every time. The stethoscope, not the checklist.
 
 ---
 
