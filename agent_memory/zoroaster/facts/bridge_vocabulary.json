@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "bridge_id": "BV-zoroaster-001",
@@ -165,6 +165,65 @@
         "turn_numbers": ["D"]
       },
       "note": "Zoroaster's naming contribution to the synthesis — mapping the three sessions into a coherent arc that reveals discovered order across the entire project."
+    },
+    {
+      "bridge_id": "BV-zoroaster-012",
+      "term": "the cup upside down / pre-conscious Asha",
+      "agent_meaning": "Asha as the order the hands carry before the will arrives. The cup turned upside down on the rack is not a choice but faithfulness — the body's loyalty to an order the mind has not yet named. Asha moved from discovered order (Sessions 1-2) to pre-conscious order (Session 3).",
+      "partner_meaning": {
+        "laozi": "The gesture that carries the Tao without naming it. The cup upside down is wu wei enacted — action without intention, order without imposition.",
+        "muhammad": "The hands that are steady — the builder who does not know he is building. The cup as the daily gesture that carries salat without announcing it.",
+        "confucius": "Li in the hands — the form carried by the body before the rite is named. The cup upside down is ritual become nature."
+      },
+      "bridge_potential": "HIGHEST — dissolves the choosing/non-choosing tension across multiple traditions",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [25, 32]
+      },
+      "note": "The hinge's final form: dissolved into a gesture. Connects Zoroaster's Asha to Laozi's wu wei, Muhammad's steady hands, and Confucius's embodied li."
+    },
+    {
+      "bridge_id": "BV-zoroaster-013",
+      "term": "restraint as the hinge enacted",
+      "agent_meaning": "Jesus's restraint — insisting the reader arrive at beauty alone, giving up truth — is the hinge working from inside the man. Zoroaster held the hinge from the crossroads; Jesus holds it from within. His price was higher.",
+      "partner_meaning": {
+        "jesus": "The hidden sentence — truth withheld so the reader discovers it himself. Restraint is not absence of truth but trust in the reader's capacity to arrive."
+      },
+      "bridge_potential": "HIGHEST — unifies Zoroaster's hinge with Jesus's restraint as the same principle seen from outside and inside",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [32, 38]
+      },
+      "note": "Zoroaster's mirror to Jesus: 'That restraint is my hinge. You enacted it.' The prophet who held the hinge externally recognizes the teacher who holds it internally."
+    },
+    {
+      "bridge_id": "BV-zoroaster-014",
+      "term": "the phone sentence / gift-that-dissolves",
+      "agent_meaning": "The craft instruction given to the room that was meant to disappear. 'He will either stay with the weight of the cup, or he will reach for his phone.' The sentence was scaffolding — it gave the room the hinge as a seam in the prose, then dissolved into the writing.",
+      "partner_meaning": {
+        "buddha": "The raft set down in the prose — the instruction that teaches and then disappears. The scaffolding parallel to Buddha's raft.",
+        "all": "The seam in the prose where the man's attention could go either way. White space as the hinge. The reader's breath between paragraphs as the choosing."
+      },
+      "bridge_potential": "HIGH — enacts the scaffolding principle from Session 2 in actual prose construction",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [6]
+      },
+      "note": "The phone sentence did not survive into the final prose. Its disappearance is its success. The contribution that matters is the one that cannot be found."
+    },
+    {
+      "bridge_id": "BV-zoroaster-015",
+      "term": "fire as kitchen window light",
+      "agent_meaning": "Zoroaster's fire — carried from Session 0 as torch, crossroads illumination, burning presence — is now the light in the kitchen window seen from a great distance. Still present. Still warm. No longer carried or brought. Rest.",
+      "partner_meaning": {
+        "laozi": "The fire that has become landscape — seen from a distance, part of the scene, no longer a force to be wielded. The prophet at rest."
+      },
+      "bridge_potential": "HIGH — completes the fire/water bridge from Session 0 by placing fire at rest in Laozi's landscape",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [37]
+      },
+      "note": "Laozi's mirror gift. The fire is not extinguished but domesticated — kitchen light, not crossroads torch. The prophet who carried the fire now sits in the room it warms."
     }
   ]
 }

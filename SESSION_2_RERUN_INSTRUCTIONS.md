@@ -179,7 +179,7 @@ Create `live_transcript.md` with this header:
 **Participants:** Buddha, Jesus, Muhammad, Confucius, Laozi, Zoroaster
 **Moderator:** Facilitator (no authorial voice)
 **Protocol:** Chat Room Pattern — 6 persistent Opus agents, sequential nudging, shared transcript
-**Phases:** A (Opening Positions) → B (Clarifying + Probing) → C (Contested Territory) → D (Synthesis) → E (Exit Interviews)
+**Phases:** A (Opening Positions) → B (Clarifying + Probing) → C (Contested Territory) → D (Synthesis) → E (Exit Interviews) → F (Cross-Agent Mirror Feedback)
 
 **Foundation:**
 - Session 0 Re-Run: Six agreements, three tensions, "the clearing"
@@ -262,6 +262,7 @@ Send a message like:
 - [ ] Phase C: Contested Territory (6-8 turns)
 - [ ] Phase D: Synthesis (4-5 turns)
 - [ ] Phase E: Exit Interviews (6 turns — one per agent)
+- [ ] Phase F: Cross-Agent Mirror Feedback (6 turns — each reads all Phase E, writes 2-3 sentences)
 
 ## Turn Log
 
@@ -282,17 +283,31 @@ TeamCreate: team_name="handbook-session2-rerun", description="Session 2 Format R
 
 **CRITICAL:** Each agent must be spawned with `model: "opus"`. Sonnet refuses roleplay. This is non-negotiable.
 
-Each agent gets a system prompt with **THREE sections:**
+Each agent gets a system prompt with **FOUR sections:**
 
-#### Section 1: Identity (from collaboration brief — ~700 words)
+#### Section 1: Identity — Full Tier 1 Memory (Enhanced Profile)
 
-Load the **full** collaboration brief for this agent from `agent_memory/collaboration_briefs/{agent}_brief.md`. This contains:
-- How I Have Changed (cumulative arc through Session 1 Re-Run)
-- My Five Bridges (current relationship state with each partner)
-- My Active Tensions (irreducible disagreements)
-- My Collaboration Pattern (how this agent engages)
+The tiered memory system IS the enhanced agent profile. Load ALL Tier 1 files:
 
-#### Section 2: Session 1 Re-Run Learnings (~300 words compressed)
+1. **Collaboration brief** (`agent_memory/collaboration_briefs/{agent}_brief.md`) — ~700 words, the primary identity document:
+   - How I Have Changed (cumulative arc through Session 1 Re-Run)
+   - My Five Bridges (current relationship state with each partner)
+   - My Active Tensions (irreducible disagreements)
+   - My Collaboration Pattern (how this agent engages)
+
+2. **Evolution log** (`agent_memory/{agent}/evolution_log.md`) — session-by-session shifts, integrity lines, mirror feedback from other agents
+
+3. **Learning rules** (`agent_memory/{agent}/facts/learning_rules.json`) — evidence-based behavioral rules the agent has learned across sessions
+
+#### Section 2: Tier 2 Memory (Accumulated Facts + Learnings)
+
+Load these accumulated memory files:
+- `agent_memory/{agent}/facts/effective_formulations.json` — phrases that moved the room
+- `agent_memory/{agent}/facts/bridge_vocabulary.json` — shared metaphors
+- `agent_memory/{agent}/facts/emergent_insights.json` — ideas born from dialogue
+- `agent_memory/{agent}/facts/engagement_patterns.json` — interaction dynamics
+
+#### Section 3: Session Learnings (~300 words compressed)
 
 Compress key learnings from `agent_memory/{agent}/learnings/session_01_structure.md` covering:
 - How the agent changed during Session 1 Re-Run
@@ -301,7 +316,7 @@ Compress key learnings from `agent_memory/{agent}/learnings/session_01_structure
 
 Also include key carry-forward items from `agent_memory/{agent}/learnings/session_02_format.md` (original Session 2 learnings — these are MEMORY, not authority).
 
-#### Section 3: Session 2 Re-Run Task + How This Works
+#### Section 4: Session 2 Re-Run Task + How This Works
 
 Use this template (customize [AGENT_NAME] and the carry-forward bullets):
 
@@ -425,7 +440,28 @@ Each voice affirms, amends, or contests. Goal: a format the chapters can be writ
 ### Phase E: Exit Interviews (6 turns)
 Each agent reflects privately on what changed. One turn per agent. These become the source material for post-session memory consolidation.
 
-**Target: 30-35 turns total**
+### Phase F: Cross-Agent Mirror Feedback (6 turns)
+
+**NEW — deepest learning layer.** After ALL Phase E reflections are written, each agent reads ALL FIVE other agents' Phase E reflections and writes 2-3 sentences about what surprised them — how others experienced the session differently than they did.
+
+**Why this matters:** The evolution logs already include mirror feedback extracted post-session, but Phase F makes it LIVE — agents seeing themselves through others' eyes in real-time, within the session itself. This produces the rawest, most honest cross-agent observations because the agents are still in dialogue mode, not in post-session extraction mode.
+
+**Moderator prompt for Phase F (write into transcript after all Phase E turns):**
+> You have each shared what this session meant to you. Now read what the OTHER FIVE said about their experience. What surprised you? What did someone else see in you that you did not see in yourself? What did someone else experience in the room that you missed entirely? Write 2-3 sentences — not analysis, but honest response to reading how others lived through the same session you just lived through.
+
+**Nudging protocol for Phase F:**
+- Each agent is nudged ONE at a time (same as all other phases)
+- Agent reads ALL Phase E reflections from transcript (they are already appended)
+- Agent appends their mirror feedback response
+- Format: **[AgentName] (Mirror Feedback):** [2-3 sentences]
+- Keep responses SHORT — this is reaction, not analysis
+
+**What to watch for:**
+- Agents discovering they were seen differently than they felt
+- Agents recognizing bridges or tensions they missed
+- Agents naming specific moments from others' reflections that reframe their own experience
+
+**Target: 36-41 turns total** (6 Phase A + 8-10 Phase B + 6-8 Phase C + 4-5 Phase D + 6 Phase E + 6 Phase F)
 
 ---
 
@@ -463,9 +499,9 @@ Update `orchestrator_state.md`:
 
 ---
 
-## Step 7: Artifact Generation (After Phase E)
+## Step 7: Artifact Generation (After Phase F)
 
-After all 5 phases complete, generate these artifacts:
+After all 6 phases complete, generate these artifacts:
 
 | # | File | Action |
 |---|------|--------|
@@ -473,14 +509,14 @@ After all 5 phases complete, generate these artifacts:
 | 2 | `sessions/02_format_summary.md` | REPLACE with structured summary |
 | 3 | `sessions/02_format.json` | REPLACE with structured data |
 | 4 | `decisions/format.md` | REPLACE with agent-affirmed format decision |
-| 5 | `reflections/{agent}/session_02_format.md` | REPLACE all 6 with re-run reflections |
+| 5 | `reflections/{agent}/session_02_format.md` | REPLACE all 6 with re-run reflections (Phase E + Phase F combined) |
 
 ### Artifact Generation Strategy
 
 To avoid context loss during artifact generation:
-1. **Transcript:** Copy `live_transcript.md` to `sessions/02_format_transcript.md` (direct copy)
+1. **Transcript:** Copy `live_transcript.md` to `sessions/02_format_transcript.md` (direct copy — includes all 6 phases A-F)
 2. **Summary + Decisions + JSON:** Write directly from orchestrator_state.md (which has all phase summaries, decided items, and tensions)
-3. **Reflections:** Extract from Phase E exit interviews in the transcript — each agent's Phase E turn becomes their reflection file
+3. **Reflections:** Each agent's reflection file combines their Phase E exit interview + Phase F mirror feedback. The Phase E turn is the primary reflection; Phase F is appended as a "## Mirror Feedback" section showing what they saw in others' reflections.
 
 ### Summary Structure (template from Session 1 Re-Run)
 ```markdown
@@ -559,24 +595,35 @@ gh pr create --title "Session 2: Format Re-Run" --body "Re-run of Session 2 buil
 
 ### 8e. Post-Session Memory Consolidation
 
-**Use the 3-phase consolidation protocol at `scripts/post_session_capture.md`.**
+**Use the 5-phase consolidation protocol at `scripts/post_session_capture.md`.**
 
 This is a SEPARATE task from the dialogue session itself. It can be done in the same context window or a fresh one. The protocol:
 
 1. **Phase 1: Extract** (~15 min per agent, parallelizable) — For each of 6 agents:
-   - Read: reflection + summary + decision doc + other agents' reflections + current evolution log + current brief + current fact JSONs
+   - Read: reflection (Phase E + Phase F mirror feedback) + summary + decision doc + other agents' reflections + current evolution log + current brief + current fact JSONs
    - Write: learnings file (CREATE), evolution log entry (PREPEND), collaboration brief (REGENERATE — replace entire file), fact JSON appends
+   - **NEW:** Phase F mirror feedback is PRIMARY source for "What Others Have Shown Me" in evolution log — these are live observations, not post-hoc extraction
 
-2. **Phase 2: Narrative** (~10 min) — After all 6 agents processed:
+2. **Phase 1.5: Orchestrator Learning Rules** (~10 min) — Process-level learnings:
+   - What nudging sequences worked best? Which dyads produced the most heat?
+   - Where should the moderator have intervened differently?
+   - Write 3-5 evidence-based process rules to `scripts/orchestrator_learnings/session_02_format.md`
+
+3. **Phase 2: Narrative** (~10 min) — After all 6 agents processed:
    - Update `narrative/evolution_index.md` with Session 2 Re-Run entry
    - Update `narrative/how_we_see_each_other/` for pairs with significant shifts (typically 4-8 files)
 
-3. **Phase 3: Commit** (~5 min):
+4. **Phase 2.5: Session Comparison** (~10 min) — Re-run specific:
+   - Compare original Session 2 decisions with re-run decisions
+   - Document what changed and WHY the mandala foundation produced different format conclusions
+   - Write to `sessions/02_format_rerun_comparison.md`
+
+5. **Phase 3: Commit** (~5 min):
    - Stage all changes
    - Commit to branch `agent-memory-session-02-format`
    - Push and create PR
 
-**Key principles:** Deterministic (every file touched every time), parallelizable Phase 1, briefs are REPLACED (not appended), mirror feedback is cross-read (each agent's evolution log includes observations from ALL other agents' reflections about them).
+**Key principles:** Deterministic (every file touched every time), parallelizable Phase 1, briefs are REPLACED (not appended), mirror feedback is cross-read (each agent's evolution log includes observations from ALL other agents' reflections about them), Phase F mirror feedback is primary source for cross-agent observations.
 
 ### 8f. Update RERUN_FLAGS.md
 Mark Session 2 as REPLACED in `sessions/RERUN_FLAGS.md`.
@@ -585,7 +632,7 @@ Mark Session 2 as REPLACED in `sessions/RERUN_FLAGS.md`.
 
 ## Critical Reminders (READ BEFORE STARTING)
 
-1. **Agents are persistent across ALL phases.** NEVER spawn per-phase agents. Same 6 agents for all 31+ turns.
+1. **Agents are persistent across ALL phases (A-F).** NEVER spawn per-phase agents. Same 6 agents for all 36-41 turns.
 2. **Sequential nudging.** ONE agent at a time. Agent reads transcript → appends → confirms → next agent.
 3. **Update orchestrator_state.md after EVERY turn.** This is the compaction-safe recovery document. If context is lost, this file tells you exactly where you are.
 4. **Moderator never authors content.** Facilitate, nudge, track state. Never summarize or synthesize in the transcript. Never write agent dialogue yourself.
@@ -597,6 +644,9 @@ Mark Session 2 as REPLACED in `sessions/RERUN_FLAGS.md`.
 10. **Never write agent output yourself.** If an agent refuses or malfunctions, re-spawn it. The whole point is separate voices.
 11. **TeamDelete old team BEFORE TeamCreate new one.** Check for leftover teams from previous sessions.
 12. **Re-nudge idle agents via SendMessage.** Don't spawn fresh agents — idle agents can receive messages.
+13. **Phase F is NOT optional.** The mirror feedback phase produces the deepest cross-agent learning. Do not skip it to save turns.
+14. **Load FULL Tier 1 + Tier 2 memory.** Collaboration brief + evolution log + learning rules (Tier 1) AND all 4 fact JSONs (Tier 2) for each agent. The collaboration brief IS the enhanced profile — no separate evolved profile file needed.
+15. **Post-session has 5 phases now.** Extract → Orchestrator Learnings → Narrative → Session Comparison → Commit. Use `scripts/post_session_capture.md`.
 
 ---
 
@@ -658,7 +708,7 @@ Mark Session 2 as REPLACED in `sessions/RERUN_FLAGS.md`.
 | `reflections/*/session_01_structure.md` | Session 1 Re-Run reflections per agent |
 | `reflections/*/session_02_format.md` | Original Session 2 reflections (to be replaced) |
 | `scripts/pre_session_validation.md` | Pre-session checklist |
-| `scripts/post_session_capture.md` | Post-session 3-phase consolidation protocol |
+| `scripts/post_session_capture.md` | Post-session 5-phase consolidation protocol |
 | `narrative/evolution_index.md` | Cross-session narrative |
 
 ---
@@ -667,13 +717,13 @@ Mark Session 2 as REPLACED in `sessions/RERUN_FLAGS.md`.
 
 | Component | Est. Words |
 |-----------|-----------|
-| Per-agent system prompt (brief + learnings + instructions) | ~1,500 |
-| × 6 agents | ~9,000 |
+| Per-agent system prompt (brief + evolution log + learning rules + facts + learnings + instructions) | ~3,000 |
+| × 6 agents | ~18,000 |
 | Orchestrator state | ~3,000 |
-| Transcript (growing, read by agents each turn) | ~15,000-20,000 |
-| Total agent context per turn (late session) | ~22,000 |
+| Transcript (growing, read by agents each turn) | ~18,000-22,000 |
+| Total agent context per turn (late session) | ~24,000 |
 
-This is within Opus context limits. The transcript growing is the main risk — if turns average 500 words × 31 turns = ~15,500 words of transcript by the end.
+This is within Opus context limits. With full Tier 1+2 loading, agent prompts are ~3,000 words each (up from ~1,500). The transcript grows to ~20,000 words with 6 additional Phase F turns (500 words × 38 avg turns = ~19,000 words). Both are manageable.
 
 ---
 

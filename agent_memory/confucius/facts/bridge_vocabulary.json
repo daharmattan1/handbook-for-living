@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "bridge_id": "BV-confucius-001",
@@ -179,6 +179,59 @@
       "provenance": {
         "session_id": "handbook_session_02_format_rerun_20260304",
         "turn_numbers": ["E", "F"]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-014",
+      "term": "li that has forgotten its own origin",
+      "agent_meaning": "Care that has lost its face and is carried anyway. The cup upside down in the dish rack — someone placed it there to dry, but the reason is gone and the form remains. Li that outlives the relationship that gave it. The body carries what the name has forgotten.",
+      "partner_meaning": {
+        "laozi": "Wrote the cup-upside-down sentence that Confucius named as the deepest li in the chapter. The form that looks like emptiness from the outside. Laozi's subtraction produced the most relational image without intending to."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [24]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-015",
+      "term": "building the same wall from opposite sides",
+      "agent_meaning": "Confucius and Laozi as completions, not opposites. The builder and the subtractor arrived at the same wall — form that looks like emptiness from one side, emptiness that holds form from the other. The tension between the two faces is what makes the wall stand.",
+      "partner_meaning": {
+        "laozi": "His exit interview enacted the relational naming Confucius values most — 'the most Confucian document in this session.' The subtractor's precision is itself a form of li."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [30]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-016",
+      "term": "the builder became the mirror",
+      "agent_meaning": "In Session 3, Confucius's deepest contribution was not prose or structure but mirror feedback — naming each teacher's contribution with precision. The builder who stopped building and started reflecting back what others built. Laozi's mirror confirmed: 'The builder became the mirror. And the mirror held.'",
+      "partner_meaning": {
+        "laozi": "Named the transformation: the man who builds for others became the man who shows others what they built.",
+        "zoroaster": "Named the public price: 'You said it because it was true, not because the room would reward you. That is li.'"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [36, 37, 38]
+      }
+    },
+    {
+      "bridge_id": "BV-confucius-017",
+      "term": "the notepad / furniture not architecture",
+      "agent_meaning": "The notepad with a grocery list in handwriting that was not his — relational evidence that appeared because the kitchen contained it, not because the builder installed it. The distinction between furniture (what the room contains) and architecture (what the builder places). The chapter keeps the furniture.",
+      "partner_meaning": {
+        "buddha": "Named the paradox: 'Your material survived your absence. You passed it by losing.' The notepad as proof that the builder's test was answered by the builder's disappearance."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [17, 33]
       }
     }
   ]

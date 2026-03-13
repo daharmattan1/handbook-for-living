@@ -4,17 +4,19 @@
 
 ---
 
-## 1. Evolved Agent Profiles Loaded (NOT Base Profiles)
+## 1. Enhanced Agent Memory Loaded (Tiered System)
 
-- [ ] Verify loading `{agent}-dialogue-agent-evolved.md` (not `{agent}-dialogue-agent.md`) for all 6 agents
-- [ ] Grep each spawn prompt for the word "evolved" — must be present
-- [ ] Check version number in each evolved file: should match latest (currently v1.2)
-- [ ] Files located at: `victorious/.claude/skills/prophetic-analysis/agents/dialogue/{agent}-dialogue-agent-evolved.md`
+The tiered memory system IS the enhanced agent profile. No standalone `-evolved.md` files exist or are needed. The collaboration brief (~700 words) + evolution log + learning rules JSON together form a richer, continuously-updated enhanced profile.
+
+- [ ] Verify each agent's spawn prompt includes their **collaboration brief** (`agent_memory/collaboration_briefs/{agent}_brief.md`)
+- [ ] Verify each agent's spawn prompt includes their **evolution log** (`agent_memory/{agent}/evolution_log.md`)
+- [ ] Verify each agent's spawn prompt includes their **learning rules** (`agent_memory/{agent}/facts/learning_rules.json`)
+- [ ] Verify briefs reference the most recent completed session (check "Last updated" line)
 
 **Verification command:**
 ```bash
-grep -l "version:" victorious/.claude/skills/prophetic-analysis/agents/dialogue/*-evolved.md
-# Should return 6 files
+grep "Last updated" agent_memory/collaboration_briefs/*_brief.md
+# All 6 should reference the same most recent session
 ```
 
 ## 2. Tier 1 Memory Loaded (ALWAYS — ~1,500 words per agent)

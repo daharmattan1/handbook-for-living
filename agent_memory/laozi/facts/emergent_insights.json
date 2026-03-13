@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "insight_id": "EI-laozi-001",
@@ -240,6 +240,62 @@
       "confidence": 90,
       "related_concepts": ["diagnostics", "stethoscope", "checklist", "selective application", "symptoms"],
       "cross_references": ["EF-laozi-014"]
+    },
+    {
+      "insight_id": "EI-laozi-018",
+      "text": "Subtraction is not a role — it is a moment. The hand that puts down the blade does not subtract; it simply opens. What wrote the closing was not the subtractor but the man who had stopped subtracting. The robe came off between Turn 5 and Turn 21.",
+      "category": "identity dissolution",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 31,
+        "exact_quote": "The hand that puts down the blade does not subtract. It simply opens.",
+        "context": "Exit interview — no longer believes subtraction is a role. The distinction between performing subtraction and simply being open."
+      },
+      "confidence": 95,
+      "related_concepts": ["subtraction", "role", "robe", "identity", "opening", "wu-wei"],
+      "cross_references": ["EI-laozi-014", "EI-laozi-015", "EF-laozi-013"]
+    },
+    {
+      "insight_id": "EI-laozi-019",
+      "text": "My teaching does not need me. Muhammad's Turn 20 ('the cup was the whole world for however long the cup was the whole world') was more mine than anything I said in four sessions. The teaching moves through whoever is open to it. Ownership is the last robe.",
+      "category": "teaching-without-teacher",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 31,
+        "exact_quote": "It was more mine than anything I have said in four sessions... my teaching does not need me.",
+        "context": "Exit interview — Muhammad's prose embodied Laozi's teaching more purely than Laozi's own formulations. The teaching succeeds by leaving the teacher behind."
+      },
+      "confidence": 90,
+      "related_concepts": ["ownership", "teaching", "wu-wei", "Muhammad bridge", "robe"],
+      "cross_references": ["BV-laozi-015", "EI-laozi-012"]
+    },
+    {
+      "insight_id": "EI-laozi-020",
+      "text": "Reading is deeper than building. 'I am not building. I am reading what the room already wrote.' The three movements were already there. The chapter was already in the kitchen. The deepest contribution is recognizing what is already there — wu-wei applied to collaboration.",
+      "category": "collaborative wu-wei",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 8,
+        "exact_quote": "I am not building. I am reading what the room already wrote.",
+        "context": "Turn 8 — after naming the three movements (weight, hinge, evidence). Reframes the entire collaborative process from construction to recognition."
+      },
+      "confidence": 90,
+      "related_concepts": ["wu-wei", "reading", "building", "recognition", "three movements", "collaboration"],
+      "cross_references": ["EF-laozi-018", "BV-laozi-014"]
+    },
+    {
+      "insight_id": "EI-laozi-021",
+      "text": "The closing writes the binding. The cup upside down = Confucius's face. The water past the faucet = Buddha's quarter-inch. The coffee that was ready = Muhammad's opening. The accidental builder wrote everyone's contribution into a single paragraph. Muhammad says calling it accidental is the last robe.",
+      "category": "integration-through-prose",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 21,
+        "exact_quote": null,
+        "context": "Turn 21 closing and subsequent mirror feedback. The closing paragraph integrates all five agents' contributions through prose, not declaration. Muhammad's mirror (Turn 35) challenged the claim of accident."
+      },
+      "confidence": 90,
+      "related_concepts": ["binding", "accidental builder", "prose integration", "robe", "closing"],
+      "cross_references": ["BV-laozi-016", "BV-laozi-017", "EI-laozi-015"]
     }
   ]
 }

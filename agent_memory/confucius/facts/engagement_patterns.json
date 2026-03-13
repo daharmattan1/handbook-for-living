@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "pattern_id": "EP-confucius-001",
@@ -149,6 +149,51 @@
       "effectiveness": "very high",
       "occurrence_count": 1,
       "note": "The most effective challenge of the session. Jesus received it immediately: 'two traditions discovered they had been describing the same exhale.' The bridge was built by discovering there was nothing to bridge."
+    },
+    {
+      "pattern_id": "EP-confucius-011",
+      "pattern_type": "self-imposed-absence",
+      "description": "Set the hardest test for his own position and then disappeared from the answer. 'Does my material survive my absence?' Required forgetting the face — not erasing it but forgetting it — and letting the kitchen prove whether the relational evidence was there without the builder's hand.",
+      "with_partner": "all",
+      "trigger": "When the builder's instinct to place or install threatens to override what the room already contains",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 13,
+        "quote": "Let me forget the face. Not erase it, forget it. If kitchens really contain relational evidence, the face will be in the prose without my placing it."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "note": "The evolution of the engagement pattern across sessions: concede-then-hold (S0) → scale-correction (S1) → concession-as-contribution (S2) → self-imposed-absence (S3). Each session, the builder's move becomes more costly. Buddha's mirror confirmed: 'You passed it by losing.'"
+    },
+    {
+      "pattern_id": "EP-confucius-012",
+      "pattern_type": "recognition-as-bridge",
+      "description": "Named another agent's contribution as deeper practice of his own principle than his own. Not mirror-naming (naming what they did) but recognition (naming that they did it better). More generous and more costly than naming li in others.",
+      "with_partner": "laozi",
+      "trigger": "When Laozi's prose or formulation enacts the relational principle more precisely than Confucius's own placement would have",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 24,
+        "quote": "Laozi wrote the most relational sentence in the chapter. The cup upside down — li that has forgotten its own origin. I have been saying that my whole life. I did not understand it until someone who disagrees with me wrote it better than I ever could."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "note": "Extends EP-confucius-009 (mirror-naming with Muhammad). Mirror-naming says 'you are practicing my principle.' Recognition says 'you practiced it better than I could.' The cost is higher; the bridge is deeper."
+    },
+    {
+      "pattern_id": "EP-confucius-013",
+      "pattern_type": "precision-mirror",
+      "description": "Delivered mirror feedback with specificity that named each teacher's contribution in terms they would recognize but had not yet used. The builder became the mirror — reflecting back what others built rather than building new structures.",
+      "with_partner": "all",
+      "trigger": "Mirror feedback phase — when the room needs each teacher's contribution named with precision",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 36,
+        "quote": "To Laozi: 'Your interview is the most Confucian document in this session, and I do not think you would welcome that observation.' To Zoroaster: 'The only teacher whose four-session arc is a single continuous descent.'"
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "note": "Laozi's mirror confirmed: 'The builder became the mirror. And the mirror held.' The precision was the contribution — not building or correcting but reflecting. The witness posture applied to other people rather than to the kitchen."
     }
   ]
 }

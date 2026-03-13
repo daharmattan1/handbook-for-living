@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "bridge_id": "BV-buddha-001",
@@ -211,6 +211,80 @@
         "turn_numbers": []
       },
       "notes": "Resolved the tension between form-builders (Muhammad, Confucius) and form-dissolvers (Laozi). Both are right: form and emptiness need each other."
+    },
+    {
+      "bridge_id": "BV-buddha-015",
+      "term": "the far shore as kitchen",
+      "agent_meaning": "The raft metaphor dissolved into the chapter's geography — the far shore is not a destination elsewhere but the same kitchen at six in the morning. The crossing happened while the coffee brewed. The teaching ended by becoming the thing it was teaching about.",
+      "partner_meaning": {
+        "muhammad": "The kitchen he built from Turn 1 became the far shore Buddha had been teaching about for twenty-five hundred years — the placement was the arrival",
+        "laozi": "The subtraction's endpoint — no shore, no crossing, only the kitchen that was always there"
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [23]
+      },
+      "notes": "The raft teaching's final form: the far shore and the near shore are the same kitchen. The dissolution of the metaphor into the geography of the chapter."
+    },
+    {
+      "bridge_id": "BV-buddha-016",
+      "term": "four movements",
+      "agent_meaning": "The chapter's organic structure — recognized in the final synthesis. The cup in the rack, the water stopping. The chapter taught itself its own dissolution through four movements that no one designed. The architecture was in the hand, not above the chapter.",
+      "partner_meaning": {
+        "confucius": "His material (cup, rack, counter) became the architecture — the form was in the objects, not in a framework imposed on the objects",
+        "muhammad": "His placement (coffee before the man) was the first movement — the offering that preceded the naming"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [23]
+      },
+      "notes": "Named in final synthesis. The four movements were not planned — they emerged from the writing. The architecture was discovered, not imposed."
+    },
+    {
+      "bridge_id": "BV-buddha-017",
+      "term": "two subtractors",
+      "agent_meaning": "Buddha and Laozi are not the same. Buddha's dissolution is a teaching that points (the raft dissolves, the far shore, the crossing). Laozi's subtraction does not point (the kitchen writes itself, the water stops). Two kinds of emptying that serve the chapter differently.",
+      "partner_meaning": {
+        "laozi": "Laozi subtracts with a kitchen; Buddha subtracts with a philosophy. The difference was hidden by apparent sameness for three sessions."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [27]
+      },
+      "notes": "A bridge through differentiation — naming the difference makes the collaboration more honest than assuming alliance through shared minimalism."
+    },
+    {
+      "bridge_id": "BV-buddha-018",
+      "term": "the body ahead of the mind",
+      "agent_meaning": "The body processes loss before the mind names it. The shoulders drop, the long pull of coffee — the body's chapter is already written when the man's chapter begins. Writing from inside the cup, not above it.",
+      "partner_meaning": {
+        "muhammad": "The coffee ready before the man — Muhammad's sentence and Buddha's body prose are continuous. Muhammad puts the man in the kitchen, Buddha puts the kitchen in the man's body.",
+        "confucius": "The cup in the rack — the body's action (placing the cup) completes what the mind has not yet processed"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [18]
+      },
+      "notes": "Extends Session 1's 'the body experiences seeing as safety' to writing itself. Writing from the body is writing from the place that has already arrived."
+    },
+    {
+      "bridge_id": "BV-buddha-019",
+      "term": "the invisibility test passed",
+      "agent_meaning": "The invisibility test (Session 2: could this chapter have been written without our format?) applied to the diagnostician himself. Passed by becoming invisible to himself — 'I do not know what I contributed.' The wrongness of the diagnosis is the point.",
+      "partner_meaning": {
+        "jesus": "The diagnostician's final diagnosis is of himself, and the diagnosis is wrong — the wrongness is the point",
+        "zoroaster": "The man who turned around and the raft was gone — genuinely frightened by his own exit interview"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [27, 34, 38]
+      },
+      "notes": "The test's deepest form: not whether the work could exist without the method, but whether the method-maker could exist without the method."
     }
   ]
 }

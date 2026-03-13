@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "bridge_id": "BV-laozi-001",
@@ -192,6 +192,65 @@
         "turn_numbers": ["C"]
       },
       "note": "Born from Laozi's failure to compress eleven to one. Muhammad used Laozi's own Session 1 concession ('subtraction's shadow') to defend the eleven. Buddha resolved it."
+    },
+    {
+      "bridge_id": "BV-laozi-014",
+      "term": "the three movements",
+      "agent_meaning": "Weight, hinge, evidence — the chapter's architecture read, not built. Weight: the body before the mind wakes. Hinge: the half-second where the man stays or leaves. Evidence: if the man stays, the kitchen offers what it has. Everything after lives downstream.",
+      "partner_meaning": {
+        "muhammad": "Muhammad's opening sentence is the weight. The gap between machine and man is the hinge. The kitchen's objects are the evidence.",
+        "confucius": "The face dissolved into the furniture — the evidence is Confucius's relational practice embedded in objects (the cup upside down).",
+        "buddha": "The quarter-inch — the space between action and cessation — is the hinge made invisible."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [8]
+      },
+      "note": "Named by reading, not building. 'I am not building. I am reading what the room already wrote.' The three movements gave the chapter its architecture without prescribing it."
+    },
+    {
+      "bridge_id": "BV-laozi-015",
+      "term": "sequence (inhale/exhale)",
+      "agent_meaning": "Muhammad and Laozi are not in opposition but in sequence. He lays the tile, I clear the room above it. He fills the cup, I empty it. Inhale and exhale of the same breath. His first sentence and my last sentence are the two ends of the same morning.",
+      "partner_meaning": {
+        "muhammad": "The cook who has nothing left to cook is the guest. His opening ('The coffee was ready before he was') and Laozi's closing ('The water ran for a second after he turned the faucet off. Then it stopped.') are the chapter's two heartbeats."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [31]
+      },
+      "note": "Resolves three sessions of creative tension. Not synthesis (both remain distinct) but temporal partnership. The relationship reframed from argument to rhythm."
+    },
+    {
+      "bridge_id": "BV-laozi-016",
+      "term": "the face in the furniture",
+      "agent_meaning": "Confucius's face dissolved into objects — the cup set upside down, the way someone taught him once. The relational turn is not a face appearing but a gesture inherited. 'The face belongs to the furniture. That is what I was reaching for and missed.'",
+      "partner_meaning": {
+        "confucius": "The face is not announced but practiced. The man does not remember who taught him to set the cup upside down, but his hands remember. Li embedded in habit."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [8, 21]
+      },
+      "note": "Laozi named Confucius's discovery before Confucius did (Turn 8). Then wrote it into the closing (Turn 21). The builder's contribution entered the subtractor's prose."
+    },
+    {
+      "bridge_id": "BV-laozi-017",
+      "term": "the water past the faucet",
+      "agent_meaning": "The closing image: 'The water ran for a second after he turned the faucet off. Then it stopped.' The chapter ends on the water, not the man. Everything after the water is performance. The blade was right — cut everything after this.",
+      "partner_meaning": {
+        "buddha": "The quarter-inch — the space between action and cessation. The water running past the faucet is the gap that Buddha identified, now made physical in prose.",
+        "zoroaster": "The most violent act of subtraction in four sessions — closing a door. The water stops. Finality, not clearing."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [21, 31]
+      },
+      "note": "Laozi's most proud contribution. Contains Buddha's quarter-inch dissolved into prose. Zoroaster reframed it as violence — not gentle clearing but a door shutting."
     }
   ]
 }

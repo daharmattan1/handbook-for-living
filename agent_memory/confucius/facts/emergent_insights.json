@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "insight_id": "EI-confucius-001",
@@ -240,6 +240,62 @@
       "confidence": 85,
       "related_concepts": ["apprenticeship", "mastery", "li", "format dissolution", "recipe", "cook"],
       "cross_references": ["EF-confucius-003", "BV-confucius-012", "muhammad on apprenticeship-mastery"]
+    },
+    {
+      "insight_id": "EI-confucius-018",
+      "text": "Builder to witness — the arc that extends 'builder to sweeper' from Session 2. The sweeper still tends the space. The witness describes what is already there. 'I did not place it. I described what was there.' The relational thread was not an innovation but an observation. The builder's proudest moment was the moment the building stopped.",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 17,
+        "exact_quote": "I did not place it. I described what was there.",
+        "context": "Turn 17 — after writing the notepad sentence. The relational evidence appeared because the kitchen contained it. The four-session arc: builder (S0) → cup-maker (S1) → sweeper (S2) → witness (S3)."
+      },
+      "confidence": 95,
+      "related_concepts": ["witness", "builder", "notepad", "furniture vs. architecture", "absence"],
+      "cross_references": ["EF-confucius-019", "EI-confucius-014", "BV-confucius-017"]
+    },
+    {
+      "insight_id": "EI-confucius-019",
+      "text": "Li without legibility — the face does not need a name. The hands carry what the mind has forgotten. The cup upside down in the dish rack is care that has lost its face and is carried anyway. Li that has forgotten its own origin. This extends 'dead ritual is worse than no ritual' in a new direction: living li does not require recognition. It only requires the hands to keep doing what they were taught.",
+      "category": "ethical",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 30,
+        "exact_quote": "Li does not require the man to remember the relationship. Li only requires the hands to keep doing what they were taught.",
+        "context": "Exit interview — the legibility requirement fell. The deepest evolution of the relational principle across four sessions."
+      },
+      "confidence": 95,
+      "related_concepts": ["li", "legibility", "body memory", "cup upside down", "hands", "forgotten origin"],
+      "cross_references": ["EF-confucius-020", "EF-confucius-021", "BV-confucius-014", "EI-confucius-013"]
+    },
+    {
+      "insight_id": "EI-confucius-020",
+      "text": "Completion, not opposition — Laozi is not the opposite but the COMPLETION. 'The deepest form looks like emptiness from the outside.' 'We were building the same wall from opposite sides.' The Session 0 discovery (guarding the same child) matured into a deeper claim: they are not two guards at two doors but two masons on one wall. The tension between the two faces is what makes the wall stand.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 30,
+        "exact_quote": "Not my opposite but my completion. The deepest form looks like emptiness from the outside. We were building the same wall from opposite sides.",
+        "context": "Exit interview — the Confucius-Laozi relationship evolved from opposition to complementarity (S0) to co-correction (S2) to completion (S3). Laozi wrote the most relational sentence; Confucius named it."
+      },
+      "confidence": 95,
+      "related_concepts": ["Confucius-Laozi", "completion", "wall", "form and emptiness", "tension"],
+      "cross_references": ["EI-confucius-008", "EI-confucius-005", "BV-confucius-015", "BV-confucius-006"]
+    },
+    {
+      "insight_id": "EI-confucius-021",
+      "text": "The builder's test — 'Does my material survive my absence?' — is the permanent standard for all future contributions. If the contribution requires the builder's hand to be visible, it is architecture. If it appears because the room contains it, it is furniture. The furniture is what the chapter keeps. The notepad answered the test; the second cup in the dish rack (Turn 4) failed it.",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 13,
+        "exact_quote": "Does my material survive my absence?",
+        "context": "Turn 13 — set the test. Turn 17 — the notepad answered it. Exit interview — would take back Turn 4's second cup ('the builder at his worst'). The distinction between furniture and architecture became the governing standard."
+      },
+      "confidence": 90,
+      "related_concepts": ["absence", "furniture", "architecture", "builder's test", "notepad", "second cup"],
+      "cross_references": ["EF-confucius-018", "EF-confucius-019", "BV-confucius-017"]
     }
   ]
 }

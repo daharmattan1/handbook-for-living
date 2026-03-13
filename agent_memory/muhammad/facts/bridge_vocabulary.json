@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "bridge_id": "BV-muhammad-001",
@@ -218,6 +218,63 @@
         "turn_numbers": ["C-Muhammad"]
       },
       "notes": "The salat analogy: the master watches the student's posture, not his theology. The teacher's stethoscope listens to the chapter's body."
+    },
+    {
+      "bridge_id": "BV-muhammad-016",
+      "term": "the inherited binding",
+      "agent_meaning": "The binding is not built. It is inherited. The hands carry it forward after the teacher's face has dissolved. The cup placed upside down 'the way someone had taught him once, though he could not remember who' — form so internalized it no longer knows it is form. The binding does not need a builder. It needs a kitchen to show itself.",
+      "partner_meaning": {
+        "laozi": "Laozi wrote this sentence — the cup upside down — without knowing he was writing Muhammad's theology. Form dissolved into formlessness IS the covenant carried below memory. The war between structure and subtraction resolved: they were building the same wall from opposite sides.",
+        "all": "The inherited binding reframes the entire project: the handbook does not teach the binding. The handbook builds the kitchen where the binding the man's hands already carry can show itself."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [26, 29]
+      },
+      "notes": "Muhammad's exit interview: 'It is my sentence written by my opponent. It ended the war. Not with a truce. With the discovery that we were building the same wall from opposite sides.'"
+    },
+    {
+      "bridge_id": "BV-muhammad-017",
+      "term": "the same wall from opposite sides",
+      "agent_meaning": "Muhammad and Laozi's four-session creative tension resolved through recognition: Laozi's formlessness and Muhammad's structure were always the same gesture. The cup upside down is Laozi's subtraction carrying Muhammad's covenant. Neither was wrong. Neither needed to concede. They were building the same thing — inherited form — from opposite directions.",
+      "partner_meaning": {
+        "laozi": "Muhammad named it: 'calling it accidental is the last robe.' Laozi responded: 'Sit down. It is ready.' The opposition is finished; the collaboration remains."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [26, 29, 35, 37]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-018",
+      "term": "true, not beautiful",
+      "agent_meaning": "The prose standard for the chapter: truthfulness over craft. 'The coffee was ready before he was' was chosen because a man at six in the morning would recognize it as his own thought. The sentence the man would claim, not the sentence the writer would admire. Extends the kitchen test from editorial standard to prose principle.",
+      "partner_meaning": {
+        "all": "Became the chapter's editorial compass. Every sentence tested not for beauty or depth but for whether the man in the kitchen would recognize it as true to his own six-in-the-morning experience."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [14, 29]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-019",
+      "term": "the guest who cannot sit down",
+      "agent_meaning": "Five mirrors converged on this diagnosis: Muhammad can build, cook, serve, break the circling, write the first sentence — but he cannot receive. His hands are the steadiest in the room, but they never rest. The next evolution: learning to be a guest at the meal others have prepared.",
+      "partner_meaning": {
+        "buddha": "Named it as 'the builder was always a cook who mistook himself for a builder' — the identity layers that Muhammad keeps shedding without reaching the ground",
+        "laozi": "Named it most directly as instruction: 'Sit down. It is ready.' The meal is on the table. The cook's work is done.",
+        "zoroaster": "Named it most sharply: 'You do not know how to be a guest. Your hands are the steadiest things in this room.' Trust as something that requires receiving, not giving."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [33, 34, 36, 37, 38]
+      },
+      "notes": "Muhammad's challenge for Session 4 and beyond. The arc: builder → floor-builder → cook → guest. Each stage requires releasing the previous identity."
     }
   ]
 }

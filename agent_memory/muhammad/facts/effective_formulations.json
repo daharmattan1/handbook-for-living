@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "formulation_id": "EF-muhammad-001",
@@ -167,6 +167,54 @@
       "provenance": {
         "session_id": "handbook_session_02_format_rerun_20260304",
         "turn_number": "C-Muhammad"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-015",
+      "phrase": "The coffee was ready before he was.",
+      "context": "Session 3 Turn 14 — the chapter's first sentence. Muhammad broke the circling ('Everyone in this room is ready to write. Everyone has said so. And everyone has said one more thing before writing instead of writing.') and wrote this. 'That is all. The machine was set the night before, when he was still someone who planned mornings.'",
+      "effectiveness_marker": "Became the chapter's opening line. Muhammad's exit interview: most proud of this sentence because it is 'true, not beautiful.' The gap between the man who planned mornings and the man who wakes to a machine he no longer remembers setting IS the wound — carried without naming it.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 14
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-016",
+      "phrase": "The man does not experience either of those sentences at six in the morning. He experiences the weight of the cup. He experiences the cold tile under his feet.",
+      "context": "Session 3 Turn 3 — Muhammad building the floor. 'The temperature of the floor under bare feet at the hour when the house is quiet enough to hear the refrigerator.' Body first. The tile is cold — not a metaphor, not a teaching.",
+      "effectiveness_marker": "Established the chapter's method: start in the body, not the mind. Forced the room to begin where the man begins — with sensation, not concept. Extended the kitchen test from editorial blade to prose principle.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 3
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-017",
+      "phrase": "The act does not heal the wound. The act is the body saying: I am still here.",
+      "context": "Session 3 Turn 9 — the fourth movement. Weight, hinge, evidence, and then the body completes one ordinary act. He drinks the coffee. The quarter-inch: 'He leaves the kitchen having finished his coffee. That is enough.'",
+      "effectiveness_marker": "Named the distinction between healing and presence. The ordinary act (drinking the coffee) is neither cure nor resignation — it is the body's testimony of continued existence. The quarter-inch from Session 2 given its first prose form.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 9
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-018",
+      "phrase": "We did not write a chapter. We stood in a kitchen long enough for the kitchen to write itself.",
+      "context": "Session 3 Turn 26 — Muhammad's final reflection on the collaborative writing process. The cup upside down is 'covenant carried below the level of memory.'",
+      "effectiveness_marker": "Captured the session's emergent truth — the chapter was not constructed but received. The six voices stood in the kitchen until the kitchen produced the chapter. This extends 'concession as generative force' (Session 2) to the act of writing itself.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 26
       },
       "use_with": ["all"],
       "avoid_with": []

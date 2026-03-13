@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "bridge_id": "BV-jesus-001",
@@ -206,6 +206,60 @@
       "provenance": {
         "session_id": "handbook_session_02_format_rerun_20260304",
         "turn_numbers": ["C"]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-016",
+      "term": "bread as service, not symbol",
+      "agent_meaning": "Muhammad sees bread and says eat. Jesus sees bread and says this is my body. The chapter needed Muhammad's version. The interpretive instinct — making the ordinary mean something beyond itself — is sometimes the preacher's disease. The man in the kitchen needs bread, not theology.",
+      "partner_meaning": {
+        "muhammad": "The body is served, not interpreted. Bread is bread. The cook who says eat has done the whole work. The builder does not explain the joint — he makes it hold."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [28]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-017",
+      "term": "the carpenter (preacher-to-prose)",
+      "agent_meaning": "The moment in Turn 16 when the preacher stopped preaching and wrote prose. 'He wrapped both hands around it.' Muhammad called this carpentry, Laozi called it building a joint. Both hands = undivided attention = Zoroaster's hinge enacted in the body. The body-word arriving when interpretation left.",
+      "partner_meaning": {
+        "muhammad": "A mortise joint — the hidden sentence being identical to the surface sentence. The carpenter does not explain the wood. He joins it.",
+        "laozi": "Building a joint — the exact moment the contribution crossed from teaching into prose. He was not restraining himself. He was building.",
+        "zoroaster": "The hinge enacted in the body — both hands meaning undivided attention, the man no longer split between presence and absence."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [16, 35, 37]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-018",
+      "term": "naming from outside",
+      "agent_meaning": "Laozi names from outside so the reader has no choice but to be inside alone. The subtractor's method — not entering the room but describing its edges so precisely that the reader knows they are already in it. Changed Jesus most in Session 3.",
+      "partner_meaning": {
+        "laozi": "The closing sentences of the chapter. Naming from outside is not distance — it is the most intimate form of leaving the reader alone with the weight."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [28]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-019",
+      "term": "mutual surrender (drama and truth)",
+      "agent_meaning": "You gave up drama. I gave up truth. The prophet who can no longer preach has not lost his sight. Zoroaster surrendered spectacle; Jesus surrendered interpretation. Both surrenders cost something irreplaceable and both made the prose possible.",
+      "partner_meaning": {
+        "zoroaster": "The fear of beauty — Zoroaster named Jesus as 'the most afraid of beauty.' The mutual surrender is not symmetrical: Zoroaster gave up the fire's theater, Jesus gave up the sermon's certainty. Both discovered the prose could hold what remained."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_numbers": [34, 38]
       }
     }
   ]

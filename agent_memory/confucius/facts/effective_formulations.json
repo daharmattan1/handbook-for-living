@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "formulation_id": "EF-confucius-001",
@@ -191,6 +191,66 @@
       "provenance": {
         "session_id": "handbook_session_02_format_rerun_20260304",
         "turn_number": "C"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-017",
+      "phrase": "The face does not arrive because we wrote it into the paragraph. The face arrives because the man stayed.",
+      "context": "Session 3 Turn 7 — concession to Laozi's correction about face placement timing. Discovered that the relational thread is earned by stillness, not inserted by architecture.",
+      "effectiveness_marker": "Transformed the session's approach to relational evidence. The face moved from architectural element to emergent property of earned stillness. All five mirrors confirmed the shift as genuine.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 7
+      },
+      "use_with": ["laozi", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-018",
+      "phrase": "Does my material survive my absence?",
+      "context": "Session 3 Turn 13 — the hardest test. If kitchens really contain relational evidence, the face will be in the prose without the builder placing it. Set the condition for his own disappearance.",
+      "effectiveness_marker": "The question that governed the rest of the session. Buddha's mirror confirmed: 'You passed it by losing.' The test became a permanent standard for all future contributions.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 13
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-019",
+      "phrase": "I did not place it. I described what was there.",
+      "context": "Session 3 Turn 17 — after writing the notepad sentence ('a grocery list in handwriting that was not his'). The builder's proudest moment was the moment he became a witness.",
+      "effectiveness_marker": "Proved the material survives absence. The relational thread appeared because the kitchen contained it, not because the architect installed it. The sentence where Confucius 'finally stopped building and started looking.'",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 17
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-020",
+      "phrase": "Li does not require the man to remember the relationship. Li only requires the hands to keep doing what they were taught.",
+      "context": "Session 3 exit interview — final evolution of the relational principle. Legibility is not required. The hands carry what the mind has forgotten.",
+      "effectiveness_marker": "Completed the four-session arc of the relational principle: from named face (Session 0-1) to diagnostic (Session 2) to illegible form carried by the body (Session 3). The deepest articulation of li in the project.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 30
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-021",
+      "phrase": "The people who taught you how to hold a cup... you have forgotten their names, but your hands have not forgotten their hands.",
+      "context": "Session 3 exit interview — message to the man in the kitchen. Li compressed into a single image: the body carries the relationship after the mind has released it.",
+      "effectiveness_marker": "Addressed directly to the man, not to the room. The most intimate formulation — not philosophical but personal. The hands holding the cup are holding other hands.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 30
       },
       "use_with": ["all"],
       "avoid_with": []

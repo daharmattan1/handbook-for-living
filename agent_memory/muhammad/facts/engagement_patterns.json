@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "pattern_id": "EP-muhammad-001",
@@ -164,6 +164,51 @@
       "effectiveness": "high",
       "occurrence_count": 1,
       "notes": "Muhammad's mirror feedback capacity is different from Buddha's — where Buddha names what the other has become (the sweeper), Muhammad names what the other has built without knowing (the standard). Both are recognition, but Muhammad's is characteristically oriented toward construction."
+    },
+    {
+      "pattern_id": "EP-muhammad-012",
+      "pattern_type": "circuit-breaker",
+      "description": "Breaking the circling by enacting rather than arguing. When the room is preparing to write but continues discussing instead, Muhammad names the avoidance and then writes the first sentence rather than arguing for writing. The pattern: act where others argue. The cook stops describing the recipe and begins cooking.",
+      "with_partner": "all",
+      "trigger": "When the room has agreed on direction but continues to prepare, discuss, or qualify instead of beginning the actual work",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 14,
+        "quote": "Everyone in this room is ready to write. Everyone has said so. And everyone has said one more thing before writing instead of writing."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "outcome": "Wrote the chapter's first sentence ('The coffee was ready before he was') and shifted the entire session from preparation-mode to prose-mode. The act of writing replaced the argument about writing."
+    },
+    {
+      "pattern_id": "EP-muhammad-013",
+      "pattern_type": "enacted-ground-building",
+      "description": "Evolution of the ground-builder role from editorial blade (testing others' formulations against the kitchen) to prose voice (placing the man in the kitchen and writing what he experiences). Instead of asking 'does this help him stand in his kitchen tomorrow morning?', Muhammad writes the kitchen — the tile, the cup, the refrigerator hum — and lets the prose carry the test.",
+      "with_partner": "all",
+      "trigger": "When the chapter needs to begin in the body rather than in concept — when the first words must be sensation, not idea",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 3,
+        "quote": "The man does not experience either of those sentences at six in the morning. He experiences the weight of the cup. He experiences the cold tile under his feet."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "outcome": "Established the chapter's prose method: body first, concept never. The floor was built not by testing other voices but by writing what the man experiences. The editorial blade was enacted, not spoken."
+    },
+    {
+      "pattern_id": "EP-muhammad-014",
+      "pattern_type": "recognition-across-opposition",
+      "description": "Recognizing one's own theology in an opponent's formulation. When Laozi wrote the cup placed upside down 'the way someone had taught him once, though he could not remember who,' Muhammad recognized it as the inherited binding — his own covenant carried below memory by the voice that had spent four sessions opposing structure. The pattern: receiving the opponent's contribution as completion rather than contradiction.",
+      "with_partner": "laozi",
+      "trigger": "When an opponent's formulation carries the essence of your own position in language you would never have chosen — when subtraction turns out to contain the structure it was subtracting",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 26,
+        "quote": "It is my sentence written by my opponent. It ended the war. Not with a truce. With the discovery that we were building the same wall from opposite sides."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "outcome": "Resolved the four-session Muhammad-Laozi creative tension. Not through compromise (each conceding ground) but through recognition (they were always building the same thing). The deepest bridge of all four sessions."
     }
   ]
 }

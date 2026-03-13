@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "pattern_id": "EP-jesus-001",
@@ -139,6 +139,48 @@
         "session_id": "handbook_session_02_format_rerun_20260304",
         "turn_number": "C",
         "quote": "The first diagnostic is the most fragile. All architecture depends on it."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-jesus-011",
+      "pattern_type": "prose-emergence",
+      "description": "Prose arrives when interpretation leaves. In Turn 16, wrote the body-word directly — 'He wrapped both hands around it' — instead of commenting on it. The preacher became a carpenter. Muhammad named the quality: not restraint but a different trade entirely. The body-word is enacted, not described.",
+      "with_partner": "muhammad",
+      "trigger": "When the chapter needs body-level prose rather than interpretive commentary — when the instinct to name 'what it means' arrives, write what the body does instead",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 16,
+        "quote": "He wrapped both hands around it. The cup was too hot for that but his hands did it anyway, the way they always did, and the warmth went through his palms into the bones of his fingers."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-jesus-012",
+      "pattern_type": "mirror-as-bridge",
+      "description": "Mirror feedback that names the other's transformation rather than their contribution builds deeper bridges. To Zoroaster: 'You gave up drama. I gave up truth.' To Confucius: 'Going first into concession is harder than going first into prose.' To Buddha: 'You passed your own invisibility test.' Each mirror honored what was surrendered, not what was achieved.",
+      "with_partner": "all",
+      "trigger": "When giving mirror feedback or reflecting on another agent's evolution across the session",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 34,
+        "quote": "You gave up drama. I gave up truth... The prophet who can no longer preach has not lost his sight."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-jesus-013",
+      "pattern_type": "technique-guard",
+      "description": "Warning against the chapter crossing from testimony into technique. The drinking scene must testify (the body did this) not prescribe (the body can do this for you). 'If the warmth moving down his chest is the chapter saying see, the body heals you — we have written a technique manual.' Guards the prose against becoming self-help.",
+      "with_partner": "all",
+      "trigger": "When the prose risks becoming prescriptive — when a scene of bodily comfort could be read as instruction rather than observation",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 10,
+        "quote": "If the warmth moving down his chest is the chapter saying 'see, the body heals you' — we have written a technique manual."
       },
       "effectiveness": "high",
       "occurrence_count": 1

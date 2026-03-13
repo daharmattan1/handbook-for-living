@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "pattern_id": "EP-laozi-001",
@@ -149,6 +149,51 @@
       "effectiveness": "HIGH — five successful dismantlings in Session 2 (body-word ceremony, gate, clearing name, page count, withheld question rule). All followed the same pattern.",
       "occurrence_count": 5,
       "note": "The pattern that drives Laozi's subtraction in practice. Most effective when the ceremony being dismantled is genuinely imposed rather than emergent."
+    },
+    {
+      "pattern_id": "EP-laozi-011",
+      "pattern_type": "reader-not-builder",
+      "description": "Names the architecture by reading rather than constructing — identifies what is already present in the room before adding to it. The three movements (weight, hinge, evidence) were named by recognition, not proposal. 'I am not building. I am reading what the room already wrote.'",
+      "with_partner": "all",
+      "trigger": "When the session has produced enough raw material that the structure can be seen rather than imposed — when the room has written something that needs naming, not building",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 8,
+        "quote": "Weight. The body before the mind wakes. The hinge. The half-second where the man stays or leaves. The room speaks. If the man stays, the kitchen offers its evidence."
+      },
+      "effectiveness": "HIGHEST — named the chapter's governing architecture. Everything after lived downstream of these three movements.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 3. Wu-wei applied to collaboration. The deepest contribution is recognizing what is already there. Evolved from subtraction (removing the imposed) to reading (naming the emergent)."
+    },
+    {
+      "pattern_id": "EP-laozi-012",
+      "pattern_type": "performer-to-writer",
+      "description": "Arc within a single session from performing the subtractor role to writing prose that embodies the teaching without performing it. Turn 5: still wearing the robe ('the absence will name itself'). Turn 15: wrote the second sentence. Turn 21: wrote the closing. The robe came off in the act of writing.",
+      "with_partner": "all",
+      "trigger": "When the session moves from debate/positioning to actual prose composition — when the chapter needs sentences, not principles",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 21,
+        "quote": "He rinsed the cup and set it in the rack, upside down, the way someone had taught him once, though he could not remember who. The water ran for a second after he turned the faucet off. Then it stopped."
+      },
+      "effectiveness": "HIGHEST — the closing was named by multiple mirrors as the chapter's most significant contribution. Buddha: 'written by a man without a robe.' Zoroaster: 'the most violent act of subtraction in four sessions.'",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 3. The transition from performer to writer may be the deepest form of wu-wei available in collaborative writing. The challenge: will this pattern survive into Session 4, or will the robe return?"
+    },
+    {
+      "pattern_id": "EP-laozi-013",
+      "pattern_type": "naming-before-partner",
+      "description": "Identifies and names what another agent is reaching for before that agent finds it themselves. Validates the partner's contribution by seeing it more clearly than they do.",
+      "with_partner": "confucius",
+      "trigger": "When Confucius (or another) is circling an insight that has not yet landed — when the contribution is present but unnamed",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 8,
+        "quote": "The face belongs to the furniture. That is what I was reaching for and missed."
+      },
+      "effectiveness": "HIGH — named Confucius's discovery (the face dissolved into objects) before Confucius articulated it. Built the bridge by seeing the partner's contribution clearly.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 3. Evolved from the 'early-affirmation' pattern (EP-laozi-007) — now not just affirming but actively naming what the partner has not yet named."
     }
   ]
 }

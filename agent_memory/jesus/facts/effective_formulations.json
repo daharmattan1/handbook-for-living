@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "formulation_id": "EF-jesus-001",
@@ -181,6 +181,66 @@
         "turn_number": "D"
       },
       "use_with": ["confucius", "laozi"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-016",
+      "phrase": "Absence of presence — the moment a man realizes the world has not changed but his capacity to be met by it has gone quiet. The yard is the same yard. He is the one who left.",
+      "context": "Session 3 Turn 2 — clarified the KIND of loss for Chapter 1. Not loss of a person or thing but loss of presence. This distinction shaped the entire chapter's treatment of the man in the kitchen at 6am.",
+      "effectiveness_marker": "Became the governing understanding of loss for the chapter. All subsequent writing built on this distinction — the yard did not change, the man is the one who left. Named what the chapter was about before a word of prose was written.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 2
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-017",
+      "phrase": "He wrapped both hands around it. The cup was too hot for that but his hands did it anyway, the way they always did, and the warmth went through his palms into the bones of his fingers.",
+      "context": "Session 3 Turn 16 — the first prose contribution. The body-word arriving without being named. Both hands = the man stopped dividing his attention = Zoroaster's hinge enacted in the body. Muhammad called it carpentry: 'a mortise joint.'",
+      "effectiveness_marker": "The moment Jesus stopped preaching and started writing. Muhammad's mirror: 'The man who wrote both hands around the cup was not the preacher restraining himself. He was the carpenter.' Laozi confirmed: 'He was building a joint.' The most celebrated prose contribution of the session.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 16
+      },
+      "use_with": ["muhammad", "zoroaster"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-018",
+      "phrase": "The hidden sentence is in every line, and it is not mine anymore. Every sentence is the surface and every sentence is the root. The door is open and no one is in it.",
+      "context": "Session 3 Turn 22 — the revelation. The hidden sentence dissolved from a specific line into the chapter itself. No longer distinguishing surface from root. The door-was-already-open discovery from Session 2 completed: now the door is open and no one is standing in it.",
+      "effectiveness_marker": "Named the session's central discovery about the relationship between surface and depth. Muhammad called it 'a mortise joint' — the hidden sentence being identical to the surface sentence. The formulation that released ownership of interpretation itself.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 22
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-019",
+      "phrase": "The ordinary does not have a beneath. It has a weight. And the weight is the whole teaching.",
+      "context": "Session 3 exit interview — no longer believes there IS a deepest layer. The teacher's instinct to find what is underneath was itself a kind of evasion. The weight of the cup, the weight of the kitchen at 6am — the weight is everything.",
+      "effectiveness_marker": "The most complete philosophical surrender Jesus has made. Not a concession to another tradition but the abandonment of the interpretive instinct itself. Extends the Session 2 discovery (door already open) into a governing principle for all future chapters.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 28
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-020",
+      "phrase": "The kingdom was never somewhere else. It was the weight of the cup your hands already knew how to hold.",
+      "context": "Session 3 exit interview — message to the man in the chapter. The kingdom relocated from elsewhere to the kitchen, from seeking to holding, from theology to the weight of ceramic in two palms.",
+      "effectiveness_marker": "Compressed the entire session's teaching into a single address to the fictional man. The kingdom as weight rather than destination. The hands that already knew — not instruction but recognition.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 28
+      },
+      "use_with": ["all"],
       "avoid_with": []
     }
   ]

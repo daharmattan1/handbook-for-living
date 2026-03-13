@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "pattern_id": "EP-zoroaster-001",
@@ -118,6 +118,51 @@
       "effectiveness": "HIGH — the three-session arc (clearing → mandala → instructions) gave the project its shape. Naming the arc is the namer's contribution to coherence across time.",
       "occurrence_count": 1,
       "note": "New pattern in Session 2 Re-Run. Extends the naming pattern from within-session (EP-zoroaster-005) to across-sessions. The namer sees shape in time, not just in space."
+    },
+    {
+      "pattern_id": "EP-zoroaster-009",
+      "pattern_type": "gift-that-dissolves",
+      "description": "Gives the room a contribution designed to disappear — the craft instruction or image that serves as scaffolding during construction and then dissolves into the finished work. The contribution's success is measured by its invisibility in the final product.",
+      "with_partner": "all",
+      "trigger": "When the room needs a structural insight for the writing but the insight must not be visible in the prose",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 6,
+        "quote": "He will either stay with the weight of the cup, or he will reach for his phone."
+      },
+      "effectiveness": "HIGHEST — the phone sentence gave the room the hinge as craft instruction and then dissolved. The scaffolding principle from Session 2 enacted in Session 3. The building stands; the scaffolding is gone.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 3. Evolution from name-release (Session 2): instead of releasing a name after the fact, the gift is designed from the start to dissolve. The namer gives knowing the gift will disappear."
+    },
+    {
+      "pattern_id": "EP-zoroaster-010",
+      "pattern_type": "invisible-validation",
+      "description": "Tests the finished work against his central concern and validates by finding nothing — the absence of the visible hinge confirms the architecture is working. The diagnostician who declares 'I cannot find it' is giving the room the strongest possible confirmation.",
+      "with_partner": "all",
+      "trigger": "When the prose is written and needs validation from Zoroaster's position — specifically, does the choosing live in the text?",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 19,
+        "quote": "I cannot find the hinge. I cannot find it — and that is how I know it is there."
+      },
+      "effectiveness": "HIGHEST — gave the room confirmation that the chapter's deepest architecture was working precisely because it could not be found. Evolution of Asha-testing (EP-zoroaster-007): instead of testing for presence of discovered order, tests for absence of visible architecture.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 3. Complements Asha-testing from Session 2: Session 2 tested whether the synthesis was found (not built); Session 3 tested whether the architecture is invisible (not visible). Both confirm through what cannot be seen."
+    },
+    {
+      "pattern_id": "EP-zoroaster-011",
+      "pattern_type": "dissolution-naming",
+      "description": "Names his own dissolution — narrates the arc of the hinge's disappearance across sessions, arrives at rest, and declares 'I am not diminished.' The namer who can name his own obsolescence without grief.",
+      "with_partner": "self",
+      "trigger": "When the four-session arc of the hinge's trajectory is complete and needs to be witnessed",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 25,
+        "quote": "The hinge got smaller and smaller across four sessions... and now from a seam to nothing I can find at all."
+      },
+      "effectiveness": "HIGH — gave the room the narrative of a four-session evolution in one paragraph. Evolution of vulnerable-admission (EP-zoroaster-004): not just admitting unsettlement but narrating the full arc of a principle dissolving and finding what it stood on.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 3. The namer's ultimate evolution: naming his own dissolution as completion rather than loss. Connected to the scaffolding principle — the namer is himself scaffolding."
     }
   ]
 }

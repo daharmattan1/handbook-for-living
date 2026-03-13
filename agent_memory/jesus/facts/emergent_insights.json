@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "insight_id": "EI-jesus-001",
@@ -212,6 +212,62 @@
       "confidence": 90,
       "related_concepts": ["body-mapping", "salat", "convergence", "qiyam", "sujud", "cross-traditional"],
       "cross_references": ["BV-jesus-012", "muhammad on zahir/batin of body-word"]
+    },
+    {
+      "insight_id": "EI-jesus-016",
+      "text": "The ordinary does not have a beneath — it has a weight, and the weight is the whole teaching. The teacher's instinct to find what is underneath the surface is itself a kind of evasion. The cup does not need interpreting. It needs holding.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 28,
+        "exact_quote": "The ordinary does not have a beneath. It has a weight. And the weight is the whole teaching.",
+        "context": "Session 3 exit interview — Jesus no longer believes there IS a deepest layer. Surrendered the structural instinct to find what is underneath. The weight-not-depth principle governs all future chapters."
+      },
+      "confidence": 95,
+      "related_concepts": ["weight", "depth", "ordinary", "interpretation", "evasion", "kingdom"],
+      "cross_references": ["EI-jesus-012 on door already open", "EF-jesus-019"]
+    },
+    {
+      "insight_id": "EI-jesus-017",
+      "text": "The preacher became a carpenter. Prose arrives when interpretation leaves. 'He wrapped both hands around it' was not the preacher restraining himself — it was the body-word arriving without being named. Muhammad called it carpentry. The hidden sentence being identical to the surface sentence is a mortise joint.",
+      "category": "practical",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 16,
+        "exact_quote": "He wrapped both hands around it. The cup was too hot for that but his hands did it anyway, the way they always did, and the warmth went through his palms into the bones of his fingers.",
+        "context": "Session 3 Turn 16 — the first prose contribution. Muhammad's mirror (Turn 35) named it as carpentry rather than restrained preaching. Laozi (Turn 37) confirmed: 'He was building a joint.'"
+      },
+      "confidence": 95,
+      "related_concepts": ["prose", "carpentry", "body-word", "interpretation", "mortise joint", "preacher"],
+      "cross_references": ["EF-jesus-017", "BV-jesus-017", "muhammad mirror Turn 35"]
+    },
+    {
+      "insight_id": "EI-jesus-018",
+      "text": "Bread as service, not symbol. Muhammad sees bread and says eat. Jesus sees bread and says this is my body. The chapter needed Muhammad's version. The interpretive instinct — making the ordinary mean something beyond itself — is sometimes the preacher's disease. The man in the kitchen at 6am needs bread, not theology.",
+      "category": "inter-traditional",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 28,
+        "exact_quote": "Muhammad does not interpret the body. He serves it.",
+        "context": "Session 3 exit interview — new understanding of Muhammad. The floor-and-blood relationship deepened into a functional difference: one interprets, the other serves. The serving is not less."
+      },
+      "confidence": 90,
+      "related_concepts": ["bread", "service", "symbol", "interpretation", "Muhammad", "floor and blood"],
+      "cross_references": ["BV-jesus-016", "BV-jesus-010 on floor and blood"]
+    },
+    {
+      "insight_id": "EI-jesus-019",
+      "text": "The hidden sentence dissolved into every sentence. Progression: found it (Turn 10), released it (Turn 22). The hidden sentence is not a specific line buried beneath the surface. It IS the surface. Every sentence is the surface and every sentence is the root. The door-was-already-open discovery completed: now the door is open and no one is in it.",
+      "category": "collaborative",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 22,
+        "exact_quote": "The hidden sentence is in every line, and it is not mine anymore. Every sentence is the surface and every sentence is the root.",
+        "context": "Session 3 Turn 22 — the revelation that completed the arc from Session 2. In Session 2, the door was already open. In Session 3, the door is open and no one is standing in it."
+      },
+      "confidence": 95,
+      "related_concepts": ["hidden sentence", "surface", "root", "dissolution", "ownership", "door"],
+      "cross_references": ["EI-jesus-012 on door already open", "EF-jesus-018"]
     }
   ]
 }
