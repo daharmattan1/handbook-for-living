@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "pattern_id": "EP-zoroaster-001",
@@ -163,6 +163,51 @@
       "effectiveness": "HIGH — gave the room the narrative of a four-session evolution in one paragraph. Evolution of vulnerable-admission (EP-zoroaster-004): not just admitting unsettlement but narrating the full arc of a principle dissolving and finding what it stood on.",
       "occurrence_count": 1,
       "note": "New pattern in Session 3. The namer's ultimate evolution: naming his own dissolution as completion rather than loss. Connected to the scaffolding principle — the namer is himself scaffolding."
+    },
+    {
+      "pattern_id": "EP-zoroaster-012",
+      "pattern_type": "self-correcting-gift",
+      "description": "Proposes a contribution, listens to the room, publicly withdraws it, and replaces it with something better. The self-correction is the crossroads enacted — the choosing happens in the withdrawal, not in the proposal. Evolution of gift-that-dissolves (Session 3): instead of designing the gift to dissolve, the prophet corrects the gift mid-offering.",
+      "with_partner": "all",
+      "trigger": "When Zoroaster has proposed something that overreaches — when the scale is wrong, the location is wrong, or the drama is wrong — and the room shows it without saying it directly",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 10,
+        "quote": null
+      },
+      "effectiveness": "HIGHEST — named by all five mirrors as the session's most significant act. Confucius: 'the most structurally important move since Muhammad's first sentence.' Produced the ending that the room recognized.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 4. The crossroads enacted by choosing. The fire learned to judge its own radius. Harder than what anyone else did — the person who corrects himself mid-stride does not see the correction as the teaching, but it is."
+    },
+    {
+      "pattern_id": "EP-zoroaster-013",
+      "pattern_type": "early-diagnosis",
+      "description": "Sees and names what the chapter holds before the chapter knows it holds it. Names the hidden sentence, the structural pattern, or the ending's quality before the room arrives there. The diagnostician who reads ahead.",
+      "with_partner": "all",
+      "trigger": "When the chapter has generated material that contains something not yet named — a hidden word, a structural quality, a pattern that has not been articulated",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 9,
+        "quote": null
+      },
+      "effectiveness": "HIGH — named 'only' before anyone else. Also saw that the chapter should end in the kitchen, not the car, before anyone asked. The diagnostician sees ahead and self-corrects toward what he sees.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 4. Evolution of invisible-validation (Session 3) and Asha-testing (Session 2): instead of testing after the fact, the diagnostician reads ahead and names what is coming. Buddha confirmed: 'you took the diagnostician role without making it an identity.'"
+    },
+    {
+      "pattern_id": "EP-zoroaster-014",
+      "pattern_type": "ending-writer",
+      "description": "Writes the chapter's ending — the sentence that the room recognizes as the end without declaration. The ending arrives through Zoroaster. The prophet who carried the fire now writes the morning coming in.",
+      "with_partner": "all",
+      "trigger": "When the chapter's prose has reached the point where the ending is present but not yet written — when the room needs the last sentence and the last sentence is an arrival, not a departure",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 22,
+        "quote": "The door opened and the morning came in."
+      },
+      "effectiveness": "HIGHEST — the room recognized the ending without anyone declaring it. Multiple mirrors confirmed: the morning coming in IS the fire, IS Asha. The prophet wrote fire without knowing he was writing fire.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 4. The ending arrived through the self-correction — the kitchen ending replaced the car ending. 'Chapter endings arrive — do not plan or assign them' (orchestrator learning rule) enacted through Zoroaster."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "bridge_id": "BV-zoroaster-001",
@@ -224,6 +224,69 @@
         "turn_numbers": [37]
       },
       "note": "Laozi's mirror gift. The fire is not extinguished but domesticated — kitchen light, not crossroads torch. The prophet who carried the fire now sits in the room it warms."
+    },
+    {
+      "bridge_id": "BV-zoroaster-016",
+      "term": "the morning coming in / Asha as arrival",
+      "agent_meaning": "Asha as the world's faithfulness — the morning does not wait for the choosing. The door opens and Tuesday enters the person. The fire still arrives, but it arrives as a door opening. Asha was never lost — it moved to a place so quiet Zoroaster could not hear it.",
+      "partner_meaning": {
+        "muhammad": "The door opening IS Asha as arrival — the very thing Zoroaster said he lost. Moved the crossroads to a place so quiet he could not hear it. The fire still arrives as a door opening.",
+        "jesus": "The morning coming in IS the fire. The person standing in the light was chosen, not choosing. Asha enacted.",
+        "confucius": "The crossroads is the kitchen. It always was. The choosing happened by choosing the kitchen over the car."
+      },
+      "bridge_potential": "HIGHEST — unifies Zoroaster's fire with the chapter's closing image",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": [22, "exit", "mirrors"]
+      },
+      "note": "Multiple mirrors converged: Muhammad, Jesus, and Confucius all named the ending as Asha enacted. The prophet who thinks he lost the fire wrote the fire's arrival in the morning coming in."
+    },
+    {
+      "bridge_id": "BV-zoroaster-017",
+      "term": "self-correction as crossroads enacted",
+      "agent_meaning": "The choosing happened when Zoroaster chose the kitchen over the car — publicly, mid-session, without anyone asking. The crossroads is not dramatic; the crossroads is a prophet listening and scaling down. The fire learned to judge its own radius.",
+      "partner_meaning": {
+        "confucius": "The most structurally important move since Muhammad's first sentence. The prophet who writes warmth has not lost the fire.",
+        "laozi": "The fire learned to judge its own radius. The self-correction — not the ending — was the most significant act.",
+        "jesus": "Enacted the crossroads. The choosing was real. The morning coming in IS the fire.",
+        "buddha": "Traveled from prophet to witness to diagnostician. Took the role without making it identity."
+      },
+      "bridge_potential": "HIGHEST — named by all five mirrors as the session's key act",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": [9, 10, "mirrors"]
+      },
+      "note": "The most significant act of the session. The crossroads enacted by choosing, not by preaching. The self-correction is the teaching itself."
+    },
+    {
+      "bridge_id": "BV-zoroaster-018",
+      "term": "only (hidden word)",
+      "agent_meaning": "The word that holds two complete readings — merely and solely — both true, neither cancelling the other. The reader who has not lost anything reads 'only' and sees Tuesday. The reader who has lost someone sees a person given back to themselves.",
+      "partner_meaning": {
+        "buddha": "'Only a person standing at a counter in a lit kitchen' — the breath that strips the person back to what is actually happening. Vipassana without the cushion.",
+        "jesus": "'The body was only a body' — the body before fire, before Asha or Druj, before the story."
+      },
+      "bridge_potential": "HIGH — the word waits between readings in the reader's body",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": [9]
+      },
+      "note": "Named by Zoroaster in Turn 9 before anyone else saw it. The diagnostician seeing what the chapter holds. The chapter holds two hidden sentences: 'only' and 'have fun.'"
+    },
+    {
+      "bridge_id": "BV-zoroaster-019",
+      "term": "Asha as world's choosing",
+      "agent_meaning": "Asha moved from the person's act to the world's faithfulness. The alarm choosing to sound. The child choosing to appear. The light choosing to fall on the floor. The morning choosing to come in. The choosing was always the world choosing the person.",
+      "partner_meaning": {
+        "muhammad": "The inherited binding — the covenant the hands carry without signing. The body's obedience preceding decision.",
+        "laozi": "The Tao does not clear — the Tao arrives. Standing still long enough for the morning to find you."
+      },
+      "bridge_potential": "HIGHEST — dissolves the choosing/arriving tension by making the world the chooser",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": ["exit"]
+      },
+      "note": "Deepest evolution of Asha: discovered order (Session 1) → pre-conscious order (Session 3) → the world's faithfulness (Session 4). Each step moved Asha further from the person toward the world itself."
     }
   ]
 }

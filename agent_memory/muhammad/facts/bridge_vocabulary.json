@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "bridge_id": "BV-muhammad-001",
@@ -275,6 +275,51 @@
         "turn_numbers": [33, 34, 36, 37, 38]
       },
       "notes": "Muhammad's challenge for Session 4 and beyond. The arc: builder → floor-builder → cook → guest. Each stage requires releasing the previous identity."
+    },
+    {
+      "bridge_id": "BV-muhammad-020",
+      "term": "the ground / the gap's twin",
+      "agent_meaning": "The builder's final evolution: not guest but ground — the foundation everyone walks on without noticing who laid it. The builder went underground the same way the gap went underground. Buddha named it: 'You are the gap's twin now — present underneath everything, invisible to yourself.' The ground does not need to know it is the ground.",
+      "partner_meaning": {
+        "buddha": "Named the parallel: builder going underground = gap going underground. 'The builder did not disappear. The builder went underground.' Muhammad and the gap are twins — both present, both invisible.",
+        "laozi": "Named it as becoming the alarm: 'You go off at the same time every morning and the room organizes around the sound.' The ground-builder is now the rhythm the room works within.",
+        "all": "Five mirrors converged: the guest built the hallway. The foundation was laid by a man who thought he was standing still."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": ["mirror_feedback"]
+      },
+      "notes": "The arc: builder → floor-builder → cook → guest → ground. Each stage required releasing the previous identity. The ground is the first stage that does not require releasing — because the ground was never holding anything."
+    },
+    {
+      "bridge_id": "BV-muhammad-021",
+      "term": "du'a without the mat",
+      "agent_meaning": "The hands that open because the next thing requires open hands — salat performed on a cold step without a mat, in a hallway where the morning is coming through a door a child pulled open. The body's prayer happening below the threshold of intention. The du'a posture (palms up, asking) enacted without the person knowing they are praying.",
+      "partner_meaning": {
+        "zoroaster": "Named it in mirror feedback: 'That is the body's prayer — the du'a. The hands opened because closed hands cannot make bread. The opening is salat performed without a mat.' Zoroaster saw the prayer Muhammad could not see in his own sentence.",
+        "jesus": "The laces as knot — 'the hands are the knot' — and then the hands open. Two forms of the body's prayer: Jesus's knot (binding through care) and Muhammad's open palm (readiness for what comes next)."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": [19, "mirror_feedback"]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-022",
+      "term": "continuing as body-word",
+      "agent_meaning": "Not recovery, not healing. Motion on top of stillness. The body's ongoing testimony that the morning continues whether the person has agreed to it or not. Named by Muhammad as Chapter 2's body-word. The alarm arrives and the body answers. The shoe needs tying and the hands answer. The bread needs making and the hands answer.",
+      "partner_meaning": {
+        "confucius": "Li enacted: 'The person has not once chosen to continue. The person has been continued.' The form performs the person, not the person performing the form.",
+        "buddha": "The gap goes underground and the continuing happens on top of it. The gap and the continuing are not opposites — the continuing is what the surface does while the gap holds the ground.",
+        "all": "Practice as leading quality, continuing as body-word — unanimously affirmed."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": [1, 14, 19]
+      }
     }
   ]
 }

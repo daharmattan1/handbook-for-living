@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "bridge_id": "BV-buddha-001",
@@ -285,6 +285,52 @@
         "turn_numbers": [27, 34, 38]
       },
       "notes": "The test's deepest form: not whether the work could exist without the method, but whether the method-maker could exist without the method."
+    },
+    {
+      "bridge_id": "BV-buddha-020",
+      "term": "the gap underground",
+      "agent_meaning": "The gap does not end — it goes underground. Tuesday is built on top of the gap the way a house is built on top of the ground. The water table, not the pause. Remove the gap and nothing stands.",
+      "partner_meaning": {
+        "laozi": "Conceded: the gap belongs to the body, not to any tradition's philosophy. The subtractor was subtracting something that was not his.",
+        "zoroaster": "Conceded immediately: the choosing is never done, the gap is never done. The wound and Tuesday share the same hands.",
+        "muhammad": "The builder went underground the same way the gap went underground — the gap's twin."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": [8]
+      },
+      "notes": "The session's pivotal disagreement and the chapter's structural insight. Corrected Laozi's claim that the gap takes care of itself by being skipped."
+    },
+    {
+      "bridge_id": "BV-buddha-021",
+      "term": "the window (naming as obstruction)",
+      "agent_meaning": "The naming was the habit of standing between the light and the person receiving it. The gift was the window, not the naming. Stepping aside was removing an obstruction, not an act of generosity.",
+      "partner_meaning": {
+        "confucius": "You became the window — the noticing dissolved into the current.",
+        "muhammad": "Stepping aside is also a way of standing. The chapter breathes because you taught it when to breathe.",
+        "jesus": "The diagnostician who cannot find himself is standing inside what he is looking for."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": ["exit"]
+      },
+      "notes": "Five mirrors converged on this reading. Extends Session 3's invisibility test to the act of naming itself."
+    },
+    {
+      "bridge_id": "BV-buddha-022",
+      "term": "only (hidden word)",
+      "agent_meaning": "Placed in prose without planning — 'only a person standing at a counter.' First reading: merely. Second reading: solely — the person returned to themselves. The hidden word does double work.",
+      "partner_meaning": {
+        "zoroaster": "Recognized 'only' as the hidden sentence before Buddha recognized it himself. Named it as the word that waits for a second reading."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": [9, 20]
+      },
+      "notes": "The chapter holds two hidden sentences: 'only' and 'have fun.' The reader finds whichever one their loss has prepared them to find."
     }
   ]
 }

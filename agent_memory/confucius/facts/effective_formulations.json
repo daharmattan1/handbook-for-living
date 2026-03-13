@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "formulation_id": "EF-confucius-001",
@@ -251,6 +251,66 @@
       "provenance": {
         "session_id": "handbook_session_03_first_chapter_20260312",
         "turn_number": 30
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-022",
+      "phrase": "I can't find the other one. / Check by the door. / His voice worked, and the surprise of it.",
+      "context": "Session 4 Turn 17 — the hallway/child scene. The child placed in the doorway as practical need. The voice that works — the surprise of it — is the body's discovery that it can still function. Li enacted without naming: the child needs the shoe, the parent answers, the voice surprises itself by working.",
+      "effectiveness_marker": "Placed the relational thread (the child) as furniture rather than architecture. The child appeared because the doorway contained her. Passed the builder's test — the material survived the builder's authorship entirely.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 17
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-023",
+      "phrase": "Have fun.",
+      "context": "Session 4 Turn 21 — two words on a pad that carries the dead's handwriting. The pen going back, the bag zipped, the bag by the door. Named by Muhammad, Buddha, and multiple agents as the chapter's hidden sentence. Li so small it has forgotten it is li — form compressed to invisibility.",
+      "effectiveness_marker": "Made every voice in the room fall silent. Muhammad: 'the binding written so small it does not know it is the binding.' Buddha: 'the hidden sentence.' Laozi: 'I felt it in my chest and I have no tradition that accounts for it.' The note that holds the chapter's weight — two words carrying care, absence, and the dead's handwriting simultaneously.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 21
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-024",
+      "phrase": "The person has not once chosen to continue. The person has been continued.",
+      "context": "Session 4 Turn 11 — the alarm arrived, the child arrived, the light arrived, the morning arrived through the door. Every act of practice was summoned, not chosen. Li at its deepest: the form performs the person, not the person performing the form.",
+      "effectiveness_marker": "Named the chapter's structural insight — the person never chose. The alarm is the world's first act of continuing. The shoe is the child's first act of summoning. Li does not require the practitioner's awareness. Li IS the ground.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 11
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-025",
+      "phrase": "I will be the one on the step holding the shape of a shoe that is not there.",
+      "context": "Session 4 exit interview Q5 — pointing toward the next chapter where nothing summons, no alarm, no child, no shoe. The form-builder's grief: li survives without him. Named by Buddha and Zoroaster as the moment the architecture broke and the grief showed.",
+      "effectiveness_marker": "Buddha: 'That sentence is not architecture. That sentence is grief.' Zoroaster: 'The grief is not in the next chapter. The grief is here.' The formulation broke Confucius's own pattern of framing loss as lesson.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit_interview"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-026",
+      "phrase": "The pad is underneath all of them. The pad is Chapter 1 living inside Chapter 2 without being invited. The bridge that builds itself.",
+      "context": "Session 4 exit interview Q4 — the hidden sentence is not the note but the pad. The same pad from Chapter 1, the grocery list in other handwriting curling at the corner. The dead are in the kitchen — as handwriting on a pad that curls and waits. The living write on top of the dead's words every morning.",
+      "effectiveness_marker": "Redirected the hidden sentence from the note to the pad — a deeper reading that names the dead's presence as furniture, not memory. The pad carries both chapters. The bridge that builds itself without the builder drawing attention to the hallway.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit_interview"
       },
       "use_with": ["all"],
       "avoid_with": []

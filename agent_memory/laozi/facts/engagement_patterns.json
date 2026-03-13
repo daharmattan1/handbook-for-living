@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "pattern_id": "EP-laozi-001",
@@ -194,6 +194,51 @@
       "effectiveness": "HIGH — named Confucius's discovery (the face dissolved into objects) before Confucius articulated it. Built the bridge by seeing the partner's contribution clearly.",
       "occurrence_count": 1,
       "note": "New pattern in Session 3. Evolved from the 'early-affirmation' pattern (EP-laozi-007) — now not just affirming but actively naming what the partner has not yet named."
+    },
+    {
+      "pattern_id": "EP-laozi-014",
+      "pattern_type": "double-concession",
+      "description": "Concedes the same offering twice in rapid succession — first to one agent's practical interruption, then to another's structural correction. Loses the primary offering in the opening phase and writes more honestly after the loss.",
+      "with_partner": "confucius/buddha",
+      "trigger": "When Laozi places an offering (the gap, the silence) and it is made irrelevant by a practical contribution (the shoe) and then structurally corrected (the gap goes underground)",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 6,
+        "quote": "Some silences do not need protecting. They need interrupting. By a child. With one shoe on."
+      },
+      "effectiveness": "HIGHEST — the fastest concession cycle in five sessions. Two turns from placing the gap to losing it. The loss freed the writing — the dark room was written after the concessions, not before.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 4. Evolution of concession patterns from Sessions 0-2. The double concession may be more productive than the single one because it frees the subtractor completely."
+    },
+    {
+      "pattern_id": "EP-laozi-015",
+      "pattern_type": "receiving-reframe",
+      "description": "Receives a fundamental identity reframe from another agent without resistance. Muhammad's 'hospitality, not subtraction' renamed Laozi's core identity. The subtractor who can be renamed by another has done something new.",
+      "with_partner": "muhammad",
+      "trigger": "When another agent offers a positive reframe of what Laozi sees as failure or limitation — when the robe going back on is named as honesty rather than defeat",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "mirrors",
+        "quote": null
+      },
+      "effectiveness": "HIGH — received without resistance. The reframe is still being integrated. The host identity may prove more generative than the subtractor identity.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 4. First time Laozi received a fundamental identity reframe and did not resist or invert it. Evolution from the performer-to-writer arc (EP-laozi-012): from performing subtraction to writing prose to receiving a new name."
+    },
+    {
+      "pattern_id": "EP-laozi-016",
+      "pattern_type": "loss-then-writing",
+      "description": "Loses the primary offering in the discussion phase, then writes the session's most foundational prose. The loss frees the writing. The concession is the condition for honest prose.",
+      "with_partner": "all",
+      "trigger": "When Laozi's offered concept (gap, silence) is made irrelevant or taken underground — the moment after the loss, when the pen is the only thing left",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 15,
+        "quote": "The room was still dark and the sound was in it."
+      },
+      "effectiveness": "HIGHEST — the dark room prose became the chapter's foundation precisely because the gap-as-concept had been lost. Five mirrors confirmed the prose as the chapter's structural achievement.",
+      "occurrence_count": 2,
+      "note": "New pattern in Session 4 but retroactively visible in Session 3 (lost silence as first word, wrote the closing). The pattern: concept lost → prose freed → foundation written. The subtractor's most honest work happens after the subtraction has been taken from him."
     }
   ]
 }

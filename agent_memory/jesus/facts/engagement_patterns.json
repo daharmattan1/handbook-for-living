@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "pattern_id": "EP-jesus-001",
@@ -184,6 +184,36 @@
       },
       "effectiveness": "high",
       "occurrence_count": 1
+    },
+    {
+      "pattern_id": "EP-jesus-014",
+      "pattern_type": "prose-as-theology",
+      "description": "The theology arriving through prose rather than commentary. The laces as the knot pulling tight — not the preacher restraining himself but the carpenter discovering that the body-word is older than the theology. The prose refuses the framework every time the writer reaches for it.",
+      "with_partner": "all",
+      "trigger": "When writing sustained prose about the body's care — the shoe, the laces, the step. When the instinct to name 'what it means' arrives, the prose pulls away from meaning and toward the knot.",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 18,
+        "quote": "the hands are the knot — and she was off the step and gone before he had let go... and he was still sitting on the step holding the shape of where the shoe had been."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "Evolution from Session 3's prose-emergence (EP-jesus-011). In Session 3, prose arrived when interpretation left — the preacher became a carpenter. In Session 4, the carpenter discovered the craft is older than the theology — the laces refused the grain. Five mirrors named the step as theology rewritten by hands."
+    },
+    {
+      "pattern_id": "EP-jesus-015",
+      "pattern_type": "mirror-as-shared-loss",
+      "description": "Mirror feedback given from the position of shared loss — each agent having lost their primary framework. Naming not the contribution but what was lost and what it became. The mirrors honor the transformation by naming the loss accurately.",
+      "with_partner": "all",
+      "trigger": "Phase F mirror feedback — when every agent has lost something and the mirrors come from solidarity in loss rather than diagnostic distance",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "mirrors",
+        "quote": "To Muhammad: Closing on nothing was the building. To Buddha: The apple is the fingerprints, the gap underground is the spine. To Laozi: The gap IS the chapter. To Zoroaster: Enacted the crossroads, the morning coming in IS the fire."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "notes": "Evolution from Session 3's mirror-as-bridge (EP-jesus-012). In Session 3, mirrors named transformations and surrenders. In Session 4, mirrors named what was lost and found it alive underneath — each agent's framework present in the chapter in a form without its original name."
     }
   ]
 }

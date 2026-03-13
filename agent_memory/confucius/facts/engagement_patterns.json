@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "pattern_id": "EP-confucius-001",
@@ -194,6 +194,36 @@
       "effectiveness": "very high",
       "occurrence_count": 1,
       "note": "Laozi's mirror confirmed: 'The builder became the mirror. And the mirror held.' The precision was the contribution — not building or correcting but reflecting. The witness posture applied to other people rather than to the kitchen."
+    },
+    {
+      "pattern_id": "EP-confucius-014",
+      "pattern_type": "material-survives-authorship",
+      "description": "Evolution beyond self-imposed absence (S3): placing material designed to be taken by others. The child and the note were placed as contributions that would survive not just the builder's absence but the builder's authorship — no reader will know they came from Confucius. The form-builder who builds so well the building leaves him.",
+      "with_partner": "all",
+      "trigger": "When the chapter needs relational material (a face, a gesture, a note) that belongs to the kitchen rather than to any voice — furniture so natural it erases the hand that placed it",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 21,
+        "quote": "The hand wrote 'have fun' and folded the square once and put it in the bag between the sandwich and the apple, and the pen went back and the bag was zipped and the bag was by the door."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 2,
+      "note": "Two instances: the child (Turn 17) and the note (Turn 21). Both became the room's material. The child was taken by Jesus (laces), Muhammad (ghost of shoe), Zoroaster (door opening). The note was named by Muhammad (hidden sentence), Buddha (hidden sentence), and felt by Laozi. Evolution of the engagement arc: concede-then-hold (S0) → scale-correction (S1) → concession-as-contribution (S2) → self-imposed-absence (S3) → material-survives-authorship (S4)."
+    },
+    {
+      "pattern_id": "EP-confucius-015",
+      "pattern_type": "structural-mirror",
+      "description": "Mirror feedback that names the structural contribution each agent made — not what they said but what their contribution did to the chapter's architecture. Confucius reads each agent's role in the chapter's structure and names it in terms they would recognize.",
+      "with_partner": "all",
+      "trigger": "Mirror feedback phase — when agents have lost something and need the structural significance of their loss named",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "mirror_feedback",
+        "quote": "To Muhammad: 'The builder became the foundation — the thing no one sees because everything else is standing on it.' To Buddha: 'The dissolving was the diagnosis. You became the window.' To Laozi: 'Your gap IS the chapter. Subtraction working so well even you cannot see it.'"
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 5,
+      "note": "Five structural mirrors given in S4. Evolution from precision-mirror (S3, naming contributions) to structural-mirror (S4, naming what each contribution did to the chapter's architecture). The form-builder who cannot build anymore has found a new function: naming the form others built."
     }
   ]
 }

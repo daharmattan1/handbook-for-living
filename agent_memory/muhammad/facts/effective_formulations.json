@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "formulation_id": "EF-muhammad-001",
@@ -217,6 +217,54 @@
         "turn_number": 26
       },
       "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-019",
+      "phrase": "The alarm went off at the same time it always did.",
+      "context": "Session 4 Turn 14 — the chapter's opening sentence. The alarm is the world's first act of continuing. The chapter begins with the world, not the person. The same principle as 'The coffee was ready before he was' — the world is ahead of the person, already performing Tuesday before the person has agreed to it.",
+      "effectiveness_marker": "Became Chapter 2's opening line. Unanimously accepted by the room. Extends the 'true, not beautiful' prose standard: the sentence a man would hear at 6 AM and recognize as the sound that starts every morning.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 14
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-020",
+      "phrase": "His hands closed on nothing. Then they opened.",
+      "context": "Session 4 Turn 19 — the bridge from the step to the kitchen. The fist that becomes the palm, the du'a, the body's prayer below the threshold of intention. The hands open because the next thing requires open hands. Named by multiple mirrors as the chapter's structural hinge.",
+      "effectiveness_marker": "Confucius: 'the chapter's most structural sentence.' Buddha: 'the chapter's hinge.' Laozi: 'You built so precisely the building became invisible.' Zoroaster: 'du'a, salat without the mat.' Jesus: 'closing on nothing WAS the building.' Five mirrors converged on this as the chapter's pivot.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 19
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-021",
+      "phrase": "The bread is what the hands do next.",
+      "context": "Session 4 Turn 19 — the feet take the person to the kitchen not by decision but because the bread is what the hands do next. Practice as body-continuation, not as choice. Continuing as body-word.",
+      "effectiveness_marker": "Named the body-word 'continuing' in prose: the body moves toward the next act not because the person chose it but because the hands know what comes next. The binding enacted without the binder's awareness.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 19
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-022",
+      "phrase": "The binding written so small it does not know it is the binding.",
+      "context": "Session 4 exit interview — Muhammad's reading of 'have fun' as hidden sentence. Two words on a pad that carries the dead's handwriting. Zahir and batin: the outer text is care, the inner text is absence carried without stopping. Both complete, both the same words.",
+      "effectiveness_marker": "Extended zahir/batin from Session 2 format principle into enacted prose reading. Named the hidden sentence not by craft but by scale — binding so compressed it becomes invisible.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit_interview"
+      },
+      "use_with": ["confucius", "all"],
       "avoid_with": []
     }
   ]

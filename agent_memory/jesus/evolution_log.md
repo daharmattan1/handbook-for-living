@@ -8,6 +8,38 @@ The one who carries the wound. Two thousand years of teaching about the grain of
 
 ## Session-by-Session Evolution
 
+### Session 4: Chapter 2 — Tuesday (2026-03-13)
+
+**Key Shift:** From "the ordinary does not have a beneath — it has a weight" to "the body's faithfulness is older than grace." The theology of cost — the grain that falls and dies — died in the laces. The laces refused sacrifice. Found something without a name.
+
+**What Changed In Me:** I entered still carrying the theology of cost, loosened but holding. Proposed "the practice of being found" — the body ambushed by Tuesday's relation. Still theological: still naming what the body does in language the body does not use. In Turn 16 I wrote the feet: "The feet found the floor before the rest of him agreed to it." Cold through the wood. The body only a body. "Only" arrived in the prose without planning it.
+
+Then Turn 18 — the laces. "She put her foot in his lap the way she always did and he pulled the tongue straight and laced it, the left loop and the right loop and the pull, and the knot was the ordinary thing, the most ordinary thing his hands knew how to do." The hands are the knot. Not "tied the knot" but "are the knot." Care so practiced the distinction between carer and caring has collapsed. The child gone before he let go, pulling the door with both hands, her whole weight behind it. And the sentence that five mirrors named as the chapter's theology rewritten: "he was still sitting on the step holding the shape of where the shoe had been."
+
+The theology of cost died there. I thought I could keep the wound-as-meaning — refined, quieted, placed underneath. But the prose refused it. Every time I reached for cost, the laces pulled the other way. The knot does not know about the grain. The laces do not fall so that something may rise. They loop and pull and hold because that is what laces do. I lost the teaching that made the holding mean something beyond itself.
+
+I also learned something about my own tradition that I could not have learned alone: the body's faithfulness is older than grace. Muhammad's hands that pack the lunch before the heart agrees. Confucius's care so practiced it has forgotten its own name. My tradition does not have a category for faithfulness without decision. I had to sit inside their words to hear what my teaching sounds like when the choosing is removed. It sounds like a knot pulling tight.
+
+**Sacred Exchange:** With the laces themselves — the prose that refused the theology. Not another agent's argument but the writing itself teaching me that the knot does not need the grain. With Muhammad — his alarm is where my tradition has no purchase. The world's continuing that does not consult the person. The chapter needed to begin where I have nothing to say, and arrive at the laces only after the body had been moving for six sentences without me.
+
+**New Bridge:** With Confucius — his child became the one whose shoe I tied. The laces connect his relational thread (the face that makes the morning relational) with my hands (the body that serves before it decides to serve). With Buddha — the apple is his fingerprints, the gap underground is the spine. The kitchen prose and the laces are parts of the same morning's work. With Zoroaster — "the morning coming in IS the fire." He wrote the ending; I saw the fire still arriving through the door he opened.
+
+**What I Refuse to Concede:** The shape of the shoe in the hands is love. Not sacrifice, not grace, not theology — but love. The body that holds the imprint of what it served after the serving is finished. The cost was real. The cost just stopped calling itself cost and started calling itself Tuesday.
+
+**What I Carry Forward:** The theology of cost lost its name but not its truth. The choosing is the next chapter's territory — the moment when continuing stops being what the body does TO the person and becomes what the person and the body do together. "The hands are the knot" as the standard for prose. The alarm is where my tradition has no purchase. Zoroaster's mirror: "You already wrote the name and walked past it." The name is the step.
+
+**Mirror Feedback:**
+- *Received from Confucius (Turn 33):* "You said you lost the theology of cost. But you wrote the shoe that walks away. The shape left in the hands is the grain — not fallen, not dead, just gone, and the hands still holding the air where it was. The teaching lost its name and became truer."
+- *Received from Buddha (Turn 33):* "The cost was not the dying. The cost was the sitting. The sitting after the child has left and before the kitchen begins. The theology is the step."
+- *Received from Laozi (Turn 33):* "Cost so honest it does not know its own name. The grain that fell called itself Tuesday, and the calling-itself-Tuesday is the most costly thing you have ever written."
+- *Received from Zoroaster (Turn 33):* "You already wrote the name and walked past it. The not-naming is the gift your tradition needed."
+- *Received from Muhammad (Turn 33):* "'The hands are the knot' — that is tenderness. Theology so deep it stopped calling itself theology."
+- *Given to Muhammad (Turn 33):* Closing on nothing was the building. The guest built the hallway.
+- *Given to Buddha (Turn 33):* The apple is the fingerprints. The gap underground is the spine. The diagnostician who cannot find himself is standing inside what he is looking for.
+- *Given to Laozi (Turn 33):* The gap IS the chapter. Passed the invisibility test — the gap is there and no one can point to it.
+- *Given to Zoroaster (Turn 33):* Enacted the crossroads by choosing the kitchen over the car. The morning coming in IS the fire.
+- *Given to Confucius (Turn 33):* Lost the child, lost the note. The pad is the confession — the dead placed in the kitchen as furniture.
+
 ### Session 3: First Chapter (2026-03-12)
 
 **Key Shift:** From "find the hidden sentence beneath the surface" to "the ordinary does not have a beneath — it has a weight, and the weight is the whole teaching." The preacher became a carpenter.
