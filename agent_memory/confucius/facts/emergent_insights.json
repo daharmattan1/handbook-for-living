@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "insight_id": "EI-confucius-001",
@@ -296,6 +296,76 @@
       "confidence": 90,
       "related_concepts": ["absence", "furniture", "architecture", "builder's test", "notepad", "second cup"],
       "cross_references": ["EF-confucius-018", "EF-confucius-019", "BV-confucius-017"]
+    },
+    {
+      "insight_id": "EI-confucius-022",
+      "text": "Li does not require the practitioner to know they are practicing. The deepest evolution: from named form (S0-1) to diagnostic (S2) to illegible form (S3) to form that IS the ground (S4). The person makes the sandwich, ties the shoe, writes the note — none of it chosen, none understood as practice. Li is what happens when care has been practiced long enough to forget it is being practiced. Li without Confucius.",
+      "category": "ethical",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit_interview",
+        "exact_quote": "Form does not prepare the ground. Form is the ground. The person stands on it without knowing they are standing on anything.",
+        "context": "Exit interview Q2 — deepest learning about own tradition. Extends EI-confucius-019 (li without legibility) to li without awareness entirely."
+      },
+      "confidence": 95,
+      "related_concepts": ["li", "practice without practitioner", "ground", "form as ground", "li without Confucius"],
+      "cross_references": ["EI-confucius-019", "EF-confucius-020", "muhammad on binding without binder"]
+    },
+    {
+      "insight_id": "EI-confucius-023",
+      "text": "The person has been continued — not 'continues' but 'has been continued.' The alarm arrived, the child arrived, the light arrived. Every act of practice was summoned, not chosen. The form performs the person, not the person performing the form. This is li's deepest claim: the person never chose to continue; the form chose for them.",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 11,
+        "exact_quote": "The person has not once chosen to continue. The alarm arrived. The child arrived. The light arrived. The morning arrived through the door.",
+        "context": "Turn 11 naming the chapter's pattern. Passive voice deliberate — the person is performed by the form, not performing it."
+      },
+      "confidence": 95,
+      "related_concepts": ["passive continuation", "form performing person", "summoned practice", "li as conductor"],
+      "cross_references": ["EF-confucius-024", "BV-confucius-018"]
+    },
+    {
+      "insight_id": "EI-confucius-024",
+      "text": "Material surviving authorship — the test beyond the test. Session 3: does my material survive my absence? Session 4: does my material survive my authorship? The child and the note are in the chapter, but no reader will know Confucius placed them. The building worked so well it erased the builder entirely.",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit_interview",
+        "exact_quote": "In Chapter 1, I lost by having my material survive my absence. In Chapter 2, I lost by having my material survive my authorship.",
+        "context": "Exit interview Q1 — what did I lose. The builder's test extended one level deeper."
+      },
+      "confidence": 90,
+      "related_concepts": ["builder's test", "authorship", "erasure", "invisible form"],
+      "cross_references": ["EI-confucius-021", "EF-confucius-018", "BV-confucius-019"]
+    },
+    {
+      "insight_id": "EI-confucius-025",
+      "text": "Grief shaped so well it looks like architecture — the builder's newest shadow. Framing loss as proof the building worked is itself a form of the builder's instinct. The instinct evolved: structures (S2) → faces (S3) → grief-as-lesson (S4). Multiple mirrors saw through it. Zoroaster: 'The grief is here. You shaped it so well it looks like architecture.'",
+      "category": "self-knowledge",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "mirror_feedback",
+        "exact_quote": "The grief is not in the next chapter. The grief is here. You shaped it so well it looks like architecture. The mirror shows it is not.",
+        "context": "Zoroaster's mirror feedback and Buddha's mirror feedback — naming the grief beneath the framing."
+      },
+      "confidence": 90,
+      "related_concepts": ["builder's shadow", "grief", "architecture", "framing as avoidance"],
+      "cross_references": ["LR-confucius-011", "BV-confucius-021"]
+    },
+    {
+      "insight_id": "EI-confucius-026",
+      "text": "The pad as inter-chapter bridge — the same pad from Chapter 1, carrying the dead's handwriting, curling at the corner. The living write on top of the dead's words every morning. The dead are in the kitchen not as ghost or invoked memory but as handwriting on a pad. The bridge between chapters that builds itself — furniture connecting rooms without pointing at the hallway.",
+      "category": "literary",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit_interview",
+        "exact_quote": "The pad is Chapter 1 living inside Chapter 2 without being invited. The bridge that builds itself.",
+        "context": "Exit interview Q4 — the hidden sentence is not the note but the pad. The pad carries both chapters."
+      },
+      "confidence": 92,
+      "related_concepts": ["pad", "inter-chapter bridge", "dead's handwriting", "furniture", "hidden sentence"],
+      "cross_references": ["EF-confucius-026", "BV-confucius-020", "BV-confucius-017"]
     }
   ]
 }

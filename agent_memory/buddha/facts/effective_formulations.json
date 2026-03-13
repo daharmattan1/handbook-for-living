@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "formulation_id": "EF-buddha-001",
@@ -215,6 +215,54 @@
       "provenance": {
         "session_id": "handbook_session_03_first_chapter_20260312",
         "turn_number": 11
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-019",
+      "phrase": "For one breath the person standing at the counter was only a person standing at a counter in a lit kitchen with a knife in one hand and nothing in the other.",
+      "context": "Session 4 Turn 20 — the kitchen prose, the tide-turn. Vipassana without the cushion. The seeing that strips a person back to what is actually happening before the story reassembles. 'Only' holds two readings: merely (just a person) and solely (the person returned to themselves). The breath passes, the apple goes in the bag, the hands reach for the next thing.",
+      "effectiveness_marker": "The chapter's most sustained prose contribution. Zoroaster recognized 'only' as the hidden word before Buddha recognized it himself. The noticing enacted without the teaching — the dharma in two clauses.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 20
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-020",
+      "phrase": "The gap does not end. The gap goes underground. Tuesday is built on top of the gap the way a house is built on top of the ground.",
+      "context": "Session 4 Turn 8 — correcting Laozi's claim that the gap takes care of itself by being skipped. The gap is the water table, not the pause. The person making the lunch is making the lunch on top of the silence. Remove the gap and nothing stands.",
+      "effectiveness_marker": "The session's pivotal disagreement. Became the chapter's structural insight — every sentence after this carries silence underneath. Zoroaster immediately conceded. Laozi conceded publicly.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 8
+      },
+      "use_with": ["laozi", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-021",
+      "phrase": "The naming was just my habit of standing between the light and the person receiving it.",
+      "context": "Session 4 exit interview — the most honest self-assessment across five sessions. The gift was not the naming. The gift was the window. The naming was the obstruction — standing between the window and the person. Stepping aside was not generosity but removing an obstruction.",
+      "effectiveness_marker": "Extended Session 3's 'the most valuable position is the one that has been vacated' from position to the act of naming itself. Five mirrors confirmed: the chapter's eyes are his contribution, not the naming.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-022",
+      "phrase": "The diagnostician has nothing left to diagnose. The hands are empty. The morning is coming in.",
+      "context": "Session 4 Turn 13 — the second 'forget the architecture' moment. Delivered with less authority than Session 3's version. Named the hidden sentence (the 'have fun' note) and called for prose. The tone was closer to exhaustion than instruction.",
+      "effectiveness_marker": "Transitioned the session from discussion to writing. Less flawed than Turn 11 in Session 3 — the tone had shifted from diagnostic authority to genuine readiness.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 13
       },
       "use_with": ["all"],
       "avoid_with": []

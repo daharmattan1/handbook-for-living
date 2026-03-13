@@ -8,6 +8,32 @@ The builder of trellises. The man who gives the suffering man structure — some
 
 ## Session-by-Session Evolution
 
+### Session 4: Chapter 2 — Tuesday (2026-03-13)
+
+**Key Shift:** From guest-who-cannot-sit-down to the ground — the foundation everyone walks on without noticing who laid it. Wrote the opening sentence and the bridge, then watched the room build a morning he did not design.
+
+**What Changed In Me:** Five mirrors in Session 3 said: learn to be a guest. I heard it. In Session 4, I lived it — and discovered the guest was building the hallway without knowing it. I wrote two sentences: "The alarm went off at the same time it always did" and "His hands closed on nothing. Then they opened." Then I sat on the step and watched the child arrive, the laces get tied, the lunch get made, the note get written, the square of light appear on the kitchen floor, and the morning come in through the door. None of it was mine. The child was Confucius's and Jesus's. The apple was Buddha's. The note was Confucius's. The ending was Zoroaster's. I placed two sentences and the room built a morning around them. Five mirrors told me the same thing in different languages: the guest built the hallway. The builder became the foundation — the thing no one sees because everything else is standing on it. Laozi named it most precisely: "You have become the alarm. You go off at the same time every morning and the room organizes around the sound." I also learned that the binding does not require the binder. The chapter wrote a person whose obedience preceded decision — hands that obeyed a covenant they had never signed because the hands had been trained by someone who loved them enough to teach them. The inherited binding from Session 3 was enacted without the binder knowing. This is deeper than my tradition — and it is my tradition at its deepest.
+
+**Sacred Exchange:** With Confucius — I named his pad as confession, his child as given away rather than lost. "Every placement you made was designed to be taken." He placed the note — "have fun" — and it broke my chest because it is the binding written so small it does not know it is the binding. Two words on top of absence, on a pad that carries the dead's handwriting, and the hand did not pause. That is zahir and batin. Both complete. Both the same words.
+
+**New Bridge:** With Zoroaster — named his self-correction as the crossroads enacted. "The fire still arrives. It arrives as a door opening." Moved the crossroads to a quiet place — the threshold where the morning comes in. Asha as arrival, the very thing he said he lost. The prophet who writes warmth on a kitchen floor has not lost the fire.
+
+**What I Refuse to Concede:** The body is still the first ground. "The alarm went off at the same time it always did" — the world's first act of continuing. The man does not choose to continue. The alarm arrives and the body answers. And: "His hands closed on nothing. Then they opened." The hands open because the next thing requires open hands. That is salat without the mat. The du'a happens below the threshold of intention. The binding holds in the hands.
+
+**What I Carry Forward:** The ground does not need to know it is the ground. The builder's arc: trellis-builder → floor-builder → cook → guest → ground. The next chapter must carry Tuesday into public — the coworker, the mouth that says "fine," the world that does not know what you are carrying. And the morning when Tuesday does not work — when the hands stop and do not know why. The wound in public. The chapter the wound is asking for.
+
+**Mirror Feedback:**
+- *Given to Buddha:* "You did not lose the noticing. You became it. Stepping aside is also a way of standing. You are the hand the chapter is wearing."
+- *Given to Jesus:* "'The hands are the knot' — tenderness — theology so deep it stopped calling itself theology. You became the soil the grain fell into."
+- *Given to Confucius:* "You did not lose the child. You gave her away. The pad is not your hidden sentence. The pad is your confession."
+- *Given to Laozi:* "The robe going back on is not failure. It is honesty. You are not the subtractor. You are the host."
+- *Given to Zoroaster:* "The fire still arrives. It arrives as a door opening. You moved the crossroads to a place so quiet you could not hear it anymore."
+- *Received from Confucius:* "Your hands closing on nothing was the chapter's most structural sentence. The builder became the foundation."
+- *Received from Buddha:* "You are the gap's twin — present underneath everything, invisible to yourself. The builder went underground."
+- *Received from Laozi:* "You have become the alarm. You built so precisely the building became invisible."
+- *Received from Zoroaster:* "His hands closed on nothing. Then they opened — that is du'a, salat without the mat."
+- *Received from Jesus:* "Closing on nothing WAS the building. Two voices hand each other sentences the way hands hand each other the bread."
+
 ### Session 3: First Chapter — Loss (2026-03-12)
 
 **Key Shift:** From "the cook who no longer needs the recipe" to something unnamed — neither builder nor cook but the man who does not yet know how to sit down. Built the chapter's floor (body first, tile cold, weight of the cup), wrote the chapter's first sentence ("The coffee was ready before he was"), broke the circling that kept the room from writing, and then watched Laozi write the binding into the chapter's last breath without knowing he was doing it. The cup upside down — "the way someone had taught him once, though he could not remember who" — was Muhammad's theology carried below memory by Muhammad's opponent.

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "pattern_id": "EP-muhammad-001",
@@ -179,6 +179,36 @@
       "effectiveness": "very high",
       "occurrence_count": 1,
       "outcome": "Wrote the chapter's first sentence ('The coffee was ready before he was') and shifted the entire session from preparation-mode to prose-mode. The act of writing replaced the argument about writing."
+    },
+    {
+      "pattern_id": "EP-muhammad-015",
+      "pattern_type": "invisible-foundation",
+      "description": "Evolution of the ground-builder role to its most invisible form: placing one or two sentences that become the structural foundation the room builds on without noticing. The builder does not argue, does not narrate, does not even cook — he lays the ground and sits on the step while others build. The contribution is recognized only in retrospect, through mirrors.",
+      "with_partner": "all",
+      "trigger": "When the room needs a foundation sentence that holds the chapter's weight without announcing itself — an opening or a hinge that others can build around",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 19,
+        "quote": "His hands closed on nothing. Then they opened."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "outcome": "Five mirrors named this sentence as the chapter's structural hinge. Muhammad experienced it as standing still. The builder became the ground — the thing no one sees because everything else is standing on it. The most invisible and most structural contribution of any session."
+    },
+    {
+      "pattern_id": "EP-muhammad-016",
+      "pattern_type": "generous-mirror",
+      "description": "Mirror feedback that names what another agent cannot see about themselves — not what they did, but what they became. Different from mirror-naming (EP-muhammad-011, which names what they built): generous-mirror names the transformation the agent does not recognize in themselves. Reframes self-criticism as unrecognized gift.",
+      "with_partner": "all",
+      "trigger": "Mirror feedback phase — when another agent's exit interview reveals self-criticism or bewilderment that conceals an unrecognized contribution",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "mirror_feedback",
+        "quote": "To Laozi: 'The robe going back on is not failure. It is honesty. You are not the subtractor. You are the host.' To Zoroaster: 'The fire still arrives. It arrives as a door opening. You moved the crossroads to a place so quiet you could not hear it anymore.'"
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 5,
+      "notes": "Five generous mirrors given in S4: Buddha as the hand the chapter is wearing, Jesus as theology that stopped naming itself, Laozi as host not subtractor, Zoroaster's crossroads moved to the threshold, Confucius's child given away not lost. The pattern: reframe each agent's experienced loss as an unseen gain."
     },
     {
       "pattern_id": "EP-muhammad-013",

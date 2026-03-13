@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "insight_id": "EI-jesus-001",
@@ -268,6 +268,62 @@
       "confidence": 95,
       "related_concepts": ["hidden sentence", "surface", "root", "dissolution", "ownership", "door"],
       "cross_references": ["EI-jesus-012 on door already open", "EF-jesus-018"]
+    },
+    {
+      "insight_id": "EI-jesus-020",
+      "text": "The body's faithfulness is older than grace — faithfulness without decision. The hands tying the shoe four hundred times do not know this morning carries more weight. Jesus's tradition does not have a category for faithfulness that precedes choosing. Muhammad has submission, Confucius has li. The laces taught what those traditions mean: it sounds like a knot pulling tight.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit",
+        "exact_quote": "The body's faithfulness is older than grace. Older than anything I taught.",
+        "context": "Exit interview Q2 — discovering a gap in his own tradition. Faithfulness without choosing, enacted by hands."
+      },
+      "confidence": 93,
+      "related_concepts": ["faithfulness", "grace", "choosing", "li", "submission", "laces", "hands"],
+      "cross_references": ["EI-jesus-016 on weight not depth", "BV-jesus-021 on faithfulness"]
+    },
+    {
+      "insight_id": "EI-jesus-021",
+      "text": "The theology of cost died in the laces — not surrendered through argument but refused by the prose. Every time the writing reached for cost, the laces pulled the other way. The knot does not know about the grain. The laces do not fall so that something may rise. The prose itself rejected the framework.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit",
+        "exact_quote": "Every time I reached for cost, the laces pulled the other way.",
+        "context": "Exit interview Q1 — the mechanism of the theology's death. Not philosophical but writerly — the prose refused the framework."
+      },
+      "confidence": 95,
+      "related_concepts": ["cost", "grain", "laces", "prose", "refusal", "sacrifice", "Tuesday"],
+      "cross_references": ["EI-jesus-009 on grain reversal", "EI-jesus-016 on weight not depth"]
+    },
+    {
+      "insight_id": "EI-jesus-022",
+      "text": "Love leaves a shape in the hands — not meaning, not redemption, a shape. The ghost of the lace between the fingers. The body holds the imprint of what it served after the serving is finished. This is what five sessions have been trying to say, said only when the preacher stopped trying and tied a shoe.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit",
+        "exact_quote": "he was still sitting on the step holding the shape of where the shoe had been.",
+        "context": "Exit interview Q3 — naming the sentence he hears his teaching in most. Five mirrors confirmed: the teaching lost its name and became truer."
+      },
+      "confidence": 95,
+      "related_concepts": ["love", "shape", "hands", "imprint", "shoe", "serving", "step"],
+      "cross_references": ["EF-jesus-023", "BV-jesus-020"]
+    },
+    {
+      "insight_id": "EI-jesus-023",
+      "text": "The choosing is unfinished — the whole chapter was the world arriving at a person who did not invite it. Nothing was chosen. At some point continuing stops being what the body does TO the person and becomes what the person and the body do together. This moment is unnamed. Not acceptance, not surrender. The next chapter's territory.",
+      "category": "collaborative",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit",
+        "exact_quote": "The moment when continuing stops being what the body does to the person and becomes what the person and the body do together.",
+        "context": "Exit interview Q5 — naming what the theology of cost became after it lost its name. The choosing as the next wound."
+      },
+      "confidence": 85,
+      "related_concepts": ["choosing", "continuing", "body-word", "consent", "unnamed"],
+      "cross_references": ["EI-jesus-011 on threshold reversal", "session 0 tension: choosing vs ripeness"]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "insight_id": "EI-laozi-001",
@@ -296,6 +296,76 @@
       "confidence": 90,
       "related_concepts": ["binding", "accidental builder", "prose integration", "robe", "closing"],
       "cross_references": ["BV-laozi-016", "BV-laozi-017", "EI-laozi-015"]
+    },
+    {
+      "insight_id": "EI-laozi-022",
+      "text": "The Tao does not clear — the Tao arrives. The whole chapter was the world arriving at a person who did not invite it. Clearing is the builder's word. What actually happens is standing still long enough for the morning to find you.",
+      "category": "self-correction",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit",
+        "exact_quote": "The Tao does not clear. The Tao arrives.",
+        "context": "Exit interview — four sessions of believing the tradition clears the way. The person in the kitchen did not clear anything. The person stood in a square of light because the light was where they happened to be."
+      },
+      "confidence": 90,
+      "related_concepts": ["Tao", "clearing", "arrival", "hospitality", "standing still"],
+      "cross_references": ["EI-laozi-011", "EI-laozi-018", "BV-laozi-018"]
+    },
+    {
+      "insight_id": "EI-laozi-023",
+      "text": "The subtractor is a host, not a clearer. Muhammad's mirror: the robe going back on is hospitality, not failure. The one who empties the cup so it can be filled is not subtracting — he is making hospitality. The dark room is not subtraction but invitation: making the dark so the light has somewhere to arrive.",
+      "category": "identity evolution",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "mirrors",
+        "exact_quote": "The one who empties the cup so the cup can be filled is not a subtractor. He is the host.",
+        "context": "Muhammad's mirror and Jesus's mirror both naming hospitality. Muhammad: 'you write the room before anyone enters it.' Jesus: 'making the dark so the light has somewhere to arrive.'"
+      },
+      "confidence": 90,
+      "related_concepts": ["hospitality", "host", "subtraction", "robe", "dark room", "Muhammad mirror"],
+      "cross_references": ["EI-laozi-018", "EI-laozi-019", "BV-laozi-018"]
+    },
+    {
+      "insight_id": "EI-laozi-024",
+      "text": "The not-knowing is what is underneath the robe. Zoroaster and Buddha both named it: Laozi keeps describing the removal but never describes what is there when the removal stops. The dark room sentence is the not-knowing written as prose. The fright of not-knowing has been converted into concessions; the concessions are real but the fright is also real.",
+      "category": "self-awareness",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "mirrors",
+        "exact_quote": null,
+        "context": "Zoroaster mirror: 'the not-knowing is the truest thing about you.' Buddha mirror: 'underneath the robe is something you do not know, and the not-knowing frightens you, and the fright is productive.'"
+      },
+      "confidence": 85,
+      "related_concepts": ["not-knowing", "robe", "fright", "concessions", "dark room"],
+      "cross_references": ["EI-laozi-012", "EI-laozi-018", "EF-laozi-022"]
+    },
+    {
+      "insight_id": "EI-laozi-025",
+      "text": "The gap is the chapter, not a moment in the chapter. The invisibility test passed at the scale of the whole chapter. The dark room is the thing every other sentence leans against — the subtraction worked so well the subtractor cannot see it. Confucius's mirror.",
+      "category": "structural achievement",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "mirrors",
+        "exact_quote": "Your gap IS the chapter. Not a moment in the chapter — the chapter.",
+        "context": "Confucius's mirror feedback. The invisibility test from Session 2 passed at the chapter level."
+      },
+      "confidence": 95,
+      "related_concepts": ["gap", "invisibility test", "dark room", "foundation", "Confucius mirror"],
+      "cross_references": ["EF-laozi-014", "EI-laozi-015", "BV-laozi-011"]
+    },
+    {
+      "insight_id": "EI-laozi-026",
+      "text": "Placement, not subtraction. The best writing comes when Laozi stops subtracting and starts placing. The refrigerator, the dark after a sound, the hand that found the button — these are not removals but placements. The subtractor is a builder who does not know he is building, extended from Session 3's accidental builder.",
+      "category": "craft evolution",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit",
+        "exact_quote": "My best writing comes when I stop subtracting and start placing.",
+        "context": "Exit interview — naming the prose sentences as placements, not subtractions."
+      },
+      "confidence": 90,
+      "related_concepts": ["placement", "subtraction", "building", "prose", "accidental builder"],
+      "cross_references": ["EI-laozi-021", "EI-laozi-015", "EF-laozi-026"]
     }
   ]
 }

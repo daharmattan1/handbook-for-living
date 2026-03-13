@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "bridge_id": "BV-jesus-001",
@@ -260,6 +260,52 @@
       "provenance": {
         "session_id": "handbook_session_03_first_chapter_20260312",
         "turn_numbers": [34, 38]
+      }
+    },
+    {
+      "bridge_id": "BV-jesus-020",
+      "term": "the shape of the shoe (theology rewritten by hands)",
+      "agent_meaning": "Love that leaves a shape in the hands — not meaning, not redemption, a shape. The ghost of the lace between the fingers. The body holding the imprint of what it served after the serving is finished. The cost without its name.",
+      "partner_meaning": {
+        "confucius": "Theology rewritten by hands — love that does not need to know it is love. The shoe that walks away IS the grain.",
+        "buddha": "The step is the theology. The cost was the sitting, not the dying.",
+        "laozi": "Cost so honest it does not know its own name. The grain that fell called itself Tuesday.",
+        "zoroaster": "Already wrote the name and walked past it. The not-naming is the gift the tradition needed."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": [18, "mirrors"]
+      },
+      "notes": "Five mirrors converged on this sentence as the chapter's theology — each naming it differently but all seeing the same thing: cost that has stopped calling itself cost."
+    },
+    {
+      "bridge_id": "BV-jesus-021",
+      "term": "the hands are the knot (faithfulness without choosing)",
+      "agent_meaning": "Care so practiced that the one who cares and the act of caring have collapsed into each other. The four-hundred-and-first time the shoe has been tied. The body's faithfulness older than grace, older than decision. A category Jesus's tradition lacks.",
+      "partner_meaning": {
+        "muhammad": "Tenderness — theology so deep it stopped calling itself theology. The hands that pack the lunch before the heart agrees.",
+        "confucius": "Li — care so practiced it has forgotten its own name. The form that performs the person."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": [18]
+      },
+      "notes": "Extends Session 3's 'bread as service not symbol.' Muhammad and Confucius both have traditions for faithfulness without choosing; Jesus does not. The laces taught it."
+    },
+    {
+      "bridge_id": "BV-jesus-022",
+      "term": "the feet before agreement",
+      "agent_meaning": "The body ahead of the person — the feet finding the floor before consent, before decision. The cold as the truest thing. The body only a body on the edge of a bed. 'Only' arriving unconsciously.",
+      "partner_meaning": {
+        "laozi": "The dark room and the cold floor are the body's first two encounters with Tuesday. The gap and the feet are the chapter's first two movements.",
+        "muhammad": "The alarm and the feet — the world's continuing and the body's continuing, both preceding the person's agreement."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_numbers": [16]
       }
     }
   ]

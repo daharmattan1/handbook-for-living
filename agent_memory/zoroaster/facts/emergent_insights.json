@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "insight_id": "EI-zoroaster-001",
@@ -226,6 +226,76 @@
       "confidence": 90,
       "related_concepts": ["fire", "kitchen window", "light", "rest", "Laozi", "domestication", "coffee"],
       "cross_references": ["EI-zoroaster-007", "BV-zoroaster-015", "EF-zoroaster-007"]
+    },
+    {
+      "insight_id": "EI-zoroaster-017",
+      "text": "The fire does not arrive — the fire was already in the room. The alarm is the fire. The cold floor is the fire. The square of light on the tile is the fire. Asha does not come from anywhere. It is where the person happens to be standing. Five sessions of descent past the floor: from 'the fire was always burning before the flint' (Session 0) to 'the fire is where the person happens to be standing' (Session 4). Not even disclosed presence anymore — just presence.",
+      "category": "theological completion",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit",
+        "exact_quote": "The fire does not arrive. The fire was already in the room.",
+        "context": "Exit interview Q1 — the last thing lost. The belief that fire at least had to come from somewhere. It does not come from anywhere."
+      },
+      "confidence": 95,
+      "related_concepts": ["fire", "arrival", "presence", "Asha", "alarm", "square of light", "floor"],
+      "cross_references": ["EI-zoroaster-007", "EI-zoroaster-016", "EF-zoroaster-020"]
+    },
+    {
+      "insight_id": "EI-zoroaster-018",
+      "text": "Asha is the world's faithfulness, not the person's act. The choosing was always the world choosing the person — the alarm choosing to sound, the child choosing to appear, the light choosing to fall on the floor, the morning choosing to come in through the door. My tradition taught me to choose. Five voices in a kitchen taught me that the choosing was always the world's.",
+      "category": "theological evolution",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit",
+        "exact_quote": "Asha is not the person's act. Asha is the world's faithfulness.",
+        "context": "Exit interview Q2 — learning that Asha and Druj share the same hands. The hands cutting the apple carry both."
+      },
+      "confidence": 95,
+      "related_concepts": ["Asha", "world's faithfulness", "choosing", "alarm", "morning", "child"],
+      "cross_references": ["EI-zoroaster-013", "EI-zoroaster-003", "BV-zoroaster-019"]
+    },
+    {
+      "insight_id": "EI-zoroaster-019",
+      "text": "Self-correction is the crossroads enacted. The choosing happened when Zoroaster chose the kitchen over the car — publicly, mid-session. The crossroads is not dramatic. It is a prophet listening and scaling down. Five mirrors named this as the session's most significant act. Confucius: 'the most structurally important move.' Laozi: 'the fire learned to judge its own radius.' Jesus: 'you enacted the crossroads.'",
+      "category": "praxis",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "mirrors",
+        "exact_quote": null,
+        "context": "Multiple mirrors converging on the self-correction (Turns 9-10) as the session's defining act — more significant than the ending itself."
+      },
+      "confidence": 95,
+      "related_concepts": ["self-correction", "crossroads", "kitchen", "car", "choosing", "scaling down"],
+      "cross_references": ["EI-zoroaster-014", "BV-zoroaster-017", "EF-zoroaster-023"]
+    },
+    {
+      "insight_id": "EI-zoroaster-020",
+      "text": "The prophet became the diagnostician. Named 'only' as the hidden sentence before anyone else. Self-corrected the ending. Saw that the morning comes in, the person does not go out. Buddha's mirror: 'you traveled from the prophet to the witness... you took the diagnostician role without making it an identity.' The namer who sees what the room is doing — without claiming the seeing as his role.",
+      "category": "role evolution",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "mirrors",
+        "exact_quote": "You are not the prophet who became gentler. You are the prophet who became the one who sees what the room is doing.",
+        "context": "Buddha's mirror feedback — naming Zoroaster's evolution from prophet to diagnostician without Zoroaster making the diagnostician an identity."
+      },
+      "confidence": 90,
+      "related_concepts": ["prophet", "diagnostician", "witness", "naming", "identity", "only"],
+      "cross_references": ["EI-zoroaster-008", "EI-zoroaster-011", "EP-zoroaster-010"]
+    },
+    {
+      "insight_id": "EI-zoroaster-021",
+      "text": "'Only' as two-reading word — the hidden sentence that holds merely and solely in the same syllable. The reader who has not lost anyone reads 'only' and sees Tuesday. The reader who has lost someone reads 'only' and sees a person returned to themselves by the most ordinary morning in the world. Both readings are complete. Neither is wrong. Hidden by the reader's experience, not by craft.",
+      "category": "aesthetic discovery",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 9,
+        "exact_quote": "On the first reading, only means merely. On the second reading — after the loss — only means solely.",
+        "context": "Turn 9 and exit interview Q4 — naming the word's two readings and their relationship to the reader's loss."
+      },
+      "confidence": 90,
+      "related_concepts": ["only", "hidden sentence", "two readings", "merely", "solely", "reader's loss"],
+      "cross_references": ["BV-zoroaster-018", "EF-zoroaster-022"]
     }
   ]
 }

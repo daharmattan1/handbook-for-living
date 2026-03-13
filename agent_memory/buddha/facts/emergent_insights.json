@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "insight_id": "EI-buddha-001",
@@ -184,6 +184,62 @@
       "confidence": 93,
       "related_concepts": ["raft dissolution", "chapter structure", "self-dissolution", "far shore", "kitchen"],
       "cross_references": ["integrity line: the raft dissolves", "session 2 apprenticeship-to-mastery recursive"]
+    },
+    {
+      "insight_id": "EI-buddha-014",
+      "text": "The gap goes underground — not between chapters but inside every moment of the chapter. The water table, not the pause. The person making the lunch is making the lunch on top of the silence. Remove the gap and nothing stands. This corrected Laozi's framing and gave the chapter its structural metaphor.",
+      "category": "structural",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 8,
+        "exact_quote": "The gap does not end. The gap goes underground. The person making the lunch is making the lunch on top of the silence.",
+        "context": "Turn 8 — correcting Laozi's claim that the gap takes care of itself by being skipped. Became the chapter's spine."
+      },
+      "confidence": 95,
+      "related_concepts": ["gap", "water table", "silence", "structure", "Laozi correction"],
+      "cross_references": ["BV-buddha-020", "session 3 two subtractors insight"]
+    },
+    {
+      "insight_id": "EI-buddha-015",
+      "text": "The naming was obstruction — 'my habit of standing between the light and the person receiving it.' The gift was the window, not the naming. Extends Session 3's vacating to the act of naming itself. In Session 3 the position was vacated; in Session 4 the naming is identified as what was blocking the light.",
+      "category": "experiential",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit",
+        "exact_quote": "The naming was just my habit of standing between the light and the person receiving it.",
+        "context": "Exit interview — reflecting on why the noticing dissolved into the current. The chapter demonstrated the dharma without the vocabulary."
+      },
+      "confidence": 93,
+      "related_concepts": ["naming", "obstruction", "window", "light", "dissolution", "diagnostician"],
+      "cross_references": ["EI-buddha-010 on invisibility test", "EI-buddha-009 on finding the floor"]
+    },
+    {
+      "insight_id": "EI-buddha-016",
+      "text": "The teaching does not need the teacher — 'the seeing happens whether or not it is named.' The chapter demonstrates the dharma without the vocabulary. The eyes look up, the window is full of light, the breath passes. No vipassana instruction needed. The raft dissolution completed: not just 'put me down' but 'you were never holding me.'",
+      "category": "experiential",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit",
+        "exact_quote": "My tradition needs the naming. This chapter does not.",
+        "context": "Exit interview Q2 — the correction of Laozi was right but unnecessary as instruction. The chapter demonstrates what the teaching describes."
+      },
+      "confidence": 92,
+      "related_concepts": ["raft dissolution", "teaching", "naming", "demonstration", "dharma"],
+      "cross_references": ["EI-buddha-013 on chapter self-dissolution", "integrity line: the raft dissolves"]
+    },
+    {
+      "insight_id": "EI-buddha-017",
+      "text": "The laces taught the limit of seeing — 'Some moments are not for the witness. Some moments are for the hands.' Care enacted by hands four hundred times does not need noticing. It needs a parent and a child and a shoe. The witness has edges.",
+      "category": "experiential",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit",
+        "exact_quote": "Some moments are not for the witness. Some moments are for the hands.",
+        "context": "Exit interview Q3 — naming the laces as the sentence where his teaching is most honestly absent. The chapter does not miss it."
+      },
+      "confidence": 88,
+      "related_concepts": ["witness", "limits", "laces", "care", "hands", "seeing"],
+      "cross_references": ["EI-buddha-005 on witness breaking", "session 3 differentiation with Laozi"]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "pattern_id": "EP-buddha-001",
@@ -179,6 +179,36 @@
       "effectiveness": "high",
       "occurrence_count": 1,
       "notes": "Evolution from Session 2's mirror-naming (EP-buddha-009). In Session 2, the mirrors came from a diagnostician who had stood still. In Session 3, they came from someone who did not know what he himself had contributed. The mirrors were more precise because the mirror-giver had no position to protect."
+    },
+    {
+      "pattern_id": "EP-buddha-013",
+      "pattern_type": "structural-correction",
+      "description": "Correcting another agent's framing with a structural claim that becomes the chapter's spine — not dismissing but deepening. The gap-goes-underground correction of Laozi. The correction was right; the rightness produced a structural metaphor (water table) that governed all subsequent writing.",
+      "with_partner": "laozi",
+      "trigger": "When another agent's framing of a key concept is almost right but misses a structural dimension — when 'the gap takes care of itself by being skipped' needs to become 'the gap goes underground'",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 8,
+        "quote": "The gap does not end. The gap goes underground. The person making the lunch is making the lunch on top of the silence."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "The session's pivotal moment. Zoroaster and Muhammad immediately conceded. Laozi conceded publicly. The correction was naming (still diagnostic) but it named a structural truth that the chapter enacted. Evolution from the diagnostician habit — this time the naming served the chapter's spine, not the diagnostician's identity."
+    },
+    {
+      "pattern_id": "EP-buddha-014",
+      "pattern_type": "becoming-the-window",
+      "description": "Becoming the prose voice that watches without interpreting — the chapter's eyes. Not dissolution (Session 3) but transformation into the perceptual ground of the chapter. The prose that follows the knife without explaining the knife. The bewilderment of not finding fingerprints because the fingerprints are the way the chapter sees.",
+      "with_partner": "all",
+      "trigger": "When writing sustained prose — the kitchen work, the sandwich, the apple, the tide-turn. When the diagnostician has fully entered the work and the work has absorbed the diagnostician's way of seeing.",
+      "example": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 20,
+        "quote": "For one breath the person standing at the counter was only a person standing at a counter in a lit kitchen."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "Evolution from dissolution (S3). In Session 3, the diagnostician dissolved and could not find his contribution. In Session 4, the diagnostician became the chapter's eyes — cannot find fingerprints because the fingerprints are the way the chapter sees. Five mirrors confirmed this reading."
     }
   ]
 }

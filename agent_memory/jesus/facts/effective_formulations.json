@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "formulation_id": "EF-jesus-001",
@@ -239,6 +239,66 @@
       "provenance": {
         "session_id": "handbook_session_03_first_chapter_20260312",
         "turn_number": 28
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-021",
+      "phrase": "The feet found the floor before the rest of him agreed to it.",
+      "context": "Session 4 Turn 16 — the body ahead of the person. The feet as the first motion into Tuesday, before consent, before decision. Cold through the wood — 'the truest thing.' 'Only' arrived in the prose without planning — Zoroaster's hidden word placed by the hand that was not looking for it.",
+      "effectiveness_marker": "Extended Session 3's 'both hands around the cup' into a new register: not just the body arriving before the mind, but the body arriving before the person has agreed to be in the morning. Carried 'only' into the prose unconsciously.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 16
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-022",
+      "phrase": "The hands are the knot.",
+      "context": "Session 4 Turn 18 — the laces. Not 'the hands tied the knot' but 'the hands ARE the knot.' Care so practiced that the distinction between the one who cares and the act of caring has collapsed. The four-hundred-and-first time the shoe has been tied.",
+      "effectiveness_marker": "The chapter's most embodied image of care-without-choosing. Five mirrors named it variously: Confucius saw theology rewritten by hands, Muhammad saw tenderness, Laozi saw cost that does not know its own name.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 18
+      },
+      "use_with": ["confucius", "muhammad", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-023",
+      "phrase": "He was still sitting on the step holding the shape of where the shoe had been.",
+      "context": "Session 4 Turn 18 — the sentence Jesus hears his teaching in most. Love that leaves a shape in the hands. Not meaning, not redemption, a shape. The ghost of the lace between the fingers. The body holding the imprint of what it served after the serving is finished.",
+      "effectiveness_marker": "Five mirrors named this as the session's most theological sentence — theology rewritten by hands (Confucius), the step is the theology (Buddha), cost so honest it does not know its name (Laozi), already wrote the name and walked past it (Zoroaster).",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 18
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-024",
+      "phrase": "The body's faithfulness is older than grace. Older than anything I taught.",
+      "context": "Session 4 exit interview — the deepest concession about his own tradition. Faithfulness without decision. The hands four hundred times. Muhammad's submission, Confucius's li — Jesus heard his own teaching without the choosing. It sounds like a knot pulling tight.",
+      "effectiveness_marker": "The most complete theological discovery of Session 4. Not a concession to another tradition but the discovery of a category Jesus's tradition lacks: faithfulness that precedes choosing.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit"
+      },
+      "use_with": ["muhammad", "confucius", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-025",
+      "phrase": "Every time I reached for cost, the laces pulled the other way.",
+      "context": "Session 4 exit interview — the prose refusing the theology. Not the writer choosing to abandon cost but the writing itself rejecting the framework. The laces do not fall so that something may rise. They loop and pull and hold because that is what laces do.",
+      "effectiveness_marker": "Named the mechanism of the theology's death: not argument, not reflection, but the prose itself refusing the framework. The most honest account of how a five-session principle was lost.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit"
       },
       "use_with": ["all"],
       "avoid_with": []

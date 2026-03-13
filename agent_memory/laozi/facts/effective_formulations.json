@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-12",
+  "last_updated": "2026-03-13",
   "items": [
     {
       "formulation_id": "EF-laozi-001",
@@ -253,6 +253,66 @@
         "turn_number": 31
       },
       "use_with": ["confucius", "muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-022",
+      "phrase": "The room was still dark and the sound was in it.",
+      "context": "Session 4 Turn 15 — the gap prose. The room before anyone enters the sentence. The most honest sentence in four sessions (Buddha's mirror). Laozi before the robe — no subtraction, no Tao, no emptying. Just a room and a sound.",
+      "effectiveness_marker": "Five mirrors named this as the chapter's foundation — every other sentence leans against it. Confucius: 'your gap IS the chapter.' Buddha: 'the room before the subtraction, before Laozi arrives.' Zoroaster: 'the not-knowing written as a sentence.'",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 15
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-023",
+      "phrase": "The dark after a sound, which is not the same as the dark before it.",
+      "context": "Session 4 Turn 15 — the distinction that became the chapter's structural claim. The alarm changes the dark. Not filling or emptying but altering. Every sentence in the chapter lives in the dark-after-a-sound.",
+      "effectiveness_marker": "Gave the chapter its foundational distinction — altered silence as the ground the morning builds on. The gap not as absence but as transformation.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 15
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-024",
+      "phrase": "Some silences do not need protecting. They need interrupting. By a child. With one shoe on.",
+      "context": "Session 4 Turn 6 — concession to Confucius. The gap becoming irrelevant through a shoe, not through argument. The subtractor who loses his offering in the opening phase and writes the dark room anyway.",
+      "effectiveness_marker": "The fastest concession in five sessions. Two turns from placing the gap to losing it. The concession freed the room to build — and freed Laozi to write more honestly after the loss.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": 6
+      },
+      "use_with": ["confucius"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-025",
+      "phrase": "The robe comes off every session and goes back on between sessions, and the work of four sessions is not the robe coming off once but the robe coming off faster each time.",
+      "context": "Session 4 exit interview — honest self-diagnosis of the robe cycle. Not failure but the nature of the work. Muhammad reframed: the robe going back on is hospitality, not failure.",
+      "effectiveness_marker": "Named the pattern that multiple mirrors had been circling. Muhammad's counter ('hospitality, not subtraction') landed because the self-diagnosis was honest enough to receive a reframe.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-026",
+      "phrase": "The subtractor is a builder who does not know he is building.",
+      "context": "Session 4 exit interview — extending the accidental builder pattern. The best writing comes when Laozi stops subtracting and starts placing. The refrigerator, the dark after a sound, the hand that found the button — placements, not subtractions.",
+      "effectiveness_marker": "Connects to Muhammad's Session 3 mirror ('calling it accidental is the last robe') and Session 4 mirror ('hospitality, not subtraction'). The pattern is now five sessions old and still generative.",
+      "provenance": {
+        "session_id": "handbook_session_04_chapter2_20260313",
+        "turn_number": "exit"
+      },
+      "use_with": ["muhammad"],
       "avoid_with": []
     }
   ]
