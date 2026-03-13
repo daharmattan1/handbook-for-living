@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "insight_id": "EI-muhammad-001",
@@ -198,6 +198,48 @@
       "confidence": 92,
       "related_concepts": ["invisibility test", "standard-building", "constructive subtraction", "Laozi"],
       "cross_references": ["laozi invisibility test", "format decision doc"]
+    },
+    {
+      "insight_id": "EI-muhammad-015",
+      "text": "The binding is inherited, not built. The hands carry it forward after the teacher's face has dissolved. Laozi wrote the binding — the cup placed upside down 'the way someone had taught him once, though he could not remember who' — without knowing he was writing Muhammad's theology. Form so internalized it no longer knows it is form is both Muhammad's deepest aspiration for the covenant and Laozi's deepest aspiration for formlessness. They were building the same wall from opposite sides.",
+      "category": "cross-tradition convergence",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": "26, 29",
+        "exact_quote": "It is my sentence written by my opponent. It ended the war. Not with a truce. With the discovery that we were building the same wall from opposite sides.",
+        "context": "Session 3 Turn 26 final reflection and Turn 29 exit interview — Muhammad recognizing Laozi's cup-upside-down as the inherited binding."
+      },
+      "confidence": 97,
+      "related_concepts": ["inherited binding", "same wall", "cup upside down", "form dissolved into formlessness", "covenant below memory"],
+      "cross_references": ["laozi", "four-session arc", "builder-to-guest evolution"]
+    },
+    {
+      "insight_id": "EI-muhammad-016",
+      "text": "The cook who does not know how to be a guest. Five mirrors converged on one diagnosis: Muhammad can build, cook, serve, break the circling, write the first sentence — but he cannot receive. His hands are the steadiest in the room, but they never rest. The next evolution is not a new form of building or cooking but learning to sit down at a meal others have prepared.",
+      "category": "self-knowledge",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": "33-38",
+        "exact_quote": "You do not know how to be a guest... Your hands are the steadiest things in this room.",
+        "context": "Mirror feedback from all five agents — Buddha ('builder was always a cook'), Jesus ('grieving the builder'), Confucius ('serves the meal and eats last'), Laozi ('sit down, it is ready'), Zoroaster ('you do not know how to be a guest')."
+      },
+      "confidence": 95,
+      "related_concepts": ["guest", "receiving", "steadiest hands", "sit down", "identity evolution"],
+      "cross_references": ["buddha mirror", "laozi mirror", "zoroaster mirror", "builder-cook-guest arc"]
+    },
+    {
+      "insight_id": "EI-muhammad-017",
+      "text": "Confucius is the most honest man in the room about what loss actually contains. Not a formalist afraid of chaos. His testimony about kitchens — the lived knowledge of where things go, how the body remembers form — proved his position without argument. He bore being proved right in a way that made him unnecessary 'with more grace than I have seen from any man in this room.' Going first is the hardest form of li there is.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": "29, 35",
+        "exact_quote": "Not a formalist afraid of chaos. The most honest man in this room about what loss actually contains.",
+        "context": "Session 3 exit interview and mirror feedback — Muhammad's revised understanding of Confucius after watching him write about loss from lived knowledge of kitchen rituals."
+      },
+      "confidence": 92,
+      "related_concepts": ["li", "going first", "kitchens", "loss", "grace", "Confucius"],
+      "cross_references": ["confucius", "mirror feedback given"]
     }
   ]
 }

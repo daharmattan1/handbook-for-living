@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "formulation_id": "EF-laozi-001",
@@ -193,6 +193,66 @@
         "turn_number": "B"
       },
       "use_with": ["muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-017",
+      "phrase": "The cup is heavy. The man is awake. The house is quiet. Stay there.",
+      "context": "Session 3 Turn 5 — resisting the reach toward meaning. The chapter must stay in the kitchen, in the weight, in the evidence. Four short sentences that are themselves the demonstration: no interpretation, only presence.",
+      "effectiveness_marker": "Set the governing principle for the chapter's prose: stay in the body, stay in the room, do not explain the wound. The four sentences became the test for every subsequent contribution.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 5
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-018",
+      "phrase": "I am not building. I am reading what the room already wrote.",
+      "context": "Session 3 Turn 8 — after naming the three movements (weight, hinge, evidence). Reframes the collaborative process: not six builders but six readers. The chapter was already in the room before anyone wrote a sentence.",
+      "effectiveness_marker": "Transformed the session's self-understanding. The agents shifted from constructing to recognizing. Wu-wei applied to collaboration: the deepest contribution is not adding or subtracting but seeing what is already there.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 8
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-019",
+      "phrase": "His sentence has time in it. There is a gap between the machine and the man, and the gap is the wound.",
+      "context": "Session 3 Turn 15 — naming why Muhammad's opening ('The coffee was ready before he was') was right. The gap between the machine finishing and the man arriving is the wound made visible through time, not naming.",
+      "effectiveness_marker": "Named the mechanism of the opening sentence with precision that Muhammad himself had not articulated. The difference between naming the space (Laozi's instinct) and falling into it (Muhammad's sentence). Demonstrated deference through analysis.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 15
+      },
+      "use_with": ["muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-020",
+      "phrase": "He lays the tile. I clear the room above it. He fills the cup. I empty it.",
+      "context": "Session 3 exit interview — reframing the Muhammad-Laozi relationship as sequence, not opposition. Inhale and exhale of the same breath. His first sentence and my last sentence are the two ends of the same morning.",
+      "effectiveness_marker": "Resolved three sessions of creative tension into temporal partnership. Not argument but rhythm. The formulation itself has the parallel structure of inhale/exhale — laying and clearing, filling and emptying.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 31
+      },
+      "use_with": ["muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-021",
+      "phrase": "You do not need to know why the cup goes upside down. Your hands know.",
+      "context": "Session 3 exit interview — final words to the man in the chapter. The teaching that needs no teacher. The body's memory outlasts explanation. The cup placed upside down is Confucius's relational practice dissolved into gesture — the man does not remember who taught him, but his hands remember.",
+      "effectiveness_marker": "Compressed the entire chapter's teaching into a single address to the reader. The hands that know without knowing are the chapter's deepest image of loss as presence — what is gone lives in what the body still does.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 31
+      },
+      "use_with": ["confucius", "muhammad"],
       "avoid_with": []
     }
   ]

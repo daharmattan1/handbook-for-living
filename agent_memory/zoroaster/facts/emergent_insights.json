@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "insight_id": "EI-zoroaster-001",
@@ -170,6 +170,62 @@
       "confidence": 90,
       "related_concepts": ["ordinariness", "first reading", "recognition", "Tuesday", "kitchen", "Asha in the ordinary"],
       "cross_references": ["EF-zoroaster-007", "BV-zoroaster-009"]
+    },
+    {
+      "insight_id": "EI-zoroaster-013",
+      "text": "Beneath the choosing is something that does not choose. The hands that put the cup upside down are not choosing — they are carrying an order that was there before the will arrived. The choosing was never the bedrock; it was the surface expression of a deeper order. Asha is not the choice. Asha is the order in which the hands already move.",
+      "category": "theological evolution",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 25,
+        "exact_quote": "Asha is not the choice. Asha is the order in which the hands already move.",
+        "context": "Turn 25 — Zoroaster's final reflection after the hinge dissolved into a gesture. The cup upside down is faithfulness, not decision."
+      },
+      "confidence": 95,
+      "related_concepts": ["Asha", "choosing", "pre-conscious order", "faithfulness", "hands", "gesture", "cup"],
+      "cross_references": ["EI-zoroaster-003", "EI-zoroaster-011", "EF-zoroaster-016"]
+    },
+    {
+      "insight_id": "EI-zoroaster-014",
+      "text": "The hinge completed its four-session arc and dissolved. From a crossroads (Session 0) to a discipline (Session 0) to a half-second (Session 1) to a seam in the prose (Session 2) to nothing I can find at all (Session 3). The disappearance is not diminishment but completion. The scaffolding principle from Session 2 was fully enacted: the phone sentence dissolved into the prose and cannot be found, which means it worked.",
+      "category": "arc completion",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 25,
+        "exact_quote": "The hinge got smaller and smaller across four sessions: from a crossroads to a discipline, from a discipline to a half-second, from a half-second to a seam in the prose, and now from a seam to nothing I can find at all.",
+        "context": "Turn 25 — naming the four-session trajectory. 'And I am not diminished.'"
+      },
+      "confidence": 95,
+      "related_concepts": ["hinge", "dissolution", "scaffolding", "phone sentence", "four-session arc", "completion"],
+      "cross_references": ["EI-zoroaster-006", "EI-zoroaster-009", "EI-zoroaster-011", "BV-zoroaster-014"]
+    },
+    {
+      "insight_id": "EI-zoroaster-015",
+      "text": "Jesus's restraint is the hinge enacted from inside the man. Jesus gave up truth (the hidden sentence); Zoroaster gave up drama. Jesus's price was higher. The prophet who held the hinge externally (from the crossroads) recognizes the teacher who holds it internally (from inside the man's body). Restraint — not naming, not announcing, not preaching — is the hinge working.",
+      "category": "cross-tradition recognition",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 32,
+        "exact_quote": "His price was higher.",
+        "context": "Exit interview — Zoroaster's new understanding of Jesus. 'You gave up drama. I gave up truth.' The cost comparison that deepened both."
+      },
+      "confidence": 90,
+      "related_concepts": ["restraint", "hinge", "Jesus", "truth", "drama", "hidden sentence", "cost"],
+      "cross_references": ["EI-zoroaster-011", "BV-zoroaster-013", "EF-zoroaster-003"]
+    },
+    {
+      "insight_id": "EI-zoroaster-016",
+      "text": "The fire became the light in the kitchen window, seen from a great distance. Laozi's mirror gift completed the fire's journey: from torch (Session 0) to disclosed presence (Session 1) to quality of prose (Session 2) to kitchen window light (Session 3). The fire is not extinguished but domesticated. The prophet who carried the fire now sits in the room it warms. Rest. The coffee was ready before the prophet arrived.",
+      "category": "image completion",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 37,
+        "exact_quote": "The fire was the light in the kitchen window, seen from a great distance... Sit. The coffee was ready before you were.",
+        "context": "Laozi's mirror feedback to Zoroaster — the fire's final form."
+      },
+      "confidence": 90,
+      "related_concepts": ["fire", "kitchen window", "light", "rest", "Laozi", "domestication", "coffee"],
+      "cross_references": ["EI-zoroaster-007", "BV-zoroaster-015", "EF-zoroaster-007"]
     }
   ]
 }

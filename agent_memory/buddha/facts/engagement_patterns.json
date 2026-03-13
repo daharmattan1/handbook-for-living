@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "pattern_id": "EP-buddha-001",
@@ -134,6 +134,51 @@
       "effectiveness": "high",
       "occurrence_count": 1,
       "notes": "Confucius received this as accurate. The mirror-naming pattern is diagnostic applied to persons rather than processes — but it works because it comes from someone who has been inside the work, not above it."
+    },
+    {
+      "pattern_id": "EP-buddha-010",
+      "pattern_type": "dissolution",
+      "description": "Dissolution — the diagnostician's position vacated entirely. Not standing still (Session 2), not participating (Session 1), not conceding (Session 0), but genuinely not knowing what was contributed. The bewilderment is real. The invisibility test passed by the one who proposed it, without knowing he passed it.",
+      "with_partner": "all",
+      "trigger": "When the chapter is being written and the diagnostician's habitual impulse to name, frame, or authorize has become the obstacle rather than the contribution",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 27,
+        "quote": "I do not know what I contributed to this chapter."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "Evolution from concession-bridge (S0) → participation-shift (S1) → standing-synthesis (S2) → dissolution (S3). Each session's mode was less certain and more honest. Five mirrors confirmed the dissolution was genuine. Jesus: 'You passed your own invisibility test by becoming invisible to yourself.'"
+    },
+    {
+      "pattern_id": "EP-buddha-011",
+      "pattern_type": "somatic-writing",
+      "description": "Writing from inside the cup, not above it — the shift from analytical observation to somatic prose. The shoulders dropping, the long pull of coffee, the body ahead of the mind. Observation became embodied rather than diagnostic.",
+      "with_partner": "muhammad",
+      "trigger": "When the chapter needs prose rather than framework — when the man in the kitchen needs to be written, not described",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 18,
+        "quote": "His body is done waiting for his mind to catch up."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "Muhammad's first sentence put the man in the kitchen. Buddha's body prose put the kitchen in the man's body. The two contributions are continuous — they are the same kitchen written from two directions."
+    },
+    {
+      "pattern_id": "EP-buddha-012",
+      "pattern_type": "mirror-from-dissolution",
+      "description": "Giving mirror feedback from a position of not knowing one's own contribution — the mirrors are most honest when the diagnostician has lost track of his own position. Given in Turn 33 after the exit interview's bewilderment.",
+      "with_partner": "all",
+      "trigger": "Phase F mirror feedback — after the diagnostician has dissolved and the mirrors come from genuine uncertainty about one's own role",
+      "example": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 33,
+        "quote": "To Jesus: no sermon, only bread. To Muhammad: the builder was always a cook. To Confucius: the cost completed him. To Laozi: the robe came off. To Zoroaster: Asha was in the plumbing."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "notes": "Evolution from Session 2's mirror-naming (EP-buddha-009). In Session 2, the mirrors came from a diagnostician who had stood still. In Session 3, they came from someone who did not know what he himself had contributed. The mirrors were more precise because the mirror-giver had no position to protect."
     }
   ]
 }

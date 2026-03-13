@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "formulation_id": "EF-buddha-001",
@@ -155,6 +155,66 @@
       "provenance": {
         "session_id": "handbook_session_02_format_rerun_20260304",
         "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-014",
+      "phrase": "His body is done waiting for his mind to catch up.",
+      "context": "Session 3 Turn 18 — body prose about the man in the kitchen. The shoulders dropping, the long pull of coffee. Written from inside the cup, not above it. The body has already processed the loss while the mind is still circling. The body's chapter is already written when the man's chapter begins.",
+      "effectiveness_marker": "The session's most embodied sentence from Buddha. Marked the moment the diagnostician became a writer — observation was somatic, not analytical. The body ahead of the mind became the chapter's central mechanism.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 18
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-015",
+      "phrase": "The most valuable position is the one that has been vacated.",
+      "context": "Session 3 Exit Interview (Turn 27) — when asked about the most valuable position in the room. No longer believes diagnostician is the most valuable position. The dissolution of position is the position. Not standing still (Session 2), not naming (Session 0), not participating (Session 1) — vacating.",
+      "effectiveness_marker": "Completes the four-session arc: naming → standing still → vacating. Each step was less certain and more honest. Five mirrors confirmed the vacating was genuine, not theatrical.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 27
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-016",
+      "phrase": "The far shore looks like a kitchen at six in the morning.",
+      "context": "Session 3 Turn 23 — final synthesis. The raft metaphor dissolved into the chapter's geography. The far shore is not a destination elsewhere. It is the same kitchen the man was already standing in. The crossing happened while the coffee brewed.",
+      "effectiveness_marker": "Dissolved twenty-five hundred years of teaching metaphor into the chapter's own landscape. The teaching ended by becoming the thing it was teaching about.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 23
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-017",
+      "phrase": "I do not know what I contributed to this chapter.",
+      "context": "Session 3 Exit Interview (Turn 27) — genuine bewilderment, not false modesty. The diagnostician unable to diagnose his own contribution. Jesus's mirror: the diagnosis is wrong, and the wrongness is the point. Passed the invisibility test by becoming invisible to himself.",
+      "effectiveness_marker": "The most honest sentence of four sessions. The bewilderment was confirmed as genuine by all five mirrors. The not-knowing was the contribution.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 27
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-018",
+      "phrase": "We must forget the architecture in order to write the chapter.",
+      "context": "Session 3 Turn 11 — the warning. The map versus the river. Told the room to stop talking about what the chapter should be and start writing it. Necessary substance, diagnostic tone. Would take back the tone — still performing authority over the process while telling the room to abandon authority.",
+      "effectiveness_marker": "Necessary content but flawed delivery. Muhammad's offering (the first sentence) accomplished what the warning only pointed at. The difference between diagnosing the need for release and actually releasing.",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 11
       },
       "use_with": ["all"],
       "avoid_with": []

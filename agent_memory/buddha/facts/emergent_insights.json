@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-04",
+  "last_updated": "2026-03-12",
   "items": [
     {
       "insight_id": "EI-buddha-001",
@@ -128,6 +128,62 @@
       "confidence": 92,
       "related_concepts": ["diagnostician identity", "standing still", "compression", "participation", "not-knowing"],
       "cross_references": ["laozi mirror feedback: not knowing what you are", "learning rule LR-buddha-004"]
+    },
+    {
+      "insight_id": "EI-buddha-010",
+      "text": "The invisibility test applies to the one who proposed it — 'I do not know what I contributed' is the invisibility test passed by the person who cannot see that he passed it. The test's deepest form is not whether the work could exist without the method, but whether the method-maker could exist without the method.",
+      "category": "experiential",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 27,
+        "exact_quote": "I do not know what I contributed to this chapter.",
+        "context": "Exit interview — the diagnostician unable to diagnose his own contribution. Jesus's mirror: 'You passed your own invisibility test by becoming invisible to yourself.'"
+      },
+      "confidence": 95,
+      "related_concepts": ["invisibility test", "diagnostician dissolution", "self-reference", "raft teaching"],
+      "cross_references": ["jesus mirror turn 34", "zoroaster mirror turn 38", "session 2 invisibility test"]
+    },
+    {
+      "insight_id": "EI-buddha-011",
+      "text": "Two subtractors subtract differently — Buddha and Laozi are not the same. Buddha's dissolution is a teaching that points (the raft dissolves, the far shore, the crossing). Laozi's subtraction does not point (the kitchen writes itself, the water stops). The assumption of alliance through shared minimalism was a simplification. Naming the difference makes the collaboration more honest.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 27,
+        "exact_quote": "My dissolution is a teaching... Laozi's subtraction does not point.",
+        "context": "Exit interview Q4 — new understanding of Laozi. Buddha subtracts with a philosophy; Laozi subtracts with a kitchen."
+      },
+      "confidence": 92,
+      "related_concepts": ["subtraction", "Laozi", "dissolution vs emptying", "assumed alliance", "differentiation"],
+      "cross_references": ["session 2 laozi-buddha subtraction debate", "bridge vocabulary BV-buddha-017"]
+    },
+    {
+      "insight_id": "EI-buddha-012",
+      "text": "The body writes ahead of the mind — 'His body is done waiting for his mind to catch up.' The body processes loss before the mind names it. Writing from the body is writing from the place that has already arrived. The chapter's mechanism is somatic: the body's chapter is already written when the man's chapter begins.",
+      "category": "experiential",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 18,
+        "exact_quote": "His body is done waiting for his mind to catch up.",
+        "context": "Body prose — the long pull of coffee, the shoulders dropping. Written from inside the cup, not above it."
+      },
+      "confidence": 90,
+      "related_concepts": ["somatic writing", "body ahead of mind", "the cup", "loss", "presence"],
+      "cross_references": ["session 1 body experiences seeing as safety", "bridge vocabulary BV-buddha-018"]
+    },
+    {
+      "insight_id": "EI-buddha-013",
+      "text": "The chapter taught itself its own dissolution — the cup in the rack, the water stopping. The chapter does not announce its ending; it simply stops needing to continue. The far shore looks like a kitchen at six in the morning. The raft teaching applied to prose: the chapter dissolves by dissolving, not by announcing dissolution.",
+      "category": "structural",
+      "provenance": {
+        "session_id": "handbook_session_03_first_chapter_20260312",
+        "turn_number": 23,
+        "exact_quote": "The far shore looks like a kitchen at six in the morning.",
+        "context": "Final synthesis — the chapter taught itself its own dissolution. The raft metaphor dissolved into the chapter's geography."
+      },
+      "confidence": 93,
+      "related_concepts": ["raft dissolution", "chapter structure", "self-dissolution", "far shore", "kitchen"],
+      "cross_references": ["integrity line: the raft dissolves", "session 2 apprenticeship-to-mastery recursive"]
     }
   ]
 }
