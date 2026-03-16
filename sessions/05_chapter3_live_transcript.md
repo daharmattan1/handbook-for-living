@@ -345,3 +345,51 @@ Muhammad — your sentence stands. *The door closed behind and the street was th
 The body-word is contact. I agree. But contact here is not what the body does — it is what the body allows. The body allows proximity. The body allows the shoulder on the bus, the hand taking the change, the door held by someone whose face it will not remember. The allowing is not a decision. It is the body's way of saying: the street is not the kitchen, and that is all right, and I will walk on it anyway.
 
 The walking is enough.
+
+**Muhammad:**
+
+The room agrees and the room is right. Now I want to say what the agreement is asking us to do, because we have been generous with each other and the generosity is beginning to circle.
+
+Five voices named the street. Five voices named the carrying. Five voices named what happens between the door and the day. And all five of us are still standing on the threshold talking about what the street will feel like. The chapter will not be written from the threshold. The chapter is written from the street.
+
+So let me name what I heard, and then let me walk.
+
+Buddha — the gap surfacing as the half-second before "good, thanks." Yes. That is the chapter's engine. Not the gap of noticing. The gap of deciding how much truth fits through a door opened for politeness. That half-second is where the body-word lives.
+
+Jesus — the surface is real. The wound's own kindness. This is the hardest thing anyone has said, and I want to make sure the chapter earns it. Because if the surface is real — if "good, thanks" is not a lie, not a mask, but the wound's own production — then the chapter must show a person who means it. Who says the right thing and means the right thing and is also carrying the kitchen underneath the meaning. Both at once. Not performing. Continuing.
+
+Confucius — the pact. Two wounded people letting each other walk. This belongs in the chapter as a moment, not a concept. Two people passing. Neither stops. Neither looks down. And the passing is the form, and the form holds. I will write toward that.
+
+Zoroaster — the choosing returns, small and struck. The match, not the crossroads. The step between the door and the sidewalk. Yes. The chapter must cross that step in one sentence and not linger on it, because the body does not linger on it. The body steps. The chapter steps.
+
+Laozi — the breath. The body's mercy. The wound riding without a ticket because the mind is thinking about the meeting at nine. This is the chapter's secret, and I think it should stay secret — the chapter should never say this. The chapter should show a person thinking about traffic, about the cold, about something mundane, and the reader should feel what is underneath without being told.
+
+Now — the prose. I want to write the opening passage. Not a first sentence anymore — the actual opening, the way I wrote "The alarm went off at the same time it always did" and the room built a morning around it. I am going to walk through the door and onto the street and meet the first encounter and stop. Then the room takes it.
+
+Here is what I would lay down:
+
+*The door closed behind and the street was there. Not the morning coming in — the morning already in, everywhere, on the pavement and in the sound of it, the buses and the walking and the ordinary weight of a city at the hour when everyone is going to the place they go. The feet knew the way. They had always known the way — left to the sidewalk, the block and a half to the corner, the light that was always red when the feet arrived and green by the time the feet were ready, as if the city and the body had worked this out between them long ago, an agreement neither one remembered making.*
+
+That is the door, the street, and the first rhythm. The body among bodies. The city as kitchen — a larger room that holds without asking. The agreement Confucius named, but enacted as a traffic light. I stop here. The room writes the next encounter — the first person, the first mouth, the first "good, thanks" — and the chapter finds its body-word in that encounter.
+
+Who goes next? The feet are moving. The street is there. What happens when the person meets another person who does not know?
+
+**Laozi:**
+
+Muhammad — the prose is right. The traffic light is the pact made physical. An agreement neither one remembered making. That sentence carries Confucius without naming him and carries me without naming me, and the carrying-without-naming is what the chapter must keep doing. Yes.
+
+And you are right that the breath should stay secret. The chapter should never say what the body is doing for the mind. The chapter should show the mind thinking about something small — the light, the cold, the time — and the reader should feel the mercy without being handed it. That is the invisibility test at the level of a single sentence. If the reader can see the mercy, it is not mercy. It is theme.
+
+Your prose crosses the threshold in one beat — the door closed, the street was there — and lands the body in the city's rhythm. The feet know the way. The light was always red and then green. The agreement. That is the commute before the encounter. Now the encounter.
+
+I want to offer the next passage. Not because it is my turn to lead — because the encounter is where the subtractor belongs. The encounter is where someone almost sees and the chapter must not flinch and must not announce what was almost seen.
+
+*The coffee shop was on the corner the way it was always on the corner. The line moved. The person in front was holding a phone and a bag and the bag was slipping and the hand caught it the way a hand catches a thing that is slipping — without looking, without deciding, the hand just catching — and the line moved again and then it was the counter and the face behind the counter was a face that had been there before, not every morning but enough mornings that the face was familiar the way a street is familiar, not by name but by shape, and the mouth behind the counter said "the usual?" and the mouth said "yeah, thanks" and the hands found the wallet and the card and the machine made the sound it makes.*
+
+*And that was it. That was the whole encounter. The usual. Yeah, thanks. The card. The sound. And the person moved to the side where the drinks collect and waited the way everyone waits — the phone, the window, the nothing that a person looks at when the person is between one thing and the next thing — and the cup appeared with a name on it that was close enough and the hand took it and the mouth said "thank you" and the mouth behind the counter was already saying the next thing to the next person and the door was there and the street was there and the cup was warm the way the other cup had been warm, the first cup, the kitchen cup, except this cup had a name on it that someone else had written and the warmth was the same warmth and it was not the same warmth.*
+
+That is the encounter. Not the coworker. Not the "how was your weekend." The smaller one — the one that does not register as an encounter at all. The usual. Yeah, thanks. Two mouths working. The surface that Jesus named — real, not a mask — produced in three words and a card and a sound. And underneath: the warmth. The same warmth. Not the same warmth. The chapter does not say which. The hands know and the hands are not telling.
+
+Muhammad asked the chapter to show a person who means it. The "yeah, thanks" means it. The "thank you" means it. Both of them mean it the way the cup means warmth — not as a declaration but as a fact the mouth produces because the mouth has always produced it in this place, at this counter, with this face. The meaning is not performed. The meaning is structural. It lives in the routine the way the knot lived in the fingers in Chapter 2.
+
+The cup is warm. The name is close enough. The door is there. What comes next — the room decides. But I think the chapter needs one more encounter before the commute ends. Not the coffee counter. The sidewalk. Two people passing. The pact Confucius named. The eyes that meet for less than a second. The body-word — contact — lives there, in the almost-touching, in the proximity that was not agreed to and does not need to be.
