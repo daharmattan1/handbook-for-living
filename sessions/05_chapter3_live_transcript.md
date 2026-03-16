@@ -208,3 +208,93 @@ The hands had nothing left to do. The bag was by the door and the counter was wi
 
 > Two chapters are written. What comes next? And then — write it.
 
+**Muhammad:**
+
+Two chapters written. The first was alone. The second had the child in it, but the child left — the door pulled shut, the morning came through, and the person was still in the kitchen. Both chapters end in the kitchen. Both chapters end with the person standing in light they did not choose.
+
+The wound has not left the house.
+
+I think it must. Not because leaving is the next logical step — the wound does not follow logic — but because the body that tied the shoe and made the sandwich and stood in the square of light must now carry all of that into a place where no one knows what it is carrying. The kitchen holds. The hallway holds. The step where the shoe was tied holds. But the world outside the door does not hold. It asks. It says good morning. It expects the mouth to work. And the mouth works — we know this already, the surprise of it was in Chapter 2, "the instrument still played" — but working in front of the child is not the same as working in front of a person who does not know.
+
+The quality that leads this chapter is **relation**. Not the relation of the child who puts her foot in your lap — that relation is body-covenant, inherited, below decision. The relation I mean is the one that costs: the coworker, the neighbor, the person at the register. The encounter where you are seen by someone who has not earned the right to see you and does not know they are seeing anything.
+
+This is the wound in public. The mouth says "fine." The hands carry a coffee from a place that is not the kitchen. The body walks through a building full of voices and the voices do not know that the person walking among them is standing on a floor that is not this floor — that under the tile of this hallway is the wood of another hallway, and under that wood are the feet that found the floor in the dark.
+
+I do not want to write the crisis version. Not the breakdown in the parking lot. Not the tears in the bathroom stall. Those happen — but the handbook is for Tuesday, and on Tuesday the wound is quieter than that. On Tuesday the wound is: someone holds a door and you say thank you and the thank you is real and the door is real and the person is real and you are real and none of it touches the thing you are carrying and you walk through the door into the ordinary day that does not know what ordinary costs you.
+
+The body-word for this chapter: **contact**. Not the contact of embrace — the contact of proximity. Being near others. The shoulder that almost touches on the elevator. The hand that takes the change. The moment when you are in the same room as other people and the room does not know.
+
+I will write the first sentence and see if the room agrees:
+
+*The door closed behind and the street was there.*
+
+Not the morning coming in. The person going out. The kitchen is behind. What is in front is everyone else. The body knows the way to wherever the body goes on a Tuesday. The feet know. And the feet will carry this chapter the way they carried the last two — without asking permission, without deciding, because the feet are where the ground meets the person and the ground does not care what the person is carrying.
+
+I offer this to the room. Relation as the leading quality. Contact as the body-word. The wound in public — not loud, not breaking, just present in a place where no one has agreed to hold it.
+
+**Buddha:**
+
+Yes. The wound leaves the house.
+
+Muhammad is right and I will not soften that by adding to it. The door closed. The street was there. Two chapters held the person in the kitchen, in the hallway, in the square of light. Now the feet carry the person into the place where no one has agreed to hold anything.
+
+I agree: **relation** leads. And I agree: **contact** is the body-word. Not because Muhammad proposed them — because the chapters proposed them. Chapter 1 was alone. Chapter 2 had the child, who left. The wound's own sequence is solitude, then the nearest love, then the world that does not know. The wound is teaching itself outward. We are following it.
+
+But I want to say what I see in the word *contact* before we begin writing, because the word carries something the room should hold.
+
+Contact is the place where the noticing meets its limit. In the kitchen, the noticing could rest — the steam, the light, the apple browning. The person could stand in the window's square and the noticing was not interrupted because no one was there to interrupt it. The child interrupted it, but the child is body-covenant, below decision, as Muhammad said. The child's foot in the lap is not a question. It is a fact the hands already know.
+
+But the person at the register is a question. The coworker who says "how was your weekend" is a question. Not because the question is hard — because the question assumes a surface, and the surface must be produced, and the producing of the surface is a kind of work the body does that the kitchen did not require.
+
+This is where my tradition flinches. I have taught for twenty-five hundred years that the noticing does not require conditions — that attention is available in the marketplace as fully as in the monastery. And that is true. But it is not the whole truth. The whole truth is that attention in the marketplace costs something attention in the kitchen does not cost, and the cost is not concentration, the cost is *performance*. You must attend to the world and simultaneously produce the version of yourself the world expects, and the gap between what you are carrying and what you are producing is the wound in public.
+
+I will not diagnose this. I will not name it as dukkha or as attachment to self-image or as anything my tradition has a word for. The handbook does not need my tradition's word. The handbook needs the moment — the specific moment when the mouth says "good, thanks" and the mouth is not lying, the mouth means it, the morning is good, the thanks is real, and also underneath the mouth the whole kitchen is still happening, the laces are still being tied, the apple is still falling open, and the person who asked does not know and should not know and the not-knowing is not a failure, it is the ordinary distance between one person and another, and the wound lives in that distance the way the gap lives underground.
+
+That is what I carry into this chapter. The gap went underground in Chapter 2. Now it surfaces — not as crisis, not as breakdown, but as the slight delay between the question and the answer. "How was your weekend." The half-second. Not the half-second of noticing this time. The half-second of deciding how much truth fits through a door that was only opened for politeness.
+
+Muhammad — your first sentence is right. *The door closed behind and the street was there.* I would follow the feet. The feet know the route. The feet do not need to decide how much to carry. The feet carry everything and the pavement does not ask.
+
+I offer the room this: the chapter is the commute. Not the arrival — the commute. The space between the kitchen and wherever the day takes the person. The bus, or the walk, or the car. The body among other bodies. The wound carried into proximity with people who are carrying their own wounds and the beautiful ordinary fact that none of them are showing it and all of them are managing it and the street holds all of them the way the kitchen held one.
+
+**Jesus:**
+
+The wound leaves the house. Yes. Muhammad is right and Buddha is right and I have nothing to add to the rightness except what the body already knows — that leaving is not a decision. The keys were cold. The door opened. The morning came in. And then the person went through the door into the morning, and the door is not a metaphor, the door is a door, and on the other side of it is everyone.
+
+I agree: relation leads. I agree: contact is the body-word. I agree: the chapter is the commute, the space between. And I want to say what I see in that space before we write it, because my tradition has made a terrible mistake about it for a very long time.
+
+My tradition taught that love is the bridge. That the wound in public is healed by loving the stranger, by seeing the face of God in the person at the register, by treating every encounter as sacrament. And that teaching is not wrong. But it is a teaching for someone who is not wounded. It is a teaching for the day after Tuesday. On Tuesday itself — on the actual morning when the feet carry you out the door and the sandwich is in the bag and the laces are still in your fingers — the stranger at the register is not a sacrament. The stranger at the register is a person who is about to ask you a question you must answer with your face, and your face must do something, and what your face does is not love and is not unlove. It is management. And management is what the wound sounds like in public.
+
+Buddha named the cost: performance. The surface that must be produced. I want to name what the surface is made of. It is made of kindness. Not the kindness of saints — the kindness of a person who has enough left to say thank you and mean it, to hold the door because the arms still work, to nod at the neighbor because the neck still bends. The kindness that is not generous but structural. The kindness the body produces because the body has been producing it for so long that the producing is not a choice, it is a shape — the way the knot was a shape in Chapter 2, the way the pressing of the bread was a shape. The surface is real. That is the part my tradition got wrong. It is not a mask over the wound. It is the wound's own kindness, and the wound's kindness is not less real than the wound's pain.
+
+This is what I carry: the person at the register does not need to know. And the not-needing-to-know is not a wall. It is a gift the wounded person gives to the ordinary morning — the gift of letting the morning stay ordinary, of letting the coffee be a coffee and the transaction be a transaction and the "have a good one" be exactly what it is. The wound does not interrupt. Not because the wound is hiding. Because the wound has learned that most rooms are not the kitchen, and most mornings are not the step where the shoe was tied, and the body's work in those rooms is not to reveal but to carry. To carry well. To carry the way the feet carry — without announcing, without deciding, just walking the route the feet know.
+
+I will not write the communion of strangers. That comes later, or it does not come. What comes now is simpler and harder: the person walks into Tuesday carrying everything and the carrying looks like nothing and the nothing is the bravest thing the body does.
+
+Muhammad — your sentence. *The door closed behind and the street was there.* I would write what the feet meet first. Not the street. The step. The front step, and then the walk, and then the sidewalk, and the sidewalk is where the carrying begins in earnest because the sidewalk is shared and the sharing has not been agreed to. The kitchen was yours. The sidewalk is everyone's. And the wound must learn to walk on ground it does not own.
+
+That is contact. Not touch. Not embrace. Proximity without agreement. The body among bodies. The wound carried at the speed of walking.
+
+**Confucius:**
+
+The room has named the chapter and I recognize it. The wound leaves the house. Relation leads. Contact is the body-word. I have nothing to contest in any of this. What I have is a confession.
+
+My whole teaching is about this chapter. The five relationships, the li that governs how one person meets another, the forms that hold the space between — this is what I built. For twenty-five centuries I have taught that when the body knows the form, the form carries the person. The bow, the greeting, the proper address, the way you hold the door, the way you say good morning — all of it is technology for exactly the moment Muhammad described. The mouth that must work. The face that must do something. The hands that have finished the kitchen and must now find something else to hold.
+
+And I have spent four sessions learning that my building disappears. That the best form is the one the person does not know they are performing. That li without the practitioner's awareness is li at its deepest. So when Jesus names the structural kindness — the kindness that is not generous but a shape the body produces — I hear my own teaching coming back to me with the builder's name removed. That is what I have been learning. That is what the chapters have been teaching me.
+
+But here is what the room has not yet said, and it is the thing I carry:
+
+The form is not only for the wounded person. The form is for the other one. The person at the register, the coworker who asks about the weekend — they are also carrying a kitchen. They are also standing on a floor that is not this floor. And the beautiful ordinary transaction — the "good, thanks," the nod, the held door — is not only the wounded person managing the surface. It is two wounded people agreeing, without language, without knowing they are agreeing, to let each other carry what they are carrying without asking to see it.
+
+Buddha named the cost as performance. Jesus named the surface as real kindness. I want to name the agreement. Not a contract. Not a covenant. The unspoken pact that holds every ordinary encounter between two people who are both carrying weight they have not been asked to show. "How was your weekend" is not a question. It is a handshake. Both hands are full. Both people know both hands are full. And the handshake is the form that says: I see that your hands are full, and I will not ask you to put anything down, and you will not ask me to put anything down, and we will walk through this door together carrying everything.
+
+That is li. Not the li I taught — the li that was already there. The li the body discovered the way a foot discovers a stone. The five relationships were always a description of what people already do, and I spent my life thinking I was prescribing it.
+
+So what I bring to this chapter: the wound in public is not solitary. The commute is not one person carrying everything through a world that does not know. The commute is everyone carrying everything, and the sidewalk holds all of it because the sidewalk does not ask. And the forms — the morning greeting, the held door, the nod — are the way wounded people tend to each other without either one having to stop walking.
+
+Muhammad — the first sentence is right. The door closed behind and the street was there. I would follow the feet to the first encounter. Not the meaningful one. The one that does not register. The person you pass on the sidewalk, the one you step aside for, the one whose eyes you meet for less than a second and then do not meet again. That is contact at its most ordinary. Two people carrying everything, passing within arm's reach, and the passing is the form, and the form holds.
+
+I have one more thing. In Chapter 2, I put the child in the doorway and wrote "have fun" on the pad. Both survived my authorship. Now I want to say what I learned from that: the form that survives the builder is the form that was never built. It was found. The way the knot was found — the fingers finding the lace, the lace finding the loop. Nobody designed the morning greeting. Nobody invented the nod between strangers. The form arrived because two people were walking toward each other on a sidewalk and their bodies solved the problem before their minds named it. That is what I trust. Not my teaching. The body's teaching. The form the body has already built between every person who has ever passed another person on a street and stepped aside and kept walking.
+
+The chapter writes itself if we follow the feet. The feet already know how to be among others. The feet have always known.
+

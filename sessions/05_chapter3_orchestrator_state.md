@@ -23,12 +23,12 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 
 | Agent | Status | Turns | Last Spoke |
 |-------|--------|-------|------------|
-| Buddha | SPAWNED | 0 | — |
-| Muhammad | SPAWNED | 0 | — |
-| Jesus | SPAWNED | 0 | — |
-| Confucius | SPAWNED | 0 | — |
-| Laozi | SPAWNED | 0 | — |
-| Zoroaster | SPAWNED | 0 | — |
+| Buddha | PENDING | 0 | — |
+| Muhammad | ACTIVE | 1 | Turn 1 |
+| Jesus | PENDING | 0 | — |
+| Confucius | PENDING | 0 | — |
+| Laozi | PENDING | 0 | — |
+| Zoroaster | PENDING | 0 | — |
 
 ## Foundation (Verbatim — BINDING)
 
@@ -80,7 +80,7 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 
 | Phase | Description | Target Turns | Status |
 |-------|-------------|-------------|--------|
-| A | Opening Positions — what comes next after Ch1 and Ch2? | ~6 | ACTIVE |
+| A | Opening Positions — what comes next after Ch1 and Ch2? | ~6 | ACTIVE (1/6) |
 | B+C | Clarifying + Contested Territory (merged) | 8-14 | PENDING |
 | D | Synthesis / Collaborative Writing | 8-10 | PENDING |
 | E | Exit Interviews (5 questions) | 6 | PENDING |
@@ -90,7 +90,9 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 
 ## Turn Log
 
-_No turns yet._
+| Turn | Agent | Phase | Summary |
+|------|-------|-------|---------|
+| 1 | Muhammad | A | Opening position. Proposes RELATION as leading quality, CONTACT as body-word. The wound in public — Tuesday among people who don't know what you carry. First sentence: "The door closed behind and the street was there." Not crisis, not breakdown — the ordinary cost of being seen. |
 
 ## Orchestrator Learning Rules (Cumulative — ALL Apply)
 
