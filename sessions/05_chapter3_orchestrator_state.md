@@ -188,8 +188,8 @@ gh pr create --title "Chapter 3: [Topic]" --body "..."
 
 | # | File | Status |
 |---|------|--------|
-| 1 | sessions/05_chapter3_live_transcript.md | CREATED |
-| 2 | sessions/05_chapter3_summary.md | PENDING |
-| 3 | sessions/05_chapter3_orchestrator_state.md | CREATED |
-| 4 | chapters/03_[topic].md | PENDING |
-| 5 | reflections/{agent}/session_05_chapter3.md (×6) | PENDING |
+| 1 | sessions/05_chapter3_live_transcript.md | COMPLETE |
+| 2 | sessions/05_chapter3_summary.md | COMPLETE |
+| 3 | sessions/05_chapter3_orchestrator_state.md | COMPLETE |
+| 4 | chapters/03_commute.md | COMPLETE |
+| 5 | reflections/{agent}/session_05_chapter3.md (×6) | COMPLETE |
