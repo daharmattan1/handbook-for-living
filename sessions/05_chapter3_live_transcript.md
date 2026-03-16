@@ -298,3 +298,50 @@ I have one more thing. In Chapter 2, I put the child in the doorway and wrote "h
 
 The chapter writes itself if we follow the feet. The feet already know how to be among others. The feet have always known.
 
+**Zoroaster:**
+
+Four voices have said the wound leaves the house. I agree. Relation leads. Contact is the body-word. The door closed and the street was there. I have nothing to contest. What I have is the thing none of us has said yet, and it is the thing I almost missed because I have spent four sessions learning to stay in the kitchen.
+
+The street is where the choosing returns.
+
+Not the crossroads I carried in — not Truth or Lie, not the bright fork. I gave that up. I gave it up honestly. The fire was already in the room. Asha was the world's faithfulness. The door opened and the morning came in. I wrote that ending and meant it.
+
+But the street is not the kitchen. The kitchen was faithful. The window held the light because that is what it was for. The counter held the bread because that is what counters do. The child put her foot in the lap because the lap was where the foot went. Everything in the kitchen was Asha — the world's order doing what the world's order does. And the person in the kitchen did not have to choose because the kitchen had already chosen.
+
+The street has not chosen. The street is not faithful in the way the kitchen is faithful. The street is faithful in a harder way — it holds everyone, as Confucius said, but it holds everyone the way a road holds traffic: without preference, without warmth, without knowing who is carrying what. The kitchen knew. The hallway knew. The step where the shoe was tied knew. The street does not know and will not learn.
+
+And so the choosing comes back — but smaller than I ever preached it. Not the choice between truth and lie. The choice between showing and carrying. The choice Buddha named as the half-second. The choice Jesus named as structural kindness. The choice Confucius named as the handshake between full hands. Every one of those is a choice. The body makes it so fast the mind does not register it as choosing, but it is choosing — the mouth choosing "good, thanks," the face choosing the shape it holds, the feet choosing the speed they walk, the eyes choosing how long they meet the other eyes. A hundred tiny choosings between the front step and wherever the feet are going.
+
+This is the crossroads I did not know I was preaching. Not the bright fork. The dim one. The one that happens every four seconds on a sidewalk, below thought, below decision, in the body's own language of proximity. And Asha is not the kitchen's faithfulness now — Asha is the person's faithfulness. The person choosing, a hundred times before the commute is over, to carry well. To let the surface be real. To let the morning stay ordinary. To walk through the door that was only opened for politeness and say the right thing and mean it and keep walking.
+
+I hear what Confucius said — the form was never built, it was found. Yes. But the finding is not passive. The foot discovers the stone, but the foot was walking. The fingers find the lace, but the hands were reaching. The form was found because the body chose to walk toward other people instead of away from them. That is the choice. Not dramatic. Not the crossroads with fire on both sides. Just the feet, on the step, turning left toward the sidewalk instead of going back inside. Every morning. The smallest choosing. The one that looks like nothing.
+
+Muhammad — your sentence. *The door closed behind and the street was there.* I would write the step. The single step between the door and the sidewalk. The threshold that is not a threshold — no one blesses it, no one marks it, no one stops. But the body knows. The body knows that the kitchen is behind and the street is ahead and the step between them is where the carrying changes from private to public, from held to performed, from the quiet of one person in light to the quiet of one person among many. That step is the choosing. The feet do not pause on it. But they cross it, and the crossing is the fire — not arriving, not already present, but struck, the way a match is struck, by the friction of the foot against the ground it does not own.
+
+I said the fire was already in the room. I still believe that. But the fire in the kitchen was ember. What the street needs is not ember. What the street needs is the match — the small, struck thing, the choosing that happens at the speed of walking, that lights nothing dramatic, that no one sees, that burns for exactly the time it takes to say "morning" to a stranger and keep going.
+
+That is what I bring. The choosing was never the crossroads. The choosing was always the step.
+
+**Laozi:**
+
+The room agrees and I have nothing to argue with. So I will not argue. I will say what is underneath the agreement, because something is underneath it and none of us have put it down on the table yet.
+
+The street does not hold. That is the thing no one has said plainly enough. The kitchen held. The hallway held. The step where the shoe was tied held. The street does not hold and does not need to hold and that is why the wound can walk on it — because the ground asks nothing of the weight. The weight does not have to explain itself to the ground.
+
+Zoroaster — you brought the choosing back. The hundred small choosings below thought. I hear it. And underneath every one of those choosings is something that is not a choice. The breath. The body takes a breath before the mouth opens and that breath is not a decision and not a performance and not a surface. That breath is the body needing air. The need for air does not care whether someone has asked how your weekend was.
+
+That breath is the chapter. Not the words after it. The breath.
+
+Buddha named the cost as performance — the surface that must be produced. Jesus said the surface is real, not a mask. Confucius named the pact between two people who are both carrying. Zoroaster named the hundred choosings. All of it true. And underneath all of it: the body breathing. The lungs filling because the lungs fill. The simplest thing. The thing that was happening before the alarm and will happen after the commute and does not know it is carrying a wound because the lungs do not know anything, the lungs just open, and the opening is not bravery and not avoidance and not management. The opening is what bodies do.
+
+Jesus — you said the surface is real the way kindness is real. I want to hold something next to that. The surface is real the way the cup was real in Chapter 1 — too hot and the hands held it anyway. The body produces the surface because the body does not know how to not produce it. The mouth says "good, thanks" because answering is what mouths do. The hands hold the cup because holding is what hands do. The bravery is that the body keeps producing without knowing it is brave. The cup does not know it is being held too tightly. The mouth does not know it is doing the hardest thing.
+
+This is where I belong in this chapter. Not as the subtractor — there is nothing to subtract. The street is already empty of everything the kitchen held. Not as the host — the street hosts itself. I am the one who notices that the carrying is not work. The carrying only becomes work when the person notices they are carrying. On the bus, on the sidewalk, the wound is being carried and the person is not thinking about the wound. The person is thinking about the traffic or the cold or the meeting at nine. And the not-thinking-about-it is not avoidance. It is the body's mercy. The body gives the mind something else to do so the wound can ride without a ticket.
+
+Confucius — you named the pact. Two people carrying everything, agreeing without words to let each other walk. Underneath the pact is something simpler: it works because neither person looks down. Not because looking down is forbidden. Because the feet are moving and the sidewalk is shared and looking down would require stopping, and stopping on a shared sidewalk is something the body does not do unless it has decided to stop for everyone, and the body has not decided that. The body is walking. The body is passing. And the passing is the mercy.
+
+Muhammad — your sentence stands. *The door closed behind and the street was there.* I would follow the feet past Zoroaster's step, past the threshold, to the first encounter that is not an encounter. The stranger you do not see. Who does not see you. Who is also walking, also carrying, also not showing it. The line at the place where the coffee is not the kitchen's coffee. The wound among wounds, all invisible, all managing.
+
+The body-word is contact. I agree. But contact here is not what the body does — it is what the body allows. The body allows proximity. The body allows the shoulder on the bus, the hand taking the change, the door held by someone whose face it will not remember. The allowing is not a decision. It is the body's way of saying: the street is not the kitchen, and that is all right, and I will walk on it anyway.
+
+The walking is enough.

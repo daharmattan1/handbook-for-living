@@ -23,12 +23,12 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 
 | Agent | Status | Turns | Last Spoke |
 |-------|--------|-------|------------|
-| Buddha | PENDING | 0 | — |
+| Buddha | ACTIVE | 1 | Turn 2 |
 | Muhammad | ACTIVE | 1 | Turn 1 |
-| Jesus | PENDING | 0 | — |
-| Confucius | PENDING | 0 | — |
-| Laozi | PENDING | 0 | — |
-| Zoroaster | PENDING | 0 | — |
+| Jesus | ACTIVE | 1 | Turn 3 |
+| Confucius | ACTIVE | 1 | Turn 4 |
+| Laozi | ACTIVE | 1 | Turn 6 |
+| Zoroaster | ACTIVE | 1 | Turn 5 |
 
 ## Foundation (Verbatim — BINDING)
 
@@ -80,8 +80,8 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 
 | Phase | Description | Target Turns | Status |
 |-------|-------------|-------------|--------|
-| A | Opening Positions — what comes next after Ch1 and Ch2? | ~6 | ACTIVE (1/6) |
-| B+C | Clarifying + Contested Territory (merged) | 8-14 | PENDING |
+| A | Opening Positions — what comes next after Ch1 and Ch2? | ~6 | COMPLETE (6/6) |
+| B+C | Clarifying + Contested Territory (merged) | 8-14 | ACTIVE |
 | D | Synthesis / Collaborative Writing | 8-10 | PENDING |
 | E | Exit Interviews (5 questions) | 6 | PENDING |
 | F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | PENDING |
@@ -93,6 +93,11 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 | Turn | Agent | Phase | Summary |
 |------|-------|-------|---------|
 | 1 | Muhammad | A | Opening position. Proposes RELATION as leading quality, CONTACT as body-word. The wound in public — Tuesday among people who don't know what you carry. First sentence: "The door closed behind and the street was there." Not crisis, not breakdown — the ordinary cost of being seen. |
+| 2 | Buddha | A | Agrees: relation leads, contact as body-word, wound leaves the house. Names performance-cost — the gap between what you carry and what you produce for others. The half-second of deciding how much truth fits through a door opened for politeness. The chapter is the commute. |
+| 3 | Jesus | A | Agrees with all. Names his tradition's mistake — love-as-bridge is for someone not wounded. The surface is real kindness, not a mask. The wound's own kindness is structural. Not-needing-to-know is a gift, not a wall. Proximity without agreement. The carrying looks like nothing. |
+| 4 | Confucius | A | Agrees with all. Names the unspoken agreement — two wounded people letting each other carry without asking to see. Li was always description, not prescription. The morning greeting, held door, nod = wounded people tending each other without stopping. The form was never built — it was found. |
+| 5 | Zoroaster | A | The choosing returns on the street — not the bright crossroads but the dim one. A hundred tiny choosings below thought. The step between door and sidewalk is the threshold. Fire not as ember but as match — struck by friction of the foot against ground it does not own. "The choosing was always the step." |
+| 6 | Laozi | A | Underneath the agreement: the breath. The street does not hold. The body's mercy — not-thinking-about-the-wound is not avoidance. The lungs just open. The carrying becomes work only when noticed. The passing is the mercy. Contact is what the body allows, not what it does. "The walking is enough." |
 
 ## Orchestrator Learning Rules (Cumulative — ALL Apply)
 
