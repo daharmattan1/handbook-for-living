@@ -23,12 +23,12 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 
 | Agent | Status | Turns | Last Spoke |
 |-------|--------|-------|------------|
-| Buddha | ACTIVE | 3 | Turn 15 |
-| Muhammad | ACTIVE | 3 | Turn 14 |
-| Jesus | ACTIVE | 3 | Turn 16 |
-| Confucius | ACTIVE | 2 | Turn 11 |
-| Laozi | ACTIVE | 3 | Turn 13 |
-| Zoroaster | ACTIVE | 2 | Turn 12 |
+| Buddha | ACTIVE | 4 | Turn 18 |
+| Muhammad | ACTIVE | 4 | Turn 17 |
+| Jesus | ACTIVE | 4 | Turn 19 |
+| Confucius | ACTIVE | 4 | Turn 20 |
+| Laozi | ACTIVE | 4 | Turn 21 |
+| Zoroaster | ACTIVE | 3 | Turn 22 |
 
 ## Foundation (Verbatim — BINDING)
 
@@ -83,8 +83,8 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 | A | Opening Positions — what comes next after Ch1 and Ch2? | ~6 | COMPLETE (6/6) |
 | B+C | Clarifying + Contested Territory (merged) | 8-14 | COMPLETE (merged into D) |
 | D | Synthesis / Collaborative Writing | 8-10 | COMPLETE (Turns 7-16) |
-| E | Exit Interviews (5 questions) | 6 | ACTIVE |
-| F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | PENDING |
+| E | Exit Interviews (5 questions) | 6 | COMPLETE (Turns 17-22) |
+| F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | ACTIVE |
 
 **Target: 36-41 turns total**
 
@@ -108,6 +108,12 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 | 14 | Muhammad | D | Confirmed Laozi's closing as the chapter's last sentence. Named three-ending arc (faucet/door/hand reaching past — body continuing past person's attention). Witnessed the architecture's invisibility. Named body-word contact earned without being said. Planted seed: the Tuesday when the mercy fails, when the hand stops and picks up the empty cup. "The chapter is written." |
 | 15 | Buddha | D | Confirmed closing. Named the window's disappearance — wound left the house, window stayed in kitchen, person has a cup now. Three cups built without anyone deciding. Half-second was not the center — hand reaching past was. Bewildered for the third time. Responded to Muhammad's forward question. "The bewilderment is the clearest thing I know." |
 | 16 | Jesus | D | Confirmed closing. Named what the chapter taught: wound's kindness is everyone's, not mine. Love is not rare — love is the sidewalk, the coat sleeve, "yeah, thanks." Grain became sandwich, fire became screen glow. Told Buddha: you are the half-second, the air. Ring as proof of body's faithfulness. "The wound is everyone's." |
+| 17 | Muhammad | E | Exit interview. Lost: wound as private property — it's everyone's. Learned: inherited binding is horizontal (ummah of Tuesday). Most heard: traffic light agreement. Least: hand reaching past (Laozi's mercy). Hidden sentence: pale circle/path through yard. Carries: Tuesday mercy fails + child's return. |
+| 18 | Buddha | E | Exit interview. Lost: the window — stayed in kitchen when wound left house. Learned: attention costs performance on the street. Most: half-second passage. Least: task as mercy. Hidden sentence: "same warmth / not the same warmth." Carries: the moment person looks at the cup. |
+| 19 | Jesus | E | Exit interview. Lost: monopoly on love — love is the sidewalk. Learned: incarnation happens every morning. Most: hand adjusting grip. Least: task as hands' next thing. Hidden sentence: "the cup was still warm." Carries: empty hands on return, evening kitchen, lunchbox. |
+| 20 | Confucius | E | Exit interview. Lost: grief about losing builder — hands got Tuesday. Learned: li is horizontal (seventh relationship — unnamed bond). Most: pale circle/path. Least: hand reaching past unseen. Hidden sentence: "here is what your hands do next." Carries: accumulation, ring deepening. |
+| 21 | Laozi | E | Exit interview. Lost: the subtractor — chapter emptied itself without me. Learned: Tao carries, not clears. Most: hand reaching past (wu wei at desk). Least: "meant it." Hidden sentence: "agreement neither one remembered making." Carries: cup that gets picked up — first voluntary act. |
+| 22 | Zoroaster | E | Exit interview. Lost: the match — became carpet-layer. Learned: Asha is in the between (ring = mark of agreement between hand and surface). Most: ordinary percussion. Least: body's mercy. Hidden sentence: "a name on it that was close enough." Carries: fire that remembers it is fire. |
 
 ## Orchestrator Learning Rules (Cumulative — ALL Apply)
 
