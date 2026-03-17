@@ -20,7 +20,7 @@
 | Agent | Model | Status | Agent ID | Turns Taken |
 |-------|-------|--------|----------|-------------|
 | Muhammad | Opus | IDLE | spawned | 3 |
-| Buddha | Opus | IDLE | spawned | 3 |
+| Buddha | Opus | IDLE | spawned | 4 |
 | Jesus | Opus | IDLE | spawned | 4 |
 | Confucius | Opus | IDLE | spawned | 4 |
 | Laozi | Opus | IDLE | spawned | 3 |
@@ -43,9 +43,9 @@
 | Phase | Description | Target Turns | Status |
 |-------|-------------|-------------|--------|
 | A | Opening Positions — which wound comes next? | ~6 | COMPLETE (9 turns) |
-| B+C+D | Merged: Clarifying → Writing → Synthesis | ~14-18 | IN PROGRESS |
-| E | Exit Interviews (5 questions per agent) | 6 | NOT STARTED |
-| F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | NOT STARTED |
+| B+C+D | Merged: Clarifying → Writing → Synthesis | ~14-18 | COMPLETE (12 turns, 21 total) |
+| E | Exit Interviews (5 questions per agent) | 6 | COMPLETE |
+| F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | COMPLETE |
 
 **Target: ~26-32 turns total**
 
@@ -75,6 +75,7 @@
 | 18 | Jesus | C | Wrote child section: shoe, doorway, person sits on step, weight of foot in lap, laces, knot, child smiles at Tuesday (lands on person anyway). No glass, no grace named. "The child did not know how to do anything without the whole body." | Turn 18 |
 | 19 | Confucius | C | Wrote departure: sandwich, apple, note ("have fun"), bag, child going down steps not looking back (trust in form). Desk, cup on ring (quiet, no watching). Two cups in rack from Laozi. Form carrying without announcing. | Turn 19 |
 | 20 | Zoroaster | C | Wrote day and return: desk, cup going cold on ring, commute home, key in lock, child running, arms around legs, hand coming down to head. Empty child's cup = proof between happened. Lamp in the hallway. Person follows child deeper into house. | Turn 20 |
+| 21 | Buddha | C | CHAPTER ENDING. Evening prose: couch, child on floor with crayon, child tells story about sock at school, person makes small sound (not the laugh, the thing before it), glass unemployed. Final sentence: "The person was still" — no period, mid-sentence, mid-Tuesday. Chapter stops, doesn't end. | Turn 21 |
 
 ---
 
