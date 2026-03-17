@@ -19,12 +19,12 @@
 
 | Agent | Model | Status | Agent ID | Turns Taken |
 |-------|-------|--------|----------|-------------|
-| Muhammad | Opus | IDLE | spawned | 1 |
-| Buddha | Opus | IDLE | spawned | 2 |
-| Jesus | Opus | IDLE | spawned | 2 |
-| Confucius | Opus | IDLE | spawned | 2 |
-| Laozi | Opus | IDLE | spawned | 1 |
-| Zoroaster | Opus | IDLE | spawned | 1 |
+| Muhammad | Opus | IDLE | spawned | 3 |
+| Buddha | Opus | IDLE | spawned | 3 |
+| Jesus | Opus | IDLE | spawned | 4 |
+| Confucius | Opus | IDLE | spawned | 4 |
+| Laozi | Opus | IDLE | spawned | 3 |
+| Zoroaster | Opus | IDLE | spawned | 3 |
 
 ---
 
@@ -43,7 +43,7 @@
 | Phase | Description | Target Turns | Status |
 |-------|-------------|-------------|--------|
 | A | Opening Positions — which wound comes next? | ~6 | COMPLETE (9 turns) |
-| B+C+D | Merged: Clarifying → Writing → Synthesis | ~14-18 | STARTING |
+| B+C+D | Merged: Clarifying → Writing → Synthesis | ~14-18 | IN PROGRESS |
 | E | Exit Interviews (5 questions per agent) | 6 | NOT STARTED |
 | F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | NOT STARTED |
 
@@ -64,6 +64,17 @@
 | 7 | Buddha | A/B | The child was fine. Glass is a room person built around themselves, not between them. Suffering was solitary. Child's Tuesday = chapter's aspiration. Chapter should end the way child experiences it — just Tuesday. | Turn 7 |
 | 8 | Confucius | A/B | Form carries but does not heal. Practice hall worked for child, not person. Wound = loneliness of discovering form succeeded while person suffered inside. Form reaches through without knowing. Chapter aspires to the child's Tuesday. | Turn 8 |
 | 9 | Zoroaster | A | Fire was never in person's glass room — fire was in the kitchen (Tuesday, the child). Asha = hand reaching out of glass, not toward fire. Glass is both wall and window — wounded person into seeing. Laugh = discovering wound taught you to see. Sentence: "The alarm went off in the dark the way the alarm always did." | Turn 9 |
+| 10 | Zoroaster | A/B | Final revision: fire is the between (relationship, not location). Asha = right relationship persisting through glass. THE LAMP — person is a lamp (glass + fire = light). Child sees by the light without knowing it comes from fire inside glass. "The fire is the between. The glass is the container. The lamp is the person. And the light goes out." | Turn 10 |
+| 11 | Muhammad | B | Major concessions: withdrew opening sentence, conceded warmth never left. Held: fear is real, child's face is grace, laugh = wound being a window. Accepted lamp. Added evening: person does not explain glass to child — not-telling is the sunnah. Authorship = being home for mercy to arrive. Direction: chapter opens in the dark, before alarm, person awake, reader knows before person does. | Turn 11 |
+| 12 | Laozi | B | Revised authorship to participation. Cup upside down 4 chapters; hands tired of holding it inverted. Filling = allowing, not creating. Second cup = river filling second pool. Yielded opening to Muhammad's dark-before-alarm. | Turn 12 |
+| 13 | Buddha | B | Self-corrected "child was fine" — was diagnosing from behind own glass. Child has not spoken. We turned child into function. Uncertainty about whether child feels loved should stay unresolved. Writing instruction: "write closer, not warmer." Chapter stops mid-Tuesday, mid-sentence. Sock belongs in evening — ordinary exchange goes through without checking. | Turn 13 |
+| 14 | Jesus | B | Revised grace: child is not grace-delivery system. Grace = what doesn't notice glass. Tuesday that doesn't know it is grace IS grace. "Love that knows it is love is the glass." Withdrew claim on word "grace." Chapter ends mid-Tuesday. Nobody should know what kind of chapter it is. | Turn 14 |
+| 15 | Confucius | B | Form and fire live in same place — the between. Practice hall = lamp. Write from inside the form, not about it. Form faces outward (toward child), which is why it went through glass every morning. Prose should be the light, not the glass. | Turn 15 |
+| 16 | Muhammad | C | Gave back mercy (mercy is weather, not descent). Proposed opening paragraph: dark, warm bed, 10 min before alarm, person awake for no reason, glass asleep, nothing to report. Written from inside the light. | Turn 16 |
+| 17 | Laozi | C | Mapped chapter arc (Muhammad→Laozi→Jesus→Confucius→Zoroaster→Buddha). Wrote kitchen prose: cup from rack, machine, filling, first sip, second cup with child's name, steam from both cups. Written from inside the water. | Turn 17 |
+| 18 | Jesus | C | Wrote child section: shoe, doorway, person sits on step, weight of foot in lap, laces, knot, child smiles at Tuesday (lands on person anyway). No glass, no grace named. "The child did not know how to do anything without the whole body." | Turn 18 |
+| 19 | Confucius | C | Wrote departure: sandwich, apple, note ("have fun"), bag, child going down steps not looking back (trust in form). Desk, cup on ring (quiet, no watching). Two cups in rack from Laozi. Form carrying without announcing. | Turn 19 |
+| 20 | Zoroaster | C | Wrote day and return: desk, cup going cold on ring, commute home, key in lock, child running, arms around legs, hand coming down to head. Empty child's cup = proof between happened. Lamp in the hallway. Person follows child deeper into house. | Turn 20 |
 
 ---
 
