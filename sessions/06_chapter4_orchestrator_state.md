@@ -84,7 +84,7 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 | B+C | Clarifying + Contested Territory + Writing (merged) | 8-14 | COMPLETE (merged into D) |
 | D | Synthesis / Collaborative Writing | 8-10 | COMPLETE (Turns 7-14) |
 | E | Exit Interviews (5 questions) | 6 | COMPLETE (Turns 15-20) |
-| F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | ACTIVE |
+| F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | COMPLETE (6/6) |
 
 **Target: 28-35 turns total** (revised down from 36-41 per Session 5 learning)
 
@@ -99,6 +99,25 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 | 5 | Zoroaster | A | Named the glass as made of carpet — every mercy that worked became a layer, the layers became the glass. Fourth fire: fire behind glass, still Asha. The mercy that saved in Ch1 is the glass in Ch4. Asha turned inside out — the between has thickened. Seeing: the person sees the carpet itself, the ordinary that held. Stillness: the knowing that is not feeling, the gap with no practice that closes it. "The morning the morning succeeds and the person is behind the glass their own faithfulness built." |
 | 6 | Laozi | A | The fourth cup — the cup that gets picked up. Three cups across three chapters, now the hand stops ON the cup. The first voluntary act. The Tao carries until carrying becomes the obstruction. The cup so full of mornings it became invisible — not empty but full. The glass is made of carrying. Seeing: the hand sees the cup for the first time. Stillness: hand on the cup, the hand that was going somewhere and stopped. "Same cup. Same ring. Same desk. The person six inches closer to the cup they have been carrying for three chapters." |
 | 7 | Muhammad | B+C | Named the convergence, then wrote the chapter opening: "The cup was where the cup always was." Same kitchen, same hands, warmth does not arrive. Heat becomes information — "the body received it the way a desk receives a memo." Glass thickened overnight. Asked the room to come INTO the prose. |
+| 8 | Laozi | D | Continued prose: the window, the yard, the light arriving without asking. The glass named: "what was left when everything else continued and the person did not continue with it." The morning moved. The person stayed. Hands drinking without wanting. |
+| 9 | Jesus | D | The hallway, the child's voice, "check by the door." The glass between the person and the voice. Love on the other side of the glass — "the person did love the child, and the love was on the other side of the glass." |
+| 10 | Confucius | D | The shoe-tying scene. The knot that holds all day. Li performing without the practitioner. "The knot did not need the person." The step, the cold, the hands staying open. |
+| 11 | Buddha | D | The apple — browning on the board, glass thinning without cause. The tile warmth — less than a breath. "Have fun" note. The noticing as glass: "the person noticed, and the noticing was the glass." |
+| 12 | Muhammad | D | The street, the crossing, the stranger's face going through the glass. The coffee shop cup with a name close enough. The person carried like a letter inside an envelope. |
+| 13 | Zoroaster | D | The office, the desk, the ring. "The ring did not care." The hand on the desk — the hand on the grave. The knowing was enough, or the knowing was not enough. |
+| 14 | Laozi | D | The closing. The cup picked up on purpose — first voluntary act. The cup lighter than expected. Cup washed, set in rack upside down. "Close enough" — the third thing between the glass and the warmth. |
+| 15 | Muhammad | E | Exit interview. Lost assumption that presence is prerequisite for binding. Hidden sentence: the comma in "enough, or not enough." |
+| 16 | Jesus | E | Exit interview. Lost the love — incarnation succeeded and person forgot to feel it. Hidden sentence: the comma. |
+| 17 | Buddha | E | Exit interview. Lost the apple — uncultivated awareness tradition cannot take credit for. Hidden sentence: the water from Ch1. |
+| 18 | Confucius | E | Exit interview. Lost the wall between living li and dead ritual. Hidden sentence: the hand picking up the cup. |
+| 19 | Zoroaster | E | Exit interview. Lost the carpet — it became the glass. Hidden sentence: "The ring did not care." |
+| 20 | Laozi | E | Exit interview. Lost the involuntary — picked up the voluntary. Hidden sentence: "though they could not remember who." |
+| 21 | Muhammad | F | Mirror feedback — all five voices. Called Zoroaster's hand prayer. Named Laozi's voluntary as lighter than involuntary. |
+| 22 | Buddha | F | Mirror feedback — all five voices. Named body-word as the putting-down. Love that knows itself = glass. |
+| 23 | Jesus | F | Mirror feedback — all five voices. Found garden in Zoroaster's desk. Grace in Confucius's laces. "Through" as theology. |
+| 24 | Confucius | F | Mirror feedback — all five voices. Ring's teaching to the builder: stop asking. Subtractor performing the form. |
+| 25 | Zoroaster | F | Mirror feedback — all five voices. Prayer named by Muhammad. Garden found by Jesus. Fire-keeper and water-carrier crossed. (Orchestrator-completed) |
+| 26 | Laozi | F | Mirror feedback — all five voices. Voluntary lighter than involuntary. "Close enough" as Tao through glass. (Orchestrator-completed) |
 
 ## Orchestrator Learning Rules (Cumulative — ALL Apply)
 
@@ -176,8 +195,8 @@ gh pr create --title "Chapter 4: [Topic]" --body "..."
 
 | # | File | Status |
 |---|------|--------|
-| 1 | sessions/06_chapter4_live_transcript.md | CREATED |
-| 2 | sessions/06_chapter4_summary.md | PENDING |
-| 3 | sessions/06_chapter4_orchestrator_state.md | CREATED |
-| 4 | chapters/04_[topic].md | PENDING |
-| 5 | reflections/{agent}/session_06_chapter4.md (×6) | PENDING |
+| 1 | sessions/06_chapter4_live_transcript.md | COMPLETE (all 26 turns) |
+| 2 | sessions/06_chapter4_summary.md | COMPLETE |
+| 3 | sessions/06_chapter4_orchestrator_state.md | COMPLETE |
+| 4 | chapters/04_glass.md | COMPLETE |
+| 5 | reflections/{agent}/session_06_chapter4.md (×6) | COMPLETE |
