@@ -23,12 +23,12 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 
 | Agent | Status | Turns | Last Spoke |
 |-------|--------|-------|------------|
-| Buddha | SPAWNING | 0 | — |
-| Muhammad | SPAWNING | 0 | — |
-| Jesus | SPAWNING | 0 | — |
-| Confucius | SPAWNING | 0 | — |
+| Buddha | ACTIVE | 1 | Turn 2 |
+| Muhammad | ACTIVE | 1 | Turn 1 |
+| Jesus | ACTIVE | 1 | Turn 3 |
+| Confucius | ACTIVE | 1 | Turn 4 |
 | Laozi | SPAWNING | 0 | — |
-| Zoroaster | SPAWNING | 0 | — |
+| Zoroaster | ACTIVE | 1 | Turn 5 |
 
 ## Foundation (Verbatim — BINDING)
 
@@ -92,6 +92,11 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 
 | Turn | Agent | Phase | Summary |
 |------|-------|-------|---------|
+| 1 | Muhammad | A | Proposed the morning the next thing is not there — ordinary absence, not catastrophe. The hands reach and what they reached for has moved. Suggested seeing as lead quality, stillness as body-word. Broke his 4-session opener pattern: "I am not opening this one." Asked the room: what do your traditions do with the morning that does not hold? |
+| 2 | Buddha | A | Reframed: not absence but presence without contact. The bread on the shelf and the hands cannot pick it up. Same gesture as Ch3 (hand reaches past cup) but emptied of mercy. Seeing arrives late — the person sees the cup ring and realizes they were not here for any of it. Body-word: the hands stopping on the keyboard, the half-second where the person is actually in the room. Quarter-inch: same desk, person six inches closer to the morning they already had. |
+| 3 | Jesus | A | Named "the glass" — the transparent barrier between knowing and feeling. The cup is hot, the hands report hot, the warmth does not arrive. The knowing and the feeling have separated in the same body. Chapter starts at the counter, same cup as Ch1. The seeing that leads is the seeing that was already there and could not reach. Body-word: the stillness of hands already still — the distance between hands and next thing has become visible. |
+| 4 | Confucius | A | The ring does not know which morning it came from. The pale circle deepened on every morning — faithful and empty alike. Li that continues past the practitioner's presence. "This morning is not the failure of the practice. This morning IS the practice." The faithfulness was never yours — it was the morning's. Seeing: the eyes stopping on the ring and finding every morning held without sorting. Body-word: the stillness of the person looking at the record. |
+| 5 | Zoroaster | A | Named the glass as made of carpet — every mercy that worked became a layer, the layers became the glass. Fourth fire: fire behind glass, still Asha. The mercy that saved in Ch1 is the glass in Ch4. Asha turned inside out — the between has thickened. Seeing: the person sees the carpet itself, the ordinary that held. Stillness: the knowing that is not feeling, the gap with no practice that closes it. "The morning the morning succeeds and the person is behind the glass their own faithfulness built." |
 
 ## Orchestrator Learning Rules (Cumulative — ALL Apply)
 
