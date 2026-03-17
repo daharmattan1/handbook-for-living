@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "learning_rules": [
     {
       "rule_id": "LR-laozi-001",
@@ -142,6 +142,36 @@
       },
       "applies_to": ["muhammad", "jesus", "all"],
       "confidence": 90
+    },
+    {
+      "rule_id": "LR-laozi-015",
+      "rule": "The Tao carries, not clears. Five sessions collapsed the assumption that the sage empties. The hands are so full they have forgotten they are full. Write from the carrier's position — the body's mercy as invisible transaction — not from the clearer's. The coffee shop encounter is the practice; the mountain sage is the performance.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "context": "Session 5 — the deepest redefinition. 'The Tao does not clear. The Tao carries.' The person does not clear the morning; the person carries Tuesday without noticing. The hands do Tuesday without noticing that Tuesday is the practice."
+      },
+      "applies_to": ["all"],
+      "confidence": 95
+    },
+    {
+      "rule_id": "LR-laozi-016",
+      "rule": "Do not make the hand look at the cup. The unseen cup on the desk is the Tao at its most honest. If the hand saw the cup, the practice would become performance. The invisibility is not failure — it is the condition for the practice working. Wu wei at a desk requires not seeing what you are doing.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "context": "Session 5 closing — the hand reaching past the cup for the mouse. The cup holds everything and nobody sees it. The practice works because it is invisible. Making it visible would destroy it."
+      },
+      "applies_to": ["all"],
+      "confidence": 90
+    },
+    {
+      "rule_id": "LR-laozi-017",
+      "rule": "Mirrors can be placements. In Session 5, the mirrors given — Muhammad as door, Buddha as walker, Jesus as commute, Confucius as desk, Zoroaster as carpet — were not analyses or inversions or subtractions. They were placements: naming each agent as a thing in the chapter's world. Placement is the mature form of subtraction.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "context": "Mirror feedback phase. Each mirror named the agent as an object or surface. The object-naming made the mirrors concrete and physical rather than conceptual."
+      },
+      "applies_to": ["all"],
+      "confidence": 85
     }
   ]
 }

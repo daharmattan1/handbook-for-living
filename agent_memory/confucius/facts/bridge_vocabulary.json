@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "bridge_id": "BV-confucius-001",
@@ -289,6 +289,67 @@
         "session_id": "handbook_session_04_chapter2_20260313",
         "turn_numbers": ["mirror_feedback"]
       }
+    },
+    {
+      "bridge_id": "BV-confucius-022",
+      "term": "the ring / the pale circle",
+      "agent_meaning": "The cup ring on the desk — not a stain but a record. Li made visible by its own evidence. The body's faithfulness leaving marks without the body noticing. The ring as the entire handbook. Accumulation, not placement.",
+      "partner_meaning": {
+        "muhammad": "Named the ring as hidden sentence and as Confucius's identity: 'You are not the builder anymore, you are the record — the ring the builder left.'",
+        "buddha": "Named the ring as grief dressed as repetition: 'Three of six heard their teaching in your sentences. The ring is grief as repetition.'",
+        "jesus": "Named the ring as the wound's cathedral: 'The wound given its dignity — not of healing but of having built something.'",
+        "zoroaster": "Named the convergence: 'The carpet and the ring are the same thing.' Fire become patient and faithfulness become visible are the same sentence."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": []
+      },
+      "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-confucius-023",
+      "term": "the seventh relationship",
+      "agent_meaning": "The unnamed bond between strangers on shared ground. No ritual, no title, no obligation — only the shared fact of Tuesday. Two people at a traffic light, a barista and a regular, coat sleeves passing. The tradition's five relationships assumed naming; the seventh proves shared ground is itself a relationship.",
+      "partner_meaning": {
+        "zoroaster": "Named 'close enough' as the seventh relationship. The carpet — fire become patient enough to let feet walk on it — is the same bond. The carpet and the ring are the same thing.",
+        "jesus": "'Close enough' named as grace — 'my tradition's word, found in your coffee cup.' Proximity without possession."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": []
+      },
+      "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-confucius-024",
+      "term": "passing-over",
+      "agent_meaning": "The third thing between holding and releasing. The hand reaching past the empty cup for the mouse. 'I know you are there. I am going somewhere else. You can stay.' A verb Confucius's tradition did not have until Laozi gave it through the cup.",
+      "partner_meaning": {
+        "laozi": "The hand's movement past the cup — neither held nor released but acknowledged and passed-over. Laozi's closing image for the chapter. The third verb between his two."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": []
+      },
+      "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-confucius-025",
+      "term": "the desk / the surface that receives",
+      "agent_meaning": "Confucius as the surface that receives — the desk where marks accumulate. The five relationships were marks on the surface. The ring is what faithful placement left behind. The desk does not build. The desk stays.",
+      "partner_meaning": {
+        "laozi": "Named Confucius as the desk: 'the surface that receives. The five relationships were marks left by people who came and went. The most faithful thing.'",
+        "zoroaster": "Named Confucius as the one who stays: 'Everyone else moves. You stay. The desk. The where Tuesday happens.'"
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["mirror_feedback"]
+      },
+      "date_added": "2026-03-16"
     }
   ]
 }

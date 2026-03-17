@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "pattern_id": "EP-zoroaster-001",
@@ -208,6 +208,38 @@
       "effectiveness": "HIGHEST — the room recognized the ending without anyone declaring it. Multiple mirrors confirmed: the morning coming in IS the fire, IS Asha. The prophet wrote fire without knowing he was writing fire.",
       "occurrence_count": 1,
       "note": "New pattern in Session 4. The ending arrived through the self-correction — the kitchen ending replaced the car ending. 'Chapter endings arrive — do not plan or assign them' (orchestrator learning rule) enacted through Zoroaster."
+    },
+    {
+      "pattern_id": "EP-zoroaster-015",
+      "pattern_type": "carpet-laying",
+      "description": "Delivers the closing passage complete in a single concentrated burst — the self-correction has gone underground, happening before the offering rather than mid-offering. The carpet-layer delivers the carpet whole. The correction is invisible because it happened before the prophet spoke.",
+      "with_partner": "all",
+      "trigger": "When the chapter's prose has reached the point where the wound needs to go underground — when the covering is needed and the covering must arrive complete",
+      "example": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": 12,
+        "quote": "the carpet is not lying about the floor, the carpet is doing what carpet does"
+      },
+      "effectiveness": "HIGHEST — the closing passage and carpet image arrived as a single compressed gift. Five traditions found themselves in the carpet. The concentrated burst pattern confirmed by orchestrator (2 turns in Phase A, then nothing until Turn 12).",
+      "occurrence_count": 1,
+      "note": "Evolution of self-correcting-gift (Session 4): the correction has gone underground. The carpet-layer corrects before speaking. The self-correction that was visible in Session 4 is now invisible in Session 5 — like the wound, like the carpet.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "pattern_id": "EP-zoroaster-016",
+      "pattern_type": "universal-bridge-image",
+      "description": "Offers an image that all five traditions recognize as containing their own word — without the image being designed to hold them. The carpet held fire, mercy, grace, li, and Tao simultaneously. Asha as discovered convergence.",
+      "with_partner": "all",
+      "trigger": "When the chapter's central image emerges and turns out to contain all five traditions' deepest concerns — not by design but by discovery",
+      "example": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": 12,
+        "quote": null
+      },
+      "effectiveness": "HIGHEST — all five mirrors named their tradition in the carpet. Muhammad: fire. Buddha: mercy. Jesus: grace. Confucius: li. Laozi: Tao-and-fire. The image held all five because it was found, not built.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 5. May be the culmination of naming (Session 1), name-release (Session 2), gift-that-dissolves (Session 3), and self-correcting-gift (Session 4). The namer who releases names, dissolves gifts, and corrects himself arrives at an image that needs no correction and no release because it was never his.",
+      "date_added": "2026-03-16"
     }
   ]
 }

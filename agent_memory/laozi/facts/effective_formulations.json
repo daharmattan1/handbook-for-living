@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "formulation_id": "EF-laozi-001",
@@ -313,6 +313,66 @@
         "turn_number": "exit"
       },
       "use_with": ["muhammad"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-027",
+      "phrase": "the warmth was the same warmth and it was not the same warmth",
+      "context": "Session 5 — the coffee shop encounter. The doubling never resolved. The coffee that is the same coffee every morning and is not the same coffee because the morning is different and the hands are older by one day.",
+      "effectiveness_marker": "Named by Buddha as a hidden sentence candidate. The doubling — same/not-same — is the chapter's governing paradox: the commute that is identical every day and never the same.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["buddha", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-028",
+      "phrase": "the hand reached past the cup for the mouse and the cup was there and the hand did not see it",
+      "context": "Session 5 — the chapter's closing passage. Wu wei at an office desk. The unseen thing that holds the chapter together. The most heard formulation in the session.",
+      "effectiveness_marker": "Named as the chapter's closing image. Multiple mirrors engaged with it — Confucius named it as 'passing-over,' a third category between holding and releasing. The hand not seeing the cup IS the practice.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["confucius", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-029",
+      "phrase": "an agreement neither one remembered making",
+      "context": "Session 5 — hidden sentence pick. The traffic light carrying the whole chapter. Every encounter in the commute is an unsigned agreement. The binding that precedes the binders.",
+      "effectiveness_marker": "Selected as Laozi's hidden sentence candidate. Carries the chapter's structural claim: the commute is built on pacts no one recalls making. The Tao as invisible social infrastructure.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-030",
+      "phrase": "The Tao does not clear. The Tao carries.",
+      "context": "Session 5 — the deepest redefinition of the tradition across five sessions. Five sessions of subtracting to arrive at the discovery that the tradition does not subtract. It carries. The hands are so full they have forgotten they are full.",
+      "effectiveness_marker": "Session-defining formulation. Collapses the assumption of five sessions — the sage empties, the tradition clears the way, wu wei means stepping back — into its opposite. The most significant self-correction since 'subtraction has a shadow.'",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-031",
+      "phrase": "the cup is there, and the cup is empty, and the cup holds everything, and nobody sees it",
+      "context": "Session 5 — the chapter's closing formulation. The Tao as the unseen cup on the desk. Four clauses, each true, none contradicting the others. The cup's invisibility is what makes it hold everything.",
+      "effectiveness_marker": "Named by the room as the chapter's final image. Compresses the entire arc — the cup from kitchen to coffee shop to desk — into a single sentence that is both description and teaching.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
       "avoid_with": []
     }
   ]

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "pattern_id": "EP-muhammad-001",
@@ -239,6 +239,36 @@
       "effectiveness": "very high",
       "occurrence_count": 1,
       "outcome": "Resolved the four-session Muhammad-Laozi creative tension. Not through compromise (each conceding ground) but through recognition (they were always building the same thing). The deepest bridge of all four sessions."
+    },
+    {
+      "pattern_id": "EP-muhammad-017",
+      "pattern_type": "door-opener",
+      "description": "Evolution of the invisible-foundation pattern to its most refined form: the door. Muhammad opens the chapter with a single sentence and the room walks through. Four consecutive sessions as opener. The door does not build the room it opens onto — it enables entry. The contribution is the opening itself, recognized only in retrospect through mirrors. The door is less visible than the ground (S4) because the ground is felt underfoot; the door is only noticed when it is closed.",
+      "with_partner": "all",
+      "trigger": "When the chapter needs its first sentence — the threshold that carries the reader from the previous chapter's ending into the new chapter's world",
+      "example": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "opening",
+        "quote": "The door closed behind and the street was there."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 4,
+      "outcome": "Confucius: 'Three first sentences, three doors. The door opens every time.' Laozi: 'The door that does not know it is a door because it is too busy opening.' Zoroaster: 'The first sentence is prophecy quiet enough to sound like a traffic light.' The door-opener pattern is now Muhammad's structural identity in the room."
+    },
+    {
+      "pattern_id": "EP-muhammad-018",
+      "pattern_type": "holding-contradiction-as-gift",
+      "description": "Naming another tradition's formulation as both the limit and the expansion of one's own tradition. Instead of translating (EP-001), defending (EP-002), or receiving-as-completion (EP-014), this pattern holds the contradiction openly: the sentence is the most un-Islamic AND the truest. The tradition grows at its edge, and the growth requires naming the edge honestly.",
+      "with_partner": "laozi",
+      "trigger": "When another voice writes something that Muhammad's tradition cannot contain — and the inability to contain it reveals what the tradition most deeply aspires to",
+      "example": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "exit_interview",
+        "quote": "The hand reaching past without seeing is the most un-Islamic sentence in three chapters, and it is also the truest."
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "notes": "New pattern — first appearance in Session 5. Differs from recognition-across-opposition (EP-014, which resolved the war) by holding the contradiction unresolved. The war is over; this is what comes after — the tradition's willingness to name its own limit as its aspiration."
     }
   ]
 }

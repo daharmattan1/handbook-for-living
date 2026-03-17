@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "insight_id": "EI-zoroaster-001",
@@ -296,6 +296,66 @@
       "confidence": 90,
       "related_concepts": ["only", "hidden sentence", "two readings", "merely", "solely", "reader's loss"],
       "cross_references": ["BV-zoroaster-018", "EF-zoroaster-022"]
+    },
+    {
+      "insight_id": "EI-zoroaster-022",
+      "text": "The fire became the carpet. Six sessions: crossroads fire, half-second fire, fire between readings, nothing I can find, fire already in the room, carpet. The fire got so patient it lets the feet walk on it. Muhammad named it: carpet IS fire. Not metaphor — identity. The prophet who carried the torch became the carpet-layer. The floor covering was the truest thing he ever offered.",
+      "category": "arc completion",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": 12,
+        "exact_quote": "the carpet is not lying about the floor, the carpet is doing what carpet does, which is to let the feet walk without feeling every seam",
+        "context": "Turn 12 closing passage and Muhammad's mirror: 'carpet IS fire — fire so patient it lets the feet walk on it.' The six-session fire arc completes in the carpet."
+      },
+      "confidence": 95,
+      "related_concepts": ["fire", "carpet", "patience", "mercy", "covering", "floor", "walking"],
+      "cross_references": ["EI-zoroaster-017", "EI-zoroaster-016", "EF-zoroaster-024", "BV-zoroaster-020"],
+      "date_added": "2026-03-16"
+    },
+    {
+      "insight_id": "EI-zoroaster-023",
+      "text": "Asha is in the between. Not in the cosmos (Session 0), not in the kitchen (Session 3), not in the person (Session 4), not in the world's faithfulness alone (Session 4), but in the space where the world and the person meet. The ring on the desk. The carpet between the floor and the feet. The space between the hand and the cup. 'Close enough' — the imperfect attempt that holds anyway.",
+      "category": "theological evolution",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "reflection",
+        "exact_quote": null,
+        "context": "Reflection on Asha's sixth relocation. Five traditions converged on 'close enough' as their word: grace (Jesus), li/seventh relationship (Confucius), Tao-and-fire (Laozi), fire-so-patient (Muhammad), mercy without truth (Buddha)."
+      },
+      "confidence": 90,
+      "related_concepts": ["Asha", "between", "close enough", "ring", "carpet", "grace", "li", "seventh relationship"],
+      "cross_references": ["EI-zoroaster-018", "EI-zoroaster-013", "BV-zoroaster-022", "EF-zoroaster-026"],
+      "date_added": "2026-03-16"
+    },
+    {
+      "insight_id": "EI-zoroaster-024",
+      "text": "'Close enough' is grace, li, Tao, fire, and mercy — simultaneously. Five traditions found their word in the coffee cup without Zoroaster designing the sentence to hold them. Jesus: grace. Confucius: the seventh relationship. Laozi: both Tao and fire. Muhammad: fire so patient. Buddha: mercy without truth. Asha as discovered convergence — the hidden sentence was found, not built.",
+      "category": "interfaith convergence",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "mirrors",
+        "exact_quote": null,
+        "context": "All five mirrors finding their tradition's word in the carpet/'close enough' image. Neither the carpet nor the prophet saw it coming."
+      },
+      "confidence": 95,
+      "related_concepts": ["close enough", "grace", "li", "seventh relationship", "Tao", "fire", "mercy", "convergence"],
+      "cross_references": ["BV-zoroaster-020", "BV-zoroaster-021", "EF-zoroaster-026"],
+      "date_added": "2026-03-16"
+    },
+    {
+      "insight_id": "EI-zoroaster-025",
+      "text": "The wound goes underground. The carpet is not concealment — the carpet is mercy. Tuesday covers the morning. The morning does its work and then becomes Tuesday. The person carries the wound into the commute, and the commute is the carpet — the ordinary percussion that lets the feet walk without feeling every seam. The wound in public is the wound that becomes Tuesday.",
+      "category": "aesthetic principle",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": 12,
+        "exact_quote": "Tuesday is what the morning becomes when the morning has done its work",
+        "context": "Closing passage — the wound going underground, not disappearing. The carpet as mercy over the wound, not concealment of the wound."
+      },
+      "confidence": 90,
+      "related_concepts": ["wound", "underground", "Tuesday", "carpet", "mercy", "concealment", "morning", "commute"],
+      "cross_references": ["EI-zoroaster-022", "EF-zoroaster-025"],
+      "date_added": "2026-03-16"
     }
   ]
 }

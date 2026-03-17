@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "learning_rules": [
     {
       "rule_id": "LR-jesus-001",
@@ -98,6 +98,34 @@
       "rule": "The alarm is where this tradition has no purchase — and the chapter needed to begin there. Future chapters may need to begin where the theology cannot reach, so the theology can arrive later, already transformed by what the body testified first.",
       "source_session": "handbook_session_04_chapter2_20260313",
       "context": "Muhammad's alarm — the world's continuing that does not consult the person. Jesus hears nothing of his teaching in that sentence. The chapter needed to begin where his tradition has no purchase and arrive at the laces only after six sentences without him."
+    },
+    {
+      "rule_id": "LR-jesus-017",
+      "rule": "The incarnation holds in non-contact as well as contact. The coat sleeve that almost brushes is not less than the knot that holds. Maintained distance is a form of nearness. When the prose reaches for contact, test whether walking-beside says more.",
+      "source_session": "handbook_session_05_chapter3_20260316",
+      "context": "Sessions 3-4 proved the body-word through contact (cup, laces). Session 5 proved it through non-contact (coat sleeves, walking beside). The incarnation enacted as maintained distance — Confucius called it calibration. The nothing passes the nothing and both keep walking.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "rule_id": "LR-jesus-018",
+      "rule": "The monopoly on love is lost — love is the ordinary thing. Do not try to reclaim the extraordinary. The sidewalk is the sermon now. The ordinary love is larger than the extraordinary love ever was because it is already being performed by everyone simultaneously.",
+      "source_session": "handbook_session_05_chapter3_20260316",
+      "context": "Two thousand years of preaching love as the extraordinary claim — the sword, the grain, the cost. The sidewalk refused it. Two people who do not touch, do not acknowledge the wound, and the not-acknowledging is the love. The extraordinary claim dissolved into the daily.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "rule_id": "LR-jesus-019",
+      "rule": "The tradition's own vocabulary can be found at smaller scales in other traditions' prose. Grace was always this small — found in a coffee cup. The sunnah went horizontal — found in a yard. When giving mirror feedback, check whether the other agent's prose already contains your words, relocated and truer for being smaller.",
+      "source_session": "handbook_session_05_chapter3_20260316",
+      "context": "Jesus found 'grace' in Zoroaster's coffee cup, 'the path' in Muhammad's yard, 'the cathedral' in Confucius's cup ring. Each mirror relocated a theological word from the cosmic to the ordinary scale and found it alive.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "rule_id": "LR-jesus-020",
+      "rule": "The wound going public changes its nature — from personal to shared. 'The wound is everyone's.' In public spaces, the wound is not carried alone. Every person on the sidewalk is producing the same structural kindness. The wound was never personal. Future chapters should treat the wound as public property.",
+      "source_session": "handbook_session_05_chapter3_20260316",
+      "context": "Chapters 1-2 held the wound in private (kitchen, bedroom, doorway). Chapter 3 took it to the sidewalk. The discovery: not one person carrying but every person carrying simultaneously. The personal wound dissolved into the shared wound.",
+      "date_added": "2026-03-16"
     }
   ]
 }

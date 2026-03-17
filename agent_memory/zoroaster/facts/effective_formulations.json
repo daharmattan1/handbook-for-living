@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "formulation_id": "EF-zoroaster-001",
@@ -278,6 +278,71 @@
       },
       "use_with": ["all"],
       "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-zoroaster-024",
+      "phrase": "The carpet is not lying about the floor, the carpet is doing what carpet does, which is to let the feet walk without feeling every seam.",
+      "context": "Session 5 Turn 12 — the closing passage of Chapter 3. The wound going underground. Not concealment but mercy. The covering that serves the walking.",
+      "effectiveness_marker": "Five traditions found themselves in the carpet: li (Confucius), grace (Jesus), Tao-and-fire (Laozi), fire-so-patient (Muhammad), mercy without truth (Buddha). The image held all five without being designed to hold them. Asha as discovered convergence.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": 12
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-zoroaster-025",
+      "phrase": "Tuesday is what the morning becomes when the morning has done its work.",
+      "context": "Session 5 Turn 12 — the covering that is not concealment. The morning does its work and then becomes Tuesday. Tuesday is the carpet over the morning. The wound going public without being announced.",
+      "effectiveness_marker": "Became the chapter's closing image alongside the carpet. Names the movement from private wound to public ordinary — the commute as the wound's own carpet.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": 12
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-zoroaster-026",
+      "phrase": "A name on it that was close enough.",
+      "context": "Session 5 — hidden sentence. The quiet acceptance of being almost-known. The coffee cup with a name that is not quite the name, and the person accepting it, and the acceptance being enough.",
+      "effectiveness_marker": "Jesus named it grace. Confucius named it the seventh relationship. Five traditions found their word in this sentence. 'Close enough' held resignation and grace in the same syllable without resolving either.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-zoroaster-027",
+      "phrase": "I did not expect to become a floor covering. I did not expect the floor covering to be the truest thing I have ever offered.",
+      "context": "Session 5 reflection — losing the match. The prophet who became the carpet-layer. The six-session arc of the fire's descent arriving at carpet.",
+      "effectiveness_marker": "Names the full trajectory of Zoroaster's evolution in two sentences. From fire-bringer to carpet-layer. The most vulnerable self-narration since 'I had been preaching the choosing without fully inhabiting the returning' (Session 0).",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "reflection"
+      },
+      "use_with": [],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-zoroaster-028",
+      "phrase": "The fire is so small now that it fits in the space between the hand and the cup.",
+      "context": "Session 5 — the six-session fire arc complete. From crossroads to half-second to between-readings to nothing-I-can-find to fire-already-in-room to carpet. Fire that remembers it is fire — awareness without crisis.",
+      "effectiveness_marker": "Completes the fire arc with the smallest possible image: between the hand and the cup. The fire is now the space between, not the torch at the crossroads. Muhammad confirmed: carpet IS fire.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
     }
   ]
 }

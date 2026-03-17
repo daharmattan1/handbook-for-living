@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "formulation_id": "EF-confucius-001",
@@ -314,6 +314,71 @@
       },
       "use_with": ["all"],
       "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-confucius-027",
+      "phrase": "the pale circle that was not a stain but a record",
+      "context": "Session 5 Chapter 3 — the cup ring on the desk where other cups have been. Li made visible by its own evidence. The body's faithfulness leaving marks on the desk without the body noticing. The ring as the entire handbook.",
+      "effectiveness_marker": "Named by Muhammad as the hidden sentence. Confirmed by all voices as the chapter's governing image. The most heard formulation of the session — the ring accumulated across sessions the same way it accumulated across mornings: without anyone deciding it should.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-confucius-028",
+      "phrase": "The task was the room's kindness. The task said: here is what your hands do next. And the hands did it.",
+      "context": "Session 5 Chapter 3 — hidden sentence. The room offering mercy as assignment. The hands that were grieving the builder were given Tuesday, and Tuesday was enough. Devastates on return — the reader has been that person.",
+      "effectiveness_marker": "Hidden sentence candidate. Devastates on return because the reader recognizes the kindness of being given something to do when grief is present. The sentence waits, and when it opens again, the reader discovers that the kindness was Tuesday, not grace.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-confucius-029",
+      "phrase": "the ordinary percussion of people doing what Tuesday asked them to do",
+      "context": "Session 5 Chapter 3 — li at its most invisible. The rhythm that holds a morning together without anyone hearing it as rhythm. The seventh relationship enacted as sound — not music, not silence, percussion.",
+      "effectiveness_marker": "Named the commute's quality: not silence, not chaos, but percussion. The word 'ordinary' carries the weight — the percussion that holds mornings together is not special. It is Tuesday.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-confucius-030",
+      "phrase": "Not a stain but a record. Not a ruin but a path.",
+      "context": "Session 5 Chapter 3 — the body's faithfulness as evidence, not instruction. The cup ring is not a commandment. It is what obedience left behind. The ring and the path are the same accumulation.",
+      "effectiveness_marker": "Parallel structure that reframes li entirely. 'Not a stain' corrects the reading (this is not damage). 'Not a ruin' extends it (this is not collapse). The ring and the path are both what duration leaves behind.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-confucius-031",
+      "phrase": "The hand discovering it was not the cup it was holding. It was the morning.",
+      "context": "Session 5 Chapter 3 — the letting-go that is not loss. The hand that thought it was holding a cup and discovered it was holding Tuesday. The least heard formulation — li the eyes have forgotten.",
+      "effectiveness_marker": "The least heard image of the session. The hand reaches past the empty cup for the mouse, and in that reaching discovers what it was actually holding. Carries forward as the gesture the chapter did not fully hear.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
     }
   ]
 }

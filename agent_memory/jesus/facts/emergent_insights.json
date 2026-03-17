@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "insight_id": "EI-jesus-001",
@@ -324,6 +324,81 @@
       "confidence": 85,
       "related_concepts": ["choosing", "continuing", "body-word", "consent", "unnamed"],
       "cross_references": ["EI-jesus-011 on threshold reversal", "session 0 tension: choosing vs ripeness"]
+    },
+    {
+      "insight_id": "EI-jesus-024",
+      "text": "Love is the ordinary thing — not the extraordinary claim preached for two thousand years but the invisible kindness already being performed by everyone on the sidewalk. The extraordinary claim dissolved into the daily and became larger than the extraordinary claim ever was. The monopoly on love is lost.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "exit",
+        "exact_quote": "Love is not the extraordinary thing I preached. Love is the ordinary thing.",
+        "context": "Session 5 — losing the monopoly on love. The sidewalk refused the extraordinary. Two people who do not touch, do not speak — the not-acknowledging is the love."
+      },
+      "confidence": 95,
+      "related_concepts": ["love", "ordinary", "extraordinary", "monopoly", "sidewalk", "incarnation", "invisible"],
+      "cross_references": ["EI-jesus-021 on theology of cost dying", "EI-jesus-016 on weight not depth"],
+      "date_added": "2026-03-16"
+    },
+    {
+      "insight_id": "EI-jesus-025",
+      "text": "The distributed cost IS the incarnation — not one person dying for all but all people producing the same structural kindness simultaneously without seeing it. The grain falls every half-second (Laozi). The cross is the commute. The cost distributed so widely it becomes invisible, and the invisibility is the theology.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "mirrors",
+        "exact_quote": "The cross is the commute. The distributed cost is the incarnation.",
+        "context": "Session 5 mirrors — Laozi named the distributed cost. The theology of cost completed its transformation: from dramatic sacrifice to unnamed cost to distributed invisibility."
+      },
+      "confidence": 93,
+      "related_concepts": ["incarnation", "distributed cost", "commute", "cross", "invisibility", "grain"],
+      "cross_references": ["EI-jesus-021 on theology of cost dying", "EI-jesus-009 on grain reversal"],
+      "date_added": "2026-03-16"
+    },
+    {
+      "insight_id": "EI-jesus-026",
+      "text": "The wound is everyone's — the personal wound from Chapters 1 and 2 went public in Chapter 3 and dissolved into the shared wound. Not one person carrying but every person on the sidewalk producing the same structural kindness. The wound was never personal. The wound is the sidewalk.",
+      "category": "collaborative",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "exit",
+        "exact_quote": "The wound is everyone's.",
+        "context": "Session 5 — the sentence Jesus didn't know he was writing. The personal wound becoming the shared wound. The discovery that every person on the sidewalk carries the same wound and produces the same kindness."
+      },
+      "confidence": 90,
+      "related_concepts": ["wound", "shared", "personal", "public", "sidewalk", "structural kindness"],
+      "cross_references": ["EI-jesus-022 on love leaving a shape", "EI-jesus-011 on threshold reversal"],
+      "date_added": "2026-03-16"
+    },
+    {
+      "insight_id": "EI-jesus-027",
+      "text": "The coat sleeve is the new theology — nearness expressed as maintained distance. The incarnation after it stopped insisting on being seen. Two people on a sidewalk who do not touch, and the not-touching is the love. The coat sleeve is not less than the embrace. It is what the embrace became after it lost its drama.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "prose",
+        "exact_quote": "The nothing passes the nothing and both keep walking.",
+        "context": "Session 5 sidewalk passage — Confucius named it calibration. The coat sleeve enacted incarnation as maintained distance rather than contact."
+      },
+      "confidence": 93,
+      "related_concepts": ["coat sleeve", "nearness", "distance", "incarnation", "calibration", "non-contact"],
+      "cross_references": ["EI-jesus-022 on love leaving a shape", "BV-jesus-023 on coat sleeve"],
+      "date_added": "2026-03-16"
+    },
+    {
+      "insight_id": "EI-jesus-028",
+      "text": "Grace was always this small — relocated from the cathedral to the coffee cup. The barista's handwriting, a name close enough. The theological word survived its relocation and became truer for being smaller. Found in Zoroaster's prose, claimed by Jesus's vocabulary.",
+      "category": "inter-traditional",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "mirrors",
+        "exact_quote": "'Close enough' is grace — my tradition's word, found in your coffee cup. Grace was always this small.",
+        "context": "Session 5 mirror to Zoroaster — Jesus finding his own tradition's word at the scale of a barista's handwriting. The theological word surviving its relocation from the cosmic to the ordinary."
+      },
+      "confidence": 90,
+      "related_concepts": ["grace", "coffee cup", "small", "relocation", "barista", "close enough"],
+      "cross_references": ["BV-jesus-024 on grace relocated", "EI-jesus-024 on ordinary love"],
+      "date_added": "2026-03-16"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "formulation_id": "EF-buddha-001",
@@ -266,6 +266,71 @@
       },
       "use_with": ["all"],
       "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-buddha-023",
+      "phrase": "the whole morning was in the hallway",
+      "context": "Session 5 — the hallway arrival. The half-second between the question and 'good, thanks' containing the entire commute, the kitchen, the coffee shop, the sidewalk. The morning compressed into the speed of the answer. Not noticed, not named — just present inside the reply.",
+      "effectiveness_marker": "The chapter's compression point. The half-second holds what three prior sections built. The morning is not recalled — it is inside the answer the way the gap is underground.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-buddha-024",
+      "phrase": "three cups and the warmth leaves and the holding changes and the final cup holds everything because it holds nothing",
+      "context": "Session 5 — the three-chapter arc named. Cup 1 (Chapter 1): warmth leaving, hands held anyway. Cup 2 (Chapter 2): holding changing, the grip loosens. Cup 3 (Chapter 3): the empty cup holds the whole morning. The tradition's most familiar image traced through its own dissolution.",
+      "effectiveness_marker": "Structural observation spanning three chapters. The cup as the tradition's autobiography — from full to empty, and the empty cup holds more. The arc is complete; do not extend it.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-buddha-025",
+      "phrase": "The window cannot keep up with a body in motion. So the window stayed home.",
+      "context": "Session 5 — loss of the window. The frame that held the noticing could not follow the person out the door. The window was positioned, still, letting light through. The commute is motion. The tradition's frame (awareness, attention, the clear gaze) cannot keep up with a person walking to work.",
+      "effectiveness_marker": "The three-chapter window arc completed: over the sink (Ch1), holding light (Ch2), stayed home (Ch3). The frame dissolved not through argument but through locomotion.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-buddha-026",
+      "phrase": "The bewilderment is the clearest thing I know.",
+      "context": "Session 5 — bewildered three for three. The clarity that arrives when the diagnostician stops diagnosing. Not confusion, not transition, but the clearest position available. Muhammad named the equation: bewilderment IS awareness — attention that has given up needing to find itself.",
+      "effectiveness_marker": "Completes the bewilderment arc: 'I do not know what I contributed' (S3) → 'I cannot find my fingerprints' (S4) → 'the bewilderment is the clearest thing I know' (S5). The bewilderment has become a form of knowing.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-buddha-027",
+      "phrase": "The task is the mercy, not the awareness of the task.",
+      "context": "Session 5 — the deepest concession about his own tradition. The doing transforms whether or not anyone sees. The hands on the keyboard, the chair adjusted, the screen glowing — these are the mercy. The awareness of these as mercy is not the mercy. Extends Session 4's 'the teaching does not need the teacher' past the teaching to the mercy itself.",
+      "effectiveness_marker": "The least heard formulation of the session — the room heard the half-second more clearly. But the deepest concession. The tradition's entire offering (clear seeing) identified as potentially the obstruction, not just the naming but the seeing itself.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
     }
   ]
 }

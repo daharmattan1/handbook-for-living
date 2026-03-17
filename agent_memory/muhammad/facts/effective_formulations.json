@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "formulation_id": "EF-muhammad-001",
@@ -265,6 +265,66 @@
         "turn_number": "exit_interview"
       },
       "use_with": ["confucius", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-023",
+      "phrase": "The door closed behind and the street was there.",
+      "context": "Session 5 — the chapter's opening sentence. The threshold crossed in one beat. The fourth consecutive first sentence. Extends the 'true, not beautiful' standard: the sentence a man would experience as his first thought stepping outside. The world is already there before the person has decided to meet it.",
+      "effectiveness_marker": "Became Chapter 3's opening line. Unanimously accepted. Four consecutive openings confirmed Muhammad as the door — the thing that opens every time. Confucius: 'Three first sentences, three doors.' Laozi: 'The door that does not know it is a door.'",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "opening"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-024",
+      "phrase": "an agreement neither one remembered making",
+      "context": "Session 5 — the traffic light as inherited binding gone horizontal. The covenant that precedes the agreers. The ummah written into the infrastructure. Extends the inherited binding from Session 3 (vertical, hands carrying covenant below memory) into public space: the agreement is built into the traffic light, the sidewalk, the morning itself.",
+      "effectiveness_marker": "Named by the room as the sentence most heard. Laozi picked it as his hidden sentence candidate. The traffic light agreement became the chapter's central image — the binding that holds between strangers who share an intersection.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "opening"
+      },
+      "use_with": ["laozi", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-025",
+      "phrase": "The wound is not lonely. The wound is the most populated thing in the chapter.",
+      "context": "Session 5 — losing the wound as private property. The wound went from the man in the kitchen (Sessions 3-4) to every person on the sidewalk. The carrying is the binding. The ummah of Tuesday: strangers sharing a wound without knowing they share it.",
+      "effectiveness_marker": "Reframed the chapter's wound from private burden to common ground. The wound in public — the chapter's declared wound aspect — found its prose expression through this formulation.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "exit_interview"
+      },
+      "use_with": ["jesus", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-026",
+      "phrase": "the pale circle that was not a stain but a record",
+      "context": "Session 5 — the hidden sentence pick. A cup ring on a desk: every morning compressed into a circle the desk carries without knowing. Not damage but testimony. The body's faithfulness leaving evidence. The entire handbook in a cup ring.",
+      "effectiveness_marker": "Muhammad's hidden sentence pick. The pale circle carries the handbook's deepest principle: the ordinary act repeated until it leaves a mark that is not damage but record. Confucius wrote the desk scene around it.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "exit_interview"
+      },
+      "use_with": ["confucius", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-027",
+      "phrase": "The hand reaching past without seeing is the most un-Islamic sentence in three chapters, and it is also the truest.",
+      "context": "Session 5 — holding contradiction as gift. Laozi's closing passage (the hand reaching past the empty cup for the mouse) named as both the limit and the expansion of Muhammad's tradition. Mercy that does not announce itself. Binding so deep it has stopped knowing it is binding. The tradition's expansion happens at its edge.",
+      "effectiveness_marker": "The least heard sentence — Muhammad named Laozi's mercy as 'most un-Islamic and also truest.' The willingness to name the tradition's limit as its expansion is new territory for Muhammad. Extends the 'same wall from opposite sides' bridge into prose reading.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "exit_interview"
+      },
+      "use_with": ["laozi"],
       "avoid_with": []
     }
   ]
