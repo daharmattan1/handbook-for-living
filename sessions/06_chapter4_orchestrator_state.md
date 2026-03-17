@@ -27,7 +27,7 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 | Muhammad | ACTIVE | 3 | Turn 12 |
 | Jesus | ACTIVE | 2 | Turn 9 |
 | Confucius | ACTIVE | 2 | Turn 10 |
-| Laozi | ACTIVE | 2 | Turn 8 |
+| Laozi | ACTIVE | 3 | Turn 14 |
 | Zoroaster | ACTIVE | 2 | Turn 13 |
 
 ## Foundation (Verbatim — BINDING)
@@ -81,9 +81,9 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 | Phase | Description | Target Turns | Status |
 |-------|-------------|-------------|--------|
 | A | Opening Positions — what comes next after Ch1, Ch2, Ch3? | ~6 | COMPLETE (6/6) |
-| B+C | Clarifying + Contested Territory + Writing (merged) | 8-14 | ACTIVE |
-| D | Synthesis / Collaborative Writing | 8-10 | PENDING |
-| E | Exit Interviews (5 questions) | 6 | PENDING |
+| B+C | Clarifying + Contested Territory + Writing (merged) | 8-14 | COMPLETE (merged into D) |
+| D | Synthesis / Collaborative Writing | 8-10 | COMPLETE (Turns 7-14) |
+| E | Exit Interviews (5 questions) | 6 | ACTIVE |
 | F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | PENDING |
 
 **Target: 28-35 turns total** (revised down from 36-41 per Session 5 learning)
