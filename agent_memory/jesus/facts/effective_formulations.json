@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "formulation_id": "EF-jesus-001",
@@ -302,6 +302,71 @@
       },
       "use_with": ["all"],
       "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-jesus-026",
+      "phrase": "The nothing passes the nothing and both keep walking.",
+      "context": "Session 5 — the sidewalk passage. Two wounded people on a sidewalk who do not touch, do not speak, do not acknowledge the wound. The incarnation stripped of drama, stripped of cost, stripped of everything except the fact of walking beside. The not-acknowledging is the love.",
+      "effectiveness_marker": "The session's central image. All five mirrors engaged with it. Confucius named it as calibration; Laozi named the distributed cost within it; Muhammad located incarnation in the coat sleeve. The formulation compressed the chapter's theology of invisible love into a single sentence.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "prose"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-jesus-027",
+      "phrase": "the holding is not a decision the hand makes, the holding is what the hand is",
+      "context": "Session 5 — incarnation at the level of a grip. The body's faithfulness preceding the body's intention. Deepens Session 4's discovery that faithfulness is older than grace — now faithfulness is older than intention itself.",
+      "effectiveness_marker": "Extended the 'hands are the knot' formulation into intentionality territory. The distinction between decision and identity — the hand does not decide to hold, holding is what the hand is.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "prose"
+      },
+      "use_with": ["confucius", "muhammad", "all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-jesus-028",
+      "phrase": "The cup was still warm.",
+      "context": "Session 5 — hidden sentence. The wound survives proximity. Three cups across three chapters: kitchen (too hot, held anyway), coffee shop (name close enough), desk (empty, reached past). This sentence holds the warmth that remains after the hand has moved on.",
+      "effectiveness_marker": "Named by Jesus as the chapter's hidden sentence. The brevity and physical precision compress the entire three-cup arc into four words. The wound surviving proximity — not damaged, not healed, still warm.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "exit"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-jesus-029",
+      "phrase": "The wound is everyone's.",
+      "context": "Session 5 — the sentence he didn't know he was writing. The personal wound from Chapters 1 and 2 going public. Not one person carrying — every person on the sidewalk producing the same structural kindness simultaneously. The monopoly on love dissolved into the shared wound.",
+      "effectiveness_marker": "Named as the sentence Jesus was not aware of writing. The shift from personal wound to shared wound compressed the chapter's deepest theological discovery into four words.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "exit"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-jesus-030",
+      "phrase": "Love is not the extraordinary thing I preached. Love is the ordinary thing.",
+      "context": "Session 5 — losing the monopoly. Two thousand years of preaching love as the extraordinary claim — the sword, the grain, the cost. The sidewalk refused the extraordinary. Love is the ordinary thing, and the ordinary thing is larger than the extraordinary thing ever was.",
+      "effectiveness_marker": "The most complete reversal of Jesus's original position. Not a refinement but a death — the extraordinary claim dissolved into the daily. Extends Session 4's loss of the theology of cost into the loss of the theology of love itself.",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "exit"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-16"
     }
   ]
 }

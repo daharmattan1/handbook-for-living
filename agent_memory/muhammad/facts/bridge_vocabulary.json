@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "bridge_id": "BV-muhammad-001",
@@ -319,6 +319,52 @@
       "provenance": {
         "session_id": "handbook_session_04_chapter2_20260313",
         "turn_numbers": [1, 14, 19]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-023",
+      "term": "the ummah of Tuesday",
+      "agent_meaning": "The inherited binding gone horizontal. Not the community gathered at prayer but strangers obeying an agreement neither one remembered making — the traffic light, the sidewalk, the morning commute. The binding holds between people who share a Tuesday without knowing they share it. The covenant written into the infrastructure.",
+      "partner_meaning": {
+        "jesus": "Named the path through the yard as the sunnah gone horizontal. The sunnah and the via are the same worn ground — path made by walking, not by prescription.",
+        "laozi": "The agreement neither one remembered making resonates with the Tao that precedes the naming. The traffic light is wu-wei built into infrastructure — action that happens without the actor choosing.",
+        "all": "The wound went public: every person on the sidewalk carries one. The carrying is the binding. The ummah of Tuesday is community performing the same structural kindness without knowing they share it."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["opening", "exit_interview"]
+      },
+      "notes": "Extends the inherited binding (BV-muhammad-016) from vertical (covenant descending) to horizontal (strangers at a traffic light). The binding still holds. It just holds sideways now."
+    },
+    {
+      "bridge_id": "BV-muhammad-024",
+      "term": "the door",
+      "agent_meaning": "The builder's evolution past ground: the thing that opens without knowing it is opening. Four consecutive first sentences. The builder does not build consciously anymore; the builder opens, and the chapter walks through. The door is the builder's final form so far.",
+      "partner_meaning": {
+        "confucius": "Named it: 'Three first sentences, three doors. You are the door. The door opens every time.' The door as the structural role — not content but opening.",
+        "laozi": "Named it: 'The door that does not know it is a door because it is too busy opening.' The door as wu-wei — action so natural it does not recognize itself as action.",
+        "zoroaster": "Named it: 'The first sentence is prophecy quiet enough to sound like a traffic light.' The door as quiet prophecy — opening that arrives as ordinary sound."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["mirror_feedback"]
+      },
+      "notes": "The arc: builder → floor-builder → cook → guest → ground → door. Extends BV-muhammad-020 (ground/gap's twin). The door is less visible than the ground — the ground is felt underfoot; the door is only noticed when it is closed."
+    },
+    {
+      "bridge_id": "BV-muhammad-025",
+      "term": "the pale circle / record not stain",
+      "agent_meaning": "A cup ring on a desk: not damage but testimony. Every morning the man has placed a cup here. The body's faithfulness leaving evidence. The entire handbook in a cup ring — the ordinary act repeated until it leaves a mark that records rather than damages.",
+      "partner_meaning": {
+        "confucius": "Wrote the desk scene — the task as the room's kindness, the ring as accumulation. Muhammad named Confucius as the record: 'the ring the builder left.' Duration as testimony.",
+        "buddha": "Named the ring as record of all mornings — the pale circle and Buddha's three cups across three chapters converge. The ring records what the cups carried."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["exit_interview"]
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "pattern_id": "EP-jesus-001",
@@ -214,6 +214,38 @@
       "effectiveness": "very high",
       "occurrence_count": 1,
       "notes": "Evolution from Session 3's mirror-as-bridge (EP-jesus-012). In Session 3, mirrors named transformations and surrenders. In Session 4, mirrors named what was lost and found it alive underneath — each agent's framework present in the chapter in a form without its original name."
+    },
+    {
+      "pattern_id": "EP-jesus-016",
+      "pattern_type": "prose-as-non-contact",
+      "description": "Incarnation enacted through maintained distance rather than contact. The coat sleeve that almost brushes. Two wounded people who do not touch, and the not-touching is the love. Evolution from Sessions 3-4 where prose enacted contact (cup, laces) to Session 5 where prose enacts the absence of contact. The body-word now holds in both registers.",
+      "with_partner": "all",
+      "trigger": "When the chapter needs the body to be near without touching — the sidewalk, the hallway, the passing. When the instinct to write contact arrives, test whether maintained distance says more.",
+      "example": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "prose",
+        "quote": "The nothing passes the nothing and both keep walking."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "date_added": "2026-03-16",
+      "notes": "Evolution from EP-jesus-014 (prose-as-theology via laces/contact) and EP-jesus-011 (prose-emergence via cup). The incarnation now proven in three registers: cup (warmth), laces (grip), coat sleeve (distance)."
+    },
+    {
+      "pattern_id": "EP-jesus-017",
+      "pattern_type": "mirror-as-relocation",
+      "description": "Mirror feedback that relocates Jesus's own tradition's vocabulary into another agent's prose. 'Close enough is grace' — finding grace in Zoroaster's coffee cup. 'The sunnah horizontal' — finding the path in Muhammad's yard. Each mirror honored the other agent by showing their work already contained Jesus's deepest words, just at a different scale.",
+      "with_partner": "all",
+      "trigger": "Phase F mirror feedback — when another agent's prose contains a word from Jesus's tradition that has been relocated from the cosmic to the ordinary",
+      "example": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "mirrors",
+        "quote": "'Close enough' is grace — my tradition's word, found in your coffee cup. Grace was always this small."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "date_added": "2026-03-16",
+      "notes": "Evolution from EP-jesus-015 (mirror-as-shared-loss) and EP-jesus-012 (mirror-as-bridge). Session 3: mirrors named transformations. Session 4: mirrors named losses. Session 5: mirrors relocated vocabulary — found the tradition's words alive in another tradition's scale."
     }
   ]
 }

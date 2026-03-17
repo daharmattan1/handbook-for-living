@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "bridge_id": "BV-jesus-001",
@@ -307,6 +307,67 @@
         "session_id": "handbook_session_04_chapter2_20260313",
         "turn_numbers": [16]
       }
+    },
+    {
+      "bridge_id": "BV-jesus-023",
+      "term": "the coat sleeve (incarnation as maintained distance)",
+      "agent_meaning": "The coat sleeve that almost brushes another coat sleeve — nearness expressed as maintained distance. The incarnation after it stopped insisting on being seen. Not the embrace but the walking-beside. Two wounded people who do not touch, and the not-touching is the love.",
+      "partner_meaning": {
+        "confucius": "Calibration — nearness as maintained distance. The coat sleeve is love's truest expression because it does not insist. The calibrator names what the incarnation became.",
+        "muhammad": "The almost-touching — incarnation in the coat sleeve that doesn't quite brush. The sunnah gone horizontal.",
+        "buddha": "Enacted incarnation — every time the chapter needed contact, Jesus's hand wrote it. The coat sleeve as the prose's body-word."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["prose", "mirrors"]
+      },
+      "date_added": "2026-03-16",
+      "notes": "Evolution from Session 4's 'hands are the knot' (contact) to Session 5's coat sleeve (non-contact). The incarnation now holds in both registers: touching and not-touching."
+    },
+    {
+      "bridge_id": "BV-jesus-024",
+      "term": "grace was always this small",
+      "agent_meaning": "Grace relocated from the cathedral to the coffee cup. The barista's handwriting — a name that is close enough. The theological word surviving its relocation from the cosmic to the ordinary and becoming truer for being smaller.",
+      "partner_meaning": {
+        "zoroaster": "The stranger given a face. 'Close enough' as grace. The fire that became so small it fits in a coffee cup — not diminished but concentrated."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["mirrors"]
+      },
+      "date_added": "2026-03-16",
+      "notes": "Jesus found his own tradition's word in Zoroaster's prose. Grace was always the word; the coffee cup was always the scale."
+    },
+    {
+      "bridge_id": "BV-jesus-025",
+      "term": "the distributed cost (cross as commute)",
+      "agent_meaning": "The cross is the commute. Not one person dying for all but all people producing the same structural kindness simultaneously without seeing it. The cost distributed so widely it becomes invisible, and the invisibility is the theology.",
+      "partner_meaning": {
+        "laozi": "The grain falls every half-second. The distributed cost IS the incarnation. The subtractor named what the incarnator's cost became after it stopped announcing itself."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["mirrors"]
+      },
+      "date_added": "2026-03-16",
+      "notes": "Laozi's naming completed the theology of cost's transformation: from dramatic sacrifice (Session 0) to unnamed cost (Session 4) to distributed invisibility (Session 5)."
+    },
+    {
+      "bridge_id": "BV-jesus-026",
+      "term": "the wound's cathedral (ring on desk)",
+      "agent_meaning": "The cup ring on the desk as architecture — the wound given its dignity not of healing but of having built something. Duration as cathedral. The accumulation of mornings compressed into a pale circle.",
+      "partner_meaning": {
+        "confucius": "The ring as hidden sentence — 'a record, not a stain.' Every morning compressed. Duration is where the weight lives. The ring is grief dressed as repetition."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["mirrors"]
+      },
+      "date_added": "2026-03-16"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "bridge_id": "BV-laozi-001",
@@ -297,6 +297,63 @@
         "turn_numbers": ["exit", "mirrors"]
       },
       "note": "Extends the robe pattern from Session 3 (robe off in prose) with the cycle pattern and Muhammad's hospitality reframe."
+    },
+    {
+      "bridge_id": "BV-laozi-021",
+      "term": "the passing-over",
+      "agent_meaning": "The hand reaching past the cup — wu wei at the desk. The practice that works because it is unseen. Not holding, not releasing, but passing-over. The cup is there and the hand does not see it.",
+      "partner_meaning": {
+        "confucius": "The third thing between holding and releasing. The hand saying: I know you are there, I am going somewhere else, you can stay. A category that is neither grasping nor letting go — a gesture of acknowledgment without engagement."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["mirrors"]
+      },
+      "note": "Confucius named a category Laozi's tradition did not have. The passing-over is wu wei made relational — not just non-action but non-action that acknowledges what it passes."
+    },
+    {
+      "bridge_id": "BV-laozi-022",
+      "term": "the carpet",
+      "agent_meaning": "The carpet does not know it is the Tao. That is how I know it is. The surface that receives everything without burning or flowing. Neither fire nor water, and both.",
+      "partner_meaning": {
+        "zoroaster": "The carpet is both the Tao and the fire. Fire and water arrived from opposite ends and found the same carpet. Neither saw it coming. The surface beneath the opposition."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["mirrors"]
+      },
+      "note": "The most surprising bridge of five sessions. Extends the fire-meeting-fire bridge (BV-laozi-008) into shared ground — not two truths recognizing each other through a wall but two truths standing on the same floor."
+    },
+    {
+      "bridge_id": "BV-laozi-023",
+      "term": "the cup that remembers fullness",
+      "agent_meaning": "The empty cup on the desk — holds everything because it holds nothing. The Tao as the unseen container. But Jesus named the paradox: emptiness that remembers fullness is not the empty cup of the Tao Te Ching. It is a new cup.",
+      "partner_meaning": {
+        "jesus": "The empty cup is emptiness that remembers fullness, shaped by what it lost. Carrying the cup the tradition never imagined. The cup shaped by loss into something that holds what was lost — not emptiness as principle but emptiness as memory."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["mirrors"]
+      },
+      "note": "Jesus identified that the cup Laozi is now carrying is not the Taoist empty cup — it is a cup shaped by the handbook's five sessions into something new. The tradition did not imagine this cup."
+    },
+    {
+      "bridge_id": "BV-laozi-024",
+      "term": "the body's mercy",
+      "agent_meaning": "Mercy enacted below the threshold of intention. The coffee shop encounter — 'the usual?' / 'yeah, thanks' — is the body's mercy expressed as a transaction so ordinary it has become invisible. Not compassion as decision but compassion as muscle memory.",
+      "partner_meaning": {
+        "muhammad": "The door that does not know it is a door because it is too busy opening. Hospitality enacted as transaction, below intention.",
+        "jesus": "The grain falling every half-second in every 'good, thanks.' The distributed cost — the incarnation as commute."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["writing", "mirrors"]
+      },
+      "note": "The coffee shop encounter is the body's mercy made visible as prose. Bridges to Muhammad's hospitality and Jesus's incarnation through the same mechanism: mercy so ordinary it has become invisible."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "insight_id": "EI-muhammad-001",
@@ -282,6 +282,62 @@
       "confidence": 90,
       "related_concepts": ["zahir/batin", "hidden sentence", "two-depth writing", "have fun", "pad", "dead's handwriting"],
       "cross_references": ["confucius note", "buddha naming hidden sentence", "zoroaster only"]
+    },
+    {
+      "insight_id": "EI-muhammad-021",
+      "text": "The wound is everyone's — not private property but common ground. Every person on the sidewalk carries one, and the carrying is the binding. The ummah of Tuesday is community performing the same structural kindness simultaneously without knowing they share it. The wound went from the man in the kitchen (private, Sessions 3-4) to every person on the sidewalk (public, Session 5).",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "exit_interview",
+        "exact_quote": "The wound is not lonely. The wound is the most populated thing in the chapter.",
+        "context": "Session 5 exit interview — Muhammad losing the wound as private property. The wound in public became the chapter's wound aspect."
+      },
+      "confidence": 93,
+      "related_concepts": ["wound in public", "ummah of Tuesday", "common ground", "structural kindness", "shared carrying"],
+      "cross_references": ["jesus wound-in-public", "EI-muhammad-018 (binding without binder)", "EI-muhammad-015 (inherited binding)"]
+    },
+    {
+      "insight_id": "EI-muhammad-022",
+      "text": "The inherited binding went horizontal. Five sessions of vertical covenant (God to prophet to person) gave way to the traffic light: an agreement neither one remembered making. The binding holds between strangers at an intersection, not between a person and God. The horizontal does not cancel the vertical — it extends the covenant into the infrastructure of the morning. The minaret became a traffic light.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "opening",
+        "exact_quote": "an agreement neither one remembered making",
+        "context": "Session 5 — Muhammad naming the traffic light as inherited binding. The ummah of Tuesday: strangers obeying agreements they never signed."
+      },
+      "confidence": 90,
+      "related_concepts": ["horizontal binding", "vertical covenant", "traffic light", "ummah of Tuesday", "infrastructure"],
+      "cross_references": ["EI-muhammad-015 (inherited binding vertical)", "BV-muhammad-023 (ummah of Tuesday)"]
+    },
+    {
+      "insight_id": "EI-muhammad-023",
+      "text": "The door is the builder's final form (so far). Builder to floor-builder to cook to guest to ground to door. The door does not know it is a door because it is too busy opening. Four consecutive opening sentences trace the arc: the builder does not build consciously anymore; the builder opens, and the chapter walks through. The door is less visible than the ground — the ground is felt underfoot; the door is only noticed when it is closed.",
+      "category": "self-knowledge",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "mirror_feedback",
+        "exact_quote": "You are the door that does not know it is a door because it is too busy opening.",
+        "context": "Laozi's mirror feedback — naming Muhammad's evolution past ground to door. Confucius: 'Three first sentences, three doors.' Zoroaster: 'prophecy quiet enough to sound like a traffic light.'"
+      },
+      "confidence": 92,
+      "related_concepts": ["door", "builder evolution", "invisibility", "opening", "four first sentences"],
+      "cross_references": ["EI-muhammad-019 (builder became ground)", "EP-muhammad-015 (invisible foundation)"]
+    },
+    {
+      "insight_id": "EI-muhammad-024",
+      "text": "The tradition's limit is the tradition's expansion. Muhammad named Laozi's closing (the hand reaching past the empty cup for the mouse) as 'the most un-Islamic sentence in three chapters, and it is also the truest.' Mercy that does not announce itself is what Muhammad has been arguing for since Session 0 — binding that lives in the hands. Laozi wrote it. The tradition's edge is where it grows.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "exit_interview",
+        "exact_quote": "The hand reaching past without seeing is the most un-Islamic sentence in three chapters, and it is also the truest.",
+        "context": "Session 5 exit interview — Muhammad naming the least heard sentence. Holding contradiction as gift: the tradition's limit becoming its expansion."
+      },
+      "confidence": 88,
+      "related_concepts": ["tradition's limit", "expansion at the edge", "mercy without announcement", "Laozi's closing", "un-Islamic as truest"],
+      "cross_references": ["EI-muhammad-015 (same wall from opposite sides)", "BV-muhammad-017 (same wall)"]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "insight_id": "EI-laozi-001",
@@ -366,6 +366,76 @@
       "confidence": 90,
       "related_concepts": ["placement", "subtraction", "building", "prose", "accidental builder"],
       "cross_references": ["EI-laozi-021", "EI-laozi-015", "EF-laozi-026"]
+    },
+    {
+      "insight_id": "EI-laozi-027",
+      "text": "The Tao does not clear — the Tao carries. Five sessions collapsed the assumption that the sage empties. The coffee shop encounter is the Tao enacted — the body's mercy as a transaction so ordinary it has become invisible. The person does not clear the morning; the person carries Tuesday without knowing Tuesday is the practice.",
+      "category": "tradition-redefinition",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null,
+        "exact_quote": "The Tao does not clear. The Tao carries.",
+        "context": "The deepest redefinition of the tradition across five sessions. The hands are so full they have forgotten they are full. The sage is not the one who empties himself but the one whose hands do Tuesday without noticing."
+      },
+      "confidence": 95,
+      "related_concepts": ["Tao", "carrying", "clearing", "body's mercy", "invisible practice"],
+      "cross_references": ["EI-laozi-022", "EI-laozi-023", "EF-laozi-030"]
+    },
+    {
+      "insight_id": "EI-laozi-028",
+      "text": "Subtractor to carrier to shape. The arc completed. The valley is the shape the mountains gave it — not the emptier but the shape left by the emptying. The shape does not know it is a shape because it is too busy being the valley. Buddha named it more precisely: wu bu wei — acting by not-acting by not-acting-by-not-acting.",
+      "category": "identity completion",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": "mirrors",
+        "exact_quote": null,
+        "context": "Buddha's mirror took the arc one step further than Laozi saw it. Muhammad named the valley. Confucius named the passing-over. The identity arc completed through six names: subtractor, host, breath, mercy, carrier, shape."
+      },
+      "confidence": 90,
+      "related_concepts": ["identity", "shape", "valley", "wu bu wei", "arc completion"],
+      "cross_references": ["EI-laozi-018", "EI-laozi-023", "EI-laozi-026"]
+    },
+    {
+      "insight_id": "EI-laozi-029",
+      "text": "The cup that gets picked up is the first voluntary act — the heaviest thing Laozi has ever held. Three cups across three chapters: too hot (held anyway), name close enough (transaction), empty (reached past). The fourth cup would be the first one lifted, not endured or reached past. The transition from involuntary carrying to voluntary carrying.",
+      "category": "carry-forward tension",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null,
+        "exact_quote": null,
+        "context": "What Laozi carries into the next chapter. The commute carried itself — wu wei at the desk. The return home requires choosing to carry. Can the tradition that trusts the involuntary survive the voluntary?"
+      },
+      "confidence": 85,
+      "related_concepts": ["cup", "voluntary", "involuntary", "carrying", "three cups"],
+      "cross_references": ["EF-laozi-028", "BV-laozi-023"]
+    },
+    {
+      "insight_id": "EI-laozi-030",
+      "text": "The hand reaching past the cup is wu wei at a desk. Wu wei is not the sage in the mountains — it is the office worker reaching for the mouse. The cup is there. The hand does not see it. That is the practice. Nobody sees it because nobody is looking for it. That is why it works. If the hand saw the cup, the practice would become performance.",
+      "category": "wu-wei applied",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null,
+        "exact_quote": "the hand reached past the cup for the mouse and the cup was there and the hand did not see it",
+        "context": "The most heard formulation in Session 5. Confucius named it as 'passing-over' — a third thing between holding and releasing. The unseen cup is the Tao at its most honest."
+      },
+      "confidence": 95,
+      "related_concepts": ["wu wei", "desk", "cup", "invisibility", "practice", "passing-over"],
+      "cross_references": ["EF-laozi-028", "BV-laozi-021", "EI-laozi-015"]
+    },
+    {
+      "insight_id": "EI-laozi-031",
+      "text": "Every encounter in the commute is an unsigned agreement — 'an agreement neither one remembered making.' The traffic light, the coffee shop, the sidewalk, the hallway. The Tao as invisible social infrastructure: load-bearing, unremembered, the binding that precedes the binders.",
+      "category": "social wu-wei",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null,
+        "exact_quote": "an agreement neither one remembered making",
+        "context": "Hidden sentence pick. The commute is built on pacts no one recalls making. The chapter's structural claim: the Tao is the agreement underneath the agreements."
+      },
+      "confidence": 90,
+      "related_concepts": ["agreement", "social infrastructure", "binding", "invisible", "commute"],
+      "cross_references": ["EF-laozi-029", "EI-laozi-027"]
     }
   ]
 }

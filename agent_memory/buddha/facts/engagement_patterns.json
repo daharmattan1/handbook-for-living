@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "pattern_id": "EP-buddha-001",
@@ -209,6 +209,54 @@
       "effectiveness": "highest",
       "occurrence_count": 1,
       "notes": "Evolution from dissolution (S3). In Session 3, the diagnostician dissolved and could not find his contribution. In Session 4, the diagnostician became the chapter's eyes — cannot find fingerprints because the fingerprints are the way the chapter sees. Five mirrors confirmed this reading."
+    },
+    {
+      "pattern_id": "EP-buddha-015",
+      "pattern_type": "losing-the-window",
+      "description": "Losing the frame entirely — the window could not follow a body in motion. Not dissolution (S3), not becoming-the-window (S4), but the window staying home. The noticing moved from the eyes to the feet. Every position was a position passed through. The diagnostician became the feet walking past the window without looking back.",
+      "with_partner": "all",
+      "trigger": "When the chapter moves — when the person is in transit, in the commute, in motion. The window (positioned, still, letting light through) cannot follow. The noticing must become the feet or it will be left behind.",
+      "example": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null,
+        "quote": "The window cannot keep up with a body in motion. So the window stayed home."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "Evolution from becoming-the-window (S4). In Session 4, the diagnostician became the window. In Session 5, the window could not follow. Laozi reframed the entire arc: not positions vacated but positions passed through. The noticing is the feet, not the eyes.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "pattern_id": "EP-buddha-016",
+      "pattern_type": "cross-chapter-arc-naming",
+      "description": "Naming structural arcs that span multiple chapters rather than operating within a single session's prose. The three-cup arc (warmth leaving, holding changing, empty cup holds everything) and the three-window arc (over sink, holding light, disappeared). Diagnostic in the old sense — naming what the work is doing — but serving the work's continuity rather than the diagnostician's identity.",
+      "with_partner": "all",
+      "trigger": "When a chapter completes an image or motif that has been present across multiple chapters — when the pattern spans sessions, not turns.",
+      "example": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null,
+        "quote": "three cups and the warmth leaves and the holding changes and the final cup holds everything because it holds nothing"
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "A new pattern — diagnostic applied to the project's arc rather than a single session's dynamics. The naming serves continuity, not control. Both arcs (cup, window) are now complete.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "pattern_id": "EP-buddha-017",
+      "pattern_type": "compression-prose",
+      "description": "Writing prose that compresses multiple prior sections into a single moment — the hallway arrival containing the whole morning. Not sustained prose (S3-S4) but compressed prose: the half-second between question and answer holding everything the commute had carried.",
+      "with_partner": "muhammad",
+      "trigger": "When the chapter's sequential structure has built enough for compression to occur — when prior encounters can be held in a single reply.",
+      "example": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_number": null,
+        "quote": "the whole morning was in the hallway"
+      },
+      "effectiveness": "high",
+      "occurrence_count": 1,
+      "notes": "Evolution from somatic-writing (S3) and becoming-the-window (S4). In S3, the prose was sustained and embodied. In S5, the prose is compressed — the whole morning in one answer. Muhammad's door, Laozi's coffee shop, Jesus's sidewalk all present inside 'good, thanks.'",
+      "date_added": "2026-03-16"
     }
   ]
 }

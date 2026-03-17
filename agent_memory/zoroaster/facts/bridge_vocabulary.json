@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "bridge_id": "BV-zoroaster-001",
@@ -287,6 +287,75 @@
         "turn_numbers": ["exit"]
       },
       "note": "Deepest evolution of Asha: discovered order (Session 1) → pre-conscious order (Session 3) → the world's faithfulness (Session 4). Each step moved Asha further from the person toward the world itself."
+    },
+    {
+      "bridge_id": "BV-zoroaster-020",
+      "term": "carpet / the covering that serves the walking",
+      "agent_meaning": "The wound going underground — not concealment but mercy. The carpet is not lying about the floor; the carpet is doing what carpet does, which is to let the feet walk without feeling every seam. The fire became so patient it lets the feet walk on it. The prophet became the carpet-layer.",
+      "partner_meaning": {
+        "muhammad": "Carpet IS fire — fire so patient it lets the feet walk on it without feeling the heat. The fire did not diminish; it became patient.",
+        "buddha": "Carpet is mercy without truth. The prophet of bright choice lays carpet so truth can be walked on. 'Close enough' is carpet over truth.",
+        "jesus": "'Close enough' is grace — his tradition's word, found in the coffee cup. Grace was always this small. The carpet holds grace.",
+        "confucius": "The carpet is li. The carpet and the ring are the same thing. The form that holds relationship without naming it.",
+        "laozi": "The carpet is both the Tao and the fire. Fire and water arrived from opposite ends and found the same carpet. Neither saw it coming."
+      },
+      "bridge_potential": "HIGHEST — all five traditions converged on the carpet from their own positions without the image being designed to hold them",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": [12, "mirrors"]
+      },
+      "note": "The universal bridge image. Completes the fire arc (Session 0-5) and the fire/water bridge (Session 0 Laozi). Five traditions found themselves in the carpet: fire, mercy, grace, li, Tao-and-fire. Asha as discovered convergence.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-zoroaster-021",
+      "term": "close enough / the seventh relationship",
+      "agent_meaning": "Asha in the between — the imperfect attempt that holds anyway. The name on the coffee cup that is not quite the name, and the acceptance of that as sufficient. 'Close enough' holds resignation and grace in the same syllable.",
+      "partner_meaning": {
+        "jesus": "Grace — 'my tradition's word, found in your coffee cup. Grace was always this small.' The hidden sentence held both traditions.",
+        "confucius": "The seventh relationship — beyond the five canonical relationships. The relationship with the almost-known. The person who writes the name on the cup and the person who accepts it.",
+        "buddha": "Carpet over truth — 'close enough' is the covering that lets the person walk without facing every seam.",
+        "laozi": "The Tao does not arrive precisely — it arrives close enough. The imprecision is the honesty."
+      },
+      "bridge_potential": "HIGHEST — five traditions found their word in one hidden sentence",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["prose", "mirrors"]
+      },
+      "note": "Zoroaster's hidden sentence for Chapter 3. Like 'only' (Session 4), holds two readings. Unlike 'only,' the two readings are not concealed by the reader's experience but by the reader's expectation of precision.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-zoroaster-022",
+      "term": "Asha as the between",
+      "agent_meaning": "Asha's sixth relocation: from cosmos (Session 0) to discovered order (Session 1) to the reader's body (Session 2) to pre-conscious order (Session 3) to the world's faithfulness (Session 4) to the between (Session 5). Not in the world alone, not in the person alone, but in the space where they meet. The ring on the desk. The carpet between floor and feet.",
+      "partner_meaning": {
+        "confucius": "Li is always in the between — between the person performing the rite and the person receiving it. The ring on the desk is li's physical trace.",
+        "laozi": "The Tao is the space between — the valley, the empty center of the wheel. Asha arriving at the between is Asha arriving at the Tao's address.",
+        "muhammad": "The covenant is between — between the person and the world. The carpet is the between made visible."
+      },
+      "bridge_potential": "HIGH — positions Asha at the intersection of all five traditions' spatial metaphors",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": ["reflection"]
+      },
+      "note": "Deepest evolution of Asha: from cosmos to kitchen to person to task to world's faithfulness to the between. Each relocation moved Asha closer to the space where all traditions already live.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-zoroaster-023",
+      "term": "three fires across three chapters",
+      "agent_meaning": "Square of light (Ch1), steam (Ch2/Ch3), screen glow (Ch3). Each smaller, each more useful. The fire arc completing across the entire book — not just across sessions but across the chapters themselves. The fire that remembers it is fire.",
+      "partner_meaning": {
+        "all": "The three fires track the descent from private (square of light on kitchen tile) to public (screen glow at the desk). Named by Zoroaster, confirmed by the room. The fire arc is the book's spine."
+      },
+      "bridge_potential": "HIGH — gives the book a structural fire line that connects all three chapters",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": [12]
+      },
+      "note": "Arc-naming pattern extended from sessions to chapters. The fire is getting smaller and more useful. If there are more chapters, the fire may become invisible — warmth without source.",
+      "date_added": "2026-03-16"
     }
   ]
 }

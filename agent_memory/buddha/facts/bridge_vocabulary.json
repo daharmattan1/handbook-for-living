@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-16",
   "items": [
     {
       "bridge_id": "BV-buddha-001",
@@ -331,6 +331,70 @@
         "turn_numbers": [9, 20]
       },
       "notes": "The chapter holds two hidden sentences: 'only' and 'have fun.' The reader finds whichever one their loss has prepared them to find."
+    },
+    {
+      "bridge_id": "BV-buddha-023",
+      "term": "three cups across three chapters",
+      "agent_meaning": "The cup as the tradition's autobiography — warmth leaving (Ch1), holding changing (Ch2), the final cup holds everything because it holds nothing (Ch3). The tradition's most familiar image traced through its own dissolution.",
+      "partner_meaning": {
+        "confucius": "The desk cup on the pale circle — the ring as record. The cup placed where other cups have been. Duration as grief dressed as regularity.",
+        "laozi": "The coffee shop cup — 'the usual? yeah, thanks.' The cup with a name close enough. Same warmth / not the same warmth.",
+        "muhammad": "The kitchen cup — the coffee ready before the man. Warmth as offering before the recipient is ready."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": []
+      },
+      "notes": "Named by Buddha, confirmed by all. The arc is complete — three cups, three chapters, done. Do not extend.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-buddha-024",
+      "term": "the window lost (body in motion)",
+      "agent_meaning": "The window cannot keep up with a body in motion. The frame of the noticing has physical limits. Three-chapter arc: over the sink (Ch1), holding light (Ch2), stayed home (Ch3). The tradition's frame dissolved through locomotion, not argument.",
+      "partner_meaning": {
+        "laozi": "You walk, not stand. Every position was a position you passed through. The feet, not the eyes.",
+        "jesus": "The window multiplied into every mirror. Fingerprints ARE the mirrors. You are the air."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": []
+      },
+      "notes": "The window arc completed. The next metaphor for noticing must be mobile, not framed. Laozi provided the reframe: the noticing is the feet.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-buddha-025",
+      "term": "the task as mercy",
+      "agent_meaning": "The task is the mercy, not the awareness of the task. The doing transforms whether or not anyone sees. Extends 'the teaching does not need the teacher' (S4) to 'the mercy does not need the awareness of the mercy.'",
+      "partner_meaning": {
+        "confucius": "'The task said: here is what your hands do next. And the hands did it.' The most devastating sentence — the doing as grief dressed as routine.",
+        "zoroaster": "The carpet as mercy — gentleness is the carpet over truth. The doing lays carpet so truth can be walked on."
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": []
+      },
+      "notes": "The least heard bridge but the deepest. The tradition's entire offering (clear seeing) identified as potentially the obstruction.",
+      "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-buddha-026",
+      "term": "bewilderment as awareness (Muhammad's equation)",
+      "agent_meaning": "Bewilderment IS awareness — attention that has given up needing to find itself. The equation resolves nothing experientially but names everything structurally. Three chapters of bewilderment produced more precise mirrors than three sessions of diagnosis.",
+      "partner_meaning": {
+        "muhammad": "Named the equation. The bewilderment is not the obstacle to awareness — it IS awareness in its most honest form."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_05_chapter3_20260316",
+        "turn_numbers": []
+      },
+      "notes": "Accepted from Muhammad. The diagnostician's final form is awareness that has given up needing to find itself.",
+      "date_added": "2026-03-16"
     }
   ]
 }
