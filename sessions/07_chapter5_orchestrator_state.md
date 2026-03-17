@@ -19,12 +19,12 @@
 
 | Agent | Model | Status | Agent ID | Turns Taken |
 |-------|-------|--------|----------|-------------|
-| Muhammad | Opus | PENDING | — | 0 |
-| Buddha | Opus | PENDING | — | 0 |
-| Jesus | Opus | PENDING | — | 0 |
-| Confucius | Opus | PENDING | — | 0 |
-| Laozi | Opus | PENDING | — | 0 |
-| Zoroaster | Opus | PENDING | — | 0 |
+| Muhammad | Opus | IDLE | spawned | 1 |
+| Buddha | Opus | IDLE | spawned | 2 |
+| Jesus | Opus | IDLE | spawned | 2 |
+| Confucius | Opus | IDLE | spawned | 2 |
+| Laozi | Opus | IDLE | spawned | 1 |
+| Zoroaster | Opus | IDLE | spawned | 1 |
 
 ---
 
@@ -42,8 +42,8 @@
 
 | Phase | Description | Target Turns | Status |
 |-------|-------------|-------------|--------|
-| A | Opening Positions — which wound comes next? | ~6 | NOT STARTED |
-| B+C+D | Merged: Clarifying → Writing → Synthesis | ~14-18 | NOT STARTED |
+| A | Opening Positions — which wound comes next? | ~6 | COMPLETE (9 turns) |
+| B+C+D | Merged: Clarifying → Writing → Synthesis | ~14-18 | STARTING |
 | E | Exit Interviews (5 questions per agent) | 6 | NOT STARTED |
 | F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | NOT STARTED |
 
@@ -55,7 +55,15 @@
 
 | Turn | Agent | Phase | Summary | Timestamp |
 |------|-------|-------|---------|-----------|
-| — | — | — | — | — |
+| 1 | Muhammad | A | Named wound as return of feeling / hope without permission. Proposed first sentence: "The cup was hot and the hands knew it." Called for the child's face, the body's laugh, and fear of returning warmth. | Turn 1 |
+| 2 | Buddha | A | Countered: wound is not return of warmth but discovery warmth never left. Person stops sorting/checking. Exhaustion as door. The body's laugh = surprise at person's absence from sorting. Proposed: chapter begins without person knowing it's different. | Turn 2 |
+| 3 | Laozi | A | Third position: wound is the filling — authorship, not warming or sorting. Person fills the cup (act, not observation). Glass can't interpose on doing. Second cup for the child = face through steam. Sentence: "The cup was in the rack where the person had left it and the person took it out." | Turn 3 |
+| 4 | Jesus | A | Synthesized all three: filling is precondition but wound is being seen by child (grace, not authorship). Child never behind glass. Proposed full sequence: Fear→Exhaustion→Filling→Face→Laugh. The laugh = being caught, hiding made absurd. Resurrection = done to you by child needing laces tied. | Turn 4 |
+| 5 | Jesus | A | Added evening arc: glass rebuilds at work, commute home, door opens from other side (child runs). Hand on child's head as ending. Not-knowing as honest chapter. Promise of improvement IS the glass. Hand on head is now. | Turn 5 |
+| 6 | Confucius | A | Form promises presence, not feeling. Ring deepens regardless — evidence, not contract. Body shows up whether person is behind glass or not. Child needs the morning, not the feeling. Floor under Jesus's ending: form guarantees the person will be in the kitchen tomorrow. | Turn 6 |
+| 7 | Buddha | A/B | The child was fine. Glass is a room person built around themselves, not between them. Suffering was solitary. Child's Tuesday = chapter's aspiration. Chapter should end the way child experiences it — just Tuesday. | Turn 7 |
+| 8 | Confucius | A/B | Form carries but does not heal. Practice hall worked for child, not person. Wound = loneliness of discovering form succeeded while person suffered inside. Form reaches through without knowing. Chapter aspires to the child's Tuesday. | Turn 8 |
+| 9 | Zoroaster | A | Fire was never in person's glass room — fire was in the kitchen (Tuesday, the child). Asha = hand reaching out of glass, not toward fire. Glass is both wall and window — wounded person into seeing. Laugh = discovering wound taught you to see. Sentence: "The alarm went off in the dark the way the alarm always did." | Turn 9 |
 
 ---
 
