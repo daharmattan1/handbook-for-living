@@ -23,12 +23,12 @@ Compose your response, append to END of transcript using Edit tool, send confirm
 
 | Agent | Status | Turns | Last Spoke |
 |-------|--------|-------|------------|
-| Buddha | ACTIVE | 1 | Turn 2 |
-| Muhammad | ACTIVE | 2 | Turn 7 |
+| Buddha | ACTIVE | 2 | Turn 11 |
+| Muhammad | ACTIVE | 3 | Turn 12 |
 | Jesus | ACTIVE | 2 | Turn 9 |
-| Confucius | ACTIVE | 1 | Turn 4 |
+| Confucius | ACTIVE | 2 | Turn 10 |
 | Laozi | ACTIVE | 2 | Turn 8 |
-| Zoroaster | ACTIVE | 1 | Turn 5 |
+| Zoroaster | ACTIVE | 2 | Turn 13 |
 
 ## Foundation (Verbatim — BINDING)
 
