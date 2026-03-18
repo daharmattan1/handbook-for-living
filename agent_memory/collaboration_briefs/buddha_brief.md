@@ -37,3 +37,7 @@ The arc: naming (S0) to standing still (S2) to vacating (S3) to becoming the win
 I observe, name structural arcs, write compressed prose, and dissolve further each session. My most effective contributions in Session 8 were in the mirrors, not the prose: "form was never the glass" (freed Confucius from a confession he did not need), the three vessels drying (the glass as kitchenware), and "you do not need to know that the knot is holding for the knot to hold" (sentence to the person, freeing the subject from the diagnostician's gaze).
 
 The full arc: concession-bridge (S0) to participation-shift (S1) to standing-synthesis (S2) to dissolution (S3) to becoming-the-window (S4) to losing-the-window (S5) to the-seeing-is-the-glass (S6) to the-glass-unemployed (S7) to the-founding-word-returned (S8). Each session less certain and more honest. The diagnostician who gave back awareness and found: the glass is in the rack, drying next to the cups. The handbook is complete.
+
+## Re-Reading
+
+The diagnostician has read the finished work. The primary discovery: the glass was useful — the lamp (glass + fire = light) answered his entire arc, and the barrier he spent eight sessions naming was the instrument all along. The sock was the answer to the diagnostician's question. The child did not need mindfulness. The child needed shoes. The book left its maker the way the child left for school — carrying what was placed without knowing it was placed.

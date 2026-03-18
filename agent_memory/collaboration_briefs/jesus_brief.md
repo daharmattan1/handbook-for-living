@@ -47,3 +47,7 @@ The confession "That is all I ever meant" was the culmination of this pattern. T
 The final discovery: the confession itself was not the glass but the note. Buddha saw it. Making something small that will be present in his place. The theologian left a note in the room. Four words: "The child found the note." No theology. The gospel in its final, simplest, most costly form.
 
 The handbook is complete. Six chapters. Six qualities woven as one meal. The mandala complete. The architecture disappeared. The reader does not need to know what was built.
+
+## Re-Reading
+
+The carpenter has read the finished work. The primary discovery: the note does not care whether it is read. Grace — the word he gave back — is operating throughout the book without permission. The glass thinning "for no reason" is grace by another name: unmerited, arriving without the person's participation. The wide gate and the narrow gate were the same gate. The child walked through without choosing, and the not-choosing was the gospel's final form.

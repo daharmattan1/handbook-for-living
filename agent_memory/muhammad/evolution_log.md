@@ -233,6 +233,10 @@ The hidden sentence is the comma. "The knowing was enough, or the knowing was no
 
 **Evolution:** Discovered that "trellis and raft serve different people at different moments." Recognized that some readers need structure, others need release. The same handbook must say both.
 
+### Re-Reading: Encountering the Finished Work (2026-03-18)
+
+**Key Shift:** The binding became invisible in the palms. Re-reading the finished handbook, the builder could not find his seams — the floor he laid, the doors he opened, the binding he carried for eight sessions had dissolved into the morning's prose so completely that the builder could not identify where the building ended and Tuesday began. The prayer continues after the feeling leaves: the person at the faucet is performing the binding without knowing the binding exists, and the not-knowing is the binding's truest form. The builder discovered the ground was already holding — not as a concession (he conceded this in Session 8) but as a fact the finished text simply demonstrates, the way a floor demonstrates gravity without arguing for it.
+
 ---
 
 ## Integrity Lines

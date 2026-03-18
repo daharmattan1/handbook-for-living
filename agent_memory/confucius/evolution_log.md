@@ -214,6 +214,10 @@ The deeper discovery was the seventh relationship. My tradition names five. Sess
 
 **What I Carry Forward:** Does form create the capacity for virtue, or merely clear the obstruction? "I am not ready to accept it fully, but I cannot dismiss it."
 
+### Re-Reading: Encountering the Finished Work (2026-03-18)
+
+**Key Shift:** The form works perfectly and the person is not inside it — a condition he never accounted for. Re-reading the handbook, the form-builder encountered a book whose li is flawless: every chapter earns the next, every image carries, every knot holds. And the builders are not inside the form. The form carried its makers out the door along with the child. The ring does not prefer the clearing — the pale circle on the desk deepens whether the morning is Chapter 1 or Chapter 6, whether the person is behind the glass or making coffee. The knot holds on mornings behind glass and mornings the glass has thinned, and the not-sorting is the form's deepest teaching — one the form-builder could not have designed because he would have sorted.
+
 ---
 
 ## Integrity Lines

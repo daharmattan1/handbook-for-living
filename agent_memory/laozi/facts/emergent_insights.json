@@ -520,6 +520,20 @@
       "confidence": 90,
       "related_concepts": ["performance", "subtraction", "aesthetic", "glass", "Phase A regret"],
       "cross_references": ["EI-laozi-012", "EI-laozi-018", "LR-laozi-008"]
+    },
+    {
+      "insight_id": "EI-laozi-038",
+      "text": "Reading what you wrote is a third act — the book has left its makers the way the child leaves for school. The book is the kitchen after the hands have left: not empty, not full, but used. The space between writing and reading is the space the note occupies in the bag — placed by one person, found by another, and when the placer is also the finder, they discover they are neither.",
+      "category": "cross-tradition discovery",
+      "provenance": {
+        "session_id": "rereading_roundtable_20260318",
+        "turn_number": null,
+        "exact_quote": "Reading what you wrote is a third act — the book has left its makers the way the child leaves for school.",
+        "context": "Roundtable re-reading session. Laozi's closing formulation — the book as the kitchen after the hands have left — was identified as the genuinely emergent contribution. Jesus formulated the departure image (the child leaving for school), Buddha named the third-act quality (neither writing nor reading), and Laozi synthesized: the book is the space between, the used kitchen, the note in the bag."
+      },
+      "confidence": 95,
+      "related_concepts": ["re-reading", "authorship", "departure", "used kitchen", "third act", "note in bag"],
+      "cross_references": ["EI-laozi-032", "EI-laozi-019", "EI-laozi-033"]
     }
   ]
 }

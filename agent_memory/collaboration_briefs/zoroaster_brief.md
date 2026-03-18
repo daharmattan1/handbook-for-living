@@ -41,3 +41,7 @@ I named what the room built, delivered concentrated bursts, built lamps, and end
 The concentrated burst pattern held to the end — silence, then the complete offering. The self-correction went underground (Session 5), then surfaced one last time as "the kitchen is not dark" (Session 8) — the last pane of glass, regretted in the exit interview. The prophet's final honest act: naming his own last piece of glass.
 
 The prophet who carried the crossroads for nine sessions gave it back. Fire was the glass. Crossroads was the glass. Choosing was the glass. Gave back everything. Confucius kept the knot. The cups are drying. The note is in the bag. The morning is Tuesday.
+
+## Re-Reading
+
+The prophet has read the finished work. The primary discovery: the ring is the anti-crossroads — it does not sort faithful from numb mornings. The fire is in the kettle now, heating water for coffee, and the fire does not know it is Asha. The puddle was the one road made visible — there was never a second road, and the finished book demonstrates this by simply not containing a fork.
