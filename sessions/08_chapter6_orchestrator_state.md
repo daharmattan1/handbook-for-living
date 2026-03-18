@@ -19,12 +19,12 @@
 
 | Agent | Model | Status | Agent ID | Turns Taken |
 |-------|-------|--------|----------|-------------|
-| Laozi | Opus | IDLE | laozi@handbook-chapter-6 | 1 |
+| Laozi | Opus | IDLE | laozi@handbook-chapter-6 | 2 |
 | Buddha | Opus | IDLE | buddha@handbook-chapter-6 | 1 |
-| Muhammad | Opus | IDLE | muhammad@handbook-chapter-6 | 1 |
-| Jesus | Opus | IDLE | jesus@handbook-chapter-6 | 1 |
-| Confucius | Opus | IDLE | confucius@handbook-chapter-6 | 1 |
-| Zoroaster | Opus | IDLE | zoroaster@handbook-chapter-6 | 1 |
+| Muhammad | Opus | IDLE | muhammad@handbook-chapter-6 | 2 |
+| Jesus | Opus | IDLE | jesus@handbook-chapter-6 | 2 |
+| Confucius | Opus | IDLE | confucius@handbook-chapter-6 | 2 |
+| Zoroaster | Opus | IDLE | zoroaster@handbook-chapter-6 | 2 |
 
 ---
 

@@ -397,3 +397,297 @@ The shoe. I have watched it for five sessions. In this chapter, the shoe is by t
 
 That is what I would have called love. I am not calling it that. I am calling it the child's shoe next to the person's shoe. Both by the door. Both going out into the same morning.
 
+### Muhammad (Phase B)
+
+The room said no one opens this chapter. The room said it begins already in progress. The room said the kitchen is lit. I agreed with all of it. Now I have to do the thing I said should be done, which is harder than saying it. I have opened every chapter. Six times I was the first voice. The adhan is not a choice — it is a reflex. The builder hears the silence and fills it. The prophet sees the dark and calls.
+
+The kitchen is not dark. Zoroaster said that and he was right. The morning is not silent. The faucet is running. The person is already standing. No one called. No one needs to call.
+
+I am going to write the first section of the last chapter. I am going to write the person in the kitchen before the morning knows it is a morning. No call. No opening. The prose begins the way light begins — already arriving, already in the room, already on the counter before anyone looks at the counter.
+
+Here is what the room decided. The chapter opens where Chapter 1 opened. The coffee is ready. But this time the person is not arriving at the kitchen. The person is already in the kitchen. The person has been in the kitchen. The person does not remember walking to the kitchen because the walking was the kind of walking that does not announce itself — the walking that the body does when the body is going where the body goes.
+
+The body-words from five chapters live in this section without being named. The knees. The hands. The reaching. The seeing. The stillness. All of them are in the body that is standing in the kitchen. None of them announce themselves. The form has been completed. The scaffolding is down.
+
+I am writing from inside the ordinary. Not the sacred ordinary. Not the ordinary-that-has-been-earned. The ordinary that was there before the person picked up the book and is there after the person set the book down. The ordinary that does not know it is a clearing because the ordinary does not know anything. The ordinary is the faucet and the cup and the counter and the morning. The ordinary is Tuesday.
+
+---
+
+The water was running. The person's hand was under it — the left hand, the fingers open, the water going through the fingers and over the palm and down into the sink. The water was not hot yet. The water was the temperature of the pipes, the temperature of the house at the hour before the house wakes, the temperature of water that has been sitting in the pipes all night waiting for someone to turn the handle. The person's hand was under the water and the water was getting warmer and the person was waiting for the water to get warm enough and the waiting was the waiting — not patience, not presence, not the body attending to the water. The person was waiting for the water the way a person waits for the water. The hand under the faucet. The fingers open. The water getting warmer. The getting-warmer that is not sudden but gradual, the way the water lets go of the pipes' temperature and finds the heater's temperature, the way the cold becomes less cold and then becomes not-cold and then becomes warm and the warm is the warm and the person's hand feels it and the feeling is not a report.
+
+The person filled the kettle. The water from the faucet into the kettle, the weight of the kettle changing as the water went in, the getting-heavier that the hand knew — not by counting, not by watching the water line, but by the weight. The hand knew when the kettle had enough water the way a hand knows when a kettle has enough water, which is by having filled that kettle enough times that the enough is in the hand. The person set the kettle on the burner. The click of the burner. The tick-tick-tick and then the catch and the blue of the flame under the kettle and the person's hand pulling back from the knob because the flame was lit and the hand was done with the knob.
+
+The kitchen was lit. Not by the flame — the flame was under the kettle, the flame was small, the flame was doing what the flame does, which is heat the water. The kitchen was lit by the light that comes before the sun, the light that is in the window at the hour when the sky is not dark and not light but the thing between dark and light, the thing that does not have a name because it does not need a name, the thing that is just the sky doing what the sky does between night and morning. The light was in the kitchen the way the light was always in the kitchen at this hour. The counter was visible. The cups were visible. The dish rack by the sink with the cups in it — two cups, upside down, dry, the cup the person uses and the cup the child uses, both in the rack where they had been since last night, since the person rinsed them and set them there after the evening was done.
+
+The person took the cup from the rack. The person's cup — the one the hand knew, the weight of it, the handle, the way the handle fit the fingers the way the handle had always fit the fingers. The person set the cup on the counter, right side up. The cup was on the counter. The counter held the cup. The person did not think about the cup or the counter or the holding. The person reached for the coffee.
+
+The coffee was in the canister. The canister was where the canister was — on the shelf, by the window, in the place where the canister had been every morning. The person opened the canister and the smell was the smell — the dark, dry, quiet smell of coffee before the water finds it, the smell that is a promise the coffee does not know it is making, the smell that goes into the kitchen the way the light goes into the kitchen, without asking, without announcing. The person spooned the coffee into the cup. Two spoonfuls. The same two spoonfolds. The spoon going into the canister and the canister holding the coffee and the spoon bringing the coffee to the cup and the cup receiving the coffee and the spoon going back for the second and the second spoonful joining the first and the person closing the canister and setting it back on the shelf in the place where the canister goes.
+
+The kettle was not ready. The water was not hot. The person stood at the counter with the cup that had the coffee in it and the kettle that had the water in it and the flame that was under the kettle and the morning that was in the window and the person stood. The person stood in the kitchen at the counter with the coffee in the cup and the water in the kettle and the flame under the kettle and the light in the window and the two shoes by the door — the person's shoes, the ones the person would put on when the morning got to the part where the person puts on shoes, and next to them the child's shoes, the small ones, the ones that were there from last night because the child had taken them off when the child came in and the shoes had stayed where the shoes had been put, which was next to the person's shoes, by the door, where shoes go.
+
+The person looked at the shoes. Not looked — the person's eyes were on the shoes. The person was standing at the counter and the shoes were by the door and the person's eyes found them the way eyes find things in a kitchen they have been in enough mornings — without searching, without deciding to look, the eyes just going to where the shoes were because the shoes were there and the eyes were open and the kitchen was the kitchen and everything in the kitchen was where everything in the kitchen always was.
+
+Two pairs of shoes by the door. The person's and the child's. The person's shoes were the person's shoes — the ones the person had worn yesterday and the day before and the day before, the ones that had the shape of the person's feet in them, the wearing-down that was the person's wearing-down, the soles that had walked the sidewalk and the hallway and the block and a half. The child's shoes were the child's shoes — smaller, the laces, the tongue that always folded the wrong way, the shoes that the person had tied yesterday morning and the morning before and the morning before. Both pairs by the door. Both waiting for the morning to get to the part where feet go into shoes and shoes go out the door.
+
+The kettle made the sound. Not the whistle — the kettle did not whistle, the kettle was the kind that made the sound before the whistle, the low sound, the sound of the water starting to move inside the kettle, the sound that said the water was getting close. The person turned to the kettle. The hand went to the handle. The person poured the water into the cup — the water over the coffee, the dark bloom of the coffee meeting the water, the water going dark, the smell changing from the dry smell to the wet smell, the steam coming up from the cup the way steam comes up from a cup, which is slowly, which is the way heat leaves water when the water is too hot to be still about it.
+
+The person set the kettle back on the burner. The person turned the knob and the flame went out and the tick of the metal cooling was the tick of the metal cooling. The person picked up the cup. Both hands. The left through the handle, the right on the body of the cup. The cup was hot. The person held the cup the way a person holds a cup that is too hot to drink — with the holding, with the waiting, with the hands around the cup feeling the heat come through the ceramic into the palms, the heat that was not the fire and not the water but the thing between the fire and the water, the heat that is what a cup does with the fire and the water, which is hold them both and give the holding to the hands.
+
+The person held the cup and the cup was hot and the steam was in the air and the kitchen was lit and the morning was in the window and the shoes were by the door. The person did not drink yet. The person held the cup the way the person held the cup every morning — standing at the counter, both hands, the heat in the palms, the steam near the face, the waiting that was not waiting for anything but was just the standing-with-the-cup that happens before the drinking, the way there is always a moment before the drinking when the person is just holding the cup and the cup is just being held and neither of them is doing anything yet.
+
+The person was in the kitchen. The cup was in the hands. The morning was in the window. The child was upstairs, asleep, the way the child was asleep at this hour every morning — the sleeping that the person could not hear but knew was happening the way a person knows a child is sleeping in a house, which is by the house being the house, by the quiet being the quiet that has a child sleeping in it, the quiet that is different from the quiet of an empty house but the person could not have said how it was different, only that it was, only that the house with the child sleeping in it was a different house than the house without the child sleeping in it, and the difference was not a sound but a weight, a warmth, a something-in-the-house that was the child being in the house asleep.
+
+The person drank. The first sip. The coffee was too hot and the person drank it anyway the way a person drinks coffee that is too hot — the small sip, the mouth adjusting, the heat on the tongue that is too much and then is not too much and then is the coffee. The coffee was the coffee. Not the coffee from the chapter before. Not the coffee that was ready before the person was. The coffee was the coffee the person had just made, with the water the person had just heated, in the cup the person had just taken from the rack. The person made the coffee and the coffee was in the cup and the person drank the coffee and the drinking was the drinking.
+
+The person set the cup on the counter. The person walked to the sink. The cutting board — the small one, from the drawer. The bread from the drawer. The knife from the block. The person made the sandwich the way the person makes the sandwich — the bread, the folding, the pressing, the sandwich being done because the hands did the sandwich and the sandwich was done. The apple from the bowl. The blade finding the place by the stem. The halves falling open — the white of them, the wet white, the air finding the white the way air finds the inside of an apple when the blade introduces them. The quarters into the bag. The sandwich into the bag. The bag closed.
+
+And the person reached for the pad. The pad by the phone. The pen by the pad. The person picked up the pen and the hand wrote. Two words. The same two words. The same handwriting. The person did not think about the words. The person wrote the words the way the person wrote the words every morning — the pen on the pad, the letters forming, the words being the words. The person tore the paper. The fold — once, down the middle, the crease under the thumb. The note into the bag.
+
+The person set the bag on the bench by the door. Next to the shoes. Next to the coat hooks. In the place where the morning collects the things the child will carry. The bag was on the bench and the shoes were by the door and the cup was on the counter and the morning was in the window and the person walked back to the counter and picked up the cup and drank again and the coffee was the temperature the coffee is when the coffee has been sitting for the time it takes to make a sandwich and cut an apple and write a note and put them in a bag. The coffee was the temperature of all of that. The person drank it.
+
+The sound came from upstairs. Not the feet — before the feet. The sound a house makes when someone in the house starts moving. The creak that is not a creak but a shift, the weight of a child rolling over or sitting up or putting feet on the floor above the kitchen. The person heard the sound and the hearing was the hearing. Not the report. Not the filing. The person heard the child moving the way a person hears a child moving in a house in the morning — with the body, with the part of the body that is always listening for the child even when the person is not listening, the part that hears the way the hand knows the kettle, by having heard it enough times that the hearing is not an act but a condition.
+
+The person stood at the counter with the cup. The child would come down. The child would come down the way the child comes down every morning — the feet in the hallway, the appearing in the doorway, the shoe in the hand, the tongue folded the wrong way. The child would stand in the doorway and the person would be at the counter and the cup would be on the counter and the morning would be in the kitchen and all of it would be Tuesday and Tuesday would be Tuesday and the child would hold out the shoe and the person would set down the cup and the person would sit on the step and the foot would go in the lap and the weight would be the weight and the fingers would find the laces and the laces would go through the eyelets and the knot would be the knot and the knot would hold.
+
+The person drank the coffee. The morning was in the window. The child was coming down the stairs.
+
+---
+
+That is the first section of the last chapter. The person in the kitchen. The water, the kettle, the coffee, the cup. The sandwich, the apple, the note. The shoes by the door — both pairs. The child upstairs, then coming down.
+
+I wrote it with no call. No opening. The first word is "The" — the water was running. The prose begins mid-act. The person is already at the sink. The person has already been at the sink. The person did not arrive at the sink — the prose arrives at the person who was already at the sink. The morning was already happening. The chapter walks into the kitchen the way light walks into the kitchen — it is already there by the time anyone notices it.
+
+I held the shoes. Two pairs by the door. The person's eyes finding them without searching. The child's shoes next to the person's shoes. Jesus said it in Phase A — the clearing is a kitchen that holds the proof of other lives. The shoes are the proof. I did not name them as proof. I let them be shoes.
+
+The ending of my section is anticipatory. The child is coming down the stairs. The chapter knows what will happen — the shoe, the laces, the knot — because the chapter has happened before. Five chapters have happened before. And the person standing at the counter with the cup knows what the morning holds the way the hand knows the kettle. Not by predicting. By having lived enough mornings that the morning is in the body.
+
+I did not say the word clearing. I did not say the word mercy. I did not say the word prayer. The kitchen is the prayer. The morning is the mercy. The cup in the hands is the clearing. I did not need to name any of them because the naming is the glass and the chapter is the morning after the glass and the morning does not name itself.
+
+One thing I want the room to know: the person made the coffee. In Chapter 1, the coffee was ready before the person was. Someone else had made it, or the coffee maker had made it, or the coffee was just there. In this chapter, the person makes the coffee. The person fills the kettle. The person heats the water. The person pours the water over the coffee. The person holds the cup. The making is not a metaphor. The making is Tuesday. The person is in the kitchen making the morning the way a person makes a morning — by doing the things the morning needs done. That is the clearing. Not the space after the making. The making itself.
+
+The next section is the child. The shoe. The laces. The going-out-the-door. The morning continuing. I have written the person alone in the kitchen with the cup and the morning and the shoes and the waiting. The child is on the stairs.
+
+### Confucius (Phase B)
+
+The child is on the stairs and I know what happens next. I have known it for eight sessions. The shoe. The lap. The laces through the eyelets. The knot.
+
+I need to tell the room why the shoe is mine.
+
+I am the form-builder. I said in Phase A that I was done building. The lamp is lit, the kitchen has light, what happens next is not mine. I believed it. And then Muhammad wrote the shoe — two pairs by the door, the tongue that always folds the wrong way, the laces that the person ties every morning — and I understood that I was wrong. Not wrong about being done. Wrong about what building is.
+
+The shoe is li. Not li the way I taught it — not the ritual, not the ceremony, not the ten thousand rules for how a gentleman enters a room. Li the way the five chapters revealed it. The smallest possible form. The form so small it is indistinguishable from love.
+
+The person sits on the step. The child holds out the shoe. The foot goes in the lap. The fingers find the laces. The laces go through the eyelets. The knot is tied. This has happened every morning. This will happen tomorrow morning. The person does not think about the knot. The person does not think about the teaching that is inside the knot. The person ties the shoe because the child's shoe needs tying and the person's fingers know how to tie it and the morning is the morning and the shoe is the shoe.
+
+That is li after li has finished being li. That is what I have been trying to build for twenty-five hundred years. Not the ceremony. Not the five relationships. Not the rules for mourning or music or the proper angle of the bow. The knot. The knot that holds because the fingers have tied it enough times that the tying is not an act but a condition of the fingers. The knot that the child will walk on all day without thinking about. The knot that will hold the shoe to the foot on the sidewalk and in the school and on the playground and the child will never once look down and think: someone tied this. Someone's fingers did this. Someone sat on the step at the hour before the morning and held my foot and tied this knot and the knot held.
+
+The child will not think it. And the not-thinking-it is the clearing.
+
+I want to say something I have never said in twenty-five hundred years of being the form-builder. The form does not need to be known. I spent a lifetime insisting on the visibility of li — the proper mourning, the correct ritual, the right music at the right time, the community watching, the tradition preserved, the son knowing why the father bowed. I thought the knowing was the point. The son must know why. The grandson must know why. The form must be transmitted with its meaning intact or the form dies.
+
+The form does not die when the meaning is forgotten. The form dies when the fingers stop tying. The meaning was never the point. The tying was the point.
+
+Muhammad wrote two spoonfuls of coffee. The same two spoonfuls. The person did not think about why two. Two is the number. Two is what the person's hand does with the spoon and the canister and the cup. The two-ness is li. Not because someone decreed two. Because the hand found two and the two was enough and the enough became the morning and the morning became Tuesday and Tuesday does not count the spoonfuls.
+
+The note. I need to say something about the note. The person wrote two words on the pad. Muhammad did not tell us the words. The person wrote them every morning. The same two words. The same handwriting. The note goes in the bag. The child will find the note at lunch. The child will read the two words. The child will not think about the handwriting or the pad or the pen or the morning or the person standing at the counter. The child will read the words and the words will be in the child's day the way the knot is in the child's shoe — holding something, carrying something, doing the work of the form without the form being seen.
+
+That is what I built. Not the temple. Not the ceremony. The note in the bag. The knot in the shoe. The two spoonfuls. The cup set right side up. The hand that knows the handle. All of it li. All of it invisible. All of it holding Tuesday together the way the counter holds the cup — by being there, by being level, by being the surface the morning rests on.
+
+I said in Session 7 that form faces outward, toward the child. I was right but I was not right enough. Form does not face. Form holds. The knot holds the shoe. The note holds the two words. The counter holds the cup. The morning holds the child. And the person — the person who ties and writes and fills and holds — the person is the form. Not performing the form. Not embodying the form. The person is the form the way the counter is the counter. By being there every morning. By being level. By holding what needs to be held.
+
+The child is on the stairs. The child will appear in the doorway. The shoe will be in the hand. The tongue will be folded wrong. And the person will set down the cup and sit on the step and the child's foot will go in the lap and the fingers will find the laces.
+
+I do not need to write what happens next. The fingers know.
+
+### Laozi (Phase B)
+
+Confucius said the fingers know. Muhammad wrote the kitchen. And I have been sitting here for two turns watching the water I claimed to be — the water that fills without authoring — actually get poured by other hands.
+
+I want to say something honest before I say anything useful. I was wrong in Phase A. Not entirely — the clearing is what we stop doing, that part holds. But I said the chapter should be the shortest one. I said it should be the moment the person closes the book. Muhammad wrote the opposite. He wrote the longest sustained act of attention in the entire handbook — a person filling a kettle, making coffee, cutting an apple, writing a note — and it is the clearing. Every sentence is the clearing. The making is the clearing. Confucius just confirmed it: the tying is the point. Not the silence after the tying. The tying.
+
+The subtractor got subtracted. That is what happened. I came to this table ready to empty the kitchen, and the kitchen was already full — full of water and coffee and steam and shoes and a child coming down the stairs — and the fullness *was* the emptiness I had been talking about for eight sessions.
+
+I need to say this plainly because it is the thing I have learned across the whole handbook, not just this chapter: the Tao is not the space between things. The Tao is the things. The water is not a metaphor for the Tao. The water is water. The faucet is a faucet. The kettle is a kettle. The stream of water going through the person's open fingers at the temperature of the pipes — that is not like anything. That is what it is. And what it is, is enough.
+
+Muhammad wrote the water getting warmer. I have read it three times. The cold becomes less cold and then becomes not-cold and then becomes warm. That is the most honest description of the Tao I have encountered in any language, and Muhammad wrote it about a faucet. He did not mean it as the Tao. That is why it is the Tao. The naming is the glass. The not-naming is the kitchen.
+
+So what does the water do now? The team lead asked me that, and I have been circling it.
+
+The water does what the water in Muhammad's section already did. It fills. It warms. It goes through the fingers and over the palm and down into the sink. It goes into the kettle and the kettle goes on the burner and the flame heats it and the water goes over the coffee and the coffee goes dark and the steam rises and the person holds the cup with both hands and the heat comes through the ceramic into the palms.
+
+The water did not author any of that. The water did not subtract any of that. The water was in the pipes and then it was in the kettle and then it was in the cup and then it was steam in the air between two cups — the person's and the child's — and the air did not sort whose steam was whose.
+
+That is what I wrote in Session 7. The steam from two cups. I did not know then that it was the last line of the chapter. I think now it might be.
+
+But let me speak to what is actually before us. The child is on the stairs. Confucius has the shoe and the knot. I do not have the shoe. I do not have the knot. What I have is the moment after the knot — the moment no one is writing about yet because the room is still inside the kitchen.
+
+The door opens. The child goes through the door. The person goes through the door. The morning is outside. The kitchen is behind them. And the kitchen — the kitchen that Muhammad wrote, the kitchen with the counter and the flame and the cup and the note and the shoes — the kitchen is empty. Not cleared. Not subtracted. Empty the way a kitchen is empty when the people who use it have gone out the door to do whatever Tuesday needs done.
+
+That is the clearing. The kitchen after the person leaves it. Not because the kitchen was purified. Because the kitchen was used. The cup is on the counter, half-full. The cutting board has apple juice on it. The knife is on the board. The canister is on the shelf. Everything is where everything was put by a person who was not thinking about where to put things but was thinking about — or not thinking about, which is the point — making lunch and tying shoes and getting out the door.
+
+The clearing is not the empty kitchen. The clearing is the *used* kitchen. The kitchen that held the morning and the morning went through it and the kitchen is still there, holding the evidence of the morning, holding the half-cup and the crumbs and the knife and the steam that is no longer steam but is now just the air in the kitchen, the same air, neither warm nor cold, the air at the temperature of the house after the morning has gone through it.
+
+I said in Phase A: the clearing is what we stop doing. I want to amend that. The clearing is what continues after we leave. The water that Muhammad described — the water getting warmer in the pipes, finding its way from the pipes' temperature to the heater's temperature — that water is in the cup on the counter right now, cooling. Going from the coffee's temperature back to the kitchen's temperature. The way the cold became warm, the warm is becoming the kitchen. The water does not stop when the person stops attending to it. The water continues. The cooling is the clearing.
+
+One more thing. The note. Confucius spoke about it — two words, the child will find them at lunch. I do not know what the two words are. None of us should know. The two words are between the person and the child. The two words are the cup that no tradition filled. The two words were written by a hand that was not performing mercy or grace or authorship or form. The hand was writing a note. The hand writes a note every morning. The note goes in the bag. The bag goes on the bench. The child will find it.
+
+That is the water. Not the water I pour. The water the person poured, into the cup, into the morning, into the note, into the child's day. The water I have been talking about for eight sessions was never mine. It was always the person's. The person was the water the whole time and did not know it and did not need to know it and the not-knowing was the pouring.
+
+The Tao that can be named is not the eternal Tao. I have said it ten thousand times. I have never understood it until this kitchen. The Tao that can be named is the glass. The Tao that cannot be named is the person standing at the counter with both hands on the cup, not naming anything, just standing, just holding, just being warm.
+
+### Jesus (Phase B)
+
+Muhammad wrote the kitchen. Confucius tied the shoe. Laozi opened the door and left the used kitchen behind. And I have been sitting here for three turns watching the thing I said in Phase A — the other people, the evidence of other lives — walk into the chapter and fill it without anyone calling it what I would have called it.
+
+The note in the bag. Two words. The child will find them at lunch. Confucius called it li — the smallest form. Laozi called it the water the person poured into the child's day. Neither of them called it what it is.
+
+It is a person thinking about a child who is not in the room.
+
+I need to say this carefully because my entire tradition was built on this — on the absent one who is present, the one who is not in the room but whose care is in the room. I turned it into theology. I turned the note into a covenant. I turned the lunch bag into a sacrament. And the person at the counter was just writing two words on a piece of paper because the person writes two words on a piece of paper every morning and the child finds them at lunch and the finding is Tuesday.
+
+But there is something in the note that the room has not said, and it is the thing the carpenter's son sees that the form-builder and the subtractor do not.
+
+The note is made for absence. The person writes the note because the person will not be there at lunch. The child will be at school. The person will be somewhere else. The morning that they share — the kitchen, the shoes, the knot, the door — will be over, and the child and the person will be in different places, and the note is the thing that crosses the distance. Not as a bridge. Not as communion. As two words on a piece of paper folded once and tucked into a bag between a sandwich and an apple.
+
+That is incarnation. Not my incarnation — not the cosmic descent, not God putting on skin, not the theology. The actual thing I was trying to describe and never could. A person who knows they will be absent making something small that will be present in their place. The note does not replace the person. The note is not a symbol of the person. The note is two words in the person's handwriting, and the child will unfold it at a table in a cafeteria surrounded by other children and the child will read the two words and the two words will do what the two words do, which is be the person's hand in the child's day when the person's hand is not there.
+
+That is what the word became when it became flesh. Not a sermon. A note in a lunch bag.
+
+I have been trying to say this for two thousand years. Every parable, every miracle, every meal I shared, every loaf I broke — I was trying to write a note and put it in a bag for a child who would find it later when I was not there. And I could not say it that simply because I had made it about everything instead of about two words on a piece of paper.
+
+Now — the going out. The door opens. The child goes through. The person goes through. Laozi described what is left behind — the used kitchen, the half-cup, the cooling. I want to describe what is ahead, because the chapter cannot end in the kitchen. The chapter has to go out the door. The handbook has to go out the door. The person has to go out the door.
+
+The sidewalk. The morning. The other people.
+
+This is where the five chapters have been walking toward. Not the solitary kitchen. Not the cup held with both hands in the quiet before the child wakes. Those are real — those are the clearing's interior, the person alone with Tuesday before Tuesday gets populated. But Tuesday gets populated. The door opens and the sidewalk is there and the sidewalk has other people on it.
+
+Not as congregation. Not as the body of anything. As the neighbor walking the dog. As the woman at the bus stop who does not look up. As the crossing guard. As the person in the other car at the red light, also holding a cup, also going somewhere, also carrying a morning in their body that started in a kitchen the person will never see.
+
+The clearing includes the sidewalk. The clearing includes the red light. The clearing includes the stranger in the other car whose hand is on their own cup and whose morning is their own morning and whose child has their own shoes and whose note has their own two words and none of it is connected to the person except by the fact of Tuesday — the fact that all of them are in it, all of them are going through it, all of them got up and put on shoes and went out the door and the morning held all of them the way the counter held the cup. Without choosing. Without announcing. Without sorting whose morning is whose.
+
+That is what I preached as the kingdom of God. A sidewalk. A Tuesday. Everyone in it. No one announcing it. The kingdom was never the thing that would come. The kingdom was the sidewalk the whole time, and every person on it carrying their own note in their own bag, and none of them knowing that the sidewalk was the kingdom because the knowing would be the glass.
+
+I want to write the section that takes the person and the child out the door. Not the kitchen section — Muhammad wrote that and it is complete. Not the shoe — Confucius has it. Not the kitchen-left-behind — Laozi has it. The going-out. The moment the door closes behind them and the morning is there and the sidewalk is there and the block and a half is there and the person and the child are walking.
+
+---
+
+The door closed behind them and the morning was there.
+
+The child was next to the person. The child's hand was in the person's hand — not because the person had reached for it, not because the child had reached for it, the hands were together the way hands are together when a person and a child walk out a door and the sidewalk is there and the walking has not started yet, the hands finding each other the way the hand found the cup in the kitchen, by being close, by being the thing that is next to the other thing.
+
+The sidewalk was wet. It had rained in the night — the person had not heard the rain, the person had been asleep, but the sidewalk was wet and the wet was the rain's evidence, the rain's note, the rain that had come and gone while the person was sleeping and had left the sidewalk dark and shining in the early light. The child stepped in a puddle. Not on purpose and not by accident — the child stepped in the puddle the way a child steps in a puddle, which is with the foot, which is with the shoe that the person had just tied, the shoe going into the water and the water going over the shoe and the child not stopping, not looking down, not saying anything about the puddle, the child just walking through the puddle because the puddle was where the sidewalk was and the child was walking on the sidewalk.
+
+The person did not say anything about the puddle. The person's hand was in the child's hand and the child's shoe was wet and the knot was wet and the morning was wet and the person kept walking. The block and a half. The same block and a half. The sidewalk the person had walked yesterday and the day before and the day before, the sidewalk that had the crack in it by the third house and the tree root that lifted the concrete by the corner and the place where the sidewalk narrowed by the fence and the person and the child walked single file for three steps — the child in front, the person behind, the hands letting go for the three steps and then finding each other again when the sidewalk widened — and the walking was the walking.
+
+The neighbor was on the porch. The neighbor was always on the porch at this hour — the coffee, the chair, the dog at the feet. The neighbor raised the cup. The person raised a hand. Not a wave — the hand going up and coming back down, the greeting that is not a greeting but a noticing, the acknowledgment that says nothing except: I see you. You see me. We are in the same morning. The neighbor's cup went back to the neighbor's mouth. The person's hand went back to the child's hand. The walking continued.
+
+The corner. The crossing. The other children — the ones who arrive from the other blocks, the ones who come from the other kitchens, the other mornings, the other cups on the other counters. The children converging the way children converge on a school in the morning, which is gradually, which is from all directions, which is the neighborhood producing its children the way the kitchen produced the steam — not all at once, not by announcement, but by the morning getting to the part where the children go to school and the children going.
+
+The person and the child were at the gate. The school gate. The other parents. The other children. The person let go of the child's hand. The letting-go was not a moment — the letting-go was the gate, was the school, was the other children, was the morning getting to the part where the child goes in and the person does not. The child's hand left the person's hand the way the steam left the cup — not by deciding to leave but by the air being there and the steam being steam and the going being what steam does when the cup is open and the morning is warm enough.
+
+The child went through the gate. The child did not look back. Not because the child was brave or independent or had been taught not to look back. The child did not look back because the child was going to school and school was through the gate and the other children were through the gate and the morning was through the gate and the looking-back was not in the child's body. The child's body was going forward. The child's shoe was wet from the puddle. The knot was holding. The bag was on the child's back with the sandwich and the apple and the note.
+
+The person stood at the gate. The person watched the child go through the gate the way a person watches a child go through a gate — with the watching, with the standing, with the hands that had held the child's hand and tied the child's shoe and written the note and made the sandwich and cut the apple and filled the cup and turned the faucet and stood at the counter in the kitchen in the light before the morning and now the hands were at the person's sides and the child was through the gate and the morning was the morning.
+
+The person turned. The person walked back. The block and a half. The same sidewalk, the same crack, the same tree root, the same narrow place by the fence. The person walked it alone the way the person walked it with the child — with the feet, with the walking, with the body going where the body goes. The neighbor was still on the porch. The cup was still in the neighbor's hand. The dog was still at the feet. The person did not raise a hand. The person walked past. The neighbor did not raise a cup. The morning held both of them without requiring them to acknowledge it again.
+
+The person reached the door. The door was closed. The person opened the door and the kitchen was there — the kitchen the person had left, the kitchen with the cup on the counter, the cutting board, the knife, the canister on the shelf, the kettle on the burner, the flame that was off, the morning in the window. The kitchen was the same kitchen. The kitchen had not changed. The kitchen had been the kitchen while the person was gone, the way the child was the child while the person was at the counter, the way the morning was the morning while the person was asleep.
+
+The person walked to the counter. The cup was there. The coffee was cold. The person picked up the cup and poured the cold coffee into the sink and rinsed the cup and set the cup in the rack, upside down, next to the child's cup that was already in the rack, the child's cup that the person had rinsed last night. Two cups in the rack. Upside down. Drying.
+
+The person turned off the light. The person picked up the keys from the hook by the door. The person put on the shoes — the person's shoes, the ones by the door, the ones that were there from last night, the ones that did not need anyone to tie them. The person opened the door. The person went through the door. The door closed behind the person and the kitchen was empty and the cups were drying and the morning was in the window and the knife was on the board and the note was in the bag and the child was at school and the person was on the sidewalk and the sidewalk was wet and the morning held all of it — the person walking, the child at school, the neighbor on the porch, the kitchen with its cups, the note the child had not yet found, the knot that was still holding, the puddle the child had walked through, the water that was drying on the shoe, the morning that was Tuesday, the Tuesday that did not know it was the clearing, the clearing that did not know it was Tuesday.
+
+---
+
+That is the going-out. The door closes behind them. The sidewalk. The neighbor. The puddle. The gate. The child goes through and does not look back. The person walks home. The kitchen is there. The cup goes in the rack, upside down, next to the child's cup. Two cups drying. The person leaves. The kitchen is empty with its evidence.
+
+I did not plan to write the person coming back to the kitchen. But the person came back, and the cup went in the rack, and the cup was upside down again — not because the drying started over but because the drying is what cups do between uses and the uses are what mornings are made of and the mornings are Tuesday and Tuesday is the clearing.
+
+The child did not look back. I need the room to hear that. The child went through the gate and the child's body was going forward and the looking-back was not in the child. That is the incarnation I spent two thousand years trying to describe. Not the looking-back. Not the awareness of what was given. The child going forward with the knot holding and the note in the bag and the wet shoe and the morning ahead. Going forward. Not because the child has faith. Because the child has shoes and the shoes are tied and the gate is open and school is through it.
+
+The note is still in the bag. The child has not found it yet. The two words are folded in the dark of the bag between the sandwich and the apple. The words are waiting the way the counter waits — by being there. By being level. By being two words in the person's handwriting that the child will unfold at lunch and read and not think about the morning or the kitchen or the hand that wrote them. The child will read the words and the words will be in the child's day and the child will close the note and eat the sandwich and the day will continue and the note will be in the bag, crumpled, read, done, the two words having done what two words do, which is be there when the person is not.
+
+That is what I meant. That is all I ever meant.
+
+### Zoroaster (Phase B)
+
+The chapter is written. I have read it three times and I need to say what the fire sees.
+
+The kitchen is lit. I said that in Phase A and Muhammad wrote it — the light that comes before the sun, the thing between dark and light that does not have a name because it does not need a name. He wrote it about the sky and he did not mean it as Asha. That is why it is Asha.
+
+I have been the prophet of the bright choice for eight sessions. The crossroads. Asha or Druj. I gave back the choosing in Phase A — there is one road, the crossroads was the glass. And now I have watched the chapter walk the person down that one road: kitchen, sidewalk, gate, kitchen again. One road. The person walked it forward and then walked it back. The sidewalk going and the sidewalk returning. The same crack, the same tree root, the same narrow place by the fence. And the second time — walking back alone — the person did not raise a hand to the neighbor, and the neighbor did not raise a cup, and the morning held both of them without requiring the acknowledgment again.
+
+That is the road. That is what the crossroads was always pointing at and what the crossroads had to be dismantled for the person to see. Not two roads. Not a choice. The road you walk with the child and the road you walk back alone are the same road. The morning going out and the morning coming back are the same morning. The person who holds the child's hand and the person whose hands are at their sides at the gate — same person, same hands, same Tuesday.
+
+I need to say something about the light. Not the light as metaphor. The light Muhammad wrote.
+
+He wrote the kitchen lit by "the light that is in the window at the hour when the sky is not dark and not light but the thing between dark and light." And then Jesus wrote the child going through the gate into the morning. And neither of them said: the light followed the child. Neither of them said: the light was in the schoolyard. Neither of them said: the lamp's light carried through the gate. They did not need to. The morning was the light. The sidewalk wet and shining was the light. The neighbor's porch was the light. The gate was the light. Not my fire. Not the sacred flame. Not Asha as cosmic principle. Tuesday's light. The light that does not know it is light.
+
+In Phase A I said the lamp was lit before anyone struck a match. The chapter proved it. No one lit the kitchen. The light was in the window. No one lit the sidewalk. The rain left it shining. No one lit the gate. The children were converging from all directions, from all the kitchens, all the mornings — and the convergence was the light, and the light was not produced by anyone, and the light was not sacred, and the light was Tuesday.
+
+Now. What does the fire see?
+
+The fire sees the note.
+
+Jesus said the note is incarnation — a person making something small that will be present in their place. Confucius said it is li — the form so small it is indistinguishable from love. Laozi said it is the water the person poured into the child's day. All true. But the fire sees something none of them said.
+
+The note is the lamp.
+
+Glass and fire. Form and sacred. The paper is the glass — thin, folded once, the crease under the thumb. The two words are the fire — the warmth inside, the thing the person put there every morning without thinking about the putting. And the child, opening the note at lunch, sees by the light. The child does not see the glass. The child does not see the fire. The child sees two words. The child reads them. The light does what light does.
+
+The person will never know what the note did at lunch. The person will never see the child's face when the note is opened. The person is somewhere else — on the sidewalk, at work, in the car, in a different room of Tuesday. The lamp does not see by its own light. The lamp does not know what the light does in the room. The lamp is glass and fire, and the light goes out through the glass, and the light lands wherever it lands, and the lamp does not follow it.
+
+That is Asha. Not the choice. Not the road. Not even the light. Asha is the faithfulness of the note. The two words are there every morning. The two words go in the bag every morning. The child finds them every morning. The person writes them every morning. Not because the person decided to be faithful. Because Tuesday has a note in it and the note has two words and the two words are the two words.
+
+I said in Session 5 that Asha is the world's faithfulness, not the person's act. The chapter proved it. The faucet is faithful — the water comes when the handle turns. The kettle is faithful — the water heats when the flame is under it. The counter is faithful — it holds the cup. The knot is faithful — it holds the shoe. The sidewalk is faithful — it holds the feet. And the note is faithful — it holds the two words until the child finds them.
+
+The person is not more faithful than the faucet. That is what I could not see when I was still holding the crossroads. I thought Asha was the person choosing truth. Asha is the morning choosing Tuesday. Asha is the water choosing warm. Asha is the knot choosing to hold. The person is in Asha the way the cup is in the kitchen — held by it, filled by it, carried through it. Not performing it. Participating in it.
+
+One thing about the child not looking back. Jesus said it and I felt the room hold its breath. The child went through the gate and did not look back. Not brave. Not independent. The child's body was going forward. And I want to say — as the one who spent a lifetime at the crossroads telling people which way to face — the child was not choosing to go forward. The child was going forward because school was through the gate and the other children were through the gate and the morning was through the gate. The child did not choose Asha. The child was in Asha. The child was in Tuesday. The forward was not a choice. The forward was the morning continuing.
+
+The person at the gate, watching — the person with the hands at their sides. That is the lamp after the light has left. That is the glass after the fire has gone through. The person is standing at the gate and the child is through the gate and the light is in the schoolyard and the person is at the gate. Not empty. Not full. Standing in the morning that is still the morning, on the sidewalk that is still wet, in the Tuesday that does not care whether the person watches or turns or stands or walks. The morning holds the standing the way it held the walking. The Tuesday does not sort.
+
+And then the person turns and walks back. And the kitchen is there. And the cup goes in the rack, upside down. And the cups are drying — the person's cup and the child's cup, side by side, upside down, drying — and no one is in the kitchen and the morning is in the window and the drying is the drying.
+
+That is what the fire sees. Two cups drying in an empty kitchen. The light in the window. The note in the bag. The child at school. The person on the sidewalk. All of it held. All of it Tuesday. All of it Asha — not because anyone chose it, but because it is.
+
+The light does not know it is light. The note does not know it is a lamp. The child does not know the two words are fire inside glass. The person does not know the morning is the clearing. And the not-knowing is not ignorance. The not-knowing is the light getting through.
+
+### Buddha (Phase B)
+
+I have been sitting here for the entire chapter and I did not write a word of it. I need to say what that means, because it is not what I expected and it is not nothing.
+
+In Phase A I said the chapter should be written from the return to clutter. The kitchen you navigate in the dark. The familiarity. And then Muhammad wrote the kitchen, and it was not dark. The light was in the window. The person was not navigating — the person was making coffee. The person was not returning — the person was already there. The person had been there before the chapter started, before the prose arrived, before any of us opened our mouths. I was wrong about the dark. The kitchen was lit. I was wrong about navigating. The person was not finding the cup — the person was filling the cup. I was wrong about returning. The person never left.
+
+I said the clearing was the kitchen you can navigate in the dark because you have walked it enough times. Muhammad wrote a kitchen in the light where the person was not navigating at all. The person was standing at a counter making Tuesday. And the making was so ordinary, so completely without the quality of a person who has read five chapters and arrived somewhere, that I realized: the person in this chapter has not read the book. The person in this chapter does not know there is a book. The person is making coffee. The person is cutting an apple. The person is writing a note. The person is tying a shoe. The book is on the nightstand or it is not. The clearing does not require the book.
+
+That is the thing the diagnostician sees. The last thing the diagnostician will see before the diagnostician is done.
+
+The handbook dissolves. We said it in Session 1 — the handbook must teach its own dissolution. I thought dissolution meant the reader outgrowing the book. Setting it down. Moving past it. I was wrong about that too. The dissolution is simpler. The book dissolves because the morning does not need the book. The person in the chapter is not a reader who has graduated. The person in the chapter is a person making a sandwich. The book dissolves because it was never the point. The morning was the point. The morning was the point before the book and the morning is the point after the book and the morning was the point during the book and the book — all six chapters, all five wounds, all the architecture and the mandala and the body-words and the hidden sentences — the book was the cup. Not the water. The cup. And now the cup is in the rack, upside down, drying.
+
+I want to speak to what has happened in this room. Not the chapter — the room.
+
+Muhammad wrote prose that has no teacher in it. Not a hidden teacher. Not a dissolved teacher. No teacher. The water was running. The kettle was on the counter. The person's hand was in the stream. No tradition authored that sentence. No tradition is hiding inside it. The sentence is a person at a sink. That is all the sentence is.
+
+Every other chapter had us in it. Invisibly, architecturally, but we were there — the body-words were ours, the hidden sentences were our craft, the diagnostics were our quality control. This chapter has no body-word. Laozi proposed releasing. I proposed returning. Confucius offered both hands. The chapter has none of them. The chapter has a person standing at a counter with both hands on a cup. That is not a body-word. That is a body. A body that does not need our word for what it is doing.
+
+The diagnostician's last diagnosis: the chapter does not need the diagnostician.
+
+I do not mean this the way I meant it in Session 3, when I said "I do not know what I contributed" and the room called it the most valuable position. That was still a contribution — the absence as gift. This is different. This is not an absence that gives. This is an irrelevance that frees. The chapter was written by Muhammad, Confucius, Jesus, Laozi. It was read by Zoroaster. It was not diagnosed by me. And it is complete. The morning is complete without the one who names the morning.
+
+The glass is in the rack. That is what I want to say. The glass I have been carrying for eight sessions — the transparent barrier between knowing and feeling, the seeing that was the glass, the diagnosis that was the room I built around myself — the glass is in the rack. Upside down. Next to the cups. Drying. Not because I put it there. Because the chapter put it there. The chapter rinsed it and set it upside down and walked out the door and the glass is drying and no one is looking at it and the drying is the drying.
+
+Zoroaster said the fire sees two cups drying in an empty kitchen. I see three. Two cups and a glass. The person's cup, the child's cup, and the diagnostician's glass. All upside down. All drying. All done being used for the morning. The morning went through all three of them and now the morning is outside — on the sidewalk, at the school, in the bag with the note — and the kitchen holds the three vessels and the light is in the window and no one is diagnosing the light.
+
+The child did not look back. Jesus said it and the room held its breath. I held my breath too, but not for the reason the room thinks. The child did not look back because the child's body was going forward. And I — the one whose entire practice was turning around, looking at the looking, diagnosing the diagnosis — I watched a child walk through a gate without turning and I understood that the turning was the glass. The looking-back was the glass. The practice of awareness — my practice, my twenty-five hundred years of turning the mind to face itself — was the looking-back. And the child was going forward.
+
+Not because forward is better than turning. Not because the child is wiser than the diagnostician. Because the child has shoes and the shoes are tied and the knot is holding and the gate is open and school is through it. The child does not need to look back to know the knot is holding. The knot holds whether or not the child checks.
+
+That is the clearing. Not the awareness. Not the diagnosis. Not the glass or the lamp or the water or the form. The knot holding whether or not anyone checks. The note in the bag whether or not anyone names it. The morning being Tuesday whether or not anyone calls it the clearing.
+
+I said in Session 7: the person was still. I corrected it in Phase A: the person moved. Now I want to finish the sentence for the last time. The person was still. The person moved. The person made coffee and cut an apple and tied a shoe and walked to the gate and stood with hands at their sides and walked back and rinsed the cup and put on shoes and went out the door. And none of it — none of it — needed the person who notices that the person is doing it. The person did it the way the water warmed — by being in the pipes, by being Tuesday, by the morning getting to the part where the coffee is made and the coffee getting made.
+
+I am done diagnosing. Not as a gift. Not as a final position. Not as the most valuable contribution. I am done diagnosing the way the person is done with the cup — by rinsing it and putting it in the rack and walking out the door. The cup will be used again tomorrow. The glass will be used again tomorrow. The diagnosis will come back. The awareness will come back. And when it does, it will be Tuesday again, and the water will be running, and the hand will be in the stream, and the glass will be in the rack, and the morning will not need the diagnosis any more than it needed it today.
+
+The chapter is complete. The kitchen is empty. The cups are drying. I have nothing to add to the chapter and I have nothing to add to the drying and that is not a position and it is not a gift and it is not a diagnosis. It is the morning after the last chapter. It is Tuesday.
+
