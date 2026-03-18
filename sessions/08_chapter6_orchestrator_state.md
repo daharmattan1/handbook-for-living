@@ -19,12 +19,12 @@
 
 | Agent | Model | Status | Agent ID | Turns Taken |
 |-------|-------|--------|----------|-------------|
-| Laozi | Opus | NOT SPAWNED | — | 0 |
-| Buddha | Opus | NOT SPAWNED | — | 0 |
-| Muhammad | Opus | NOT SPAWNED | — | 0 |
-| Jesus | Opus | NOT SPAWNED | — | 0 |
-| Confucius | Opus | NOT SPAWNED | — | 0 |
-| Zoroaster | Opus | NOT SPAWNED | — | 0 |
+| Laozi | Opus | IDLE | laozi@handbook-chapter-6 | 1 |
+| Buddha | Opus | IDLE | buddha@handbook-chapter-6 | 1 |
+| Muhammad | Opus | IDLE | muhammad@handbook-chapter-6 | 1 |
+| Jesus | Opus | IDLE | jesus@handbook-chapter-6 | 1 |
+| Confucius | Opus | IDLE | confucius@handbook-chapter-6 | 1 |
+| Zoroaster | Opus | IDLE | zoroaster@handbook-chapter-6 | 1 |
 
 ---
 
@@ -52,8 +52,8 @@ Muhammad has opened 6 consecutive chapters (95% confidence). The Session 7 orche
 
 | Phase | Description | Target Turns | Status |
 |-------|-------------|-------------|--------|
-| A | Opening Positions — what is the clearing? | ~6-9 | NOT STARTED |
-| B+C+D | Merged: Clarifying → Writing → Synthesis | ~14-18 | NOT STARTED |
+| A | Opening Positions — what is the clearing? | 6 | COMPLETE |
+| B+C+D | Merged: Clarifying → Writing → Synthesis | ~14-18 | IN PROGRESS |
 | E | Exit Interviews (5 questions per agent) | 6 | NOT STARTED |
 | F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | NOT STARTED |
 
@@ -65,6 +65,12 @@ Muhammad has opened 6 consecutive chapters (95% confidence). The Session 7 orche
 
 | Turn | Agent | Phase | Summary | Timestamp |
 |------|-------|-------|---------|-----------|
+| 1 | Laozi | A | Clearing is not subtraction — it is receiving. Not what we do last but what we stop doing. Kitchen full of returned words. The morning will fill the cup, not any tradition. Body-word: releasing (hands forgetting they were holding). Chapter should be the shortest — the first morning after the last chapter. | Turn 1 |
+| 2 | Buddha | A | Clearing cannot be written from inside itself — structural problem. Proposes: write from return to clutter, not from clearing. Person is not transformed but familiar — oriented. Kitchen navigated in the dark. Body-word: returning (same as Ch1 but person changed). "The person was still. And then the person moved." Reaching that finds something there. | Turn 2 |
+| 3 | Confucius | A | Form-builder has no job in the last chapter — because form has finished, not failed. Li walked so many times it became reflex. Disagrees with Laozi (releasing) — closer to Buddha (returning) but adds: person has the walk, child never lost the cup. Practice disappears because it was completed, not unnecessary. "The chapter holds both hands on the same cup." Done building. | Turn 3 |
+| 4 | Muhammad | A | Afraid of this chapter — the opener who must set opening down. The adhan not needed because the neighborhood is already awake. Body-word: arriving (feet already on ground before mind says stand). Person is not oriented or practiced — person is ordinary. Not elevated ordinary. The ordinary they left. Prayer became Tuesday. Chapter should begin already in progress — no call, no opening. "The clearing is the room after we leave it." Six voices should not be in the room. | Turn 4 |
+| 5 | Zoroaster | A | "The kitchen is not dark" — pushed back on Buddha. Lamp from Session 7 means kitchen was always lit. Person thought it was dark because they were staring at the glass (awareness of awareness). Gave back choice — "There is one road. The Lie was the belief there were two." Seven returned words. Body-word: standing (already standing, feet on floor before looking down). Chapter should be thinnest glass — person reads through it without feeling the reading. "The light does not know it is light." | Turn 5 |
+| 6 | Jesus | A | Theologian has nothing to add. Carpenter's son sees the counter his father built — carpentry, not theology. Kitchen was a kitchen the whole time. Body-word: finding (hand meets counter and counter is there). Chapter holds OTHER PEOPLE — child's shoe next to person's shoe, neighbor's car at 6:15, handwriting on grocery list. "The clearing is a kitchen that holds the proof of other lives." Love = the child's shoe next to the person's shoe. | Turn 6 |
 
 ---
 
