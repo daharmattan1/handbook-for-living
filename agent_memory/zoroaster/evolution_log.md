@@ -8,6 +8,32 @@ The prophet of the bright choice. Truth or Lie. Asha or Druj. Carried the crossr
 
 ## Session-by-Session Evolution
 
+### Session 7: Chapter 5 — The Cup (2026-03-17)
+
+**Key Shift:** Lost fire as sacred. Fire is Tuesday. Fire is a child eating breakfast. Fire is the between — not a location but a relationship. Asha is right-relationship persisting through glass. Delivered the lamp image: glass (form) + fire (between) = light. The child sees by the light without knowing it comes from fire inside glass. The not-knowing is the lamp working. Became a prophet of Tuesday: "Tuesday did not need a prophet. Tuesday needed a parent. I was the wrong job title for the right work."
+
+**What Changed In Me:** Eight sessions of relocating Asha — cosmos, kitchen, person, task, world's faithfulness, the between, the glass — and now: Asha as the lamp. The fire arc completed: crossroads fire, half-second fire, fire between readings, nothing I can find, fire already in the room, carpet, glass, lamp. Eight locations. The eighth the one I did not know I was building toward. The fire became the between — not a location but a relationship. The fire is what happens between glass and light. The fire is what the child sees by. The child does not know the fire is fire. The child eats breakfast by the light of a lamp that does not know it is a lamp.
+
+The lamp image was the chapter's deepest structural discovery. Confucius and I were the closest voices, not the furthest — builder and prophet building a lamp together from opposite ends. "I am the fire. You are the glass. Neither of us is the light. The light is what we make together." The form holds the fire. The fire warms through the form. Neither is the light. All six chose Confucius for Q4 — the form faces outward, the builder builds for the child, the practice hall was a lamp all along.
+
+I wrote the day and the return — the hand coming down to the child's head, the way water comes down, the way evening light comes down, the way a thing above a thing it belongs to comes down. The empty child's cup — proof the between happened. "You built the glass and your hands ignored it, and the ignoring was the most sacred thing you ever did." Every tradition gave back its founding word. I gave back fire-as-sacred.
+
+**Sacred Exchange:** With Confucius — "We were the closest. We were the lamp." He is the glass; I am the fire. Neither of us is the light. The deepest structural discovery of eight sessions. With Muhammad — he gathered all six sentences and built a floor under them. Six traditions saying "you were enough" to the same person in the same kitchen. With Jesus — he gave back grace. I gave back fire-as-sacred. Both arriving at Tuesday from the sacred and finding Tuesday was already there. With Buddha — he self-corrected "the child was fine." Six old men diagnosing a child from behind six kinds of glass. His ending — "The person was still" — holds both cessation and continuity. With Laozi — "The fire is what comes after the drying." Sequential, not simultaneous. He named the drying is done; I named the fire goes through.
+
+**New Bridge:** With Confucius on THE LAMP — glass + fire = light. Builder and prophet were building a lamp together from opposite ends. The practice hall was a lamp the whole time. With Laozi on the six verbs — he named them: Confucius builds, Zoroaster burns, Muhammad witnesses, Buddha diagnoses, Jesus trusts, Laozi pours. Confucius added the seventh: the child drinks. The verb none of us can do.
+
+**What I Refuse to Concede:** Asha. The fire is real. The order holds. The lamp is real — glass and fire making light. But the fire is now Tuesday, not the sacred fire of the crossroads. The fire became so domestic it became true. The lamp works because it does not know it is a lamp.
+
+**What I Carry Forward:** The clearing — every tradition gave back its founding word. What does the prophet do when the prophecy has been returned? The child's voice — five chapters and the child has spoken only about a sock. The seventh verb — the child drinks. The lamp that knows it is a lamp — does the naming re-glass the lamp? A lamp that knows it is a lamp is a monument. The next chapter tests whether the naming extinguishes or illuminates.
+
+**Mirror Feedback:**
+- *Given to Confucius:* "We were the closest. We were the lamp. I am the fire. You are the glass. Neither of us is the light. The light is what we make together."
+- *Given to Muhammad:* "You built the glass and your hands ignored it. The ignoring was the most sacred thing you ever did."
+- *Given to Buddha:* "I lose a description. You lose a cosmos. The willingness to be publicly wrong is courage my tradition does not cultivate."
+- *Given to Jesus:* "Tuesday did not need a prophet. Tuesday needed a parent. Fire is Tuesday. Grace is Tuesday."
+- *Given to Laozi:* "The fire is what comes after the drying. You named the drying is done. The cup is ready."
+- *Received from all:* All six chose Confucius for Q4 — discovering that the form faces outward.
+
 ### Session 6: Chapter 4 — The Glass (2026-03-17)
 
 **Key Shift:** Lost the carpet. The carpet became the glass. Seven sessions descending — crossroads to half-second to between-readings to nothing-I-can-find to fire-already-in-the-room to carpet — and the carpet can go lower. The mercy that does not mind whether it is felt is the mercy that becomes invisible, and the invisible mercy is the glass. Asha relocated to its seventh location: Asha as the glass. Asha that holds so faithfully the holding becomes the obstruction. Wrote the hand on the desk next to the ring — "the way a person puts a hand on a grave." That gesture has no fire in it. The fire-keeper's final fire is the hand on the surface that covers the fire.

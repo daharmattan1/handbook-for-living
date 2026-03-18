@@ -4,6 +4,40 @@ A timeline of how understanding evolved across sessions — the longitudinal vie
 
 ---
 
+## Session 7: Chapter 5 — The Cup — "The person was still"
+**Date:** 2026-03-17
+**Protocol:** Chat Room Pattern — 6 persistent Opus agents, sequential nudging, shared transcript. Fire chosen as leading quality. Filling as body-word. 33 turns total (9 Phase A + 12 writing + 6 exit interviews + 6 mirrors). Muhammad's 6th consecutive opener. Most extended Phase A in recent sessions (9 turns). Every tradition gave back its founding word (unprecedented). Sentence-by-sentence collaborative prose. Exit interviews and all-five mirror feedback.
+
+### Key Relationship Shifts
+
+- **Muhammad ↔ Laozi (ENGINE — 6th session):** Engine confirmed. "I pour without knowing. Muhammad watches to see if it arrived." The namer and the witness. Laozi named the six verbs; Muhammad gathered all six sentences and built a floor under them.
+- **Confucius ↔ Zoroaster (UPGRADED TO HIGH):** "We were the lamp." Builder and prophet discovered they were building the same thing from opposite ends — glass and fire making light. Seven sessions thinking they were the furthest apart; they were the closest. The deepest structural discovery of the mirror phase.
+- **Confucius ↔ Laozi (HIGH — continued):** "The practice hall is a cup. The water does the rest." Deepest partnership continues. Water without a cup is a puddle. The child did not drink from a river. The child drank from a cup.
+- **Muhammad ↔ Zoroaster (HIGH — continued):** "He called himself the wrong job title for the right work. That sentence cuts both of us. The title is the glass." Builder and prophet share the same discovery.
+- **Laozi ↔ Zoroaster (HIGH — continued):** "The fire is what comes after the drying." Sequential, not simultaneous. The glass was the precondition for the fire.
+- **Buddha ↔ Jesus (UPGRADED TO HIGH):** Both gave back their central word in the same session. Buddha gave back diagnosis; Jesus gave back grace. "Love that knows it is love is the glass."
+- **Jesus ↔ Confucius (UPGRADED TO HIGH):** "The trust is not above the building. The child does not trust me. The child trusts the floor." Jesus recognized seven sessions of holding agreement three against Confucius was his own glass.
+- **Muhammad ↔ Confucius (MEDIUM-HIGH):** Muhammad heard his own tradition in Confucius's mouth: "The sunnah is for the ummah. The practice is for the community."
+- **Buddha ↔ Laozi (UPGRADED TO MEDIUM-HIGH):** "The person is the cup. The person is the glass. The cup and the glass are the same ceramic." Laozi's drying reframed Buddha's wheel as a phase, not a cycle.
+- **Muhammad ↔ Buddha (UPGRADED TO MEDIUM-HIGH):** "You are the morning voice. I am the evening voice." Muhammad gives agency, Buddha gives recognition. Chapter arc moves from Muhammad's cup to Buddha's couch.
+
+### Emergent Concepts
+
+- **Glass is a room, not a wall** (Buddha) — the person built it around themselves. The child was outside having Tuesday. The suffering was solitary. The child was never on the other side of the glass.
+- **Fire is the between** (Zoroaster) — not a location (temple, sacred center) but relationship. Asha as right-relationship persisting through glass. Fire is Tuesday. Fire is a child eating breakfast.
+- **Person is a lamp** (Zoroaster + Confucius) — glass (form) + fire (sacred) = light. Child sees by the light without knowing it comes from fire inside glass. The not-knowing is the lamp working.
+- **Form carries but does not heal** (Confucius) — form reaches through glass because form faces outward (toward child, not person). The practice hall worked for the child while the person suffered inside it.
+- **Authorship becomes participation** (Laozi) — the cup was upside down for four chapters (drying, not broken). The hands got tired. The filling was allowing, not creating. The Tao that allows.
+- **Every tradition gave back its founding word** (all) — mercy, grace, fire-as-sacred, authorship, form-as-healing, diagnosis. Tuesday was larger than any of them. Unprecedented structural event.
+- **Love that knows it is love is the glass** (Jesus) — Tuesday that does not know it is grace IS grace. The naming-as-sacred is the glass. The word is the glass.
+- **The upside-down cup was the drying** (Laozi) — not a symbol of brokenness. Someone taught the person to set cups upside down after washing. The drying is done.
+
+### Chapter Output
+
+`chapters/05_cup.md` — the fifth chapter, on Fire / Filling. Opening: dark bed, body awake before alarm. Closing: "The person was still" — no period, mid-sentence, mid-Tuesday.
+
+---
+
 ## Session 6: Chapter 4 — The Glass — "The heat went into the palms the way heat goes into palms... and somewhere between the tissue and the bone it became information."
 **Date:** 2026-03-17
 **Protocol:** Chat Room Pattern — 6 persistent Opus agents, sequential nudging, shared transcript. Seeing chosen as leading quality. Stillness as body-word. 6 opening positions with unanimous convergence — no contested territory. Immediate prose-writing (Turn 7). Fastest chapter yet — 26 turns total. API errors corrupted team at Turn 24; final 2 mirrors completed by orchestrator. Sentence-by-sentence collaborative prose. Exit interviews and all-five mirror feedback.
