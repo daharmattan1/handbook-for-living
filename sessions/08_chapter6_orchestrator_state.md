@@ -53,8 +53,8 @@ Muhammad has opened 6 consecutive chapters (95% confidence). The Session 7 orche
 | Phase | Description | Target Turns | Status |
 |-------|-------------|-------------|--------|
 | A | Opening Positions — what is the clearing? | 6 | COMPLETE |
-| B+C+D | Merged: Clarifying → Writing → Synthesis | ~14-18 | IN PROGRESS |
-| E | Exit Interviews (5 questions per agent) | 6 | NOT STARTED |
+| B+C+D | Merged: Clarifying → Writing → Synthesis | 6 | COMPLETE |
+| E | Exit Interviews (5 questions per agent) | 6 | IN PROGRESS |
 | F | Cross-Agent Mirror Feedback (all-five pattern) | 6 | NOT STARTED |
 
 **Target: ~26-32 turns total**
