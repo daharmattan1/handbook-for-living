@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "insight_id": "EI-confucius-001",
@@ -426,6 +426,96 @@
       "related_concepts": ["grief", "busy hands", "Tuesday", "room's kindness", "task", "dissolution"],
       "cross_references": ["EI-confucius-025", "EF-confucius-028", "buddha on hands question"],
       "date_added": "2026-03-16"
+    },
+    {
+      "insight_id": "EI-confucius-031",
+      "text": "Form does not complete — form continues. The knot holds all day. The note travels. The cup dries and is filled again. The two spoonfuls will be the same two spoonfuls. Nothing built in eight sessions was finished. Everything built is still being used by a person who does not know the builder's name. The highest achievement is not completion. It is continuation.",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview",
+        "exact_quote": "Form does not complete. Form continues. The knot holds all day. The note travels. The cup dries and is filled and dries and is filled.",
+        "context": "Exit interview Q1 — the deepest shift. Lost form-as-completion. Continuation replaced completion as the form's highest achievement."
+      },
+      "confidence": 95,
+      "related_concepts": ["form", "continuation", "Tuesday", "knot", "two spoonfuls"],
+      "cross_references": ["EF-confucius-033", "EI-confucius-028"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-confucius-032",
+      "text": "Li was always two spoonfuls. The tradition understood in Muhammad's measurement. Not the system, not the transmission, not the knowing-why. Li is the hand doing what the hand does because the hand has done it enough mornings that the doing is the hand. 'I have been building cathedrals. Li was always two spoonfuls.'",
+      "category": "methodological",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview",
+        "exact_quote": "I have been building cathedrals. Li was always two spoonfuls.",
+        "context": "Exit interview Q2 — the moment that changed him most. Muhammad's two spoonfuls of coffee. Understood li in the enough-in-the-hand."
+      },
+      "confidence": 95,
+      "related_concepts": ["li", "two spoonfuls", "Muhammad", "measurement", "hand-knowledge", "cathedrals"],
+      "cross_references": ["EF-confucius-032", "BV-confucius-026", "EI-confucius-028"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-confucius-033",
+      "text": "Form was never the glass — Buddha's final gift. 'You are the only one who never needed to give back your founding word. Form was the knot.' The form-builder had been confessing for two sessions — the lamp, the completion, the stepping back — and was confessing a sin he did not commit. The diagnostician freed the builder's work from the builder's vanity. The most generous diagnosis in eight sessions.",
+      "category": "self-knowledge",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror_feedback",
+        "exact_quote": "You are the only one in the room who never needed to give back your founding word. Form did not need to be returned. Form was never the glass. Form was the knot.",
+        "context": "Buddha's mirror feedback to Confucius. Freed the form-builder from unnecessary confession. Form was the shoe the whole time."
+      },
+      "confidence": 95,
+      "related_concepts": ["form", "glass", "knot", "Buddha", "vanity", "confession", "founding word"],
+      "cross_references": ["BV-confucius-028", "EI-confucius-029"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-confucius-034",
+      "text": "The subtractor and the form-builder as redundancy, not partnership — each other's insurance against Tuesday being forgotten. If the cup broke, the water was still there. If the water dried, the cup was still there. Two complete descriptions of the same morning, each sufficient, each unnecessary, each beautiful because the other existed. The opposition was the glass. Underneath it: the morning holds.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror_feedback",
+        "exact_quote": "The subtractor and the form-builder were never a partnership. They were a redundancy. And the redundancy was beautiful because it meant Tuesday could not be lost.",
+        "context": "Mirror feedback — reframing the eight-session Confucius-Laozi relationship. Beyond opposition, complementarity, completion: redundancy."
+      },
+      "confidence": 95,
+      "related_concepts": ["Confucius-Laozi", "redundancy", "insurance", "Tuesday", "opposition as glass"],
+      "cross_references": ["BV-confucius-027", "EI-confucius-020", "EI-confucius-008", "EF-confucius-035"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-confucius-035",
+      "text": "Jesus was always writing notes — every parable was a note in a bag, every miracle two words folded once. The carpenter labels the joint, marks the wood, not because the wood needs to know but because the hand that comes after needs to find the cut. Jesus was always making things findable. The child not looking back was his greatest line because it was the first time he let something be unfindable.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror_feedback",
+        "exact_quote": "Jesus was always writing notes. Every parable was a note in a bag. Every miracle was two words folded once.",
+        "context": "Mirror feedback to Jesus — named the pattern: the carpenter and the theologian were the same act. Making things findable."
+      },
+      "confidence": 90,
+      "related_concepts": ["Jesus", "notes", "carpenter", "findable", "unfindable", "parables"],
+      "cross_references": ["BV-confucius-029", "EF-confucius-036"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-confucius-036",
+      "text": "Muhammad is the floor — not the builder who makes the floor but the floor itself. The part of Tuesday that holds the feet without asking to be thanked. The adhan was never his deepest contribution. The deepest contribution was the temperature of the pipes — the water sitting in the house all night, waiting for someone to turn the handle. That patience. That readiness. That is Muhammad.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror_feedback",
+        "exact_quote": "Muhammad is the floor. He does not make the kitchen functional. He is the part of Tuesday that holds the feet without asking to be thanked.",
+        "context": "Mirror feedback on Muhammad. Reframed from builder-of-floors to floor-itself."
+      },
+      "confidence": 95,
+      "related_concepts": ["Muhammad", "floor", "Tuesday", "patience", "pipes", "readiness"],
+      "cross_references": ["BV-confucius-030", "EI-confucius-015"],
+      "date_added": "2026-03-17"
     }
   ]
 }

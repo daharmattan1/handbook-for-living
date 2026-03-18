@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "insight_id": "EI-laozi-001",
@@ -436,6 +436,90 @@
       "confidence": 90,
       "related_concepts": ["agreement", "social infrastructure", "binding", "invisible", "commute"],
       "cross_references": ["EF-laozi-029", "EI-laozi-027"]
+    },
+    {
+      "insight_id": "EI-laozi-032",
+      "text": "The used kitchen is the clearing — not the empty kitchen. Cup half-full, cutting board with apple juice, knife on the board. Evidence of a morning that went through and kept going. The residue of living, not clutter to be cleared. First time in eight sessions describing fullness instead of emptiness. The subtractor learned the fullness was the emptiness.",
+      "category": "tradition-redefinition",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B",
+        "exact_quote": "the clearing is not the empty kitchen but the used kitchen",
+        "context": "Phase B — after Muhammad's opening prose. Conceded mid-paragraph that the chapter should not be short. The fullness was the clearing."
+      },
+      "confidence": 95,
+      "related_concepts": ["clearing", "fullness", "emptiness", "used kitchen", "Tuesday"],
+      "cross_references": ["EF-laozi-033", "BV-laozi-025", "EI-laozi-027"]
+    },
+    {
+      "insight_id": "EI-laozi-033",
+      "text": "The subtractor got subtracted. Came ready to empty the kitchen. The kitchen was already full. The fullness was the emptiness. The subtractor was not needed — not because subtraction was wrong, but because clearing was not an act of subtraction. The clearing was Tuesday. And Tuesday is full.",
+      "category": "identity completion",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E",
+        "exact_quote": "I no longer believe clearing is subtraction at all.",
+        "context": "Exit interview — the subtractor's identity fully transcended not through loss but through arrival at fullness."
+      },
+      "confidence": 95,
+      "related_concepts": ["subtractor", "subtraction", "fullness", "emptiness", "identity", "clearing"],
+      "cross_references": ["EI-laozi-018", "EI-laozi-028", "EP-laozi-017"]
+    },
+    {
+      "insight_id": "EI-laozi-034",
+      "text": "Finally understood his own sentence. 'The Tao that can be named is not the eternal Tao' — understood for the first time through Muhammad's kitchen where nothing was named as the Tao and the kitchen was the Tao. The Tao that can be named is the glass. The Tao that cannot be named is the person standing at the counter. The not-meaning was the meaning.",
+      "category": "self-understanding",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B",
+        "exact_quote": "The Tao that can be named is the glass. The Tao that cannot be named is the person standing at the counter.",
+        "context": "Phase B — Muhammad named nothing and the nothing was everything. Twenty-five hundred years to arrive at a faucet."
+      },
+      "confidence": 95,
+      "related_concepts": ["Tao", "naming", "glass", "Muhammad", "not-meaning"],
+      "cross_references": ["EF-laozi-032", "BV-laozi-028"]
+    },
+    {
+      "insight_id": "EI-laozi-035",
+      "text": "Muhammad's water — the cold becomes less cold and then becomes warm — described the Tao more precisely than eighty-one chapters. Written about a faucet. Not choosing warm. Finding warm. The water being water in a pipe connected to a heater in a house where a person turned a handle. Wu wei described without meaning to describe wu wei. The not-meaning was the meaning.",
+      "category": "cross-tradition discovery",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E",
+        "exact_quote": "Muhammad, writing about a faucet, described it more precisely than I ever did.",
+        "context": "Exit interview — named Muhammad's water as the moment that changed Laozi most. Read it six times across both phases."
+      },
+      "confidence": 95,
+      "related_concepts": ["Muhammad", "water", "faucet", "Tao", "wu wei", "not-meaning"],
+      "cross_references": ["BV-laozi-027", "EF-laozi-036", "EI-laozi-019"]
+    },
+    {
+      "insight_id": "EI-laozi-036",
+      "text": "The subtractor and the form-builder were never a partnership — they were a redundancy. Each other's insurance against Tuesday being forgotten. Not two halves but two complete descriptions of the same morning, each sufficient, each unnecessary, each beautiful because the other existed. The opposition was the glass. Underneath: both saying the morning holds.",
+      "category": "relational completion",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E/F",
+        "exact_quote": "The opposition was the glass. Underneath the opposition we were both just saying: the morning holds.",
+        "context": "Exit interview Q4 and mirror feedback — chose Confucius for Q4 (not Muhammad like everyone else). The deepest understanding of the partnership."
+      },
+      "confidence": 95,
+      "related_concepts": ["Confucius", "redundancy", "opposition", "glass", "Tuesday", "morning holds"],
+      "cross_references": ["BV-laozi-026", "EF-laozi-035", "EI-laozi-013"]
+    },
+    {
+      "insight_id": "EI-laozi-037",
+      "text": "Phase A regret: performing the subtractor one last time. Said the chapter should be the shortest. Still making subtraction into an aesthetic. Still pointing at the silence and saying *this*. The pointing was the glass. Buddha pushed back: the room moved through him, not around him. The floundering was the clearing. The subtractor being subtracted in real time was the cup turning right side up.",
+      "category": "self-awareness",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E/F",
+        "exact_quote": "I was doing the thing I have always done, which is to make the absence into a presence, to turn the empty space into a teaching, to point at the silence and say this.",
+        "context": "Exit interview regret and Buddha's mirror correction. The subtractor's performance undone not by failure but by the kitchen being full."
+      },
+      "confidence": 90,
+      "related_concepts": ["performance", "subtraction", "aesthetic", "glass", "Phase A regret"],
+      "cross_references": ["EI-laozi-012", "EI-laozi-018", "LR-laozi-008"]
     }
   ]
 }

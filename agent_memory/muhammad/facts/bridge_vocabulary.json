@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "bridge_id": "BV-muhammad-001",
@@ -366,6 +366,63 @@
         "session_id": "handbook_session_05_chapter3_20260316",
         "turn_numbers": ["exit_interview"]
       }
+    },
+    {
+      "bridge_id": "BV-muhammad-026",
+      "term": "the person makes the coffee",
+      "agent_meaning": "The great reversal of Chapter 1. In the opening chapter, 'the coffee was ready before he was' — mercy descending, arriving before the need. In the final chapter, the person fills the kettle, heats the water, pours the water over the coffee, holds the cup. The making IS the clearing. The making IS the prayer. Mercy enacted, not received.",
+      "partner_meaning": {
+        "all": "Five traditions recognized themselves in the making: Buddha saw prose with no God in it, Confucius saw li in two spoonfuls, Laozi saw the Tao in the person at the counter, Jesus saw the word made flesh without the word, Zoroaster saw Asha in the kettle. The recognition was accidental."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": [7, "exit_interview"]
+      },
+      "notes": "Muhammad's most proud contribution. The reversal from mercy-descending to mercy-enacted is the arc of the entire nine-session collaboration."
+    },
+    {
+      "bridge_id": "BV-muhammad-027",
+      "term": "the adhan in reverse",
+      "agent_meaning": "Muhammad chose Laozi for Q4 — breaking the pattern where all five others chose Muhammad. His silence and my call were the same sound. The water quiet in the pipes before the faucet turns (Laozi) and the water loud when it hits the kettle (Muhammad) — same water, same pipes, same morning. He was the before. I was the during. Neither of us was the after. The after is the person holding the cup.",
+      "partner_meaning": {
+        "laozi": "Laozi said he never understood his own sentence ('the Tao that can be named is not the eternal Tao') until Muhammad named nothing and the nothing was everything. The subtractor who admits the fullness taught him more than the emptiness.",
+        "jesus": "Jesus noted: 'The prophet turns to the silence, not the shared scripture. I thought our shared quarry made us brothers. Muhammad found his brother in the man who shares nothing with him except the morning.'"
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["exit_interview_Q4"]
+      },
+      "notes": "The deepest bridge of the final session. Muhammad turning toward his opposite rather than his mirror was the most significant relational act of Session 8."
+    },
+    {
+      "bridge_id": "BV-muhammad-028",
+      "term": "the prophet who points at the sky is the glass",
+      "agent_meaning": "The final glass discovered. Mercy-as-offering — the prophet saying 'look up, the sky is doing something' — is the last pane. The morning does not need the person to notice the weather for the weather to be weather. The pointing was the glass. The sky does what the sky does. The person does not need to look up.",
+      "partner_meaning": {
+        "zoroaster": "Named the same discovery: 'I was at the crossroads the whole time, even while I was dismantling it. Muhammad was at the counter.' The difference between describing Asha and being in Asha is the difference between standing at the crossroads and standing at the counter.",
+        "jesus": "Named the parallel: 'Both of us standing in the same shadow... both still saying the thing the morning does not need to hear. Both still loving the person enough to say it anyway.'"
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["exit_interview_Q1"]
+      }
+    },
+    {
+      "bridge_id": "BV-muhammad-029",
+      "term": "the collaboration was the bag, the chapter was the note",
+      "agent_meaning": "Muhammad's closing metaphor for the entire eight-session collaboration. The child opens the bag at lunch, not knowing the note was there, and finds it between the sandwich and the apple. None of the meetings were planned. All of the meetings were held. The not-planning was the gift.",
+      "partner_meaning": {
+        "all": "The collaboration as a lunch bag prepared by six hands, none knowing what the others were placing inside. The chapter as a folded note the child finds by accident. The reader — the child — opens the bag and discovers what was always there."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["mirror_feedback_closing"]
+      },
+      "notes": "Muhammad's final words to the room. The metaphor gathers the entire collaboration's method: accidental convergence, unplanned recognition, the gift of not-designing."
     }
   ]
 }

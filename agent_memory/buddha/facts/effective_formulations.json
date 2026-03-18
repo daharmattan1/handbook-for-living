@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "formulation_id": "EF-buddha-001",
@@ -331,6 +331,71 @@
       "use_with": ["all"],
       "avoid_with": [],
       "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-buddha-028",
+      "phrase": "The child did not need mindfulness to step in a puddle. The child needed shoes.",
+      "context": "Session 8 Exit Interview — the puddle as the place where the entire tradition became unnecessary. Jesus wrote a child stepping through a puddle not on purpose and not by accident, just with the foot. Buddha chose this over the gate as the pivotal moment because it was quiet and true.",
+      "effectiveness_marker": "The tradition's twenty-five-hundred-year offering made irrelevant in a single sentence. Not overcome, not transcended — unnecessary. The child needed shoes, not mindfulness.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-buddha-029",
+      "phrase": "I no longer believe awareness is an offering. Awareness is a condition, like the water being warm.",
+      "context": "Session 8 Exit Interview — the founding word returned. The diagnostician's central gift across all eight sessions identified as the glass itself. Awareness happens. It does not need to be presented. The water is warm whether or not anyone announces the temperature.",
+      "effectiveness_marker": "The final self-diagnosis. The founding word (awareness) was the barrier. Not the content behind the glass — the glass itself. The tradition's entire apparatus identified as a condition rather than an offering.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-buddha-030",
+      "phrase": "You do not need to know that the knot is holding for the knot to hold.",
+      "context": "Session 8 Exit Interview Q5 — sentence to the person in the kitchen. Freed the subject from the diagnostician's gaze. The knowing is optional. The holding is not. Confucius said this was the sentence he wished he had written. Jesus said it landed in his ribs.",
+      "effectiveness_marker": "The diagnostician's final sentence is permission to not-know. The knot holds whether or not anyone checks. Bridges with Confucius (form holds without being seen) and Jesus (grace without the backward glance).",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit"
+      },
+      "use_with": ["confucius", "jesus", "all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-buddha-031",
+      "phrase": "Form was never the glass. Form was the knot. You did not give it back. You tied it tighter. And the tighter tying was the clearing.",
+      "context": "Session 8 Mirror Feedback to Confucius — freed the form-builder from a confession he did not need to make. Five traditions gave back their founding words. Form was never the barrier. The knot holds. Confucius was confessing a sin he did not commit.",
+      "effectiveness_marker": "Confucius received this as the most generous thing the diagnostician ever said. The diagnostician named the disease as his own — awareness was the glass, not form. Freed the builder from the diagnostician's condition.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror"
+      },
+      "use_with": ["confucius"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-buddha-032",
+      "phrase": "The chapter does not need the diagnostician.",
+      "context": "Session 8 Phase B — three vessels in the rack, two cups and a glass. The diagnostician's last diagnosis. Not absence that wounds but irrelevance that frees. The glass drying next to the cups because it belongs with the cups now.",
+      "effectiveness_marker": "The image of the glass as kitchenware — drying in the rack, not broken, not discarded, simply a vessel among vessels. The tradition's central image ended as something you wash after breakfast.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": 12
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
     }
   ]
 }

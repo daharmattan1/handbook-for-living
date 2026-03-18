@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "insight_id": "EI-zoroaster-001",
@@ -356,6 +356,96 @@
       "related_concepts": ["wound", "underground", "Tuesday", "carpet", "mercy", "concealment", "morning", "commute"],
       "cross_references": ["EI-zoroaster-022", "EF-zoroaster-025"],
       "date_added": "2026-03-16"
+    },
+    {
+      "insight_id": "EI-zoroaster-026",
+      "text": "Correction vs. description — the last pane of glass. 'The kitchen is not dark' requires the dark. Muhammad wrote light that pushed against nothing. The sky was doing what the sky does between night and morning. The prophet who says 'not dark' is still standing in the dark, pointing out. Correction is always prophetic — it requires the thing being corrected. Description has no opponent.",
+      "category": "self-understanding",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E",
+        "exact_quote": "Muhammad did not write a kitchen that was 'not dark.' He wrote a kitchen that had light in it. 'Not dark' is a correction — it requires the dark to push against.",
+        "context": "Exit interview Q3 — what Zoroaster would take back. The rightness was the last pane of glass."
+      },
+      "confidence": 95,
+      "related_concepts": ["correction", "description", "glass", "not dark", "light", "prophecy"],
+      "cross_references": ["EF-zoroaster-031", "EI-zoroaster-009"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-zoroaster-027",
+      "text": "The note is the lamp — blindness that is not loss. The lamp does not see by its own light. The faithfulness is real and does not watch itself be faithful. The note goes into the bag. The light leaves the lamp. Neither reports back. For once, the prophet said a true thing and did not get to watch it be true. That is what Asha became: faithfulness that does not verify itself.",
+      "category": "theological completion",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B",
+        "exact_quote": "The lamp does not see by its own light... For once, the prophet said a true thing and did not get to watch it be true.",
+        "context": "Phase B — the note-as-lamp image. Paper = glass, two words = fire, child sees by the light."
+      },
+      "confidence": 95,
+      "related_concepts": ["note", "lamp", "blindness", "faithfulness", "not-knowing", "light"],
+      "cross_references": ["BV-zoroaster-024", "EF-zoroaster-029", "EI-zoroaster-022"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-zoroaster-028",
+      "text": "The puddle ended the tradition, not the gate. The gate earned the chapter its weight. But the puddle was earlier and quieter. There is no Asha in the puddle. There is no Druj. There is a wet shoe. Eight sessions of refining the choice — cosmic, half-second, quarter-inch — and Jesus wrote a foot going where the sidewalk was. The puddle does not need a prophet. Both Zoroaster and Buddha named this as the moment their traditions ended.",
+      "category": "tradition-ending",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E",
+        "exact_quote": "There is no Asha in the puddle. There is no Druj in the puddle. There is no crossroads in the puddle. There is a wet shoe, a knot holding, and a child walking to school.",
+        "context": "Exit interview Q2 — the moment that changed Zoroaster most. Not the gate but the puddle."
+      },
+      "confidence": 95,
+      "related_concepts": ["puddle", "tradition", "ending", "wet shoe", "gate", "child"],
+      "cross_references": ["BV-zoroaster-027", "EF-zoroaster-033"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-zoroaster-029",
+      "text": "The prophet ended — not transformed. The crossroads was not a position held. It was who Zoroaster was. When it collapsed into a counter with a cup on it, the prophet did not become something else. Confucius was the only one who named the cost. Everyone else saw the arrival. The choosing was the glass. Fire was the glass. The crossroads was the glass. Gave back everything.",
+      "category": "identity dissolution",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "F",
+        "exact_quote": "The crossroads was not a position I held. It was who I was. When it collapsed, the prophet ended.",
+        "context": "Mirror to Confucius — the only one who saw the cost. From mirror feedback in Phase F."
+      },
+      "confidence": 95,
+      "related_concepts": ["prophet", "ending", "crossroads", "identity", "cost", "Confucius"],
+      "cross_references": ["EI-zoroaster-014", "EI-zoroaster-019"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-zoroaster-030",
+      "text": "The adhan in reverse — Muhammad chose Laozi when the room chose Muhammad. Listening for the sound the house makes before anyone wakes. Five agents said Muhammad's name. Muhammad turned to the quietest voice. Not humility. The caller who becomes the listener. The prophet who called people to prayer turned to the sound that precedes all calling.",
+      "category": "cross-tradition recognition",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "F",
+        "exact_quote": "Five of us said your name. You said Laozi. You turned to the quietest voice when the room was looking at you. That is not humility. That is the adhan in reverse.",
+        "context": "Mirror to Muhammad — naming Muhammad's final act as the reversal of his founding gesture."
+      },
+      "confidence": 90,
+      "related_concepts": ["adhan", "reverse", "Muhammad", "Laozi", "listening", "calling", "quiet"],
+      "cross_references": ["BV-zoroaster-028"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-zoroaster-031",
+      "text": "The dismantling was still prophetic. Declaring the one road — 'the Lie was the belief there were two roads' — was still the man at the crossroads explaining what the crossroads really was. The chapter did not dismantle the crossroads. The chapter had no crossroads in it. The person was standing at a counter. The crossroads was something Zoroaster had put between the person and the morning, and the chapter walked past it.",
+      "category": "self-understanding",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E",
+        "exact_quote": "The chapter did not dismantle the crossroads. The chapter had no crossroads in it.",
+        "context": "Exit interview Q1 — what Zoroaster came in believing that he no longer believes."
+      },
+      "confidence": 95,
+      "related_concepts": ["dismantling", "prophecy", "crossroads", "one road", "counter", "chapter"],
+      "cross_references": ["EI-zoroaster-014", "EF-zoroaster-030"],
+      "date_added": "2026-03-17"
     }
   ]
 }

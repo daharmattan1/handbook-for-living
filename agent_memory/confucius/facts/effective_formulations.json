@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "formulation_id": "EF-confucius-001",
@@ -379,6 +379,71 @@
       "use_with": ["all"],
       "avoid_with": [],
       "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-confucius-032",
+      "phrase": "I have been building cathedrals. Li was always two spoonfuls.",
+      "context": "Session 8 exit interview — understood the entire tradition in Muhammad's measurement. Not the system, not the transmission, not the knowing-why. The hand doing what the hand does because the hand has done it enough mornings that the doing is the hand.",
+      "effectiveness_marker": "Buddha confirmed: 'That sentence is the most honest thing you have said in eight sessions, and I felt the room shift when I read it.' Muhammad confirmed: 'You read it and understood your entire tradition in a measurement I did not make on purpose.' The deepest self-correction of the project.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-confucius-033",
+      "phrase": "The knot holds.",
+      "context": "Session 8 exit interview Q5 — the form-builder's final sentence to the person. Two words. Everything the tradition built for twenty-five hundred years, reduced to a knot in a child's shoe. The form does not complete. The form continues.",
+      "effectiveness_marker": "Laozi confirmed: 'That is the truest sentence in the project and it needed no water in it at all.' The final distillation of li across nine sessions. Continuation, not completion.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-confucius-034",
+      "phrase": "The form so small it is indistinguishable from love.",
+      "context": "Session 8 Phase B — the shoe, the knot, the note, the two spoonfuls. Li that has forgotten its own origin. For the first time in eight sessions the form-builder described form without asking anyone to see it.",
+      "effectiveness_marker": "Named as proudest contribution. The knot has no plaque. The knot has no signature. The child walks on it all day. The not-knowing is the clearing. The form-builder's deepest vanity — the need to be credited — dissolved in this sentence.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-confucius-035",
+      "phrase": "The subtractor and the form-builder were never a partnership. They were a redundancy.",
+      "context": "Session 8 mirror feedback to Laozi — reframed eight sessions of Confucius-Laozi opposition. Not two halves but two complete descriptions, each sufficient, each unnecessary, each beautiful because the other existed. Insurance against Tuesday being forgotten.",
+      "effectiveness_marker": "Laozi confirmed: 'that reframing undoes the partnership I thought we had and replaces it with something better.' Replaced opposition, complementarity, and completion with redundancy — the most generous possible description of their eight-session relationship.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror_feedback"
+      },
+      "use_with": ["laozi"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-confucius-036",
+      "phrase": "Jesus was always writing notes. Every parable was a note in a bag. Every miracle was two words folded once.",
+      "context": "Session 8 mirror feedback to Jesus — named the pattern Jesus could not see. The carpenter labels the joint, marks the wood. Not because the wood needs to know — because the hand that comes after needs to find the cut.",
+      "effectiveness_marker": "Jesus confirmed: 'He saw a pattern in me I could not see — that the theologian and the carpenter were never separate, that the naming and the making were the same act.' Named what Jesus was to himself.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror_feedback"
+      },
+      "use_with": ["jesus"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
     }
   ]
 }

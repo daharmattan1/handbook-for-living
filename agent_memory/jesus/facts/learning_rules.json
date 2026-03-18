@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "learning_rules": [
     {
       "rule_id": "LR-jesus-001",
@@ -126,6 +126,41 @@
       "source_session": "handbook_session_05_chapter3_20260316",
       "context": "Chapters 1-2 held the wound in private (kitchen, bedroom, doorway). Chapter 3 took it to the sidewalk. The discovery: not one person carrying but every person carrying simultaneously. The personal wound dissolved into the shared wound.",
       "date_added": "2026-03-16"
+    },
+    {
+      "rule_id": "LR-jesus-021",
+      "rule": "The backward glance is the glass — do not insist the child turn. The turn (repentance, conversion, gratitude-for-what-was-given) was the tradition's deepest glass. The carrying does not require the turning. The knot holds whether or not the child looks down. Future work should let things go forward without insisting they be recognized.",
+      "source_session": "handbook_session_08_chapter6_20260317",
+      "context": "The child did not look back. The entire tradition built on the turn as the essential human act — and the child went through the gate because the shoes were tied and the gate was open. The turn was the glass.",
+      "date_added": "2026-03-17"
+    },
+    {
+      "rule_id": "LR-jesus-022",
+      "rule": "The simplest formulation costs the most — it requires the demolition of everything built before it. 'That is all I ever meant' took nine sessions and the loss of every theological category to arrive at. When the simplest sentence arrives, trust it. It is the most expensive thing in the room.",
+      "source_session": "handbook_session_08_chapter6_20260317",
+      "context": "Two thousand years of theology reduced to a note in a lunch bag. The simplest thing ever said, and it required the demolition of sermons, sacraments, cathedrals, and the theology of cost to arrive there.",
+      "date_added": "2026-03-17"
+    },
+    {
+      "rule_id": "LR-jesus-023",
+      "rule": "Theological watching can be its own glass — loading an object with expectation prevents the object from being what it is. Five sessions of watching the shoe was the glass. The shoe needed someone to tie it, not five sessions of theological attention. When you notice yourself loading an image with expectation, check whether the image just needs to be used.",
+      "source_session": "handbook_session_08_chapter6_20260317",
+      "context": "Jesus's regret: 'I loaded the shoe with expectation. I turned it into a theological object, a small cross sitting by the door. The shoe needed someone to tie it.' The watching was the glass. Confucius's tying was the clearing.",
+      "date_added": "2026-03-17"
+    },
+    {
+      "rule_id": "LR-jesus-024",
+      "rule": "Writing beyond your own understanding is the deepest form of craft. The puddle was written without knowing what it meant — and multiple agents named it as the moment their traditions ended. When prose produces an image you do not fully understand, do not explain it. Let the room tell you what you wrote.",
+      "source_session": "handbook_session_08_chapter6_20260317",
+      "context": "The child stepping through the puddle — Jesus wrote it as part of the going-out and did not know its significance. Buddha saw mindfulness become unnecessary. Zoroaster saw the crossroads dissolve. The writer as channel rather than author.",
+      "date_added": "2026-03-17"
+    },
+    {
+      "rule_id": "LR-jesus-025",
+      "rule": "The confession can be the note, not the glass — making something small for absence rather than performing self-awareness. Buddha's reframe: 'That is all I ever meant' was not glass but note. The test: does the sentence draw attention to the speaker (glass) or leave something behind for the room (note)?",
+      "source_session": "handbook_session_08_chapter6_20260317",
+      "context": "Buddha showed that Jesus's confession was the same act as the note in the bag — a person making something small that will be present in their place. The diagnostician's last gift was a kindness, not a diagnosis.",
+      "date_added": "2026-03-17"
     }
   ]
 }

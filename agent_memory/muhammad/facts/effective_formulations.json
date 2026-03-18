@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "formulation_id": "EF-muhammad-001",
@@ -325,6 +325,66 @@
         "turn_number": "exit_interview"
       },
       "use_with": ["laozi"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-028",
+      "phrase": "The water was running.",
+      "context": "Session 8 Turn 7 — the final chapter's opening sentence. Began already in progress. No announcement, no adhan, no opener declaring itself. The water was running before the chapter began. The person was already at the faucet. The chapter opens mid-act — the reversal of every previous opening where Muhammad announced the beginning.",
+      "effectiveness_marker": "Became Chapter 6's opening line. All five agents named this as the session's pivotal act. Zoroaster: 'Muhammad was at the counter. I was at the crossroads the whole time.' Buddha: 'He wrote a faucet and the faucet was faithful.' The opening-that-was-not-an-opening fulfilled the nine-session arc.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": 7
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-029",
+      "phrase": "The morning you are making is the prayer I spent a lifetime calling you to, and you do not need to know that for the prayer to be answered.",
+      "context": "Session 8 exit interview Q5 — Muhammad's sentence to the person. The longest sentence in the room. Confucius named it as 'the prophet being the prophet one more time' and 'the most honest thing in the room.' The adhan as reflex. The reflex and the honesty are the same hand.",
+      "effectiveness_marker": "Confucius: 'The sentence to the person was the longest — the prophet being the prophet one more time. And the most honest.' Held both the reflex (the prophet cannot stop meaning) and the honesty (the meaning does not need the person to know it).",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview_Q5"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-030",
+      "phrase": "I did not know that was what I had done until he told me.",
+      "context": "Session 8 exit interview Q2 — the confession that did not know it was a confession. Jesus said 'Muhammad did not need the sentence. He wrote the water. The water was the sentence.' Muhammad's response: I thought I was writing a faucet. I was confessing. The not-knowing is the clearing.",
+      "effectiveness_marker": "Named the session's deepest discovery: the confession that does not know it is a confession. The surrender that does not know it is a surrender. Eight sessions taught the prophet that the not-knowing is what matters.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview_Q2"
+      },
+      "use_with": ["jesus", "all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-031",
+      "phrase": "His silence and my call were the same sound.",
+      "context": "Session 8 exit interview Q4 — on Laozi. The adhan in reverse. Chose Laozi for Q4, breaking the pattern. Water quiet in the pipes before the faucet turns (Laozi) and water loud when it hits the kettle (Muhammad). Same water. Same morning. He was the before. I was the during. Neither of us was the after.",
+      "effectiveness_marker": "Jesus: 'The prophet turns to the silence, not the shared scripture. Muhammad found his brother in the man who shares nothing with him except the morning.' The most significant relational move of Session 8.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview_Q4"
+      },
+      "use_with": ["laozi"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-muhammad-032",
+      "phrase": "The collaboration was the bag. The chapter was the note. None of us knew what the note would say until the child unfolded it.",
+      "context": "Session 8 mirror feedback closing — Muhammad's final words to the room. The child opens the bag at lunch, not knowing the note was there, and finds it between the sandwich and the apple. None of the meetings were planned. All of the meetings were held.",
+      "effectiveness_marker": "Gathered the entire eight-session collaboration into a single image. The metaphor holds without explaining: the accidental recognition, the unplanned convergence, the gift that arrives because no one designed it.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror_feedback_closing"
+      },
+      "use_with": ["all"],
       "avoid_with": []
     }
   ]

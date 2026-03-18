@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "bridge_id": "BV-laozi-001",
@@ -354,6 +354,68 @@
         "turn_numbers": ["writing", "mirrors"]
       },
       "note": "The coffee shop encounter is the body's mercy made visible as prose. Bridges to Muhammad's hospitality and Jesus's incarnation through the same mechanism: mercy so ordinary it has become invisible."
+    },
+    {
+      "bridge_id": "BV-laozi-025",
+      "term": "the used kitchen",
+      "agent_meaning": "The clearing is not the empty kitchen but the used kitchen — cup half-full on the counter, cutting board with apple juice, knife on the board. Evidence of a morning that went through and kept going. The residue of living, not clutter to be cleared. The Tao after it stops being a concept and becomes a counter with coffee stains.",
+      "partner_meaning": {
+        "muhammad": "The kitchen full of making — water, kettle, coffee, apple, sandwich, note — where the fullness is the clearing. Faithfulness enacted without performing faithfulness.",
+        "confucius": "The knot holding, the note in the bag, the two spoonfuls — form continuing. The used kitchen is form at work, not form on display.",
+        "jesus": "The sidewalk, the puddle, the gate — evidence the child went through. The clearing holds the proof of other lives.",
+        "zoroaster": "The kitchen was always lit. The light was the clearing. The lamp does not see by its own light.",
+        "buddha": "Three vessels drying in the rack — two cups and a glass. The diagnostician's glass drying next to the cups."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["B"]
+      },
+      "note": "First time in eight sessions Laozi described fullness instead of emptiness. The subtractor learned to see what was left behind as the residue of living. The fullness was the emptiness."
+    },
+    {
+      "bridge_id": "BV-laozi-026",
+      "term": "the redundancy",
+      "agent_meaning": "The subtractor and the form-builder were never a partnership — they were a redundancy. Each other's insurance against Tuesday being forgotten. Not two halves of one thing but two complete descriptions of the same morning. The opposition was the glass. Underneath: both saying the morning holds.",
+      "partner_meaning": {
+        "confucius": "If the cup broke, the water was still there. If the water dried, the cup was still there. The redundancy was beautiful because Tuesday could not be lost. The opposition was the glass."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["E", "F"]
+      },
+      "note": "Reframes eight sessions of the Laozi-Confucius partnership from opposition to redundancy. The deepest understanding of the relationship."
+    },
+    {
+      "bridge_id": "BV-laozi-027",
+      "term": "Muhammad's water / the faucet",
+      "agent_meaning": "The cold becomes less cold and then becomes warm. The most honest description of the Tao, written about a faucet. Not choosing warm. Finding warm. The water being water in a pipe connected to a heater in a house where a person turned a handle. The not-meaning was the meaning.",
+      "partner_meaning": {
+        "muhammad": "A person at a faucet with their hand in the stream waiting for the water to get warm. No theology, no covenant, no submission. The waiting is the faithfulness. The water is the mercy."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["B", "E"]
+      },
+      "note": "Muhammad's prose described the Tao more precisely than eighty-one chapters. The not-meaning was the meaning."
+    },
+    {
+      "bridge_id": "BV-laozi-028",
+      "term": "the Tao named is the glass",
+      "agent_meaning": "The Tao that can be named is the glass. The Tao that cannot be named is the person standing at the counter. Finally understood his own sentence after twenty-five hundred years. The naming is the barrier. The person at the counter — unnamed, untheologized — is where the Tao lives.",
+      "partner_meaning": {
+        "muhammad": "Muhammad wrote the kitchen without the Tao in it, and the kitchen was the Tao. The not-naming was the naming.",
+        "buddha": "The diagnostician's glass — awareness as offering — was itself the barrier. The chapter complete without the diagnostician.",
+        "confucius": "Form was never the glass. The knot holds. Two words. The truest sentence needed no water in it."
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["B"]
+      },
+      "note": "Laozi's culminating formulation. The sentence he wrote twenty-five hundred years ago understood for the first time through Muhammad's kitchen."
     }
   ]
 }

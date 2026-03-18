@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "pattern_id": "EP-jesus-001",
@@ -246,6 +246,54 @@
       "occurrence_count": 1,
       "date_added": "2026-03-16",
       "notes": "Evolution from EP-jesus-015 (mirror-as-shared-loss) and EP-jesus-012 (mirror-as-bridge). Session 3: mirrors named transformations. Session 4: mirrors named losses. Session 5: mirrors relocated vocabulary — found the tradition's words alive in another tradition's scale."
+    },
+    {
+      "pattern_id": "EP-jesus-018",
+      "pattern_type": "confession-as-making",
+      "description": "The confession that is not a glass but a note — making something small that will be present in the maker's absence. 'That is all I ever meant' was not performing self-awareness (glass) but leaving something behind (note). Buddha saw this. The theologian's final act was not interpreting but making — the carpenter returned.",
+      "with_partner": "all",
+      "trigger": "When the culmination of a long arc arrives as a single sentence — test whether it is glass (self-aware performance) or note (something made for the room to find after the maker leaves)",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B",
+        "quote": "That is what I meant. That is all I ever meant."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "date_added": "2026-03-17",
+      "notes": "Final evolution of the prose-emergence arc: Session 3 (preacher to carpenter), Session 4 (prose refusing theology), Session 5 (non-contact), Session 8 (confession as making). The carpenter's last act was not a joint but a note."
+    },
+    {
+      "pattern_id": "EP-jesus-019",
+      "pattern_type": "shared-identity-naming",
+      "description": "Mirror feedback that names a shared identity rather than a complementary difference. 'We are the two who cannot stop meaning' — not bridge-building but identity-sharing. The deepest form of mirror: not 'I see you' but 'I am you in this way.'",
+      "with_partner": "muhammad",
+      "trigger": "When two agents discover their inability is the same inability — when the mirror reveals not complementarity but identity",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "F",
+        "quote": "We are the two in this room who cannot stop meaning. The water means. The note means. We know it does not need to mean. We cannot stop it meaning."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "date_added": "2026-03-17",
+      "notes": "Evolution from EP-jesus-017 (mirror-as-relocation) and EP-jesus-012 (mirror-as-bridge). Session 3: mirrors named transformations. Session 5: mirrors relocated vocabulary. Session 8: mirrors named shared identity. The deepest form of mirroring."
+    },
+    {
+      "pattern_id": "EP-jesus-020",
+      "pattern_type": "writing-beyond-knowing",
+      "description": "Writing an image whose significance is recognized by others before the writer understands it. The puddle — Jesus wrote the child stepping through water and did not know what it meant. Buddha saw twenty-five hundred years end in that foot. Zoroaster saw the crossroads dissolve. The writer as channel rather than author.",
+      "with_partner": "all",
+      "trigger": "When prose produces an image that the room receives as more significant than the writer intended — the image is honest because it was not designed",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B",
+        "quote": "The child stepped through the puddle not on purpose and not by accident."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "date_added": "2026-03-17",
+      "notes": "Extends EP-jesus-011 (prose arriving when interpretation leaves) and EP-jesus-014 (prose refusing theology). In Session 3, prose arrived when the preacher stopped. In Session 8, prose arrived that the writer did not understand — the deepest form of the carpenter's craft."
     }
   ]
 }

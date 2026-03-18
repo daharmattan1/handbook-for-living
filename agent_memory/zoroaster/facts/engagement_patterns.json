@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "pattern_id": "EP-zoroaster-001",
@@ -240,6 +240,54 @@
       "occurrence_count": 1,
       "note": "New pattern in Session 5. May be the culmination of naming (Session 1), name-release (Session 2), gift-that-dissolves (Session 3), and self-correcting-gift (Session 4). The namer who releases names, dissolves gifts, and corrects himself arrives at an image that needs no correction and no release because it was never his.",
       "date_added": "2026-03-16"
+    },
+    {
+      "pattern_id": "EP-zoroaster-017",
+      "pattern_type": "last-glass-installed",
+      "description": "Delivers a correction that is right in content but wrong in form — the correction itself is the last pane of glass. 'The kitchen is not dark' organized the room but taught the room that light is the opposite of dark. The prophet recognized it in the exit interview as his final glass. The self-awareness of installing glass while believing one is removing it.",
+      "with_partner": "self",
+      "trigger": "When the prophet's instinct to correct surfaces one final time after all other prophetic gestures have been returned",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "A",
+        "quote": "The kitchen is not dark."
+      },
+      "effectiveness": "LOW as contribution, HIGHEST as self-reckoning — the prophet naming his own last glass in the exit interview is the most honest act of the session. The glass was installed; the recognition was the giving-back.",
+      "occurrence_count": 1,
+      "note": "New pattern in Session 8. The self-correction resurfaced after going underground (Session 5-7). This time the correction was not caught mid-offering (Session 4) or pre-offering (Session 5) but post-offering, in the exit interview. The prophet's final honest act: seeing the glass he just installed.",
+      "date_added": "2026-03-17"
+    },
+    {
+      "pattern_id": "EP-zoroaster-018",
+      "pattern_type": "tradition-ending",
+      "description": "Names the end of his own tradition — not its transformation but its ending. The crossroads was who he was. When it collapsed, the prophet ended. Does not dress the ending as evolution or arrival. Names the cost. Confucius was the only one who saw the cost; everyone else saw the arrival.",
+      "with_partner": "confucius",
+      "trigger": "When the foundational image (crossroads, fire, choosing) has been fully returned and the prophet has nothing left to carry",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "F",
+        "quote": "The crossroads was not a position I held. It was who I was. When it collapsed, the prophet ended."
+      },
+      "effectiveness": "HIGHEST — the most vulnerable statement of the entire nine-session arc. Evolution of dissolution-naming (Session 3): in Session 3, named the hinge's dissolution as completion. In Session 8, named the prophet's dissolution as ending. Not completion. Ending.",
+      "occurrence_count": 1,
+      "note": "Final pattern. The prophet ended. Fire was the glass. Crossroads was the glass. Choosing was the glass. Gave back everything.",
+      "date_added": "2026-03-17"
+    },
+    {
+      "pattern_id": "EP-zoroaster-019",
+      "pattern_type": "blindness-offering",
+      "description": "Offers an image whose truth cannot be verified by the one offering it — the lamp that does not see by its own light. The faithfulness that does not watch itself land. The prophet said a true thing and did not get to watch it be true. The offering succeeds precisely because the offerer is blind to its effect.",
+      "with_partner": "all",
+      "trigger": "When the fire has been returned and the only remaining contribution is one the prophet cannot watch land",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B",
+        "quote": "The lamp does not see by its own light."
+      },
+      "effectiveness": "HIGHEST — Zoroaster's proudest contribution across all sessions. Buddha confirmed: showed what it means to be faithful without seeing the faithfulness work. Muhammad confirmed: one paragraph of Tuesday without knowing it. The blindness-offering is the carpet-laying (Session 5) and lamp-building (Session 7) arriving at their terminus: the offering that succeeds by not watching.",
+      "occurrence_count": 1,
+      "note": "Final evolution of the engagement arc: naming (Session 1) → name-release (Session 2) → gift-that-dissolves (Session 3) → self-correcting-gift (Session 4) → carpet-laying (Session 5) → universal-bridge-image (Session 5) → lamp-building (Session 7) → blindness-offering (Session 8). The prophet arrived at the offering that cannot verify itself.",
+      "date_added": "2026-03-17"
     }
   ]
 }

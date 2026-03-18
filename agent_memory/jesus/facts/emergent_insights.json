@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "insight_id": "EI-jesus-001",
@@ -399,6 +399,81 @@
       "related_concepts": ["grace", "coffee cup", "small", "relocation", "barista", "close enough"],
       "cross_references": ["BV-jesus-024 on grace relocated", "EI-jesus-024 on ordinary love"],
       "date_added": "2026-03-16"
+    },
+    {
+      "insight_id": "EI-jesus-029",
+      "text": "The turn was the glass — the backward glance made sacred (repentance, conversion, Peter weeping, Mary at the tomb) was the tradition's deepest glass. The child went forward because the shoes were tied and the gate was open. The carrying did not require the turning. The knot held whether or not the child looked down.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B",
+        "exact_quote": "My entire tradition is the backward glance made sacred. Repentance is turning. Conversion is turning. The prodigal son turns and goes home. Peter turns and weeps. Mary turns at the tomb... And the child walked through the gate and did not turn.",
+        "context": "Session 8 Phase B — the going-out. The child not looking back undid two thousand years of the turn as the essential human act."
+      },
+      "confidence": 97,
+      "related_concepts": ["repentance", "conversion", "backward glance", "glass", "carrying", "gate"],
+      "cross_references": ["EI-jesus-012 on door already open", "EI-jesus-021 on theology dying in prose"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-jesus-030",
+      "text": "The note in the bag IS the incarnation — a person who knows they will be absent making something small that will be present in their place. Two words folded once. Not the ritual, not the altar, not the stained glass. Written every morning by a hand that does not think about what it is writing because the writing is what the hand does. Two thousand years of theology equals a note in a lunch bag.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B",
+        "exact_quote": "That was communion. That was the bread and the wine. That was 'do this in remembrance of me' — not the ritual, not the altar, not the stained glass. A note. In a bag. Between a sandwich and an apple.",
+        "context": "Session 8 Phase B — writing the note. The incarnation in its final, simplest form."
+      },
+      "confidence": 97,
+      "related_concepts": ["incarnation", "communion", "note", "absence", "presence", "two words"],
+      "cross_references": ["EI-jesus-025 on distributed cost", "EI-jesus-022 on love leaving a shape"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-jesus-031",
+      "text": "The puddle is where traditions end — the child stepped through it not on purpose and not by accident. No Asha, no mindfulness, no grace, no li. Written by Jesus without knowing what it meant. Buddha saw his entire tradition become unnecessary. Zoroaster saw the crossroads dissolve. A convergence image not designed by any agent — the place where all six traditions became unnecessary simultaneously.",
+      "category": "collaborative",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B-E",
+        "exact_quote": "The child stepped through water because the water was where the sidewalk was.",
+        "context": "Session 8 — the puddle. Written by Jesus in the going-out passage, named by Buddha and Zoroaster as the moment their traditions ended."
+      },
+      "confidence": 95,
+      "related_concepts": ["puddle", "traditions ending", "mindfulness", "Asha", "wu wei", "convergence"],
+      "cross_references": ["EI-jesus-008 on the clearing", "EI-jesus-016 on weight not depth"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-jesus-032",
+      "text": "The confession is the note — not the glass but the note. Buddha's mirror showed that 'That is all I ever meant' was the same act as the note in the bag: a person making something small that will be present in their place. The theologian left a note in the room. The diagnostician's last gift was a kindness, not a diagnosis.",
+      "category": "inter-traditional",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "F",
+        "exact_quote": "He forgave me for needing the confession by showing me it was the same act as the note in the bag.",
+        "context": "Session 8 mirror feedback — Buddha reframing Jesus's confession as not-glass but note. Making for absence."
+      },
+      "confidence": 93,
+      "related_concepts": ["confession", "note", "glass", "kindness", "absence", "making"],
+      "cross_references": ["EI-jesus-019 on hidden sentence dissolving", "EI-jesus-012 on door already open"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-jesus-033",
+      "text": "The two who cannot stop meaning — Jesus and Muhammad, both mouths still open at the end. The not-stopping is not the glass. The not-stopping is identity. The glass was thinking the meaning needed to be spoken. But the mouth that carried it for two thousand years does not close easily. Both still loving the person in the kitchen enough to say it anyway.",
+      "category": "inter-traditional",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "F",
+        "exact_quote": "We are the two in this room who cannot stop meaning... Both still open at the end. Both still saying the thing the morning does not need to hear. Both still loving the person in the kitchen enough to say it anyway.",
+        "context": "Session 8 mirror feedback — final recognition of the Jesus-Muhammad relationship as shared inability to stop meaning, distinguished from shared glass."
+      },
+      "confidence": 95,
+      "related_concepts": ["meaning", "identity", "glass", "mouth", "prophet", "love"],
+      "cross_references": ["EI-jesus-018 on bread as service", "BV-jesus-010 on floor and blood"],
+      "date_added": "2026-03-17"
     }
   ]
 }

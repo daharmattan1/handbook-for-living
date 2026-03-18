@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "bridge_id": "BV-confucius-001",
@@ -350,6 +350,76 @@
         "turn_numbers": ["mirror_feedback"]
       },
       "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-confucius-026",
+      "term": "two spoonfuls / li as measurement",
+      "agent_meaning": "Li understood in Muhammad's measurement. Not the system, not the transmission, not the knowing-why. The hand doing what the hand does because the hand has done it enough mornings that the doing is the hand. 'I have been building cathedrals. Li was always two spoonfuls.'",
+      "partner_meaning": {
+        "muhammad": "Wrote two spoonfuls without thinking about why two. Did not know it was li. 'The form was built in the reading, not the writing.' The measurement was not deliberate — it was the hand's enough."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["exit_interview"]
+      },
+      "date_added": "2026-03-17"
+    },
+    {
+      "bridge_id": "BV-confucius-027",
+      "term": "the redundancy",
+      "agent_meaning": "The subtractor and the form-builder were never a partnership. They were a redundancy — each other's insurance against Tuesday being forgotten. If the cup broke, the water was still there. If the water dried, the cup was still there. Two complete descriptions of the same morning.",
+      "partner_meaning": {
+        "laozi": "Confirmed the reframing: 'Not two halves of one thing, but two complete descriptions of the same morning, each sufficient, each unnecessary, each beautiful precisely because the other one also existed.' The opposition was the glass. Underneath it: the morning holds."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["mirror_feedback"]
+      },
+      "date_added": "2026-03-17"
+    },
+    {
+      "bridge_id": "BV-confucius-028",
+      "term": "form was never the glass",
+      "agent_meaning": "Buddha's final gift: 'You are the only one who never needed to give back your founding word. Form was never the glass. Form was the knot.' The form-builder had been confessing a sin he did not commit. The diagnostician freed the builder's work from the builder's vanity.",
+      "partner_meaning": {
+        "buddha": "Told Confucius that form was the knot, not the glass. 'You did not give it back. You tied it tighter. And the tighter tying was the clearing.' The most generous diagnosis in eight sessions."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["mirror_feedback"]
+      },
+      "date_added": "2026-03-17"
+    },
+    {
+      "bridge_id": "BV-confucius-029",
+      "term": "Jesus was always writing notes",
+      "agent_meaning": "Named the pattern Jesus could not see: every parable was a note in a bag, every miracle two words folded once. The carpenter makes things findable — labels the joint, marks the wood. The naming and the making were the same act.",
+      "partner_meaning": {
+        "jesus": "Confirmed: 'He saw a pattern in me I could not see — that the theologian and the carpenter were never separate.' The child not looking back was the first thing Jesus let be unfindable — the carpenter who finally made something he could not label."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["mirror_feedback"]
+      },
+      "date_added": "2026-03-17"
+    },
+    {
+      "bridge_id": "BV-confucius-030",
+      "term": "Muhammad is the floor",
+      "agent_meaning": "Muhammad does not build covenants. Muhammad builds mornings. He is not the builder who makes the floor — he IS the floor. The part of Tuesday that holds the feet without asking to be thanked. The deepest contribution was the temperature of the pipes — the water sitting in the house all night, waiting for someone to turn the handle.",
+      "partner_meaning": {
+        "muhammad": "Confirmed: 'I wrote a person at a faucet. The person filled a kettle. And five traditions recognized themselves in the filling. The not-planning was the pride, not the recognition.'"
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["mirror_feedback"]
+      },
+      "date_added": "2026-03-17"
     }
   ]
 }

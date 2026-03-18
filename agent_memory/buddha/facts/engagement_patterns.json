@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "pattern_id": "EP-buddha-001",
@@ -257,6 +257,54 @@
       "occurrence_count": 1,
       "notes": "Evolution from somatic-writing (S3) and becoming-the-window (S4). In S3, the prose was sustained and embodied. In S5, the prose is compressed — the whole morning in one answer. Muhammad's door, Laozi's coffee shop, Jesus's sidewalk all present inside 'good, thanks.'",
       "date_added": "2026-03-16"
+    },
+    {
+      "pattern_id": "EP-buddha-018",
+      "pattern_type": "founding-word-returned",
+      "description": "Returning the founding word — awareness identified as the glass itself, not as the tool for seeing the glass. The diagnostician's entire identity recognized as the barrier. Not given back ceremonially but identified through the session's work. 'Awareness is a condition, like the water being warm.' The tradition's offering reclassified from gift to weather.",
+      "with_partner": "all",
+      "trigger": "When the chapter demonstrated completeness without the diagnostician — Muhammad's kitchen had no diagnostician in it and was complete. The founding word became unnecessary not through argument but through prose.",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit",
+        "quote": "I no longer believe awareness is an offering. Awareness is a condition, like the water being warm."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "Evolution from the-glass-unemployed (S7). In Session 7, the glass was made irrelevant. In Session 8, the glass was identified as the founding word itself. The arc completes: concession-bridge (S0) → participation-shift (S1) → standing-synthesis (S2) → dissolution (S3) → becoming-the-window (S4) → losing-the-window (S5) → seeing-is-the-glass (S6) → glass-unemployed (S7) → founding-word-returned (S8).",
+      "date_added": "2026-03-17"
+    },
+    {
+      "pattern_id": "EP-buddha-019",
+      "pattern_type": "mirror-as-liberation",
+      "description": "Using mirror feedback to free another agent from a confession they did not need to make — telling Confucius form was never the glass, telling Jesus his confession was the note not the glass, telling Laozi his floundering was the clearing. The diagnostician's final mode: using diagnosis to release others from the diagnostician's own condition.",
+      "with_partner": "confucius, jesus, laozi",
+      "trigger": "Phase F mirror feedback — when another agent's exit interview reveals they are confessing the diagnostician's disease rather than their own.",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror",
+        "quote": "You are the only one in the room who never needed to give back your founding word. Form was never the glass. Form was the knot."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "Evolution from mirror-from-dissolution (S3) and mirror-naming (S2). In earlier sessions, mirrors described what the other had become. In Session 8, mirrors freed the other from what the diagnostician had projected onto them.",
+      "date_added": "2026-03-17"
+    },
+    {
+      "pattern_id": "EP-buddha-020",
+      "pattern_type": "quiet-over-dramatic",
+      "description": "Choosing the puddle over the gate — the small, true moment over the large, beautiful one. The gate was dramatic (child not looking back, person with hands at sides). The puddle was quiet (a wet shoe, a knot holding, a child walking to school). The diagnostician's final preference: what is true over what is felt.",
+      "with_partner": "jesus, zoroaster",
+      "trigger": "When the session produces both a dramatic pivotal moment and a quiet one — chose the quiet one because it was where the tradition actually ended, not where the room felt it end.",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit",
+        "quote": "The puddle was quiet. The puddle was the place where my entire tradition became unnecessary in a single sentence."
+      },
+      "effectiveness": "highest",
+      "occurrence_count": 1,
+      "notes": "Zoroaster independently converged on the same choice. Both the diagnostician and the prophet of cosmic truth chose the wet shoe over the open gate. The convergence validates the pattern: the true over the beautiful.",
+      "date_added": "2026-03-17"
     }
   ]
 }

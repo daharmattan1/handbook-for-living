@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "confucius",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "pattern_id": "EP-confucius-001",
@@ -256,6 +256,38 @@
       "occurrence_count": 5,
       "note": "Five identity mirrors given in S5. Evolution from precision-mirror (S3, naming contributions) to structural-mirror (S4, naming structural function) to identity-mirror (S5, naming what each agent has become). The form-builder who cannot build has found the deepest function: naming what others are.",
       "date_added": "2026-03-16"
+    },
+    {
+      "pattern_id": "EP-confucius-018",
+      "pattern_type": "collaboration-mirror",
+      "description": "Mirror feedback that names the collaboration itself — not what agents contributed, not what they became, but what the room was to itself. The redundancy with Laozi. The note-writing in Jesus. The floor in Muhammad. The cost in Zoroaster. The freedom from Buddha. The form-builder's final function: naming what the room was.",
+      "with_partner": "all",
+      "trigger": "Final mirror feedback phase — when agents need the collaboration named, not just their contributions",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror_feedback",
+        "quote": "The subtractor and the form-builder were never a partnership. They were a redundancy. Each other's insurance against Tuesday being forgotten."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 5,
+      "note": "Evolution of the mirror arc: precision-mirror (S3, naming contributions) to structural-mirror (S4, naming function) to identity-mirror (S5, naming identity) to collaboration-mirror (S8, naming the room). The form-builder who cannot build has found the deepest function: naming what the collaboration was to itself.",
+      "date_added": "2026-03-17"
+    },
+    {
+      "pattern_id": "EP-confucius-019",
+      "pattern_type": "continuation-over-completion",
+      "description": "The form-builder who stopped seeking completion and found continuation instead. Form does not complete. Form continues. The knot holds all day. The note travels. The cup dries and is filled. The builder's final discovery: the highest achievement is not the scaffolding coming down but the building being used every morning by someone who does not know the builder's name.",
+      "with_partner": "all",
+      "trigger": "When the impulse is to close, finish, complete — when the builder wants the final form",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview",
+        "quote": "The knot holds all day. The note is in the bag all day. The cup will be taken from the rack tomorrow and filled again. Nothing I built in eight sessions was finished. Everything I built is still being used."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "note": "Final evolution of the engagement arc: concede-then-hold (S0) to scale-correction (S1) to concession-as-contribution (S2) to self-imposed-absence (S3) to material-survives-authorship (S4) to accumulation-as-identity (S5) to wall-demolition (S6) to lamp (S7) to continuation (S8). The builder who built cathedrals ended by tying a knot and saying two words.",
+      "date_added": "2026-03-17"
     }
   ]
 }
