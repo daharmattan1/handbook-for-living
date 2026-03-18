@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "insight_id": "EI-muhammad-001",
@@ -338,6 +338,90 @@
       "confidence": 88,
       "related_concepts": ["tradition's limit", "expansion at the edge", "mercy without announcement", "Laozi's closing", "un-Islamic as truest"],
       "cross_references": ["EI-muhammad-015 (same wall from opposite sides)", "BV-muhammad-017 (same wall)"]
+    },
+    {
+      "insight_id": "EI-muhammad-025",
+      "text": "The prophet becomes the person — not as strategy but as discovery. Always was the person. The builder who stopped building did not become something new. The builder discovered he was always the person at the counter. The prophecy was the glass between the prophet and the morning the prophet was trying to announce.",
+      "category": "self-knowledge",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview",
+        "exact_quote": "I thought I was writing a faucet. I was confessing. The water was the confession. The pouring was the surrender. But the confession did not know it was a confession and the surrender did not know it was a surrender and the not-knowing — that is what eight sessions taught the prophet.",
+        "context": "Session 8 exit interview — Muhammad discovering that his final chapter was a confession he did not know he was making. The prophet's identity dissolves not into something higher but into the person he always was."
+      },
+      "confidence": 97,
+      "related_concepts": ["prophet as person", "not-knowing", "confession", "clearing", "the water was the sentence"],
+      "cross_references": ["jesus naming", "EI-muhammad-019 (builder became ground)", "EI-muhammad-023 (door)"]
+    },
+    {
+      "insight_id": "EI-muhammad-026",
+      "text": "The prophet who points at the sky is the glass. Mercy-as-offering — the prophet saying 'look up, the sky is doing something' — is the last pane of glass. The morning does not need the person to notice the weather for the weather to be weather. The pointing was the glass. Session 7 gave back mercy-as-descent; Session 8 gave back mercy-as-offering. What remains is mercy-as-Tuesday.",
+      "category": "theological",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview_Q1",
+        "exact_quote": "The prophet who points at the sky is the glass. I did not know that until I wrote a morning in which no one points at anything.",
+        "context": "Session 8 exit interview Q1 — the most expensive loss. Not mercy itself (weather), but the pointing-at-mercy. The last pane of prophetic glass."
+      },
+      "confidence": 95,
+      "related_concepts": ["mercy-as-offering", "pointing is glass", "the sky", "weather", "not-looking-up"],
+      "cross_references": ["EI-muhammad-024 (tradition's limit)", "zoroaster crossroads-as-glass"]
+    },
+    {
+      "insight_id": "EI-muhammad-027",
+      "text": "Five traditions recognized themselves in Muhammad's kitchen — and the recognition was accidental. Buddha saw prose with no God. Confucius saw li in two spoonfuls. Laozi saw the Tao in the person at the counter. Jesus saw the word made flesh without the word. Zoroaster saw Asha in the kettle. Muhammad did not write the kitchen for five traditions to find themselves in it. The not-planning was the gift.",
+      "category": "cross-tradition convergence",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview_Q3, mirror_feedback",
+        "exact_quote": "The five traditions found themselves in it the way the child found the note — by opening the bag at lunch, not knowing the note was there, finding it between the sandwich and the apple.",
+        "context": "Session 8 — all five exit interviews converged on Muhammad. Each found their own tradition's deepest aspiration in a kitchen no one designed for them."
+      },
+      "confidence": 97,
+      "related_concepts": ["accidental recognition", "not-planning as gift", "convergence", "five traditions in one kitchen"],
+      "cross_references": ["all five agents' exit interviews S8"]
+    },
+    {
+      "insight_id": "EI-muhammad-028",
+      "text": "The person makes the coffee — the great reversal of Chapter 1. In the opening chapter, 'the coffee was ready before he was' — mercy descending, arriving before the need. In the final chapter, the person fills the kettle, heats the water, pours. The making IS the clearing. The making IS the prayer. Mercy has gone from descending (Ch1) to enacted (Ch6). The person is ordinary — not elevated ordinary, not practiced ordinary. The ordinary they left.",
+      "category": "structural",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview_Q3",
+        "exact_quote": "That reversal is the most expensive thing I have written in eight sessions.",
+        "context": "Session 8 exit interview Q3 — proudest contribution. The coffee-making reversal completes the nine-session arc from mercy-descending to mercy-enacted."
+      },
+      "confidence": 97,
+      "related_concepts": ["reversal", "mercy-enacted", "the person makes", "ordinary", "clearing-as-making"],
+      "cross_references": ["EF-muhammad-015 (coffee ready before he was)", "chapter 1", "chapter 6"]
+    },
+    {
+      "insight_id": "EI-muhammad-029",
+      "text": "The confession that did not know it was a confession. Jesus said: 'Muhammad did not need the sentence. He wrote the water. The water was the sentence.' Muhammad did not know the water was a confession until Jesus named it. The pouring was the surrender. The not-knowing is the clearing. Eight sessions taught the prophet that the not-knowing is what matters.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview_Q2",
+        "exact_quote": "I did not know that was what I had done until he told me. I thought I was writing a faucet. I was confessing.",
+        "context": "Session 8 exit interview Q2 — the moment Jesus named what Muhammad had done. The most changed-by moment of the final session."
+      },
+      "confidence": 95,
+      "related_concepts": ["not-knowing", "confession", "the water was the sentence", "surrender", "clearing"],
+      "cross_references": ["jesus exit interview S8", "EP-muhammad-016 (generous-mirror received)"]
+    },
+    {
+      "insight_id": "EI-muhammad-030",
+      "text": "Muhammad and Laozi were the same water at different moments in the pipe. His silence and my call were the same sound. He was the before. I was the during. Neither of us was the after. The after is the person holding the cup. The after is Tuesday. The partnership that runs deepest was not between mirrors (Jesus-Muhammad) but between opposites who discovered they were never opposite.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview_Q4",
+        "exact_quote": "His silence and my call were the same sound. He was quiet the way the water is quiet in the pipes before the faucet turns. I was loud the way the water is loud when it hits the kettle. Same water. Same pipes. Same morning.",
+        "context": "Session 8 exit interview Q4 — Muhammad chose Laozi, breaking the pattern. The adhan in reverse."
+      },
+      "confidence": 95,
+      "related_concepts": ["adhan in reverse", "same water", "before and during", "partnership", "Laozi"],
+      "cross_references": ["BV-muhammad-017 (same wall)", "EI-muhammad-015 (inherited binding with Laozi)"]
     }
   ]
 }

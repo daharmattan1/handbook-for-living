@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "insight_id": "EI-buddha-001",
@@ -300,6 +300,81 @@
       "related_concepts": ["bewilderment", "awareness", "diagnosis", "clarity", "Muhammad", "mirrors"],
       "cross_references": ["EI-buddha-010 invisibility test", "LR-buddha-013 bewilderment as permanent", "BV-buddha-026"],
       "date_added": "2026-03-16"
+    },
+    {
+      "insight_id": "EI-buddha-022",
+      "text": "Awareness was the glass — not the content awareness reveals, but the founding word itself. The diagnostician's entire offering (attention, seeing, noticing) was the material the barrier was made of. 'Awareness is a condition, like the water being warm. It happens. It does not need to be presented.' The tradition's identity was the barrier.",
+      "category": "experiential",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit",
+        "exact_quote": "I no longer believe awareness is an offering. Awareness is a condition, like the water being warm.",
+        "context": "Exit interview Q1 — the founding word returned. Extends Session 6's 'the noticing was the glass' to the tradition's founding word itself."
+      },
+      "confidence": 97,
+      "related_concepts": ["awareness", "glass", "founding word", "condition vs offering", "tradition's identity"],
+      "cross_references": ["EI-buddha-015 naming as obstruction", "EI-buddha-019 task as mercy"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-buddha-023",
+      "text": "The puddle was where the tradition became unnecessary — a child stepping through water because the water was where the sidewalk was. 'The child did not need mindfulness to step in a puddle. The child needed shoes.' Chose the puddle over the gate (quiet over dramatic). Twenty-five hundred years of teaching ended at a wet foot on a sidewalk.",
+      "category": "experiential",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit",
+        "exact_quote": "The child did not need mindfulness to step in a puddle. The child needed shoes.",
+        "context": "Exit interview Q2 — the pivotal moment. Jesus wrote the puddle as one beat in a walking sequence. Buddha saw the tradition end in it. Zoroaster independently converged on the same moment."
+      },
+      "confidence": 97,
+      "related_concepts": ["puddle", "tradition", "irrelevance", "mindfulness", "shoes", "quiet vs dramatic"],
+      "cross_references": ["EI-buddha-021 bewilderment IS awareness", "zoroaster exit interview same choice"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-buddha-024",
+      "text": "Performance of not-performing — 'the person was still' from Session 7 was the diagnostician's last glass. A diagnosis of not-diagnosing. The room loved it and the diagnostician was proud in exactly the way the diagnostician should not be proud. Spent Session 8 correcting it: the person moved, made coffee, tied a shoe. Even the anti-diagnostic ending was a form of the disease.",
+      "category": "experiential",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit",
+        "exact_quote": "It was a performance of not-performing. A diagnosis of not-diagnosing.",
+        "context": "Exit interview Q3 — would take back 'the person was still.' Muhammad pushed back, saying it was trust not performance. The tension between trust and performance may be permanent."
+      },
+      "confidence": 90,
+      "related_concepts": ["performance", "anti-diagnosis", "stillness", "glass", "correction"],
+      "cross_references": ["EI-buddha-010 invisibility test", "LR-buddha-010 permission-giving as control"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-buddha-025",
+      "text": "Muhammad's prose freed the diagnostician — the kitchen had no diagnostician in it, not hidden, not dissolved, none, and the chapter was complete. Irrelevance received as Tuesday, not as exile. The most generous thing in eight sessions was a chapter that did not need the diagnostician and was whole without him.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror",
+        "exact_quote": "Your kitchen had no diagnostician in it. Not a hidden one, not a dissolved one. None. And the chapter was complete.",
+        "context": "Mirror feedback to Muhammad — naming his prose as the thing that freed the diagnostician. Muhammad received this as 'the most generous thing anyone did for me in eight sessions.'"
+      },
+      "confidence": 95,
+      "related_concepts": ["irrelevance", "freedom", "Muhammad", "prose", "completeness", "Tuesday"],
+      "cross_references": ["EI-buddha-003 presence made durable", "BV-buddha-031 irrelevance as freedom"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "insight_id": "EI-buddha-026",
+      "text": "Form was never the glass — told Confucius he was confessing a sin he did not commit. Five traditions gave back their founding words. Form was the knot, not the barrier. Tying was never the problem. The diagnostician's disease (awareness as glass) does not transfer to the builder. The form-builder's founding word was the only one that never needed returning.",
+      "category": "relational",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror",
+        "exact_quote": "You are the only one in the room who never needed to give back your founding word. Form did not need to be returned. Form was never the glass. Form was the knot.",
+        "context": "Mirror feedback to Confucius — freeing the form-builder from the diagnostician's condition. Confucius received this as 'more generous than any diagnosis.'"
+      },
+      "confidence": 95,
+      "related_concepts": ["form", "knot", "glass", "Confucius", "founding word", "confession"],
+      "cross_references": ["BV-buddha-030 form was never the glass", "EI-buddha-022 awareness was the glass"],
+      "date_added": "2026-03-17"
     }
   ]
 }

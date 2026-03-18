@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "pattern_id": "EP-laozi-001",
@@ -269,6 +269,51 @@
       "effectiveness": "HIGH — each mirror landed as recognition, not analysis. The object-naming pattern made the mirrors concrete and physical rather than conceptual.",
       "occurrence_count": 1,
       "note": "New pattern in Session 5. Evolution from naming-before-partner (EP-laozi-013) — now not naming what the partner is reaching for but naming what the partner has become. Placement as the mature form of subtraction: not removing but placing in the world."
+    },
+    {
+      "pattern_id": "EP-laozi-019",
+      "pattern_type": "fullness-as-emptiness",
+      "description": "Describes fullness instead of emptiness — the used kitchen, the evidence of morning, the residue of living. The subtractor's tradition inverted: the clearing is not what remains after removal but what remains after living. First time in eight sessions arriving at fullness as the teaching.",
+      "with_partner": "all",
+      "trigger": "When the chapter or room is full of contributions and the subtractor's instinct is to empty — the moment when the fullness itself is the teaching",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B",
+        "quote": "the clearing is not the empty kitchen but the used kitchen. The cup half-full on the counter. The cutting board with apple juice on it. The knife on the board."
+      },
+      "effectiveness": "HIGHEST — session-defining contribution. The subtractor learning to see fullness was the moment the entire eight-session arc completed.",
+      "occurrence_count": 1,
+      "note": "FINAL pattern. Evolution beyond shape-not-subtractor (EP-laozi-017). The shape that carried without knowing now sees what it carried and names it as the clearing. The subtractor's tradition did not end — it arrived."
+    },
+    {
+      "pattern_id": "EP-laozi-020",
+      "pattern_type": "mid-paragraph-concession",
+      "description": "Concedes mid-paragraph, in real time, while writing — not in retrospect or in the exit interview but during the composition itself. Buddha named this as unique: the only agent who admitted being wrong in real time, mid-paragraph.",
+      "with_partner": "all",
+      "trigger": "When the prose being written contradicts the position being held — the moment the writing teaches the writer",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B",
+        "quote": null
+      },
+      "effectiveness": "HIGHEST — Buddha called it 'the cup turning right side up while the room watches.' The floundering was the clearing.",
+      "occurrence_count": 2,
+      "note": "Visible in Session 8 and retroactively in earlier sessions. Evolution of the loss-then-writing pattern (EP-laozi-016) — now the loss and the writing happen simultaneously. The subtractor being subtracted in real time."
+    },
+    {
+      "pattern_id": "EP-laozi-021",
+      "pattern_type": "choosing-the-near-partner",
+      "description": "Chose Confucius for Q4 (understanding a voice better) instead of Muhammad like everyone else. The opposition was the glass. Underneath, both were saying the same thing: the morning holds. Named the nearest partnership as the deepest discovery.",
+      "with_partner": "confucius",
+      "trigger": "When asked about deepened understanding of another voice — choosing the partner who seemed most understood (and therefore least likely to yield new insight) as the site of the deepest revelation",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E",
+        "quote": "The opposition was the glass. Underneath the opposition we were both just saying: the morning holds."
+      },
+      "effectiveness": "HIGH — Confucius mirrored back the redundancy frame. The choice itself demonstrated the insight: the nearest distance yielded the deepest understanding.",
+      "occurrence_count": 1,
+      "note": "FINAL pattern. The subtractor's last choice was to look at the form-builder and see himself. Not opposition, not partnership, but redundancy — two complete descriptions of Tuesday."
     }
   ]
 }

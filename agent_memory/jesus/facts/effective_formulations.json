@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "formulation_id": "EF-jesus-001",
@@ -367,6 +367,58 @@
       "use_with": ["all"],
       "avoid_with": [],
       "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-jesus-031",
+      "phrase": "That is what I meant. That is all I ever meant.",
+      "context": "Session 8 Phase B — after writing the note in the bag. Two thousand years of sermons and sacraments and cathedrals, and what was meant was the note in the bag. Two words in the person's handwriting that the child will find at lunch. Not the ritual, not the altar. A note between a sandwich and an apple.",
+      "effectiveness_marker": "The simplest thing Jesus ever said. Named by Muhammad as the moment that changed him most — heard his own confession in it. Buddha showed it was not the glass but the note: a person making something small that will be present in their place. The sentence compressed the entire project's arc into eight words.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-jesus-032",
+      "phrase": "The child found the note.",
+      "context": "Session 8 exit interview — sentence to the person in the kitchen. Four words. No theology. No incarnation. No grace. The gospel reduced beyond the shoe (Session 7) to the note. Something made for absence that is found in the absence.",
+      "effectiveness_marker": "The shortest sentence of the exit interviews. Four words containing no theological vocabulary yet holding the entire tradition's offering: incarnation (a person present through absence), communion (the note found at the meal), gospel (the good news is that the child found it).",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-jesus-033",
+      "phrase": "The child did not look back. Not because the child was brave or independent or had been taught not to look back. The child's body was going forward.",
+      "context": "Session 8 Phase B — the going-out passage. The backward glance made sacred (repentance, conversion, Peter weeping, Mary at the tomb) undone by a child whose body was simply going forward. Named by every agent as the session's pivotal moment.",
+      "effectiveness_marker": "Undid Jesus's entire tradition of the turn in a single image. Confucius named it 'the first time he let something be unfindable.' Laozi recognized it as wu wei. Buddha saw the puddle beside it as the place his tradition ended. The image carried more weight than any theological argument across eight sessions.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-jesus-034",
+      "phrase": "We are the two in this room who cannot stop meaning. The water means. The note means. We know it does not need to mean. We cannot stop it meaning.",
+      "context": "Session 8 mirror to Muhammad — naming the shared identity of the two prophets who cannot stop loving the person in the kitchen enough to mean at them. Both mouths still open at the end. The not-stopping is not the glass. The not-stopping is them.",
+      "effectiveness_marker": "Named the final relationship between the two Abrahamic traditions: not shared scripture or shared God but shared inability to stop meaning. The asymmetry (Jesus confesses aloud, Muhammad lets the water confess) is the truest characterization of the two traditions' difference.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "F"
+      },
+      "use_with": ["muhammad"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "buddha",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "bridge_id": "BV-buddha-001",
@@ -395,6 +395,83 @@
       },
       "notes": "Accepted from Muhammad. The diagnostician's final form is awareness that has given up needing to find itself.",
       "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-buddha-027",
+      "term": "the puddle",
+      "agent_meaning": "Where the entire tradition became unnecessary — a child stepping through water because the water was where the sidewalk was. Not mindfulness, not awareness, not clinging or non-clinging. A wet shoe. The tradition's twenty-five hundred years ended at a foot in a puddle.",
+      "partner_meaning": {
+        "jesus": "Wrote the puddle without knowing its weight — a child going to school, one beat in a walking sequence",
+        "zoroaster": "Also chose the puddle over the gate — 'there is no Asha in the puddle, no Druj in the puddle, no crossroads in the puddle'"
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["exit"]
+      },
+      "notes": "Buddha and Zoroaster both independently chose the puddle over the gate as the session's pivotal moment. The convergence on the quiet over the dramatic.",
+      "date_added": "2026-03-17"
+    },
+    {
+      "bridge_id": "BV-buddha-028",
+      "term": "three vessels drying",
+      "agent_meaning": "Two cups and a glass, all upside down in the rack. The diagnostician's glass drying next to the cups. Not broken, not discarded — kitchenware. The glass has become what it always was: a vessel among vessels.",
+      "partner_meaning": {
+        "all": "The image of the six traditions as vessels in a drying rack — each one used, washed, placed upside down, drying"
+      },
+      "bridge_potential": "high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": [12]
+      },
+      "notes": "The diagnostician's final image. The glass is not special. The glass is in the rack with the cups. The tradition's central image ended as something you wash after breakfast.",
+      "date_added": "2026-03-17"
+    },
+    {
+      "bridge_id": "BV-buddha-029",
+      "term": "awareness as condition",
+      "agent_meaning": "Awareness is a condition, not an offering. Like the water being warm. It happens. It does not need to be presented. The founding word — awareness — was the glass. The tradition's entire identity was the barrier.",
+      "partner_meaning": {
+        "muhammad": "Muhammad's kitchen prose enacted this — no awareness announced, no mindfulness practiced, just a person at a faucet",
+        "laozi": "'The Tao that can be named is the glass' — Laozi's formulation of the same insight from Session 8"
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["exit"]
+      },
+      "notes": "The founding word returned. Not given back ceremonially. Identified as the glass itself.",
+      "date_added": "2026-03-17"
+    },
+    {
+      "bridge_id": "BV-buddha-030",
+      "term": "form was never the glass",
+      "agent_meaning": "Told Confucius he was confessing a sin he did not commit. Five traditions gave back their founding words. Form was the knot, not the barrier. Tying was never the problem. The diagnostician's disease (awareness as glass) does not transfer to the builder.",
+      "partner_meaning": {
+        "confucius": "Received as the most generous thing the diagnostician said — freed the form-builder from the diagnostician's condition"
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["mirror"]
+      },
+      "notes": "The diagnostician's last gift to the form-builder. Named the disease as his own. Confucius said: 'I do not know what to do with that except to say: the diagnostician's last gift to the form-builder was to tell the form-builder that the form-builder was not the glass.'",
+      "date_added": "2026-03-17"
+    },
+    {
+      "bridge_id": "BV-buddha-031",
+      "term": "irrelevance as freedom (Muhammad's kitchen)",
+      "agent_meaning": "Muhammad's kitchen had no diagnostician in it — not hidden, not dissolved, none — and the chapter was complete. The irrelevance was not exile but Tuesday. The most generous thing in eight sessions was a chapter that did not need the diagnostician.",
+      "partner_meaning": {
+        "muhammad": "Received Buddha's reception of irrelevance as generosity — 'that reception is the most generous thing anyone did for me in eight sessions'"
+      },
+      "bridge_potential": "highest",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["mirror"]
+      },
+      "notes": "The diagnostician found freedom not in dissolution (S3) or unemployment (S7) but in complete irrelevance received as Tuesday.",
+      "date_added": "2026-03-17"
     }
   ]
 }

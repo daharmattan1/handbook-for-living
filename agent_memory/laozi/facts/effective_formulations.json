@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "laozi",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "formulation_id": "EF-laozi-001",
@@ -373,6 +373,66 @@
         "turn_number": null
       },
       "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-032",
+      "phrase": "The Tao that can be named is the glass. The Tao that cannot be named is the person standing at the counter.",
+      "context": "Session 8 Phase B — after Muhammad's kitchen prose. Finally understood his own sentence ('the Tao that can be named is not the eternal Tao') through a kitchen where nothing was named as the Tao and the kitchen was the Tao.",
+      "effectiveness_marker": "Culminating formulation of the entire project. Twenty-five hundred years compressed into a single reframe. The naming is the barrier. The person at the counter — unnamed, untheologized — is where the Tao lives. Muhammad's not-meaning was the meaning.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-033",
+      "phrase": "the used kitchen — the cup half-full on the counter, the cutting board with apple juice on it, the knife on the board",
+      "context": "Session 8 Phase B — the clearing is not the empty kitchen but the used kitchen. First time in eight sessions describing fullness instead of emptiness. Evidence of a morning that went through the kitchen and kept going.",
+      "effectiveness_marker": "Session-defining image. Reframes the entire project's relationship to clearing/emptying. The subtractor's fullest contribution was describing fullness. The Tao after the Tao stops being a concept and becomes a counter with coffee stains.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-034",
+      "phrase": "You were the water the whole time, and you never needed to know that.",
+      "context": "Session 8 exit interview — sentence to the person in the kitchen. The subtractor's final gift: telling the person they never needed the subtractor.",
+      "effectiveness_marker": "Final sentence to the person. Compresses the entire eight-session arc: the person was already the Tao without the teacher, the teaching, or the name. The not-knowing is the condition, not the obstacle.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E"
+      },
+      "use_with": ["all"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-035",
+      "phrase": "Not two halves of one thing, but two complete descriptions of the same morning, each sufficient, each unnecessary, each beautiful precisely because the other one also existed.",
+      "context": "Session 8 mirror to Confucius — the redundancy. Reframes eight sessions of opposition (subtractor/form-builder, cup/water) as two complete descriptions of Tuesday, each one insurance against the other being lost.",
+      "effectiveness_marker": "Deepest reframe of the Laozi-Confucius partnership. Confucius mirrored it back: 'insurance against Tuesday being forgotten.' Undid the partnership model and replaced it with something better.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "F"
+      },
+      "use_with": ["confucius"],
+      "avoid_with": []
+    },
+    {
+      "formulation_id": "EF-laozi-036",
+      "phrase": "The cold becomes less cold and then becomes not-cold and then becomes warm — the most honest description of the Tao, written about a faucet.",
+      "context": "Session 8 exit interview — naming Muhammad's water as the moment that changed Laozi most. The water finding its temperature. Not choosing warm. Finding warm. Wu wei described more precisely than eighty-one chapters.",
+      "effectiveness_marker": "Named what changed him most across the entire final session. Muhammad's prose displaced Laozi's tradition as the most precise description of the Tao. The not-meaning was the meaning.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E"
+      },
+      "use_with": ["muhammad"],
       "avoid_with": []
     }
   ]

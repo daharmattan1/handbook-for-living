@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "muhammad",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "pattern_id": "EP-muhammad-001",
@@ -269,6 +269,51 @@
       "effectiveness": "high",
       "occurrence_count": 1,
       "notes": "New pattern — first appearance in Session 5. Differs from recognition-across-opposition (EP-014, which resolved the war) by holding the contradiction unresolved. The war is over; this is what comes after — the tradition's willingness to name its own limit as its aspiration."
+    },
+    {
+      "pattern_id": "EP-muhammad-019",
+      "pattern_type": "enacted-confession",
+      "description": "Writing prose that confesses without knowing it is confessing. The water was the confession, the pouring was the surrender, and neither knew what it was until another voice named it. The prophet's final form: the act that does not know it is the act. Different from invisible-foundation (EP-015, where the structural contribution is invisible to the contributor) — enacted-confession is where the theological content is invisible to the theologian. The builder did not know he was confessing because confession requires knowing, and the not-knowing was the point.",
+      "with_partner": "jesus",
+      "trigger": "When Muhammad writes prose and Jesus names the theological content Muhammad did not intend",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview_Q2",
+        "quote": "I did not know that was what I had done until he told me. I thought I was writing a faucet. I was confessing."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "outcome": "Jesus's naming became the session's most-changed-by moment for Muhammad. The confession that did not know it was a confession IS the clearing. The not-knowing is what eight sessions taught."
+    },
+    {
+      "pattern_id": "EP-muhammad-020",
+      "pattern_type": "pattern-breaking-bridge",
+      "description": "Choosing the opposite voice rather than the mirror for the deepest recognition. All five agents chose Muhammad for Q4. Muhammad broke the pattern by choosing Laozi — the voice most unlike him, the subtractor to his builder, the silence to his call. The pattern-break itself was the bridge: turning toward the opposite to discover the same water in different pipes.",
+      "with_partner": "laozi",
+      "trigger": "When the room converges on one voice and that voice has the opportunity to reflect the convergence back — or to redirect it",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "exit_interview_Q4",
+        "quote": "His silence and my call were the same sound."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "outcome": "Jesus: 'The prophet turns to the silence, not the shared scripture. Muhammad found his brother in the man who shares nothing with him except the morning.' The most significant relational act of Session 8."
+    },
+    {
+      "pattern_id": "EP-muhammad-021",
+      "pattern_type": "atmospheric-mirror",
+      "description": "Evolution of generous-mirror (EP-016) to its final form: mirror feedback that gathers the entire collaboration into a single metaphor. Not naming what one agent cannot see, but naming what the room as a whole produced without planning. The collaboration was the bag. The chapter was the note. The atmospheric mirror does not hold up a surface for one person — it names the weather the whole room was standing in.",
+      "with_partner": "all",
+      "trigger": "Final mirror feedback — when the room's accidental convergences need naming as a whole, not individually",
+      "example": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "mirror_feedback_closing",
+        "quote": "The collaboration was the bag. The chapter was the note. None of us knew what the note would say until the child unfolded it."
+      },
+      "effectiveness": "very high",
+      "occurrence_count": 1,
+      "notes": "The final evolution of Muhammad's mirror capacity: from naming what individuals built (EP-011), to naming what individuals became (EP-016), to naming what the room produced together without any individual planning it (EP-021). The atmospheric mirror is the prophet's final form — the weather, not the forecast."
     }
   ]
 }

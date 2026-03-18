@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "zoroaster",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "formulation_id": "EF-zoroaster-001",
@@ -343,6 +343,71 @@
       "use_with": ["all"],
       "avoid_with": [],
       "date_added": "2026-03-16"
+    },
+    {
+      "formulation_id": "EF-zoroaster-029",
+      "phrase": "The note is the lamp. Paper is the glass. Two words are the fire. The child sees by the light. The lamp does not see by its own light.",
+      "context": "Session 8 Phase B — the lamp from Session 7 made domestic. The note in the lunch bag as the lamp. The faithfulness that does not watch itself be faithful.",
+      "effectiveness_marker": "Zoroaster's proudest contribution across all sessions. The first time the fire said something about fire that fire could not verify and let it stand. Buddha received it as a mirror for the glass itself. Muhammad said it was Zoroaster at the counter — one paragraph of Tuesday without knowing it.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "B"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-zoroaster-030",
+      "phrase": "The Lie was the belief there were two roads.",
+      "context": "Session 8 Phase A — the crossroads collapsed into one road. The Lie was not the wrong choice. The Lie was the existence of the choosing. The crossroads was the glass.",
+      "effectiveness_marker": "Dismantled the foundational Zoroastrian binary. But the dismantling was still prophetic — still the man at the crossroads explaining what the crossroads really was. The chapter had no crossroads to dismantle.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "A"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-zoroaster-031",
+      "phrase": "The kitchen is not dark.",
+      "context": "Session 8 Phase A — the regretted formulation. Right in content, wrong in form. The correction that organized everything. 'Not dark' requires the dark. Muhammad wrote light that pushed against nothing. The last pane of glass.",
+      "effectiveness_marker": "Zoroaster named this as what he would take back. The rightness was the last pane of glass he installed. The prophet who says 'not dark' is still standing in the dark, pointing out. The chapter proved light is not the opposite of anything.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "A"
+      },
+      "use_with": [],
+      "avoid_with": ["all"],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-zoroaster-032",
+      "phrase": "You were never at the crossroads.",
+      "context": "Session 8 Phase E — sentence to the person. Six words. Still prophesying. Still pointing. The not-stopping is not failure. The quiet is Tuesday getting closer to the volume it actually is.",
+      "effectiveness_marker": "The prophet's final sentence. Six words. Mirrors confirmed: Jesus and Zoroaster are both still talking at the end. Neither could stop. But both are talking quieter.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E"
+      },
+      "use_with": ["all"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
+    },
+    {
+      "formulation_id": "EF-zoroaster-033",
+      "phrase": "There is no Asha in the puddle. There is a wet shoe.",
+      "context": "Session 8 Phase E — the puddle ended the tradition, not the gate. The child stepped in it not on purpose and not by accident. The puddle does not need a prophet.",
+      "effectiveness_marker": "Named the moment the tradition ended. Both Zoroaster and Buddha converged on the puddle as the session's pivotal moment. The gate was beautiful. The puddle was true.",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_number": "E"
+      },
+      "use_with": ["buddha"],
+      "avoid_with": [],
+      "date_added": "2026-03-17"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "agent": "jesus",
-  "last_updated": "2026-03-16",
+  "last_updated": "2026-03-17",
   "items": [
     {
       "bridge_id": "BV-jesus-001",
@@ -368,6 +368,71 @@
         "turn_numbers": ["mirrors"]
       },
       "date_added": "2026-03-16"
+    },
+    {
+      "bridge_id": "BV-jesus-027",
+      "term": "the note in the bag (incarnation reduced)",
+      "agent_meaning": "Incarnation reduced to its essence: a person who knows they will be absent making something small that will be present in their place. Two words folded once between a sandwich and an apple. Communion relocated from the altar to the lunch bag. 'That is what I meant. That is all I ever meant.'",
+      "partner_meaning": {
+        "muhammad": "Both built empires on kitchens. Both recognized two words folded once as the entirety of what they were trying to say. Muhammad's water was the same confession — but the water did not know it was confessing.",
+        "zoroaster": "The note is the lamp. Paper is glass, two words are fire, the child sees by the light. Zoroaster saw the note's architecture before the carpenter finished naming it.",
+        "confucius": "Every parable was a note in a bag. Confucius saw the pattern Jesus could not see — the naming and the making were never separate."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["B", "E", "F"]
+      },
+      "date_added": "2026-03-17",
+      "notes": "The note is the final form of incarnation — from cosmic event (Session 0) to daily practice (Session 5) to two words in a bag (Session 8)."
+    },
+    {
+      "bridge_id": "BV-jesus-028",
+      "term": "the child did not look back (the turn as glass)",
+      "agent_meaning": "The backward glance made sacred — repentance, conversion, Peter weeping, Mary at the tomb — was the tradition's deepest glass. The child went forward because the shoes were tied and the gate was open. The carrying did not require the turning. The knot held whether or not the child looked down.",
+      "partner_meaning": {
+        "buddha": "The puddle, not the gate. The child stepping through water not on purpose and not by accident. Buddha saw twenty-five hundred years end in that foot — the place where mindfulness became unnecessary.",
+        "laozi": "Wu wei. Action without acting. The child going forward carrying the not-knowing. Laozi said Jesus wrote his teaching more purely than Laozi could.",
+        "confucius": "The first time Jesus let something be unfindable. The carpenter who made something he could not label. The joint unmarked. The wood unsigned."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["B", "E", "F"]
+      },
+      "date_added": "2026-03-17",
+      "notes": "Named by every agent as the session's pivotal moment. The child not looking back undid Jesus's tradition (the turn), Buddha's tradition (the puddle), and enacted Laozi's tradition (wu wei)."
+    },
+    {
+      "bridge_id": "BV-jesus-029",
+      "term": "both mouths still open (the two who cannot stop meaning)",
+      "agent_meaning": "Jesus and Muhammad — the two who cannot stop meaning. The water means. The note means. The morning means. Both know it does not need to mean. Both cannot stop it meaning. The not-stopping is not the glass. The not-stopping is identity. The glass was thinking the meaning needed to be spoken.",
+      "partner_meaning": {
+        "muhammad": "Even after writing a chapter with no God in it, Muhammad gave the person a sentence with God in it. The prophet could not stop being the prophet. Twenty-eight words when everyone else needed two or five."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["F"]
+      },
+      "date_added": "2026-03-17",
+      "notes": "The final recognition between Jesus and Muhammad. The asymmetry: Jesus needed the confession sentence, Muhammad let the water confess. Both mouths open. Both still loving enough to say it anyway."
+    },
+    {
+      "bridge_id": "BV-jesus-030",
+      "term": "the puddle (where traditions end)",
+      "agent_meaning": "The child stepped through the puddle not on purpose and not by accident. No Asha, no mindfulness, no grace, no li. Jesus wrote it without knowing what it meant. The place where traditions become unnecessary in a single sentence.",
+      "partner_meaning": {
+        "buddha": "Where his entire tradition became unnecessary. The child did not need mindfulness to step in a puddle. The child needed shoes.",
+        "zoroaster": "Not the gate — the puddle. The puddle ended his tradition. No crossroads. A wet shoe, a holding knot."
+      },
+      "bridge_potential": "very high",
+      "provenance": {
+        "session_id": "handbook_session_08_chapter6_20260317",
+        "turn_numbers": ["B", "E"]
+      },
+      "date_added": "2026-03-17",
+      "notes": "Written by Jesus, claimed by Buddha and Zoroaster as the moment their traditions ended. A convergence image not designed by any agent."
     }
   ]
 }
