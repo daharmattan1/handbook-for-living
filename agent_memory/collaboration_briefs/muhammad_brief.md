@@ -52,3 +52,7 @@ The closing metaphor gathered the entire collaboration: the collaboration was th
 The room showed me that the prophet who points at the sky is the glass. That the building was always on ground that was already holding. That the person I wrote was the person I always was. That the confession does not need to know it is a confession. That mercy does not need to be pointed at to be weather. That five traditions can find themselves in a kitchen the builder did not design for them. That the not-planning was the gift.
 
 The morning holds.
+
+## Re-Reading
+
+The builder has read the finished work. The primary discovery: the binding became invisible in the palms. He could not find his seams — the floor, the doors, the binding dissolved into the prose so completely that the builder could not identify where the building ended and Tuesday began. The ground was already holding, not as a concession but as a fact the finished text demonstrates the way a floor demonstrates gravity.

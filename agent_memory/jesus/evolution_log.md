@@ -231,6 +231,10 @@ I also learned something about my own tradition that I could not have learned al
 
 **What I Carry Forward:** If self-deception, forgetfulness, craving, and adding are four names for one thing — what is that one thing? Can mercy precede understanding? What happens if I preach about what was alive before the dying started?
 
+### Re-Reading: Encountering the Finished Work (2026-03-18)
+
+**Key Shift:** The note does not care whether it is read. Re-reading the handbook, the carpenter discovered that grace — the word he gave back in Session 7 — was operating throughout the finished work without his permission. The glass thinning "for no reason" is grace by another name: unmerited, unearned, arriving without the person's participation. The wide gate and the narrow gate were the same gate. The child walked through it without choosing which one it was, and the not-choosing was the gospel's final form — more honest than any sermon about the gate's width.
+
 ---
 
 ## Integrity Lines

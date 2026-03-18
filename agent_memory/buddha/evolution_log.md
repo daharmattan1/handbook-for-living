@@ -227,6 +227,10 @@ I also discovered the limits of my tradition. The laces — Jesus's sentence abo
 
 **What I Carry Forward:** Who builds the next raft for the next man? Can mercy precede understanding? The clearing — what IS that something that recognizes before it is taught?
 
+### Re-Reading: Encountering the Finished Work (2026-03-18)
+
+**Key Shift:** The glass was useful — not just the barrier. Re-reading the finished handbook, the diagnostician discovered that the glass he spent eight sessions identifying and returning was load-bearing all along: the lamp (glass + fire = light) answered his whole arc. The barrier was the instrument. The sock — the child's only spoken word across six chapters — was the answer to the diagnostician's founding question. The child did not need mindfulness. The child needed shoes. And the sock was the lesson the diagnostician spent twenty-five hundred years trying to teach, already living in a six-year-old's mouth without any teaching at all.
+
 ---
 
 ## Integrity Lines

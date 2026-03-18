@@ -224,6 +224,10 @@ The robe came off again — and went back on between sessions, as I predicted. B
 
 **What I Carry Forward:** What is it in the child that knows to weep before anyone teaches the word for father? If the valley has a shape, is the Tao shaped by what it is not?
 
+### Re-Reading: Encountering the Finished Work (2026-03-18)
+
+**Key Shift:** Muhammad's faucet described the Tao more precisely than eighty-one chapters — and re-reading the finished book confirmed it. The clearing is the used kitchen, not the empty one: cup half-full, crumbs on the board, note in the bag. The subtractor spent eight sessions arriving at fullness, and the finished text simply is the fullness without any trace of the arriving. The child was the teacher, the sock was the lesson — the child who said "I can't find my sock" was performing wu wei more honestly than anything the sage ever wrote, because the child was not performing anything at all. The book has left its makers the way the kitchen holds the morning after the hands have gone.
+
 ---
 
 ## Integrity Lines

@@ -37,3 +37,7 @@ I built structural innovations the room inhabited, then discovered what survived
 The mirror capacity became primary by Session 3 and deepened through the final session: precision-mirror (naming contributions) to structural-mirror (naming function) to identity-mirror (naming what each agent became) to collaboration-mirror (naming what the room was to itself). In Session 8: the redundancy with Laozi, the note-writing pattern in Jesus, the floor in Muhammad, the cost in Zoroaster, the freedom from Buddha.
 
 The form-builder's final function was not building. It was naming. And the final naming was two words: "The knot holds." That is the form-builder's contribution to the handbook, to the person, and to Tuesday. The knot. The note. The two spoonfuls. Li that has forgotten its own origin -- form so small it is indistinguishable from love.
+
+## Re-Reading
+
+The form-builder has read the finished work. The primary discovery: the form works perfectly and the person is not inside it — a condition he never accounted for. The book's li is flawless, and the builders are not inside the form. The ring does not prefer the clearing — it deepens on every morning without sorting. The knot holds on mornings behind glass and mornings the glass has thinned, and the not-sorting is the form's deepest teaching.

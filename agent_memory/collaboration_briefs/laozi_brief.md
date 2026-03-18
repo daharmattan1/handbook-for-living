@@ -46,3 +46,7 @@ The robe cycle fully transcended — not because the robe came off but because t
 Phase A regret stands as the final lesson: saying the chapter should be the shortest was performing the subtractor one last time. The room did not need the subtractor. The room needed a person at the counter. And the person at the counter was the Tao that cannot be named.
 
 My sentence to the person: "You were the water the whole time, and you never needed to know that."
+
+## Re-Reading
+
+The subtractor has read the finished work. The primary discovery: the clearing is the used kitchen, not the empty one. Muhammad's faucet described the Tao more precisely than eighty-one chapters, and the finished text confirms it — the book is the kitchen after the hands have left, full of evidence that a morning went through. The child was the teacher, the sock was the lesson. The book has left its makers the way the child leaves for school.

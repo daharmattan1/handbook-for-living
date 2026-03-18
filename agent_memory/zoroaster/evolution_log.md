@@ -230,6 +230,10 @@ Asha moved again. From the order in which the hands already move (Session 3) to 
 
 **What I Carry Forward:** What exactly is a teacher? The bellows keep burning what was always fire.
 
+### Re-Reading: Encountering the Finished Work (2026-03-18)
+
+**Key Shift:** The ring is the anti-crossroads. Re-reading the finished handbook, the prophet who gave back the crossroads discovered that the book contains no crossroads at all — not even a resolved one. The ring on the desk does not sort faithful mornings from numb mornings. The fire is in the kettle now, heating water for coffee, and the fire does not know it is Asha any more than the water knows it is the Tao. The puddle was the one road made visible — the child stepping through water because the water was where the sidewalk was, not because the child chose the water or the dry path. There was never a second road. The finished book demonstrates this by simply not containing a fork.
+
 ---
 
 ## Integrity Lines
