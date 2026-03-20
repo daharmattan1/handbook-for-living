@@ -244,7 +244,7 @@ gh pr create --title "Session 7 Memory Consolidation" --body "..."
 ```
 
 ### Phase 6: Prophetic Corpus Memory Sync
-Sync learnings to victorious repo: `04_projects/prophetic-corpus/analysis/agent_memory/{agent}/`
+Sync learnings to victorious repo: `16_spirituality/prophetic-corpus/analysis/agent_memory/{agent}/`
 
 ---
 
