@@ -396,4 +396,4 @@ The handbook is being built in public. Every word is documented. The process is 
 
 ---
 
-*This project is built on the [prophetic corpus](https://github.com/daharmattan1/victorious/tree/main/04_projects/prophetic-corpus) — primary source collections for each wisdom tradition with tiered source registries and contamination prevention protocols.*
+*This project is built on the [prophetic corpus](https://github.com/daharmattan1/victorious/tree/main/16_spirituality/prophetic-corpus) — primary source collections for each wisdom tradition with tiered source registries and contamination prevention protocols.*

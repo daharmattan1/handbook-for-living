@@ -33,7 +33,7 @@
    - Agent memory updates (`agent_memory/{agent}/learnings/session_06_chapter4.md`)
    - Narrative updates (process narrative, evolution index, convergences)
    - Collaboration brief regeneration
-   - Prophetic corpus memory sync (victorious repo: `04_projects/prophetic-corpus/analysis/agent_memory/`)
+   - Prophetic corpus memory sync (victorious repo: `16_spirituality/prophetic-corpus/analysis/agent_memory/`)
    - Git: commit, push, PR
 
 ---
@@ -139,7 +139,7 @@ Regenerate all 6 briefs at `agent_memory/collaboration_briefs/{agent}_brief.md` 
 
 ### 2g. Prophetic Corpus Memory Sync
 
-Sync learnings to victorious repo: `04_projects/prophetic-corpus/analysis/agent_memory/{agent}/`
+Sync learnings to victorious repo: `16_spirituality/prophetic-corpus/analysis/agent_memory/{agent}/`
 
 ---
 

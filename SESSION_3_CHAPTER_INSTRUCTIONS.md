@@ -559,7 +559,7 @@ The agents are no longer deciding how to write. They are writing.
 After chapter session + consolidation, sync key learnings back to the victorious repo:
 
 ```
-04_projects/prophetic-corpus/analysis/agent_memory/{agent}/
+16_spirituality/prophetic-corpus/analysis/agent_memory/{agent}/
 ```
 
 Update: evolution_log.md, learnings files, fact JSONs. These agents are the SAME agents — their handbook learnings feed back into their global memory.
