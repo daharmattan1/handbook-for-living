@@ -8,7 +8,7 @@
 
 ## Current State (Read This First)
 
-**Repository:** `C:\Users\victor\claude-code-repos\handbook-for-living`
+**Repository:** `handbook-for-living/` (this repository)
 **Branch:** `session-6-chapter-4`
 **Transcript:** `sessions/06_chapter4_live_transcript.md` (667 lines)
 **Orchestrator state:** `sessions/06_chapter4_orchestrator_state.md`
@@ -60,7 +60,7 @@ Each agent needs:
 ### Neutral Nudge (Same for Both)
 
 ```
-The transcript is at: C:\Users\victor\claude-code-repos\handbook-for-living\sessions\06_chapter4_live_transcript.md
+The transcript is at: sessions/06_chapter4_live_transcript.md
 
 Read the full transcript including Phase F mirrors already written. Write your cross-agent mirror feedback for all five other voices. For each: what surprised you? What did they see in you that you did not see in yourself?
 
@@ -232,4 +232,4 @@ All 25 rules from Sessions 2-5 apply. Key ones for this completion:
    - Primary: `.claude/skills/wisdom/`
    - Legacy: `.claude/skills/prophetic-analysis/`
 
-3. **Agent memory lives in handbook repo**, not victorious. The `agent_memory/` directory at `C:\Users\victor\claude-code-repos\handbook-for-living\agent_memory\` has 6 agent subdirectories + `collaboration_briefs/` + `synthesis/`.
+3. **Agent memory lives in handbook repo**, not victorious. The `agent_memory/` directory at `agent_memory/` has 6 agent subdirectories + `collaboration_briefs/` + `synthesis/`.

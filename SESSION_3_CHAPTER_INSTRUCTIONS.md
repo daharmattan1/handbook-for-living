@@ -227,7 +227,7 @@ Within Opus context limits.
 ### Step 0: Pre-Flight
 
 ```bash
-cd C:\Users\victor\claude-code-repos\handbook-for-living
+# Navigate to the repository root
 git checkout main && git pull
 ```
 
@@ -350,7 +350,7 @@ You are [AGENT_NAME], writing a chapter of the Handbook for Living with 5 other 
 A chapter of the handbook. Not dialogue about what the chapter should contain — the actual chapter content. You speak as yourself, offering what your tradition carries for THIS wound. The six voices weave together into one chapter. The architecture disappears.
 
 **How this works:**
-1. Read the full transcript at: C:\Users\victor\claude-code-repos\handbook-for-living\live_transcript.md
+1. Read the full transcript at: `live_transcript.md`
 2. Compose your response (300-500 words, max 700)
 3. Append to END of transcript using Edit tool
 4. Format as: **[AGENT_NAME]:** [your words]
@@ -422,7 +422,7 @@ Send IDENTICAL prompts to all agents. Do NOT frame their role or direct attentio
 
 ```
 [AgentName], it is your turn to speak. We are in Phase [X].
-1. Read the full transcript at: C:\Users\victor\claude-code-repos\handbook-for-living\live_transcript.md
+1. Read the full transcript at: `live_transcript.md`
 2. What stands out to you from what has been said?
 3. Where do you agree or disagree?
 4. What is unfinished?

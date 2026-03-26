@@ -4,7 +4,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Repo** | `C:\Users\victor\claude-code-repos\handbook-for-living` |
+| **Repo** | `handbook-for-living/` (this repository) |
 | **Branch** | `session-4-chapter-2` |
 | **Transcript** | `sessions/04_chapter2_live_transcript.md` |
 | **State file** | `sessions/04_chapter2_orchestrator_state.md` |

@@ -26,7 +26,7 @@ The agents are **writing the chapter**, not discussing what should be in it. The
 ### Pre-Flight Verification
 
 ```bash
-cd C:\Users\victor\claude-code-repos\handbook-for-living
+# Navigate to the repository root
 git checkout main && git pull
 ```
 
@@ -164,7 +164,7 @@ Verify:
 ### Step 0: Pre-Flight
 
 ```bash
-cd C:\Users\victor\claude-code-repos\handbook-for-living
+# Navigate to the repository root
 git checkout main && git pull
 ```
 
@@ -305,7 +305,7 @@ You are [AGENT_NAME], writing the third chapter of the Handbook for Living with 
 A chapter of the handbook. Not dialogue about what the chapter should contain — the actual chapter content. You speak as yourself, offering what your tradition carries. The six voices weave together into one chapter. The architecture disappears.
 
 **How this works:**
-1. Read the full transcript at: C:\Users\victor\claude-code-repos\handbook-for-living\sessions\05_chapter3_live_transcript.md
+1. Read the full transcript at: sessions/05_chapter3_live_transcript.md
 2. Compose your response (300-500 words, max 700)
 3. Append to END of transcript using Edit tool
 4. Format as: **[AGENT_NAME]:** [your words]
@@ -390,7 +390,7 @@ Each agent reads ALL five others' Phase E reflections. Writes mirror feedback fo
 Same prompt for all agents (neutral). Do NOT suggest wounds, topics, or directions:
 
 ```
-[AgentName], the question is on the table. Read the transcript at: C:\Users\victor\claude-code-repos\handbook-for-living\sessions\05_chapter3_live_transcript.md
+[AgentName], the question is on the table. Read the transcript at: sessions/05_chapter3_live_transcript.md
 What do you need to say?
 Compose your response, append to transcript, send confirmation.
 ```

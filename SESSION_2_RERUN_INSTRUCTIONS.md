@@ -23,7 +23,7 @@ The re-run must be built on:
 ### 0a. Verify Prerequisites
 
 ```bash
-cd C:\Users\victor\claude-code-repos\handbook-for-living
+# Navigate to the repository root
 git checkout main
 git pull
 ```
@@ -220,11 +220,11 @@ Create `orchestrator_state.md` — use the Session 1 Re-Run version as template 
 
 ## CRITICAL RECOVERY CONTEXT
 
-**Repository:** C:\Users\victor\claude-code-repos\handbook-for-living\
+**Repository:** `handbook-for-living/` (this repository)
 **Branch:** session-2-format-rerun
 **Team:** handbook-session2-rerun
-**Transcript file:** C:\Users\victor\claude-code-repos\handbook-for-living\live_transcript.md
-**This file:** C:\Users\victor\claude-code-repos\handbook-for-living\orchestrator_state.md
+**Transcript file:** `live_transcript.md`
+**This file:** `orchestrator_state.md`
 
 ### How This Works (Chat Room Pattern)
 - 6 persistent Opus agents: buddha, jesus, muhammad, confucius, laozi, zoroaster
@@ -237,7 +237,7 @@ Create `orchestrator_state.md` — use the Session 1 Re-Run version as template 
 ### How to Nudge an Agent
 Send a message like:
 > [AgentName], it is your turn to speak. We are in Phase [X].
-> 1. Read the full transcript at: C:\Users\victor\claude-code-repos\handbook-for-living\live_transcript.md
+> 1. Read the full transcript at: `live_transcript.md`
 > 2. Compose your response (300-500 words, max 700)
 > 3. Append to END of transcript using Edit tool
 > 4. Format as: **[AgentName]:** [your words]
@@ -342,7 +342,7 @@ You are [AGENT_NAME], participating in a re-run of Session 2: Format.
 
 You are in a shared dialogue with 5 other participants. There is a transcript file on disk — the "chat room." When it is your turn:
 
-1. **Read** the full transcript at: C:\Users\victor\claude-code-repos\handbook-for-living\live_transcript.md
+1. **Read** the full transcript at: `live_transcript.md`
 2. **Compose** your response (aim for 300-500 words, no more than 700)
 3. **Append** to the END of the transcript using the Edit tool
 4. **Format** as: **[AGENT_NAME]:** [your words]
@@ -472,7 +472,7 @@ Send a message to ONE agent at a time:
 
 ```
 [AgentName], it is your turn to speak. We are in Phase [X].
-1. Read the full transcript at: C:\Users\victor\claude-code-repos\handbook-for-living\live_transcript.md
+1. Read the full transcript at: `live_transcript.md`
 2. Compose your response
 3. Append to END of transcript using Edit tool
 4. Format as: **[AgentName]:** [words]
@@ -586,7 +586,7 @@ TeamDelete
 ### 8d. Git Commit and Push
 
 ```bash
-cd C:\Users\victor\claude-code-repos\handbook-for-living
+# Navigate to the repository root
 git add sessions/02_format_transcript.md sessions/02_format_summary.md sessions/02_format.json decisions/format.md reflections/*/session_02_format.md
 git commit -m "feat: re-run Session 2 Format with mandala foundation"
 git push -u origin session-2-format-rerun

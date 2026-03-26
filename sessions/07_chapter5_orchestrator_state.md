@@ -1,7 +1,7 @@
 # Session 7: Chapter 5 — Orchestrator State
 
 **Recovery Context:**
-- Repository: `C:\Users\victor\claude-code-repos\handbook-for-living`
+- Repository: `handbook-for-living/` (this repository)
 - Branch: `session-7-chapter-5`
 - Team name: `handbook-chapter-5`
 - Transcript: `sessions/07_chapter5_live_transcript.md`
