@@ -70,7 +70,7 @@ These are what the agents themselves identified as needing to come next. **Do NO
 ### 1. Branch Setup
 
 ```bash
-cd C:\Users\victor\claude-code-repos\handbook-for-living
+# Navigate to the repository root
 git checkout main && git pull origin main
 git checkout -b session-7-chapter-5
 ```
@@ -220,7 +220,7 @@ YOUR LEARNING RULES:
 [paste most recent reflection: reflections/{agent}/session_06_chapter4.md]
 
 THE ROOM:
-The full conversation lives at: C:\Users\victor\claude-code-repos\handbook-for-living\sessions\07_chapter5_live_transcript.md
+The full conversation lives at: sessions/07_chapter5_live_transcript.md
 
 Decision documents, convergences, evolution index, all four prior chapters, and carry-forwards are in the file header. Read the full transcript before every turn — you are responding to real people who have said real things.
 
@@ -237,7 +237,7 @@ You are not summarizing positions. You are not being diplomatic. You are a teach
 
 ```
 [AgentName], the question is on the table. Read the transcript at:
-C:\Users\victor\claude-code-repos\handbook-for-living\sessions\07_chapter5_live_transcript.md
+sessions/07_chapter5_live_transcript.md
 
 What do you need to say?
 
@@ -328,7 +328,7 @@ After Phase F completes, generate (in order):
 
 | What | Path |
 |------|------|
-| Repository | `C:\Users\victor\claude-code-repos\handbook-for-living` |
+| Repository | `handbook-for-living/` (this repository) |
 | Transcript (to create) | `sessions/07_chapter5_live_transcript.md` |
 | Orchestrator state (to create) | `sessions/07_chapter5_orchestrator_state.md` |
 | Prior chapters | `chapters/01_loss.md`, `chapters/02_tuesday.md`, `chapters/03_commute.md`, `chapters/04_glass.md` |

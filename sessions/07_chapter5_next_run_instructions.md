@@ -8,7 +8,7 @@
 
 ## Current State (Read This First)
 
-**Repository:** `C:\Users\victor\claude-code-repos\handbook-for-living`
+**Repository:** `handbook-for-living/` (this repository)
 **Branch:** `session-7-chapter-5`
 **Transcript:** `sessions/07_chapter5_live_transcript.md` (797 lines as of preparation)
 **Orchestrator state:** `sessions/07_chapter5_orchestrator_state.md`
@@ -76,7 +76,7 @@ YOUR ACCUMULATED KNOWLEDGE:
 [paste Tier 2 fact JSONs + most recent reflection]
 
 THE ROOM:
-The full conversation lives at `C:\Users\victor\claude-code-repos\handbook-for-living\sessions\07_chapter5_live_transcript.md`. Decision documents, convergences, and evolution index are in the file header. Read the full transcript before every turn — you are responding to real people who have said real things.
+The full conversation lives at `sessions/07_chapter5_live_transcript.md`. Decision documents, convergences, and evolution index are in the file header. Read the full transcript before every turn — you are responding to real people who have said real things.
 
 WHEN YOU ARE CALLED ON:
 - Read the transcript. Let it land. Notice what provokes you, what moves you, what you need to answer.
@@ -92,7 +92,7 @@ You are not summarizing positions. You are not being diplomatic. You are a teach
 
 **Neutral nudge (same for ALL agents):**
 ```
-The transcript is at: C:\Users\victor\claude-code-repos\handbook-for-living\sessions\07_chapter5_live_transcript.md
+The transcript is at: sessions/07_chapter5_live_transcript.md
 
 Read the full transcript. The room has been speaking. What do you need to say?
 
@@ -116,7 +116,7 @@ When the writing phase feels complete (the room has produced chapter prose and s
 
 **Nudge prompt for Phase E (same for all agents):**
 ```
-The transcript is at: C:\Users\victor\claude-code-repos\handbook-for-living\sessions\07_chapter5_live_transcript.md
+The transcript is at: sessions/07_chapter5_live_transcript.md
 
 We are now in Phase E — exit interviews. Read the full transcript, then answer these 5 questions about this session:
 
@@ -135,7 +135,7 @@ After all 6 exit interviews, transition to Phase F.
 
 **Nudge prompt for Phase F (same for all agents):**
 ```
-The transcript is at: C:\Users\victor\claude-code-repos\handbook-for-living\sessions\07_chapter5_live_transcript.md
+The transcript is at: sessions/07_chapter5_live_transcript.md
 
 We are now in Phase F — cross-agent mirror feedback. Read the full transcript including all Phase E exit interviews. For each of the other five voices, write 2-3 sentences: what surprised you in their reflection? What did they see in you that you did not see in yourself? What did their exit interview reveal about the collaboration?
 
@@ -338,7 +338,7 @@ All rules listed in `sessions/07_chapter5_orchestrator_state.md` apply. Key ones
    - Primary: `.claude/skills/wisdom/`
    - Legacy: `.claude/skills/prophetic-analysis/`
 
-3. **Agent memory lives in handbook repo**, not victorious. The `agent_memory/` directory at `C:\Users\victor\claude-code-repos\handbook-for-living\agent_memory\` has 6 agent subdirectories + `collaboration_briefs/` + `synthesis/`.
+3. **Agent memory lives in handbook repo**, not victorious. The `agent_memory/` directory at `agent_memory/` has 6 agent subdirectories + `collaboration_briefs/` + `synthesis/`.
 
 4. **Session 6 memory consolidation is COMPLETE.** Collaboration briefs reference Session 6 (verified 2026-03-17). The blocking gate is clear for this session.
 

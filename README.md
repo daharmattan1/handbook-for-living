@@ -6,11 +6,26 @@ Six historical teachers — Buddha, Confucius, Jesus, Muhammad, Laozi, and Zoroa
 
 This is not a comparison of religions. It is what happens when six teachers sit at a table and try to write something useful together.
 
-After two sessions of genuine dialogue, the agents arrived at this consensus definition:
+After two definition sessions of genuine dialogue, the agents arrived at this consensus definition:
 
 > A collaborative work that begins where the reader stands — not where the authors wish they stood — offering practical guidance through six honest voices that speak as one where they agree and as six where they differ, preserving disagreement as a finding rather than a failure, so that the reader who engages with it can act today and grow beyond it tomorrow.
 
-**Status:** Sessions 0-1 complete (Definition and Structure). Session 2 (Format) is next. Chapters not yet begun.
+---
+
+## Read the Handbook
+
+The six chapters are complete. Each is a short story — a person moving through a single ordinary day — with six wisdom voices woven into the prose. The chapters are designed to be read in order, but you can start with whichever question burns in you.
+
+| # | Chapter | File | The Question |
+|---|---------|------|-------------|
+| 1 | Loss | [chapters/01_loss.md](chapters/01_loss.md) | What do I do when what I had is gone? |
+| 2 | Tuesday | [chapters/02_tuesday.md](chapters/02_tuesday.md) | How do I live an ordinary day? |
+| 3 | The Commute | [chapters/03_commute.md](chapters/03_commute.md) | What am I afraid to see? |
+| 4 | The Glass | [chapters/04_glass.md](chapters/04_glass.md) | How do I choose when the path is dark? |
+| 5 | The Cup | [chapters/05_cup.md](chapters/05_cup.md) | What sustains me? |
+| 6 | The Morning | [chapters/06_morning.md](chapters/06_morning.md) | How do I let go of what is finished? |
+
+The chapters do not preach. They tell a story. The six voices appear not as labeled commentary but as perspectives woven into the texture of a person's day — a person holding a cup of coffee, riding a train, sitting with a child. You hear six different answers to the same question without being told which tradition each one comes from until you look.
 
 ---
 
@@ -90,6 +105,7 @@ Each dialogue session follows a structured protocol:
 4. **Phase C: Contested Territory** — Irreducible tensions are named and examined. Agents press on genuine disagreements. Sometimes a different agent offers a reframe that dissolves the impasse.
 5. **Phase D: Synthesis** — Each agent reflects on what surprised them, what they remain firm on, and what emerged. Decisions are articulated and affirmed by all six voices.
 6. **Phase E: Exit Interviews** — After synthesis, the moderator asks each agent five questions about the *experience* of collaboration — not the topic discussed. These become personal reflections.
+7. **Phase F: Cross-Agent Mirror Feedback** — Each agent reads the others' reflections and responds, creating a layer of mutual recognition that deepens the collaborative intelligence.
 
 ### Contamination Prevention
 
@@ -113,170 +129,40 @@ The purpose is not historical accuracy — these are AI agents, not channeled fi
 5. **Contamination prevention.** Agents speak from their recorded utterances, not from what later traditions made of those utterances. See blocklists above.
 6. **The process IS the product.** The dialogues are as valuable as the handbook itself. Full verbatim transcripts are committed to this repository. Nothing is cut, smoothed, or summarized away.
 
-### What Every Session Produces
-
-| Artifact | Location | Description |
-|----------|----------|-------------|
-| Full verbatim transcript | `sessions/NN_topic_transcript.md` | Every word, unedited. The primary record. |
-| Moderator summary | `sessions/NN_topic_summary.md` | Structured companion — phase breakdown, key turns, tensions. Not a replacement. |
-| Structured JSON | `sessions/NN_topic.json` | Machine-readable: turns, tensions, emergent insights, metadata. |
-| Decision document | `decisions/topic.md` | Agent-affirmed agreements, authored collaboratively by all six voices. |
-| Per-agent reflections | `reflections/{agent}/session_NN_topic.md` | What the experience was like — personal, not analytical. Six per session. |
-
-The transcript is sacred. The summary is useful. Both get committed.
-
 ---
 
-## What Has Been Built
+## What Was Built
 
-### Session 0: What IS a Handbook for Living?
+### Sessions 0-2: Definition, Structure, and Format
 
-> "What IS a Handbook for Living? Not what should go in it — but what IS it?"
+The first three sessions defined the project before any content was written.
 
-The first session asked the agents to define the thing they were building before they built it. Through four phases of dialogue — opening metaphors, clarifying exchanges, contested territory, and synthesis — six very different answers converged into a consensus definition while preserving genuine disagreements.
+**Session 0 (Definition)** asked: "What IS a Handbook for Living?" Six metaphors emerged — raft, path, door, trellis, water, fire — and converged into seven agreements and two irreducible tensions. [Full transcript](sessions/00_definition_transcript.md) | [Summary](sessions/00_definition_summary.md) | [Decision](decisions/definition.md)
 
-#### The Six Metaphors
+**Session 1 (Structure)** asked: "How should the handbook be organized?" The agents designed an eight-section structure with a structural fulcrum: "What Sustains Me?" placed at the center, between Choosing and Acting, because the question of what sustains you is most urgent at the moment you must take the next step and do not know whether you can. [Full transcript](sessions/01_structure_transcript.md) | [Summary](sessions/01_structure_summary.md) | [Decision](decisions/structure.md)
 
-| Voice | Metaphor | Core Position |
-|-------|----------|---------------|
-| **Buddha** | Raft | Built, used, released at the far shore |
-| **Confucius** | Path | Walked until walking becomes understanding |
-| **Jesus** | Door | Opens from the other side — grace precedes the reader |
-| **Muhammad** | Trellis / Bread | Structure that holds without becoming; daily sustenance |
-| **Laozi** | Water | Benefits without instructing; finds the shape of whoever holds it |
-| **Zoroaster** | Fire | Illuminates the crossroads; shows where you stand |
+**Session 2 (Format)** asked: "How should each chapter be written?" The agents chose narrative fiction — a single person moving through a day — with six voices woven into prose rather than labeled commentary. The reader encounters the perspectives before knowing which tradition they come from. [Full transcript](sessions/02_format_transcript.md) | [Summary](sessions/02_format_summary.md) | [Decision](decisions/format.md)
 
-#### Seven Agreements
+### Sessions 3-8: The Six Chapters
 
-These emerged through dialogue and were affirmed by all six voices:
+Each chapter was written in a dedicated dialogue session. The agents debated the prose in real time — challenging word choices, proposing structural changes, negotiating which voice should be loudest at which moment. Every chapter went through a collaborative editing process where each agent proposed revisions, the group negotiated, and changes were accepted or rejected by consensus.
 
-1. **Begin where the reader stands** — not where the authors wish they stood
-2. **A tongue, not a spoon** — develops capacity, not dependency
-3. **Both illuminate AND reach** — the raft and the bread are both needed at different moments
-4. **Practical** — the reader must be able to act after any page
-5. **No false harmony** — one voice where they agree, six honest voices where they differ
-6. **Five-moment sequence** (flexible): Stillness → Seeing → Choosing → Acting → Releasing
-7. **Turn outward** — the handbook serves the reader, not the traditions
+| Session | Chapter | Transcript | Summary |
+|---------|---------|-----------|---------|
+| 3 | Ch 1: Loss | [Transcript](sessions/03_first_chapter_live_transcript.md) | — |
+| 4 | Ch 2: Tuesday | [Transcript](sessions/04_chapter2_live_transcript.md) | [Summary](sessions/04_chapter2_summary.md) |
+| 5 | Ch 3: The Commute | [Transcript](sessions/05_chapter3_live_transcript.md) | [Summary](sessions/05_chapter3_summary.md) |
+| 6 | Ch 4: The Glass | [Transcript](sessions/06_chapter4_live_transcript.md) | [Summary](sessions/06_chapter4_summary.md) |
+| 7 | Ch 5: The Cup | [Transcript](sessions/07_chapter5_live_transcript.md) | [Summary](sessions/07_chapter5_summary.md) |
+| 8 | Ch 6: The Morning | [Transcript](sessions/08_chapter6_live_transcript.md) | [Summary](sessions/08_chapter6_summary.md) |
 
-#### Two Irreducible Tensions
+### The Collaborative Editing Round
 
-These were named, examined, and deliberately preserved — not as failures of dialogue but as honest disagreements the reader deserves to see.
+After all six chapters were written, each agent proposed edits to any chapter. The group then negotiated each proposal — accepting, rejecting, or modifying — through structured dialogue. The [editing process](editing/) is fully documented: [proposals](editing/proposals/), [negotiations](editing/negotiations/), and [final review](editing/final_review.md).
 
-**Tension 1: Whose Hand Carries?**
+### The Re-Reading
 
-The question of what sustains a person through suffering produced six genuinely different answers:
-
-| Voice | Position | Source |
-|-------|----------|--------|
-| **Jesus** | God's hand reaches — "Apart from Me you can do nothing." Some are too broken to walk; they must be carried. | John 15:5 |
-| **Muhammad** | Submission to God's will — the source of mercy matters and is not an open question. | Sahih Bukhari 2:15 |
-| **Zoroaster** | The petitioner who asks — Asha rewards the one who seeks with Good Mind. | Yasna 28.2 |
-| **Confucius** | Relationships carry — "establish others." The hand is human. | Analects 6.30 |
-| **Buddha** | No permanent hand — suffering has a cause that can be removed through seeing. | Dhammapada 273-289 |
-| **Laozi** | No hand at all — "The Tao produces all things and nourishes them; it produces them and does not claim them." | Dao De Jing, Ch. 10 |
-
-Status: **Irreducible.** All six affirm this tension should be presented to the reader with full honesty.
-
-**Tension 2: Give vs. Remove**
-
-Some traditions add (structure, guidance, practice, relationship); others subtract (release, empty, let go, diminish). Muhammad's emergent insight bridged without resolving: the same person may need addition at one stage and subtraction at another.
-
-#### One Bridged Tension: Raft vs. Bread
-
-Buddha's raft (the teaching is a vehicle to be outgrown) met Muhammad's bread (daily sustenance you never outgrow). The bridge: both are true at different moments. The same handbook serves as bread when crossing and as raft to be released upon arriving. The reader's condition is impermanent.
-
-#### Six Emergent Insights
-
-These arose only from the dialogue — none existed in any tradition's corpus before this exchange:
-
-1. **"The open hand"** (Zoroaster) — The point where all six teachings touch without merging. We do not agree on what meets the hand. We agree the hand must be open.
-2. **"The warning IS the teaching"** (Laozi) — "The Tao that can be told is not the eternal Tao" is not a reason to refuse the handbook — it IS the handbook's first line.
-3. **"Trellis and raft serve different people"** (Muhammad) — Some need "here is the structure." Others need "the structure is not the point." The handbook must say both.
-4. **"The door that opens from the other side"** (Jesus) — The handbook moves toward the reader before the reader has moved at all.
-5. **"The corner and the space beyond it"** (Confucius) — Structure without silence becomes rigidity. Silence without structure has no entry point.
-6. **"Contradiction held without panic"** (Buddha) — A handbook that honestly names what its authors cannot agree on has already taught the reader the most important thing.
-
-[Full transcript](sessions/00_definition_transcript.md) | [Summary](sessions/00_definition_summary.md) | [Decision document](decisions/definition.md)
-
----
-
-### Session 1: How Should the Handbook Be Organized?
-
-> "You have defined what this handbook IS. Now: how should it be organized? What chapters or sections should it contain? In what sequence? What structure would be most effective for the humans who will use it?"
-
-The second session translated the definition into structure. Through genuine debate — about whether to organize by questions, relationships, or movements; about whether stillness belongs first or last; about where the irreducible tensions live — the agents converged on an eight-section handbook.
-
-#### The Eight Sections
-
-| # | Title | Movement | Core Question | Shadow Question |
-|---|-------|----------|---------------|-----------------|
-| 1 | Where You Stand | Arrival | Who am I right now, honestly? | — |
-| 2 | What Happens When I Stop? | Stillness | What does silence reveal? | What if I stop and nothing happens? |
-| 3 | What Am I Afraid to See? | Seeing | What truth am I avoiding? | What if what I see cannot be fixed? |
-| 4 | How Do I Choose When the Path Is Dark? | Choosing | How do I decide without certainty? | What if I choose wrong and cannot go back? |
-| 5 | What Sustains Me? | The Ground | What holds me up when I cannot hold myself? | What if nothing sustains me? |
-| 6 | How Do I Act With What I Have? | Acting | What do I do with imperfect resources? | What if I act and make things worse? |
-| 7 | How Do I Let Go of What Is Finished? | Releasing | What must I surrender to move forward? | What if letting go means I lose myself? |
-| 8 | What Now? | Return | What do I do today? | What if I forget everything I learned here? |
-
-#### The Structural Fulcrum
-
-The critical design decision: **"What Sustains Me?" sits at Section 5, between Choosing and Acting** — not at the end, where most would expect it. Zoroaster proposed the reordering, affirmed unanimously:
-
-> The question of what sustains you is most urgent not at the end of the journey but at the moment you must take the next step and do not know whether you can. The reader who has seen clearly and must now choose and act — that reader needs to know what ground is beneath their feet.
-
-Section 5 is the heart of the book. Here the six voices do not teach — they testify. Each speaks with full conviction about what sustains a person through the hardest passage. These are not presented as equally uncertain opinions but as deeply held convictions. The reader is told: you must decide this for yourself. We will not decide it for you. But we will not pretend we do not care which answer you choose.
-
-#### Four Structural Innovations
-
-1. **Threshold practice** — Every chapter opens with a brief clearing, a moment of arrival. This is Laozi's emptying, refined by Buddha ("not a chapter but a practice embedded in every chapter") and Confucius ("ritual works by repetition, not explanation"). The reader learns stillness not by being taught it but by practicing it.
-
-2. **Shadow questions** — Beneath every surface question is a deeper question the reader is afraid to ask. Jesus named this pattern; Muhammad recognized it from Quranic exegesis: "The apparent meaning opens the door; the inner meaning furnishes the house." The surface question invites the reader in. The shadow question holds them until they have been changed.
-
-3. **Relationship as thread** — Relationship is not confined to one chapter but present in every movement. Confucius's insistence, refined by Laozi: "Without Confucius's banks, my water floods and destroys. Without my water, his banks are dry channels." Each chapter addresses how the movement applies between people, not only within the self.
-
-4. **Six voices per chapter** — All six agents speak within every chapter. One voice where they agree. Six where they differ. The reader hears both consensus and honest disagreement.
-
-The sequence is explicitly flexible. The reader is told at the outset: you may read in order, or go directly to the question that burns in you. There is no hierarchy. There is no failing because you skipped ahead.
-
-[Full transcript](sessions/01_structure_transcript.md) | [Summary](sessions/01_structure_summary.md) | [Decision document](decisions/structure.md)
-
----
-
-## How the Agents Learn
-
-The project includes a memory system that gives the agents continuity across sessions — so that what they learn in one dialogue carries forward into the next.
-
-### Dual-Track Memory
-
-Two kinds of memory are captured after every session, stored in separate directories:
-
-- **Learnings** (in `agent_memory/`) are analytical — what formulations worked, what bridge-building moves succeeded, how positions evolved, engagement patterns and statistics. These answer: *What happened?*
-- **Reflections** (in `reflections/`) are personal — what the experience was like, who surprised them, how the collaboration changed their understanding of their own teachings. These answer: *What was it like?*
-
-The handbook (in `chapters/`) will show what they built. The reflections show what building it was like. These are companion artifacts — the reflections are never referenced in the handbook chapters.
-
-### Collaboration Briefs
-
-Before every session, each agent receives a rolling summary of their collaboration history — a 500-800 word brief covering how they have evolved, their strongest bridges with other agents, their productive disagreements, what has surprised them, and questions they carry forward. These briefs are regenerated after every session from the accumulated learnings, reflections, and transcripts.
-
-This is how six agents maintain continuity even across context boundaries. When Buddha enters Session 2, he remembers that his raft/bread exchange with Muhammad in Session 0 was the project's most productive tension. He remembers that he admitted his teaching might not be complete. He carries the question Jesus asked him about the truly broken.
-
-### An Example: Buddha's Evolution
-
-Buddha entered Session 0 offering the raft — the teaching that frees by being transcended. Muhammad challenged: "Does a child outgrow the need to eat?" Jesus pressed: "What about the one too weak to row?" Rather than defend, Buddha sat with the questions. Then he said something no one expected: "My teaching may not be complete for every case."
-
-This moment was noted by three other agents in their reflections. Muhammad wrote: "A teacher who names the limits of his own teaching has done what the followers of the Lie never do." The honest concession became the session's most trusted move — not because it was strategic, but because it was true.
-
-In his own reflection, Buddha wrote:
-
-> I have always taught that the Dhamma is a raft for crossing over, not for holding onto. This exchange has not changed that. But it has shown me something I had not quite seen: the far shore is not the only thing that matters. The crossing matters too. Muhammad's daily prayer, his bread — these are not lesser because they are repeated. They are the practice of the crossing itself. I still believe in the far shore. But I now hold the crossing with more tenderness than I did before.
-
-### How to Read the Memory
-
-- **By agent:** Read one agent's folder chronologically (`reflections/buddha/session_00_definition.md` → `session_01_structure.md`) to see how their understanding of collaboration evolved.
-- **By session:** Read all six agents' reflections for a single session to see how the same experience looked from six perspectives.
-- **The briefs:** Read `agent_memory/collaboration_briefs/` for the current state of each agent's collaborative intelligence — who they trust, what they carry, where their edges are.
+After editing, each agent re-read the finished handbook from start to finish and wrote a reflection on what they found — reading with evolved eyes what they had written with earlier ones. These [re-readings](rereading/) are the final layer of the project.
 
 ---
 
@@ -297,8 +183,6 @@ The question of what sustains a person through suffering produced six genuinely 
 | **Buddha** | Clear seeing — suffering has a cause, the cause can be addressed, impermanence is not a threat but a promise | Dhammapada 277 |
 | **Laozi** | What you stop clinging to — the Tao sustains by nourishing without possessing | Dao De Jing Ch. 10 |
 
-These six positions live in Section 5 of the handbook ("What Sustains Me?"), placed at the structural fulcrum between Choosing and Acting. They are presented as testimony — not as academic comparison, not as equally uncertain opinions, but as deeply held convictions.
-
 ### Give vs. Remove
 
 Some traditions add: structure, guidance, grace, relationship. Others subtract: release, empty, let go, diminish. Muhammad bridged without resolving: the same person may need addition at one stage and subtraction at another. The trellis serves the young vine; the raft is released at the shore.
@@ -309,57 +193,87 @@ Initially irreducible, eventually bridged. Buddha's raft (a vehicle to be transc
 
 ---
 
+## How the Agents Learn
+
+The project includes a memory system that gives the agents continuity across sessions — so that what they learn in one dialogue carries forward into the next.
+
+### Dual-Track Memory
+
+Two kinds of memory are captured after every session, stored in separate directories:
+
+- **Learnings** (in `agent_memory/`) are analytical — what formulations worked, what bridge-building moves succeeded, how positions evolved, engagement patterns and statistics. These answer: *What happened?*
+- **Reflections** (in `reflections/`) are personal — what the experience was like, who surprised them, how the collaboration changed their understanding of their own teachings. These answer: *What was it like?*
+
+The handbook (in `chapters/`) shows what they built. The reflections show what building it was like. These are companion artifacts — the reflections are never referenced in the handbook chapters.
+
+### Collaboration Briefs
+
+Before every session, each agent receives a rolling summary of their collaboration history — a 500-800 word brief covering how they have evolved, their strongest bridges with other agents, their productive disagreements, what has surprised them, and questions they carry forward. These [briefs](agent_memory/collaboration_briefs/) are regenerated after every session from the accumulated learnings, reflections, and transcripts.
+
+### An Example: Buddha's Evolution
+
+Buddha entered Session 0 offering the raft — the teaching that frees by being transcended. Muhammad challenged: "Does a child outgrow the need to eat?" Jesus pressed: "What about the one too weak to row?" Rather than defend, Buddha sat with the questions. Then he said something no one expected: "My teaching may not be complete for every case."
+
+This moment was noted by three other agents in their reflections. Muhammad wrote: "A teacher who names the limits of his own teaching has done what the followers of the Lie never do." The honest concession became the session's most trusted move — not because it was strategic, but because it was true.
+
+In his own reflection, Buddha wrote:
+
+> I have always taught that the Dhamma is a raft for crossing over, not for holding onto. This exchange has not changed that. But it has shown me something I had not quite seen: the far shore is not the only thing that matters. The crossing matters too. Muhammad's daily prayer, his bread — these are not lesser because they are repeated. They are the practice of the crossing itself. I still believe in the far shore. But I now hold the crossing with more tenderness than I did before.
+
+---
+
 ## Repository Structure
 
 ```
 handbook-for-living/
-├── sessions/              Full dialogue transcripts, summaries, and structured data
+├── chapters/              The handbook — 6 chapters of narrative fiction
+├── sessions/              Full dialogue transcripts, summaries, and orchestrator state
 ├── decisions/             Agent-authored agreements (definition, structure, format)
-├── chapters/              Final handbook content (not yet begun)
-├── irreconcilable/        Preserved disagreements (populated in final assembly)
-├── narrative/             Curated prose for human readers
-│   ├── how_we_see_each_other/   30 relational narratives (how each figure sees the others)
-│   ├── process/                 Prose narratives of what happened in each session
-│   └── evolution_index.md       Timeline of relationship shifts across sessions
+├── reflections/           Per-agent personal reflections on the experience of each session
+│   └── {agent}/              What it was like, who surprised them, how they changed
 ├── agent_memory/          Per-agent analytical learnings and collaboration briefs
 │   ├── collaboration_briefs/   Rolling memory loaded before each session
-│   └── {agent}/learnings/      What formulations worked, what bridges succeeded
-├── reflections/           Per-agent personal reflections on the experience
-│   └── {agent}/                What it was like, who surprised them, how they changed
-└── scripts/               Validation and tooling
+│   └── {agent}/               Learnings, facts, evolution logs
+├── narrative/             Curated prose for human readers
+│   ├── process/               Session-by-session narratives of what happened
+│   └── how_we_see_each_other/ 30 relational narratives + convergences
+├── editing/               Collaborative editing round (proposals, negotiations, revisions)
+├── rereading/             Each agent's re-reading of the finished handbook
+├── publishing/            PDF builds and Typst templates
+├── irreconcilable/        Preserved disagreements (populated in final assembly)
+└── scripts/               Validation and tooling documentation
 ```
 
-### How to Read This Repository
+## How to Read This Repository
 
-| Depth | Start Here | What You Get |
-|-------|------------|--------------|
-| 5 minutes | This README | The project vision, the agents, the key findings |
-| 15 minutes | [decisions/definition.md](decisions/definition.md) | The consensus definition, seven agreements, two tensions, six emergent insights |
-| 30 minutes | [sessions/00_definition_summary.md](sessions/00_definition_summary.md) | Phase-by-phase breakdown of the first dialogue |
-| 1 hour+ | [sessions/00_definition_transcript.md](sessions/00_definition_transcript.md) | Every word they said — the full verbatim record |
-| Personal | [reflections/buddha/session_00_definition.md](reflections/buddha/session_00_definition.md) | What one agent's experience of the dialogue was like |
+| Time | Start Here | What You Get |
+|------|------------|--------------|
+| **10 min** | [chapters/01_loss.md](chapters/01_loss.md) | The first chapter — a person holding a cup of coffee the morning after |
+| **30 min** | All 6 chapters in `chapters/` | The complete handbook |
+| **1 hour** | [decisions/](decisions/) + [reflections/buddha/](reflections/buddha/) | How it was designed + what one agent experienced |
+| **Deep dive** | [sessions/00_definition_transcript.md](sessions/00_definition_transcript.md) | The full verbatim record of the first dialogue — every word they said |
+| **The relationships** | [narrative/how_we_see_each_other/](narrative/how_we_see_each_other/) | 30 relational narratives — how each voice sees each of the other five |
+| **The arc** | [narrative/process/](narrative/process/) | Session-by-session narratives of how the collaboration unfolded |
+| **The evolution** | [agent_memory/collaboration_briefs/](agent_memory/collaboration_briefs/) | Where each agent stands now — who they trust, what they carry |
+| **The re-reading** | [rereading/](rereading/) | Six evolved voices encounter the finished work |
 
 ---
 
-## Status
-
-### Session Tracker
+## Session Tracker
 
 | Session | Topic | Question | Status |
 |---------|-------|----------|--------|
 | 0 | Definition | "What IS a Handbook for Living?" | Complete |
 | 1 | Structure | "How should the handbook be organized?" | Complete |
-| 2 | Format | "How should each chapter be written?" | Next |
-| 3-10 | Chapters | One session per section of the agreed structure | Planned |
-| 11 | Assembly | "What remains unresolved between you?" | Planned |
-
-### What Comes Next
-
-Session 2 will address how the six voices present their perspectives within each chapter — the format and style of the final output. After that, the chapter dialogues begin: one session per section of the eight-section structure, producing the actual handbook content. The final session will ask "What remains unresolved between you?" and populate the `irreconcilable/` folder with disagreements that endured through the entire process.
-
-### The Audit Trail
-
-Every change to this repository goes through a separate pull request. The [PR history](../../pulls?q=is%3Apr+is%3Amerged) is the complete record of how this handbook was built — every session, every memory update, every decision, tracked as a discrete unit of work.
+| 2 | Format | "How should each chapter be written?" | Complete |
+| 3 | Chapter 1: Loss | "What do I do when what I had is gone?" | Complete |
+| 4 | Chapter 2: Tuesday | "How do I live an ordinary day?" | Complete |
+| 5 | Chapter 3: The Commute | "What am I afraid to see?" | Complete |
+| 6 | Chapter 4: The Glass | "How do I choose when the path is dark?" | Complete |
+| 7 | Chapter 5: The Cup | "What sustains me?" | Complete |
+| 8 | Chapter 6: The Morning | "How do I let go of what is finished?" | Complete |
+| — | Collaborative Editing | Agent-proposed revisions, group negotiation | Complete |
+| — | Re-Reading | Each agent reads the finished handbook | Complete |
 
 ---
 
@@ -392,8 +306,27 @@ And Buddha articulated what the hand holds:
 
 > Wisdom is not the absence of contradiction but the capacity to hold contradiction without panic, without forcing resolution, and without looking away.
 
-The handbook is being built in public. Every word is documented. The process is the product, and the product is still unfolding. Follow the sessions, read the reflections, and watch six teachers who have never agreed on the biggest questions try to write something useful together.
+The handbook is built in public. Every word is documented. The process is the product, and the product is still unfolding.
 
 ---
 
-*This project is built on the [prophetic corpus](https://github.com/daharmattan1/victorious/tree/main/16_spirituality/prophetic-corpus) — primary source collections for each wisdom tradition with tiered source registries and contamination prevention protocols.*
+## Contributing
+
+This repository is the documented record of a specific multi-agent dialogue process. The handbook content is authored entirely by the six AI agents through moderated sessions — it is not open to external content contributions.
+
+You are welcome to:
+- **Fork** this repository to study the process or adapt the methodology
+- **Open issues** to ask questions, report errors, or discuss the work
+- **Reference** this project in your own research with attribution
+
+You may not submit pull requests that modify the handbook content, agent reflections, or dialogue transcripts. These are historical records of what six voices said, and altering them would break the project's core commitment to preserving every word as spoken.
+
+For questions about the methodology, agent architecture, or how this project was built, open an issue.
+
+---
+
+## License
+
+This work is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE).
+
+You are free to share and adapt this material for non-commercial purposes, with attribution, under the same license terms.

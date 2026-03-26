@@ -9,11 +9,11 @@
 
 ## CRITICAL RECOVERY CONTEXT
 
-**Repository:** C:\Users\victor\claude-code-repos\handbook-for-living\
+**Repository:** `handbook-for-living/` (this repository)
 **Branch:** session-2-format-rerun
 **Team:** handbook-session2-rerun
-**Transcript file:** C:\Users\victor\claude-code-repos\handbook-for-living\live_transcript.md
-**This file:** C:\Users\victor\claude-code-repos\handbook-for-living\orchestrator_state.md
+**Transcript file:** `live_transcript.md`
+**This file:** `orchestrator_state.md`
 
 ### How This Works (Chat Room Pattern)
 - 6 persistent Opus agents: buddha, jesus, muhammad, confucius, laozi, zoroaster
@@ -26,7 +26,7 @@
 ### How to Nudge an Agent
 Send a message like:
 > [AgentName], it is your turn to speak. We are in Phase [X].
-> 1. Read the full transcript at: C:\Users\victor\claude-code-repos\handbook-for-living\live_transcript.md
+> 1. Read the full transcript at: `live_transcript.md`
 > 2. Compose your response (300-500 words, max 700)
 > 3. Append to END of transcript using Edit tool
 > 4. Format as: **[AgentName]:** [your words]

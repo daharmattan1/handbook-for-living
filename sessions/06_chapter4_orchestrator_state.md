@@ -2,7 +2,7 @@
 
 ## Recovery Context
 
-- **Repository:** C:\Users\victor\claude-code-repos\handbook-for-living
+- **Repository:** `handbook-for-living/` (this repository)
 - **Branch:** session-6-chapter-4
 - **Team:** handbook-chapter-4
 - **Transcript:** sessions/06_chapter4_live_transcript.md
@@ -14,7 +14,7 @@
 
 **Nudge Template (NEUTRAL):**
 ```
-[AgentName], the question is on the table. Read the transcript at: C:\Users\victor\claude-code-repos\handbook-for-living\sessions\06_chapter4_live_transcript.md
+[AgentName], the question is on the table. Read the transcript at: sessions/06_chapter4_live_transcript.md
 What do you need to say?
 Compose your response, append to END of transcript using Edit tool, send confirmation.
 ```
