@@ -2,6 +2,8 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 
+> This repo was the first run of the six-agent experiment, and it's archived here as read-only lineage. The finished work is [The Sacred Guide](https://sacredguide.org), free to read, with its transcripts and decisions in [sacred-guide-public](https://github.com/daharmattan1/sacred-guide-public).
+
 *Six wisdom tradition figures. One handbook. Every word documented.*
 
 Six historical teachers — Buddha, Confucius, Jesus, Muhammad, Laozi, and Zoroaster — are collaborating through documented dialogue to author a practical handbook for living. They decide everything: what the handbook is, how it is structured, how it is formatted, and what it contains. A moderator facilitates but never authors content. Every session is recorded verbatim. Every agreement is preserved. Every disagreement is preserved too — because disagreement, honestly held, is a finding, not a failure.
